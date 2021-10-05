@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dsmall" format="2">
+  <advance width="427"/>
+  <unicode hex="1D05"/>
+  <anchor x="158" y="0" name="bottom"/>
+  <anchor x="270" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="-6" y="0" type="line"/>
+      <point x="130" y="0" type="line" smooth="yes"/>
+      <point x="312" y="0"/>
+      <point x="411" y="182"/>
+      <point x="411" y="376" type="curve" smooth="yes"/>
+      <point x="411" y="485"/>
+      <point x="350" y="549"/>
+      <point x="235" y="549" type="curve" smooth="yes"/>
+      <point x="113" y="549" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="104" type="curve" smooth="yes"/>
+      <point x="135" y="104" type="line"/>
+      <point x="210" y="446" type="line"/>
+      <point x="224" y="446" type="line" smooth="yes"/>
+      <point x="265" y="446"/>
+      <point x="286" y="421"/>
+      <point x="286" y="364" type="curve" smooth="yes"/>
+      <point x="286" y="253"/>
+      <point x="239" y="104"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

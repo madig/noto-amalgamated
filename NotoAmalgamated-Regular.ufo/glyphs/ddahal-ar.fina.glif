@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddahal-ar.fina" format="2">
+  <advance width="569"/>
+  <note>
+uni068D.fina
+</note>
+  <anchor x="247" y="-232" name="bottom"/>
+  <anchor x="142" y="613" name="top"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="twodots.below" xOffset="261"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dal-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

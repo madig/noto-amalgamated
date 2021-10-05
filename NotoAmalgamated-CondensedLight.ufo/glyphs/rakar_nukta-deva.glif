@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rakar_nukta-deva" format="2">
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="7" y="-210" name="bottom"/>
+  <anchor x="-25" y="-135" name="bottom_right"/>
+  <outline>
+    <contour>
+      <point x="-131" y="-146" type="line"/>
+      <point x="-12" y="-21" type="line"/>
+      <point x="-21" y="-18" type="line"/>
+      <point x="92" y="-150" type="line"/>
+      <point x="109" y="-135" type="line"/>
+      <point x="-19" y="10" type="line"/>
+      <point x="-152" y="-129" type="line"/>
+    </contour>
+    <contour>
+      <point x="-8" y="-201" type="curve" smooth="yes"/>
+      <point x="10" y="-201"/>
+      <point x="20" y="-189"/>
+      <point x="20" y="-167" type="curve" smooth="yes"/>
+      <point x="20" y="-146"/>
+      <point x="10" y="-133"/>
+      <point x="-8" y="-133" type="curve" smooth="yes"/>
+      <point x="-27" y="-133"/>
+      <point x="-37" y="-146"/>
+      <point x="-37" y="-167" type="curve" smooth="yes"/>
+      <point x="-37" y="-189"/>
+      <point x="-27" y="-201"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

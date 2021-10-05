@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen_yeh-ar.fina.sans" format="2">
+  <advance width="1644"/>
+  <unicode hex="FD18"/>
+  <anchor x="736" y="0" name="caret_1"/>
+  <outline>
+    <component base="seen-ar.medi" xOffset="794"/>
+    <component base="yeh-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>seen-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yeh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

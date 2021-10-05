@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis.orya" format="2">
+  <advance width="888"/>
+  <unicode hex="2026"/>
+  <outline>
+    <component base="period.orya" yOffset="-6"/>
+    <component base="period.orya" xOffset="284" yOffset="-6"/>
+    <component base="period.orya" xOffset="569" yOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>period.orya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>period.orya</string>
+    </dict>
+  </lib>
+</glyph>

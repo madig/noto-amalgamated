@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thstrikethrough.display" format="2">
+  <advance width="776"/>
+  <unicode hex="1D7A"/>
+  <outline>
+    <contour>
+      <point x="-8" y="-145" type="line"/>
+      <point x="5" y="-145" type="line"/>
+      <point x="676" y="760" type="line"/>
+      <point x="663" y="760" type="line"/>
+    </contour>
+    <component base="t" xOffset="11"/>
+    <component base="h" xOffset="288"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yusbig-cy" format="2">
+  <advance width="629"/>
+  <unicode hex="046A"/>
+  <anchor x="259" y="0" name="bottom"/>
+  <anchor x="411" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="94" y="252" type="curve" smooth="yes"/>
+      <point x="-25" y="0" type="line"/>
+      <point x="3" y="0" type="line"/>
+      <point x="123" y="252" type="line" smooth="yes"/>
+      <point x="168" y="346"/>
+      <point x="217" y="384"/>
+      <point x="321" y="384" type="curve" smooth="yes"/>
+      <point x="334" y="384" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="360" y="384" type="line"/>
+      <point x="370" y="384" type="line" smooth="yes"/>
+      <point x="480" y="384"/>
+      <point x="510" y="329"/>
+      <point x="517" y="227" type="curve" smooth="yes"/>
+      <point x="532" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="543" y="227" type="line" smooth="yes"/>
+      <point x="535" y="343"/>
+      <point x="503" y="401"/>
+      <point x="384" y="409" type="curve"/>
+      <point x="652" y="689" type="line"/>
+      <point x="657" y="714" type="line"/>
+      <point x="175" y="714" type="line"/>
+      <point x="170" y="689" type="line"/>
+      <point x="321" y="409" type="line"/>
+      <point x="193" y="408"/>
+      <point x="142" y="353"/>
+    </contour>
+    <contour>
+      <point x="350" y="409" type="line"/>
+      <point x="200" y="689" type="line"/>
+      <point x="616" y="689" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

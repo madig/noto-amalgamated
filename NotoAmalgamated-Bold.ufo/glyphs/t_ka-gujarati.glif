@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_ka-gujarati" format="2">
+  <advance width="835"/>
+  <anchor x="564" y="0" name="bottom"/>
+  <anchor x="564" y="-125" name="bottomleft"/>
+  <anchor x="564" y="0" name="bottomright"/>
+  <anchor x="564" y="71" name="bottomround"/>
+  <anchor x="641" y="592" name="top"/>
+  <anchor x="582" y="592" name="topright"/>
+  <outline>
+    <contour>
+      <point x="226" y="-5" type="curve"/>
+      <point x="287" y="41" type="line"/>
+      <point x="234" y="104"/>
+      <point x="193" y="178"/>
+      <point x="193" y="253" type="curve" smooth="yes"/>
+      <point x="193" y="338"/>
+      <point x="251" y="385"/>
+      <point x="349" y="385" type="curve" smooth="yes"/>
+      <point x="481" y="385" type="line"/>
+      <point x="481" y="517" type="line"/>
+      <point x="297" y="517" type="line" smooth="yes"/>
+      <point x="155" y="517"/>
+      <point x="52" y="437"/>
+      <point x="52" y="309" type="curve" smooth="yes"/>
+      <point x="52" y="184"/>
+      <point x="136" y="79"/>
+    </contour>
+    <contour>
+      <point x="620" y="-7" type="curve" smooth="yes"/>
+      <point x="727" y="-7"/>
+      <point x="790" y="46"/>
+      <point x="790" y="126" type="curve" smooth="yes"/>
+      <point x="790" y="217"/>
+      <point x="697" y="265"/>
+      <point x="625" y="282" type="curve"/>
+      <point x="570" y="267" type="line"/>
+      <point x="600" y="254"/>
+      <point x="628" y="222"/>
+      <point x="628" y="186" type="curve" smooth="yes"/>
+      <point x="628" y="146"/>
+      <point x="598" y="117"/>
+      <point x="539" y="117" type="curve" smooth="yes"/>
+      <point x="478" y="117"/>
+      <point x="426" y="139"/>
+      <point x="379" y="168" type="curve"/>
+      <point x="339" y="113" type="line"/>
+      <point x="416" y="47"/>
+      <point x="502" y="-7"/>
+    </contour>
+    <contour>
+      <point x="423" y="191" type="line"/>
+      <point x="634" y="247" type="line"/>
+      <point x="821" y="286" type="line"/>
+      <point x="753" y="400" type="line"/>
+      <point x="550" y="348" type="line"/>
+      <point x="355" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="559" y="313" type="curve"/>
+      <point x="616" y="328" type="line"/>
+      <point x="584" y="347"/>
+      <point x="560" y="367"/>
+      <point x="560" y="403" type="curve" smooth="yes"/>
+      <point x="560" y="446"/>
+      <point x="595" y="471"/>
+      <point x="652" y="471" type="curve" smooth="yes"/>
+      <point x="681" y="471"/>
+      <point x="706" y="468"/>
+      <point x="726" y="464" type="curve"/>
+      <point x="697" y="600" type="line"/>
+      <point x="672" y="604"/>
+      <point x="645" y="607"/>
+      <point x="609" y="607" type="curve" smooth="yes"/>
+      <point x="497" y="607"/>
+      <point x="418" y="555"/>
+      <point x="418" y="466" type="curve" smooth="yes"/>
+      <point x="418" y="389"/>
+      <point x="488" y="338"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Ligature</string>
+    </dict>
+  </lib>
+</glyph>

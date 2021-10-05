@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphendieresis.serif" format="2">
+  <advance width="344"/>
+  <unicode hex="2E1A"/>
+  <outline>
+    <contour>
+      <point x="42" y="220" type="line"/>
+      <point x="302" y="220" type="line"/>
+      <point x="302" y="325" type="line"/>
+      <point x="42" y="325" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="416" type="curve" smooth="yes"/>
+      <point x="115" y="416"/>
+      <point x="144" y="433"/>
+      <point x="144" y="478" type="curve" smooth="yes"/>
+      <point x="144" y="524"/>
+      <point x="115" y="540"/>
+      <point x="84" y="540" type="curve" smooth="yes"/>
+      <point x="53" y="540"/>
+      <point x="25" y="524"/>
+      <point x="25" y="478" type="curve" smooth="yes"/>
+      <point x="25" y="433"/>
+      <point x="53" y="416"/>
+    </contour>
+    <contour>
+      <point x="260" y="416" type="curve" smooth="yes"/>
+      <point x="290" y="416"/>
+      <point x="319" y="433"/>
+      <point x="319" y="478" type="curve" smooth="yes"/>
+      <point x="319" y="524"/>
+      <point x="290" y="540"/>
+      <point x="260" y="540" type="curve" smooth="yes"/>
+      <point x="228" y="540"/>
+      <point x="200" y="524"/>
+      <point x="200" y="478" type="curve" smooth="yes"/>
+      <point x="200" y="433"/>
+      <point x="228" y="416"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Dash</string>
+    </dict>
+  </lib>
+</glyph>

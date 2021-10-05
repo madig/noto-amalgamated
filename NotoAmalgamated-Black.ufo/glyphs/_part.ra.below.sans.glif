@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.ra.below.sans" format="2">
+  <advance width="530"/>
+  <anchor x="510" y="93" name="_bottom_ra"/>
+  <anchor x="30" y="33" name="horizontal"/>
+  <anchor x="340" y="33" name="stem"/>
+  <anchor x="340" y="113" name="vertical"/>
+  <outline>
+    <contour>
+      <point x="30" y="-107" type="line"/>
+      <point x="510" y="-107" type="line"/>
+      <point x="510" y="113" type="line"/>
+      <point x="340" y="113" type="line"/>
+      <point x="340" y="33" type="line"/>
+      <point x="30" y="33" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>Height</key>
+        <integer>1</integer>
+        <key>Overlap</key>
+        <integer>2</integer>
+        <key>Width</key>
+        <integer>1</integer>
+        <key>Width vertical stem</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Height</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Width</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Overlap</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Width vertical stem</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aa-khoj" format="2">
+  <advance width="1281"/>
+  <unicode hex="11201"/>
+  <note>
+kj_AA
+</note>
+  <anchor x="591" y="528" name="nukta"/>
+  <anchor x="1178" y="613" name="top"/>
+  <outline>
+    <component base="a-khoj"/>
+    <component base="aaMatra-khoj" xOffset="986"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a-khoj</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>a-khoj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaMatra-khoj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

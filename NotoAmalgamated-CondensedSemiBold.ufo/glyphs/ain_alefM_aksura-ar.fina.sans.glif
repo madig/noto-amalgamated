@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ain_alefMaksura-ar.fina.sans" format="2">
+  <advance width="1166"/>
+  <unicode hex="FD13"/>
+  <anchor x="673" y="0" name="caret_1"/>
+  <outline>
+    <component base="ain-ar.medi" xOffset="673"/>
+    <component base="alefMaksura-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ain-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

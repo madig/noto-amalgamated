@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sadThreedots-ar" format="2">
+  <advance width="1338"/>
+  <unicode hex="069E"/>
+  <note>
+uni069E
+</note>
+  <anchor x="939" y="-78" name="bottom"/>
+  <anchor x="962" y="930" name="top"/>
+  <outline>
+    <component base="sad-ar"/>
+    <component base="threedots.above" xOffset="943"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>sad-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

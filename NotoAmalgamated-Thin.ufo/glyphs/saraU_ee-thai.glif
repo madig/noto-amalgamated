@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="saraUee-thai" format="2">
+  <unicode hex="0E37"/>
+  <anchor x="465" y="550" name="_topright"/>
+  <anchor x="465" y="776" name="topright"/>
+  <outline>
+    <contour>
+      <point x="54" y="645" type="line"/>
+      <point x="465" y="645" type="line"/>
+      <point x="465" y="776" type="line"/>
+      <point x="438" y="776" type="line"/>
+      <point x="438" y="668" type="line"/>
+      <point x="383" y="668" type="line"/>
+      <point x="383" y="776" type="line"/>
+      <point x="356" y="776" type="line"/>
+      <point x="356" y="687" type="line"/>
+      <point x="362" y="694" type="line"/>
+      <point x="315" y="738"/>
+      <point x="253" y="776"/>
+      <point x="180" y="776" type="curve" smooth="yes"/>
+      <point x="99" y="776"/>
+      <point x="51" y="734"/>
+      <point x="51" y="660" type="curve"/>
+    </contour>
+    <contour>
+      <point x="77" y="668" type="line"/>
+      <point x="77" y="716"/>
+      <point x="110" y="753"/>
+      <point x="178" y="753" type="curve" smooth="yes"/>
+      <point x="254" y="753"/>
+      <point x="323" y="701"/>
+      <point x="355" y="668" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>515</integer>
+    </dict>
+  </lib>
+</glyph>

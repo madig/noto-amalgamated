@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dadDotbelow-ar.medi" format="2">
+  <advance width="835"/>
+  <note>
+uni06FB.medi
+</note>
+  <anchor x="454" y="-300" name="bottom"/>
+  <anchor x="434" y="730" name="top"/>
+  <outline>
+    <component base="sad-ar.medi"/>
+    <component base="onedot.above" xOffset="449"/>
+    <component base="onedot.below" xOffset="453" yOffset="-67"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>sad-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>onedot.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

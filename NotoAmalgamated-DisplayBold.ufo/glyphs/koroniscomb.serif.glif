@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koroniscomb.serif" format="2">
+  <unicode hex="0343"/>
+  <anchor x="8" y="536" name="_top"/>
+  <anchor x="8" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="-59" y="563" type="curve"/>
+      <point x="-59" y="553" type="line"/>
+      <point x="-49" y="553" type="line"/>
+      <point x="-1" y="599"/>
+      <point x="61" y="662"/>
+      <point x="96" y="704" type="curve"/>
+      <point x="96" y="714" type="line"/>
+      <point x="-32" y="714" type="line"/>
+      <point x="-33" y="673"/>
+      <point x="-48" y="592"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eldescender-cy.display" format="2">
+  <advance width="851"/>
+  <unicode hex="052E"/>
+  <anchor x="427" y="-222" name="bottom"/>
+  <anchor x="427" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="551" y="0" type="line"/>
+      <point x="647" y="0" type="line"/>
+      <point x="647" y="-222" type="line"/>
+      <point x="835" y="-222" type="line"/>
+      <point x="835" y="158" type="line"/>
+      <point x="635" y="158" type="line"/>
+    </contour>
+    <component base="El-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Tse-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

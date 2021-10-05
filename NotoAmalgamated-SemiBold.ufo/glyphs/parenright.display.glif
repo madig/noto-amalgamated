@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.display" format="2">
+  <advance width="328"/>
+  <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="292" y="274" type="curve" smooth="yes"/>
+      <point x="292" y="437"/>
+      <point x="254" y="593"/>
+      <point x="159" y="714" type="curve"/>
+      <point x="27" y="714" type="line"/>
+      <point x="112" y="589"/>
+      <point x="153" y="433"/>
+      <point x="153" y="275" type="curve" smooth="yes"/>
+      <point x="153" y="120"/>
+      <point x="112" y="-35"/>
+      <point x="28" y="-158" type="curve"/>
+      <point x="159" y="-158" type="line"/>
+      <point x="254" y="-41"/>
+      <point x="292" y="113"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Parenthesis</string>
+    </dict>
+  </lib>
+</glyph>

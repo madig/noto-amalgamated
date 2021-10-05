@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behVabove-ar" format="2">
+  <advance width="926"/>
+  <unicode hex="0756"/>
+  <note>
+uni0756
+</note>
+  <anchor x="464" y="-78" name="bottom"/>
+  <anchor x="454" y="657" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="smallv.arabic" xOffset="455" yOffset="-194"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>behDotless-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>smallv.arabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

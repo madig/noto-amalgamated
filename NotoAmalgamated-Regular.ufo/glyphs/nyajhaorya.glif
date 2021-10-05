@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nyajhaorya" format="2">
+  <advance width="720"/>
+  <anchor x="380" y="0" name="b.tasubscriptorya"/>
+  <anchor x="552" y="0" name="b.uvowelsignorya"/>
+  <anchor x="527" y="657" name="t.candrabinduorya"/>
+  <anchor x="359" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="499" y="328" type="curve"/>
+      <point x="525" y="328" type="line"/>
+      <point x="548" y="366"/>
+      <point x="614" y="448"/>
+      <point x="715" y="564" type="curve"/>
+      <point x="661" y="607" type="line"/>
+      <point x="578" y="495"/>
+      <point x="521" y="392"/>
+    </contour>
+    <contour>
+      <point x="524" y="402" type="curve"/>
+      <point x="509" y="345" type="line"/>
+      <point x="561" y="254"/>
+      <point x="605" y="158"/>
+      <point x="650" y="58" type="curve"/>
+      <point x="712" y="95" type="line"/>
+      <point x="652" y="200"/>
+      <point x="589" y="302"/>
+    </contour>
+    <component base="nyacaorya"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

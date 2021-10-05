@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisacute.display" format="2">
+  <advance width="621"/>
+  <unicode hex="01D8"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="431" y="871" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresisacute" xOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhoSymbol" format="2">
+  <advance width="402"/>
+  <unicode hex="03F1"/>
+  <outline>
+    <contour>
+      <point x="273" y="-232" type="curve"/>
+      <point x="296" y="-232" type="line"/>
+      <point x="299" y="-222"/>
+      <point x="303" y="-204"/>
+      <point x="303" y="-188" type="curve" smooth="yes"/>
+      <point x="303" y="-162"/>
+      <point x="291" y="-143"/>
+      <point x="244" y="-140" type="curve" smooth="yes"/>
+      <point x="102" y="-131"/>
+      <point x="82" y="-105"/>
+      <point x="82" y="59" type="curve"/>
+      <point x="84" y="59" type="line"/>
+      <point x="113" y="30"/>
+      <point x="154" y="10"/>
+      <point x="199" y="10" type="curve" smooth="yes"/>
+      <point x="307" y="10"/>
+      <point x="358" y="113"/>
+      <point x="358" y="274" type="curve" smooth="yes"/>
+      <point x="358" y="451"/>
+      <point x="307" y="537"/>
+      <point x="207" y="537" type="curve" smooth="yes"/>
+      <point x="105" y="537"/>
+      <point x="59" y="448"/>
+      <point x="59" y="284" type="curve" smooth="yes"/>
+      <point x="59" y="49" type="line" smooth="yes"/>
+      <point x="59" y="-121"/>
+      <point x="92" y="-156"/>
+      <point x="240" y="-163" type="curve" smooth="yes"/>
+      <point x="272" y="-164"/>
+      <point x="279" y="-178"/>
+      <point x="279" y="-192" type="curve" smooth="yes"/>
+      <point x="279" y="-206"/>
+      <point x="275" y="-224"/>
+    </contour>
+    <contour>
+      <point x="199" y="35" type="curve" smooth="yes"/>
+      <point x="155" y="35"/>
+      <point x="107" y="60"/>
+      <point x="84" y="87" type="curve"/>
+      <point x="84" y="276" type="line" smooth="yes"/>
+      <point x="84" y="422"/>
+      <point x="119" y="512"/>
+      <point x="206" y="512" type="curve" smooth="yes"/>
+      <point x="295" y="512"/>
+      <point x="333" y="426"/>
+      <point x="333" y="274" type="curve" smooth="yes"/>
+      <point x="333" y="125"/>
+      <point x="291" y="35"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=rho</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=rho</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

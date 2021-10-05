@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefHamzabelow-ar.sans" format="2">
+  <advance width="302"/>
+  <unicode hex="0625"/>
+  <outline>
+    <component base="alef-ar"/>
+    <component base="hamzabelow-ar.restricted" xOffset="49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzabelow-ar.restricted</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

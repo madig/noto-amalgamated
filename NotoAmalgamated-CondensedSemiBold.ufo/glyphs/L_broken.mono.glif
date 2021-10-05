@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lbroken.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="A746"/>
+  <outline>
+    <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="119" type="line"/>
+      <point x="275" y="119" type="line"/>
+      <point x="275" y="468" type="line"/>
+      <point x="147" y="421" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="328" type="line"/>
+      <point x="275" y="412" type="line"/>
+      <point x="275" y="497" type="line"/>
+      <point x="44" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="394" type="line"/>
+      <point x="172" y="441" type="line"/>
+      <point x="172" y="714" type="line"/>
+      <point x="44" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

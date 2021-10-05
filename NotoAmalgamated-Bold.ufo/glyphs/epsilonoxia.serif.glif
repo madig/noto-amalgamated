@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilonoxia.serif" format="2">
+  <advance width="564"/>
+  <unicode hex="1F73"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="282" y="760" name="top"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="oxia" xOffset="-50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

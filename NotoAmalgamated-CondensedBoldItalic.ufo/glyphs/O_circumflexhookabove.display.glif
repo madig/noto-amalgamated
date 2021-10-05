@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflexhookabove.display" format="2">
+  <advance width="685"/>
+  <unicode hex="1ED4"/>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="458" y="1010" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexhookcomb" xOffset="598" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

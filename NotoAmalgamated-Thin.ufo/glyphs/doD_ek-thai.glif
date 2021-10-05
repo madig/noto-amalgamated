@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doDek-thai" format="2">
+  <advance width="592"/>
+  <unicode hex="0E14"/>
+  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="502" y="0" name="bottomright"/>
+  <anchor x="286" y="550" name="top"/>
+  <anchor x="497" y="550" name="topright"/>
+  <outline>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="302" y="171" type="line" smooth="yes"/>
+      <point x="336" y="202"/>
+      <point x="364" y="228"/>
+      <point x="364" y="270" type="curve" smooth="yes"/>
+      <point x="364" y="322"/>
+      <point x="329" y="353"/>
+      <point x="282" y="353" type="curve" smooth="yes"/>
+      <point x="232" y="353"/>
+      <point x="202" y="317"/>
+      <point x="202" y="271" type="curve" smooth="yes"/>
+      <point x="202" y="220"/>
+      <point x="238" y="190"/>
+      <point x="283" y="190" type="curve" smooth="yes"/>
+      <point x="329" y="190"/>
+      <point x="357" y="232"/>
+      <point x="357" y="271" type="curve"/>
+      <point x="351" y="271" type="line"/>
+      <point x="351" y="235"/>
+      <point x="322" y="200"/>
+      <point x="297" y="200" type="curve"/>
+      <point x="104" y="22" type="line"/>
+      <point x="113" y="15" type="line"/>
+      <point x="113" y="85" type="line" smooth="yes"/>
+      <point x="113" y="195"/>
+      <point x="95" y="234"/>
+      <point x="95" y="331" type="curve" smooth="yes"/>
+      <point x="95" y="468"/>
+      <point x="179" y="535"/>
+      <point x="286" y="535" type="curve" smooth="yes"/>
+      <point x="404" y="535"/>
+      <point x="477" y="468"/>
+      <point x="477" y="344" type="curve" smooth="yes"/>
+      <point x="477" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="502" y="349" type="line" smooth="yes"/>
+      <point x="502" y="477"/>
+      <point x="426" y="558"/>
+      <point x="287" y="558" type="curve" smooth="yes"/>
+      <point x="161" y="558"/>
+      <point x="70" y="484"/>
+      <point x="70" y="341" type="curve" smooth="yes"/>
+      <point x="70" y="224"/>
+      <point x="88" y="188"/>
+      <point x="88" y="74" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="283" y="212" type="curve" smooth="yes"/>
+      <point x="251" y="212"/>
+      <point x="227" y="235"/>
+      <point x="227" y="271" type="curve" smooth="yes"/>
+      <point x="227" y="307"/>
+      <point x="251" y="330"/>
+      <point x="283" y="330" type="curve" smooth="yes"/>
+      <point x="315" y="330"/>
+      <point x="339" y="308"/>
+      <point x="339" y="271" type="curve" smooth="yes"/>
+      <point x="339" y="232"/>
+      <point x="315" y="212"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>koKai-thai</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

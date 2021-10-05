@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa-cy.display" format="2">
+  <advance width="562"/>
+  <unicode hex="04D8"/>
+  <anchor x="281" y="0" name="bottom"/>
+  <anchor x="266" y="725" name="top"/>
+  <outline>
+    <contour>
+      <point x="245" y="604" type="curve" smooth="yes"/>
+      <point x="338" y="604"/>
+      <point x="371" y="526"/>
+      <point x="377" y="402" type="curve"/>
+      <point x="41" y="402" type="line"/>
+      <point x="41" y="356" type="line" smooth="yes"/>
+      <point x="41" y="116"/>
+      <point x="127" y="-10"/>
+      <point x="275" y="-10" type="curve" smooth="yes"/>
+      <point x="431" y="-10"/>
+      <point x="521" y="131"/>
+      <point x="521" y="357" type="curve" smooth="yes"/>
+      <point x="521" y="598"/>
+      <point x="434" y="725"/>
+      <point x="261" y="725" type="curve" smooth="yes"/>
+      <point x="196" y="725"/>
+      <point x="133" y="710"/>
+      <point x="71" y="680" type="curve"/>
+      <point x="71" y="554" type="line"/>
+      <point x="141" y="591"/>
+      <point x="192" y="604"/>
+    </contour>
+    <contour>
+      <point x="276" y="106" type="curve" smooth="yes"/>
+      <point x="218" y="106"/>
+      <point x="182" y="171"/>
+      <point x="180" y="295" type="curve"/>
+      <point x="376" y="295" type="line"/>
+      <point x="371" y="171"/>
+      <point x="335" y="106"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

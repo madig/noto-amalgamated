@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzaabove_fatha-ar.sans" format="2">
+  <anchor x="121" y="388" name="_top"/>
+  <anchor x="121" y="867" name="top"/>
+  <outline>
+    <component base="hamzaabove-ar" xOffset="-16" yOffset="-70"/>
+    <component base="fatha-ar" xOffset="-33" yOffset="196"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>256</integer>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

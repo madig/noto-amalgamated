@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh_hah-ar.init.sans" format="2">
+  <advance width="706"/>
+  <unicode hex="FCA2"/>
+  <anchor x="457" y="0" name="caret_1"/>
+  <outline>
+    <component base="teh-ar.init" xOffset="457"/>
+    <component base="hah-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>teh-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hah-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

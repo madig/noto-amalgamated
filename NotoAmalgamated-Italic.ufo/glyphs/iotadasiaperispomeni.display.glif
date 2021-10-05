@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadasiaperispomeni.display" format="2">
+  <advance width="334"/>
+  <unicode hex="1F37"/>
+  <anchor x="160" y="0" name="bottom"/>
+  <anchor x="288" y="883" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dasiaperispomeni" xOffset="-88"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehVbelow-ar.fina" format="2">
+  <advance width="478"/>
+  <note>
+uni0695.fina
+</note>
+  <anchor x="164" y="-578" name="bottom"/>
+  <anchor x="275" y="561" name="top"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="smallv.arabic" xOffset="170" yOffset="-1146"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>reh-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>smallv.arabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

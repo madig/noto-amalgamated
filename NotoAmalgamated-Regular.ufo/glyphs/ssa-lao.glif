@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ssa-lao" format="2">
+  <advance width="687"/>
+  <unicode hex="0EA9"/>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="574" y="0" name="bottomright"/>
+  <anchor x="348" y="608" name="top"/>
+  <anchor x="579" y="608" name="topright"/>
+  <outline>
+    <contour>
+      <point x="321" y="-10" type="curve" smooth="yes"/>
+      <point x="482" y="-10"/>
+      <point x="579" y="67"/>
+      <point x="579" y="195" type="curve" smooth="yes"/>
+      <point x="579" y="553" type="line"/>
+      <point x="493" y="553" type="line"/>
+      <point x="493" y="205" type="line"/>
+      <point x="493" y="114"/>
+      <point x="431" y="63"/>
+      <point x="321" y="63" type="curve" smooth="yes"/>
+      <point x="220" y="63"/>
+      <point x="161" y="103"/>
+      <point x="161" y="171" type="curve" smooth="yes"/>
+      <point x="161" y="274"/>
+      <point x="278" y="357"/>
+      <point x="278" y="460" type="curve"/>
+      <point x="180" y="393" type="line"/>
+      <point x="180" y="351"/>
+      <point x="74" y="278"/>
+      <point x="74" y="160" type="curve" smooth="yes"/>
+      <point x="74" y="55"/>
+      <point x="169" y="-10"/>
+    </contour>
+    <contour>
+      <point x="166" y="362" type="curve" smooth="yes"/>
+      <point x="237" y="362"/>
+      <point x="278" y="408"/>
+      <point x="278" y="460" type="curve" smooth="yes"/>
+      <point x="278" y="521"/>
+      <point x="238" y="560"/>
+      <point x="176" y="560" type="curve" smooth="yes"/>
+      <point x="111" y="560"/>
+      <point x="70" y="521"/>
+      <point x="70" y="459" type="curve" smooth="yes"/>
+      <point x="70" y="402"/>
+      <point x="109" y="362"/>
+    </contour>
+    <contour>
+      <point x="174" y="410" type="curve" smooth="yes"/>
+      <point x="143" y="410"/>
+      <point x="124" y="429"/>
+      <point x="124" y="461" type="curve" smooth="yes"/>
+      <point x="124" y="493"/>
+      <point x="143" y="512"/>
+      <point x="174" y="512" type="curve" smooth="yes"/>
+      <point x="205" y="512"/>
+      <point x="224" y="493"/>
+      <point x="224" y="461" type="curve" smooth="yes"/>
+      <point x="224" y="429"/>
+      <point x="205" y="410"/>
+    </contour>
+    <contour>
+      <point x="465" y="208" type="curve" smooth="yes"/>
+      <point x="554" y="208"/>
+      <point x="624" y="235"/>
+      <point x="664" y="257" type="curve"/>
+      <point x="664" y="321" type="line"/>
+      <point x="620" y="295"/>
+      <point x="539" y="267"/>
+      <point x="468" y="267" type="curve" smooth="yes"/>
+      <point x="435" y="267"/>
+      <point x="408" y="268"/>
+      <point x="387" y="272" type="curve"/>
+      <point x="343" y="263" type="line"/>
+      <point x="344" y="255"/>
+      <point x="365" y="242"/>
+      <point x="390" y="242" type="curve" smooth="yes"/>
+      <point x="429" y="242"/>
+      <point x="465" y="272"/>
+      <point x="465" y="316" type="curve" smooth="yes"/>
+      <point x="465" y="366"/>
+      <point x="430" y="399"/>
+      <point x="376" y="399" type="curve" smooth="yes"/>
+      <point x="320" y="399"/>
+      <point x="284" y="366"/>
+      <point x="284" y="315" type="curve" smooth="yes"/>
+      <point x="284" y="249"/>
+      <point x="353" y="208"/>
+    </contour>
+    <contour>
+      <point x="376" y="278" type="curve" smooth="yes"/>
+      <point x="350" y="278"/>
+      <point x="335" y="292"/>
+      <point x="335" y="317" type="curve" smooth="yes"/>
+      <point x="335" y="343"/>
+      <point x="350" y="357"/>
+      <point x="376" y="357" type="curve" smooth="yes"/>
+      <point x="402" y="357"/>
+      <point x="417" y="343"/>
+      <point x="417" y="317" type="curve" smooth="yes"/>
+      <point x="417" y="292"/>
+      <point x="402" y="278"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>boBae-lao</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>khmuNyo-lao</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>8</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>4</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>2</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>2</integer>
+            <integer>5</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

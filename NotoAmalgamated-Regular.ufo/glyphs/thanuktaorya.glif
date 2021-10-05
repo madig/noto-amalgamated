@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thanuktaorya" format="2">
+  <advance width="628"/>
+  <anchor x="566" y="0" name="b.uvowelsignorya"/>
+  <anchor x="313" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <component base="thaorya"/>
+    <component base="nuktaorya" xOffset="568"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

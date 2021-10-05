@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy.serif" format="2">
+  <advance width="646"/>
+  <unicode hex="04FF"/>
+  <anchor x="323" y="0" name="bottom"/>
+  <anchor x="323" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="269" type="line"/>
+      <point x="566" y="269" type="line"/>
+      <point x="566" y="322" type="line"/>
+      <point x="80" y="322" type="line"/>
+    </contour>
+    <component base="x"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

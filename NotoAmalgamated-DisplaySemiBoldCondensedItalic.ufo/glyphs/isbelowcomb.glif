@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="isbelowcomb" format="2">
+  <unicode hex="1DD0"/>
+  <anchor x="-56" y="50" name="_bottom"/>
+  <anchor x="-97" y="-244" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-315" y="-234" type="curve"/>
+      <point x="-239" y="-234" type="line"/>
+      <point x="-217" y="-193"/>
+      <point x="-193" y="-165"/>
+      <point x="-144" y="-165" type="curve" smooth="yes"/>
+      <point x="-110" y="-165"/>
+      <point x="-83" y="-243"/>
+      <point x="6" y="-243" type="curve" smooth="yes"/>
+      <point x="67" y="-243"/>
+      <point x="133" y="-189"/>
+      <point x="133" y="-104" type="curve" smooth="yes"/>
+      <point x="133" y="-44"/>
+      <point x="108" y="-15"/>
+      <point x="71" y="-1" type="curve"/>
+      <point x="31" y="-57" type="line"/>
+      <point x="50" y="-67"/>
+      <point x="63" y="-82"/>
+      <point x="63" y="-107" type="curve" smooth="yes"/>
+      <point x="63" y="-138"/>
+      <point x="37" y="-158"/>
+      <point x="13" y="-158" type="curve" smooth="yes"/>
+      <point x="-34" y="-158"/>
+      <point x="-45" y="-90"/>
+      <point x="-113" y="-90" type="curve" smooth="yes"/>
+      <point x="-190" y="-90"/>
+      <point x="-245" y="-148"/>
+    </contour>
+    <contour>
+      <point x="-317" y="-234" type="line"/>
+      <point x="-239" y="-234" type="line"/>
+      <point x="-101" y="0" type="line"/>
+      <point x="-177" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

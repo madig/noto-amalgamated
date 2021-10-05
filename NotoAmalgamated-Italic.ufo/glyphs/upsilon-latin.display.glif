@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon-latin.display" format="2">
+  <advance width="564"/>
+  <unicode hex="028A"/>
+  <anchor x="236" y="0" name="bottom"/>
+  <anchor x="328" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="230" y="-10" type="curve" smooth="yes"/>
+      <point x="435" y="-10"/>
+      <point x="526" y="197"/>
+      <point x="526" y="339" type="curve" smooth="yes"/>
+      <point x="526" y="409"/>
+      <point x="507" y="452"/>
+      <point x="488" y="486" type="curve" smooth="yes"/>
+      <point x="483" y="495"/>
+      <point x="480" y="502"/>
+      <point x="480" y="510" type="curve" smooth="yes"/>
+      <point x="480" y="520"/>
+      <point x="485" y="526"/>
+      <point x="498" y="526" type="curve" smooth="yes"/>
+      <point x="546" y="526" type="line"/>
+      <point x="549" y="536" type="line"/>
+      <point x="373" y="536" type="line"/>
+      <point x="371" y="526" type="line"/>
+      <point x="405" y="505"/>
+      <point x="422" y="452"/>
+      <point x="422" y="356" type="curve" smooth="yes"/>
+      <point x="422" y="220"/>
+      <point x="368" y="0"/>
+      <point x="232" y="0" type="curve" smooth="yes"/>
+      <point x="177" y="0"/>
+      <point x="142" y="48"/>
+      <point x="142" y="179" type="curve" smooth="yes"/>
+      <point x="142" y="298"/>
+      <point x="192" y="491"/>
+      <point x="294" y="527" type="curve"/>
+      <point x="296" y="536" type="line"/>
+      <point x="99" y="536" type="line"/>
+      <point x="97" y="526" type="line"/>
+      <point x="128" y="526" type="line" smooth="yes"/>
+      <point x="146" y="526"/>
+      <point x="155" y="524"/>
+      <point x="155" y="512" type="curve" smooth="yes"/>
+      <point x="155" y="502"/>
+      <point x="147" y="489"/>
+      <point x="124" y="461" type="curve" smooth="yes"/>
+      <point x="73" y="399"/>
+      <point x="38" y="301"/>
+      <point x="38" y="197" type="curve" smooth="yes"/>
+      <point x="38" y="58"/>
+      <point x="117" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdotaccent.display" format="2">
+  <advance width="887"/>
+  <unicode hex="1E86"/>
+  <anchor x="387" y="0" name="bottom"/>
+  <anchor x="639" y="943" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="dotaccent" xOffset="409" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

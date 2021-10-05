@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf.serif" format="2">
+  <advance width="700"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <component base="one.numr" xOffset="-34"/>
+    <component base="fraction" xOffset="315"/>
+    <component base="two.dnom" xOffset="386"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Fraction</string>
+    </dict>
+  </lib>
+</glyph>

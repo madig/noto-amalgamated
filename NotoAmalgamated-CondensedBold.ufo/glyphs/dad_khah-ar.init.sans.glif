@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad_khah-ar.init.sans" format="2">
+  <advance width="1503"/>
+  <unicode hex="FCB6"/>
+  <anchor x="592" y="0" name="caret_1"/>
+  <outline>
+    <component base="dad-ar.init" xOffset="592"/>
+    <component base="khah-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dad-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>khah-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

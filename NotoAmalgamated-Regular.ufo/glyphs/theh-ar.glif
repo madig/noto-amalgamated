@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theh-ar" format="2">
+  <advance width="778"/>
+  <unicode hex="062B"/>
+  <note>
+uni062B
+</note>
+  <anchor x="389" y="-78" name="bottom"/>
+  <anchor x="389" y="788" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="threedots.above" xOffset="386" yOffset="-94"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>behDotless-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

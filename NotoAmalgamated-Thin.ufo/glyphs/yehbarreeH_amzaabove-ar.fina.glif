@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehbarreeHamzaabove-ar.fina" format="2">
+  <advance width="356"/>
+  <note>
+uni06D3.fina
+</note>
+  <anchor x="237" y="-243" name="bottom"/>
+  <anchor x="217" y="325" name="top"/>
+  <outline>
+    <component base="yehbarree-ar.fina"/>
+    <component base="hamzaabove-ar" xOffset="226" yOffset="-657"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

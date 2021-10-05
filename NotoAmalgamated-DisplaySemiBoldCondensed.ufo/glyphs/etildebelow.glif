@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etildebelow" format="2">
+  <advance width="446"/>
+  <unicode hex="1E1B"/>
+  <anchor x="243" y="-205" name="bottom"/>
+  <anchor x="228" y="547" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="tildebelowcomb" xOffset="243"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

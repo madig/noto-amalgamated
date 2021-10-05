@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vhook.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="028B"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="297" y="-10" type="curve"/>
+      <point x="503" y="-10"/>
+      <point x="560" y="118"/>
+      <point x="560" y="236" type="curve" smooth="yes"/>
+      <point x="560" y="369" type="line" smooth="yes"/>
+      <point x="560" y="471"/>
+      <point x="501" y="560"/>
+      <point x="380" y="560" type="curve"/>
+      <point x="342" y="560"/>
+      <point x="316" y="554"/>
+      <point x="297" y="547" type="curve"/>
+      <point x="297" y="404" type="line"/>
+      <point x="305" y="406"/>
+      <point x="313" y="408"/>
+      <point x="329" y="408" type="curve" smooth="yes"/>
+      <point x="368" y="408"/>
+      <point x="386" y="387"/>
+      <point x="386" y="357" type="curve" smooth="yes"/>
+      <point x="386" y="229" type="line" smooth="yes"/>
+      <point x="386" y="170"/>
+      <point x="351" y="144"/>
+      <point x="306" y="144" type="curve"/>
+      <point x="247" y="144"/>
+      <point x="214" y="170"/>
+      <point x="214" y="229" type="curve" smooth="yes"/>
+      <point x="214" y="553" type="line"/>
+      <point x="39" y="553" type="line"/>
+      <point x="39" y="236" type="line" smooth="yes"/>
+      <point x="39" y="118"/>
+      <point x="87" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronpsilivaria.serif" format="2">
+  <advance width="928"/>
+  <unicode hex="1F4A"/>
+  <anchor x="557" y="0" name="bottom"/>
+  <anchor x="557" y="714" name="top"/>
+  <outline>
+    <component base="psilivaria" xOffset="-104"/>
+    <component base="O" xOffset="186"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

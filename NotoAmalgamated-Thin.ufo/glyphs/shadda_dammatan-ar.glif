@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shadda_dammatan-ar" format="2">
+  <note>
+uni0651064C
+</note>
+  <anchor x="-6" y="696" name="_top"/>
+  <anchor x="-14" y="1235" name="top"/>
+  <outline>
+    <component base="shadda-ar" yOffset="-70"/>
+    <component base="dammatan-ar" xOffset="-3" yOffset="211"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>shadda-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dammatan-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

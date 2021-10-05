@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B31" format="2">
+  <advance width="852"/>
+  <unicode hex="1B31"/>
+  <outline>
+    <contour>
+      <point x="273" y="191" type="curve"/>
+      <point x="292" y="152" type="line"/>
+      <point x="303" y="159"/>
+      <point x="317" y="166"/>
+      <point x="333" y="166" type="curve" smooth="yes"/>
+      <point x="384" y="166"/>
+      <point x="441" y="98"/>
+      <point x="503" y="-40" type="curve"/>
+      <point x="555" y="-19" type="line"/>
+      <point x="505" y="105"/>
+      <point x="437" y="233"/>
+      <point x="355" y="233" type="curve" smooth="yes"/>
+      <point x="325" y="233"/>
+      <point x="301" y="216"/>
+    </contour>
+    <component base="uni1B0B.part" xOffset="-6"/>
+    <component base="uni1B05.02.part" xOffset="71"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1B0B.part</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1B05.02.part</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

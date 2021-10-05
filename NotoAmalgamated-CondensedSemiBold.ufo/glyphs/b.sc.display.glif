@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b.sc.display" format="2">
+  <advance width="418"/>
+  <anchor x="209" y="0" name="bottom"/>
+  <anchor x="209" y="582" name="top"/>
+  <anchor x="399" y="582" name="topright"/>
+  <outline>
+    <contour>
+      <point x="207" y="582" type="curve"/>
+      <point x="45" y="582" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="226" y="0" type="line" smooth="yes"/>
+      <point x="333" y="0"/>
+      <point x="397" y="63"/>
+      <point x="397" y="169" type="curve" smooth="yes"/>
+      <point x="397" y="258"/>
+      <point x="357" y="293"/>
+      <point x="324" y="304" type="curve"/>
+      <point x="324" y="308" type="line"/>
+      <point x="352" y="319"/>
+      <point x="390" y="361"/>
+      <point x="390" y="436" type="curve" smooth="yes"/>
+      <point x="390" y="530"/>
+      <point x="339" y="582"/>
+    </contour>
+    <contour>
+      <point x="210" y="347" type="curve"/>
+      <point x="177" y="347" type="line"/>
+      <point x="177" y="473" type="line"/>
+      <point x="209" y="473" type="line" smooth="yes"/>
+      <point x="241" y="473"/>
+      <point x="258" y="450"/>
+      <point x="258" y="413" type="curve" smooth="yes"/>
+      <point x="258" y="372"/>
+      <point x="244" y="347"/>
+    </contour>
+    <contour>
+      <point x="217" y="109" type="curve" smooth="yes"/>
+      <point x="177" y="109" type="line"/>
+      <point x="177" y="249" type="line"/>
+      <point x="215" y="249" type="line" smooth="yes"/>
+      <point x="250" y="249"/>
+      <point x="265" y="219"/>
+      <point x="265" y="180" type="curve" smooth="yes"/>
+      <point x="265" y="136"/>
+      <point x="248" y="109"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

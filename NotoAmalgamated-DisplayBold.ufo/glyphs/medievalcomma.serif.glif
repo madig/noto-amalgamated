@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="medievalcomma.serif" format="2">
+  <advance width="460"/>
+  <unicode hex="2E4C"/>
+  <outline>
+    <contour>
+      <point x="197" y="-14" type="curve" smooth="yes"/>
+      <point x="249" y="-14"/>
+      <point x="293" y="6"/>
+      <point x="293" y="75" type="curve" smooth="yes"/>
+      <point x="293" y="145"/>
+      <point x="249" y="164"/>
+      <point x="197" y="164" type="curve" smooth="yes"/>
+      <point x="143" y="164"/>
+      <point x="100" y="145"/>
+      <point x="100" y="75" type="curve" smooth="yes"/>
+      <point x="100" y="6"/>
+      <point x="143" y="-14"/>
+    </contour>
+    <contour>
+      <point x="171" y="610" type="curve"/>
+      <point x="171" y="581" type="line"/>
+      <point x="271" y="581"/>
+      <point x="322" y="525"/>
+      <point x="322" y="419" type="curve" smooth="yes"/>
+      <point x="322" y="313"/>
+      <point x="271" y="257"/>
+      <point x="171" y="257" type="curve"/>
+      <point x="171" y="228" type="line"/>
+      <point x="293" y="228"/>
+      <point x="360" y="293"/>
+      <point x="360" y="419" type="curve" smooth="yes"/>
+      <point x="360" y="544"/>
+      <point x="292" y="610"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

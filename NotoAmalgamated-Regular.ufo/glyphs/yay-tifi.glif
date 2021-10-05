@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yay-tifi" format="2">
+  <advance width="516"/>
+  <unicode hex="2D62"/>
+  <note>
+uni2D62
+</note>
+  <anchor x="255" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="119" y="-10" type="line"/>
+      <point x="425" y="298" type="line"/>
+      <point x="425" y="351" type="line"/>
+      <point x="266" y="487" type="line" smooth="yes"/>
+      <point x="236" y="513"/>
+      <point x="206" y="541"/>
+      <point x="165" y="564" type="curve"/>
+      <point x="165" y="571" type="line"/>
+      <point x="212" y="578"/>
+      <point x="243" y="587"/>
+      <point x="290" y="600" type="curve" smooth="yes"/>
+      <point x="466" y="649" type="line"/>
+      <point x="446" y="725" type="line"/>
+      <point x="59" y="612" type="line"/>
+      <point x="59" y="550" type="line"/>
+      <point x="256" y="381" type="line" smooth="yes"/>
+      <point x="278" y="362"/>
+      <point x="302" y="342"/>
+      <point x="334" y="322" type="curve"/>
+      <point x="334" y="316" type="line"/>
+      <point x="305" y="296"/>
+      <point x="287" y="277"/>
+      <point x="262" y="252" type="curve" smooth="yes"/>
+      <point x="55" y="45" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

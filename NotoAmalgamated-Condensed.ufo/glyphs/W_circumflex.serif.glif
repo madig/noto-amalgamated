@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wcircumflex.serif" format="2">
+  <advance width="832"/>
+  <unicode hex="0174"/>
+  <anchor x="416" y="0" name="bottom"/>
+  <anchor x="416" y="931" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="circumflex" xOffset="270" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

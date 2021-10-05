@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ertick-cy" format="2">
+  <advance width="579"/>
+  <unicode hex="048F"/>
+  <anchor x="194" y="-240" name="bottom"/>
+  <anchor x="363" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="431" y="-53" type="line"/>
+      <point x="522" y="5" type="line"/>
+      <point x="339" y="286" type="line"/>
+      <point x="247" y="228" type="line"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

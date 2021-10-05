@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy" format="2">
+  <advance width="265"/>
+  <unicode hex="0493"/>
+  <anchor x="133" y="0" name="bottom"/>
+  <anchor x="133" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="257" y="527" type="line"/>
+      <point x="72" y="527" type="line"/>
+      <point x="72" y="288" type="line"/>
+      <point x="5" y="288" type="line"/>
+      <point x="5" y="263" type="line"/>
+      <point x="72" y="263" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="98" y="263" type="line"/>
+      <point x="177" y="263" type="line"/>
+      <point x="177" y="288" type="line"/>
+      <point x="98" y="288" type="line"/>
+      <point x="98" y="502" type="line"/>
+      <point x="257" y="502" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

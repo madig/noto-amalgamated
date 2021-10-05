@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istrokemoddotless.mono" format="2">
+  <advance width="600"/>
+  <anchor x="296" y="287" name="bottom"/>
+  <anchor x="296" y="615" name="top"/>
+  <anchor x="432" y="615" name="topright"/>
+  <outline>
+    <contour>
+      <point x="173" y="426" type="line"/>
+      <point x="436" y="426" type="line"/>
+      <point x="436" y="484" type="line"/>
+      <point x="173" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="140" y="287" type="line"/>
+      <point x="458" y="287" type="line"/>
+      <point x="458" y="341" type="line"/>
+      <point x="353" y="359" type="line"/>
+      <point x="353" y="615" type="line"/>
+      <point x="158" y="615" type="line"/>
+      <point x="158" y="553" type="line"/>
+      <point x="258" y="543" type="line"/>
+      <point x="258" y="359" type="line"/>
+      <point x="140" y="341" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

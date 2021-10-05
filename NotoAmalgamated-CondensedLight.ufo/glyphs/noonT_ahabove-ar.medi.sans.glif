@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonTahabove-ar.medi.sans" format="2">
+  <advance width="218"/>
+  <outline>
+    <component base="alefMaksura-ar.medi"/>
+    <component base="dotabove-ar" xOffset="66" yOffset="-107"/>
+    <component base="uniFBC0" xOffset="-14" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotabove-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uniFBC0</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

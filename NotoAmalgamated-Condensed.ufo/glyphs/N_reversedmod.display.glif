@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nreversedmod.display" format="2">
+  <advance width="360"/>
+  <unicode hex="1D3B"/>
+  <anchor x="180" y="287" name="bottom"/>
+  <anchor x="180" y="715" name="top"/>
+  <outline>
+    <contour>
+      <point x="46" y="287" type="line"/>
+      <point x="112" y="287" type="line"/>
+      <point x="265" y="636" type="line"/>
+      <point x="267" y="636" type="line"/>
+      <point x="265" y="603"/>
+      <point x="264" y="574"/>
+      <point x="264" y="550" type="curve" smooth="yes"/>
+      <point x="264" y="287" type="line"/>
+      <point x="316" y="287" type="line"/>
+      <point x="316" y="715" type="line"/>
+      <point x="249" y="715" type="line"/>
+      <point x="96" y="372" type="line"/>
+      <point x="94" y="372" type="line"/>
+      <point x="96" y="407"/>
+      <point x="98" y="436"/>
+      <point x="98" y="459" type="curve" smooth="yes"/>
+      <point x="98" y="715" type="line"/>
+      <point x="46" y="715" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

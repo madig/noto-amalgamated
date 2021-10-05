@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonRing-ar.init" format="2">
+  <advance width="424"/>
+  <note>
+uni06BC.init
+</note>
+  <anchor x="198" y="-180" name="bottom"/>
+  <anchor x="228" y="784" name="top"/>
+  <outline>
+    <component base="beh_dotless_alt.init"/>
+    <component base="onedot.above" xOffset="237"/>
+    <component base="sukun-ar" xOffset="196" yOffset="-958"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>sukun-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

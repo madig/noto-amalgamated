@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palatalizationcomb-cy.mono" format="2">
+  <unicode hex="0484"/>
+  <anchor x="0" y="546" name="_top"/>
+  <anchor x="0" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="104" y="605" type="curve"/>
+      <point x="193" y="605" type="line"/>
+      <point x="193" y="629" type="line" smooth="yes"/>
+      <point x="193" y="750"/>
+      <point x="116" y="760"/>
+      <point x="57" y="760" type="curve" smooth="yes"/>
+      <point x="-18" y="760"/>
+      <point x="-85" y="701"/>
+      <point x="-187" y="701" type="curve" smooth="yes"/>
+      <point x="-194" y="701" type="line"/>
+      <point x="-194" y="606" type="line"/>
+      <point x="-186" y="606" type="line" smooth="yes"/>
+      <point x="-41" y="606"/>
+      <point x="1" y="659"/>
+      <point x="55" y="659" type="curve" smooth="yes"/>
+      <point x="85" y="659"/>
+      <point x="102" y="645"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh_noon-ar.fina" format="2">
+  <advance width="1093"/>
+  <unicode hex="FC94"/>
+  <anchor x="688" y="0" name="caret_1"/>
+  <outline>
+    <component base="yeh-ar.medi" xOffset="688"/>
+    <component base="noon-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yeh-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>noon-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

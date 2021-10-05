@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sakhayat" format="2">
+  <advance width="815"/>
+  <unicode hex="AB60"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="362" y="546" name="top"/>
+  <anchor x="615" y="546" name="topright"/>
+  <outline>
+    <contour>
+      <point x="531" y="-10" type="curve" smooth="yes"/>
+      <point x="694" y="-10"/>
+      <point x="765" y="89"/>
+      <point x="765" y="192" type="curve" smooth="yes"/>
+      <point x="765" y="280"/>
+      <point x="706" y="335"/>
+      <point x="616" y="335" type="curve" smooth="yes"/>
+      <point x="581" y="335"/>
+      <point x="548" y="330"/>
+      <point x="524" y="324" type="curve"/>
+      <point x="529" y="349" type="line" smooth="yes"/>
+      <point x="534" y="374"/>
+      <point x="536" y="391"/>
+      <point x="537" y="415" type="curve" smooth="yes"/>
+      <point x="541" y="498"/>
+      <point x="490" y="556"/>
+      <point x="400" y="556" type="curve" smooth="yes"/>
+      <point x="329" y="556"/>
+      <point x="279" y="510"/>
+      <point x="239" y="445" type="curve"/>
+      <point x="236" y="445" type="line"/>
+      <point x="245" y="546" type="line"/>
+      <point x="132" y="546" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="163" y="0" type="line"/>
+      <point x="212" y="226" type="line" smooth="yes"/>
+      <point x="237" y="342"/>
+      <point x="280" y="437"/>
+      <point x="338" y="437" type="curve" smooth="yes"/>
+      <point x="368" y="437"/>
+      <point x="385" y="418"/>
+      <point x="385" y="378" type="curve" smooth="yes"/>
+      <point x="385" y="363"/>
+      <point x="382" y="343"/>
+      <point x="377" y="321" type="curve" smooth="yes"/>
+      <point x="360" y="241" type="line" smooth="yes"/>
+      <point x="351" y="200"/>
+      <point x="349" y="164"/>
+      <point x="349" y="147" type="curve" smooth="yes"/>
+      <point x="349" y="59"/>
+      <point x="393" y="-10"/>
+    </contour>
+    <contour>
+      <point x="546" y="93" type="curve" smooth="yes"/>
+      <point x="518" y="93"/>
+      <point x="494" y="110"/>
+      <point x="494" y="152" type="curve" smooth="yes"/>
+      <point x="494" y="177"/>
+      <point x="497" y="186"/>
+      <point x="505" y="223" type="curve"/>
+      <point x="526" y="229"/>
+      <point x="545" y="232"/>
+      <point x="563" y="232" type="curve" smooth="yes"/>
+      <point x="599" y="232"/>
+      <point x="617" y="213"/>
+      <point x="617" y="175" type="curve" smooth="yes"/>
+      <point x="617" y="125"/>
+      <point x="588" y="93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>pe-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

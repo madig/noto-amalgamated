@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beeh-ar" format="2">
+  <advance width="778"/>
+  <unicode hex="067B"/>
+  <note>
+uni067B
+</note>
+  <anchor x="421" y="-435" name="bottom"/>
+  <anchor x="399" y="444" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="twodots.vert.below" xOffset="417"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>behDotless-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.vert.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heh-ar" format="2">
+  <advance width="631"/>
+  <unicode hex="0647"/>
+  <note>
+uni0647
+</note>
+  <anchor x="293" y="-78" name="bottom"/>
+  <anchor x="313" y="586" name="top"/>
+  <outline>
+    <contour>
+      <point x="314" y="-10" type="curve" smooth="yes"/>
+      <point x="481" y="-10"/>
+      <point x="566" y="63"/>
+      <point x="566" y="220" type="curve" smooth="yes"/>
+      <point x="566" y="323"/>
+      <point x="515" y="421"/>
+      <point x="441" y="469" type="curve" smooth="yes"/>
+      <point x="404" y="493"/>
+      <point x="362" y="505"/>
+      <point x="317" y="505" type="curve" smooth="yes"/>
+      <point x="218" y="505"/>
+      <point x="140" y="452"/>
+      <point x="97" y="364" type="curve" smooth="yes"/>
+      <point x="76" y="320"/>
+      <point x="65" y="272"/>
+      <point x="65" y="220" type="curve" smooth="yes"/>
+      <point x="65" y="68"/>
+      <point x="151" y="-10"/>
+    </contour>
+    <contour>
+      <point x="313" y="112" type="curve" smooth="yes"/>
+      <point x="242" y="112"/>
+      <point x="209" y="148"/>
+      <point x="209" y="225" type="curve" smooth="yes"/>
+      <point x="209" y="314"/>
+      <point x="255" y="385"/>
+      <point x="312" y="385" type="curve" smooth="yes"/>
+      <point x="369" y="385"/>
+      <point x="416" y="312"/>
+      <point x="416" y="225" type="curve" smooth="yes"/>
+      <point x="416" y="149"/>
+      <point x="384" y="112"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 20 values pushed */
+17 11 23 3 11 3 27 26 7 20 70 89 7 16 0 14 70 89 0 19 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+RTG[ ]	/* RoundToGrid */
+MIAP[1]	/* MoveIndirectAbsPt */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

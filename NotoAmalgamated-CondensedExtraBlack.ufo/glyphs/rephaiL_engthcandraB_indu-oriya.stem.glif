@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rephaiLengthcandraBindu-oriya.stem" format="2">
+  <advance width="1000"/>
+  <note>
+ailengthmarkrephcandrabinduorya
+</note>
+  <anchor x="405" y="658" name="_topright"/>
+  <outline>
+    <component base="rephaiLength-oriya.stem" xOffset="-40"/>
+    <component base="candraBindu-oriya" xOffset="486"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>rephaiLength-oriya.stem</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>candraBindu-oriya</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

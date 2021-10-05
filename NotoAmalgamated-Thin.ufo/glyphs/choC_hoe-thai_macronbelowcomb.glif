@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="choChoe-thai_macronbelowcomb" format="2">
+  <advance width="836"/>
+  <anchor x="416" y="-100" name="bottom"/>
+  <anchor x="746" y="-100" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="746" y="-77" type="line"/>
+      <point x="86" y="-77" type="line"/>
+      <point x="86" y="-100" type="line"/>
+      <point x="746" y="-100" type="line"/>
+    </contour>
+    <component base="choChoe-thai"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

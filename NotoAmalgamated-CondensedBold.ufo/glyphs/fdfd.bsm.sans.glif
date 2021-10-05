@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fdfd.bsm.sans" format="2">
+  <advance width="3414"/>
+  <outline>
+    <component base="beh-ar.init" xOffset="3179" yOffset="5"/>
+    <component base="meem-ar.fina" xOffset="-15" yOffset="5"/>
+    <component base="seen-ar.medi" xOffset="2226" yOffset="5"/>
+    <component base="kashida-ar" xOffset="1953" yOffset="5"/>
+    <component base="kashida-ar" xOffset="1683" yOffset="5"/>
+    <component base="kashida-ar" xOffset="1413" yOffset="5"/>
+    <component base="kashida-ar" xOffset="1143" yOffset="5"/>
+    <component base="kashida-ar" xOffset="865" yOffset="5"/>
+    <component base="kashida-ar" xOffset="595" yOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>beh-ar.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>seen-ar.medi</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.componentsLocked</key>
+      <array>
+        <false/>
+        <false/>
+        <false/>
+        <true/>
+        <false/>
+        <false/>
+        <false/>
+        <false/>
+        <false/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

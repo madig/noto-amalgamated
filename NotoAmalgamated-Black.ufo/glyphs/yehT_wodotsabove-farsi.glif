@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehTwodotsabove-farsi" format="2">
+  <advance width="912"/>
+  <unicode hex="063E"/>
+  <outline>
+    <component base="alefMaksura-ar"/>
+    <component base="twodots.above" xOffset="237" yOffset="-235"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

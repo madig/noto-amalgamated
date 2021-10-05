@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uMatra-deva" format="2">
+  <unicode hex="0941"/>
+  <anchor x="-83" y="0" name="_bottom"/>
+  <anchor x="-151" y="-271" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-127" y="-271" type="curve" smooth="yes"/>
+      <point x="-38" y="-271"/>
+      <point x="26" y="-223"/>
+      <point x="26" y="-143" type="curve" smooth="yes"/>
+      <point x="26" y="-107"/>
+      <point x="10" y="-70"/>
+      <point x="-16" y="-42" type="curve" smooth="yes"/>
+      <point x="-42" y="-14"/>
+      <point x="-79" y="5"/>
+      <point x="-119" y="5" type="curve" smooth="yes"/>
+      <point x="-156" y="5"/>
+      <point x="-189" y="-10"/>
+      <point x="-222" y="-33" type="curve"/>
+      <point x="-174" y="-97" type="line"/>
+      <point x="-135" y="-69"/>
+      <point x="-109" y="-61"/>
+      <point x="-80" y="-61" type="curve" smooth="yes"/>
+      <point x="-48" y="-61"/>
+      <point x="-30" y="-76"/>
+      <point x="-30" y="-108" type="curve" smooth="yes"/>
+      <point x="-30" y="-165"/>
+      <point x="-84" y="-217"/>
+      <point x="-153" y="-217" type="curve" smooth="yes"/>
+      <point x="-241" y="-217"/>
+      <point x="-307" y="-138"/>
+      <point x="-361" y="-52" type="curve"/>
+      <point x="-410" y="-93" type="line"/>
+      <point x="-341" y="-183"/>
+      <point x="-246" y="-271"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

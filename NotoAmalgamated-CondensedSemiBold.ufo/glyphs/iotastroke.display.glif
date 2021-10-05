@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotastroke.display" format="2">
+  <advance width="297"/>
+  <unicode hex="1D7C"/>
+  <anchor x="163" y="0" name="bottom"/>
+  <anchor x="131" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="265" y="339" type="line"/>
+      <point x="1" y="339" type="line"/>
+      <point x="1" y="244" type="line"/>
+      <point x="265" y="244" type="line"/>
+    </contour>
+    <component base="iota"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

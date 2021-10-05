@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="racute.display" format="2">
+  <advance width="348"/>
+  <unicode hex="0155"/>
+  <anchor x="65" y="0" name="bottom"/>
+  <anchor x="295" y="789" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="acute" xOffset="54" yOffset="23"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

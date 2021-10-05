@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehHamzaabove-ar.init" format="2">
+  <advance width="335"/>
+  <note>
+uni0626.init
+</note>
+  <anchor x="122" y="-78" name="bottom"/>
+  <anchor x="192" y="824" name="top"/>
+  <outline>
+    <contour>
+      <point x="-5" y="0" type="curve" smooth="yes"/>
+      <point x="233" y="0" type="line"/>
+      <point x="233" y="475" type="line"/>
+      <point x="209" y="475" type="line"/>
+      <point x="209" y="24" type="line"/>
+      <point x="-5" y="24" type="line" smooth="yes"/>
+      <point x="-8" y="24"/>
+      <point x="-10" y="23"/>
+      <point x="-10" y="20" type="curve" smooth="yes"/>
+      <point x="-10" y="5" type="line" smooth="yes"/>
+      <point x="-10" y="2"/>
+      <point x="-8" y="0"/>
+    </contour>
+    <component base="hamzaabove-ar" xOffset="224" yOffset="-155"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

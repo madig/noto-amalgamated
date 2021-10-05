@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nya-mtei" format="2">
+  <advance width="878"/>
+  <unicode hex="AAE3"/>
+  <anchor x="824" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="bottom_left"/>
+  <anchor x="878" y="0" name="bottom_right"/>
+  <anchor x="655" y="713" name="top"/>
+  <outline>
+    <contour>
+      <point x="767" y="588" type="line"/>
+      <point x="767" y="497"/>
+      <point x="732" y="441"/>
+      <point x="655" y="441" type="curve" smooth="yes"/>
+      <point x="580" y="441"/>
+      <point x="523" y="493"/>
+      <point x="523" y="590" type="curve" smooth="yes"/>
+      <point x="523" y="608"/>
+      <point x="525" y="632"/>
+      <point x="528" y="659" type="curve"/>
+      <point x="450" y="659" type="line"/>
+      <point x="382" y="205" type="line"/>
+      <point x="390" y="227" type="line"/>
+      <point x="388" y="276"/>
+      <point x="333" y="358"/>
+      <point x="222" y="358" type="curve" smooth="yes"/>
+      <point x="132" y="358"/>
+      <point x="30" y="304"/>
+      <point x="30" y="169" type="curve" smooth="yes"/>
+      <point x="30" y="146"/>
+      <point x="33" y="120"/>
+      <point x="40" y="92" type="curve"/>
+      <point x="118" y="109" type="line"/>
+      <point x="113" y="130"/>
+      <point x="111" y="149"/>
+      <point x="111" y="165" type="curve" smooth="yes"/>
+      <point x="111" y="247"/>
+      <point x="158" y="288"/>
+      <point x="224" y="288" type="curve" smooth="yes"/>
+      <point x="314" y="288"/>
+      <point x="365" y="214"/>
+      <point x="365" y="116" type="curve" smooth="yes"/>
+      <point x="365" y="102"/>
+      <point x="364" y="88"/>
+      <point x="360" y="61" type="curve" smooth="yes"/>
+      <point x="352" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="506" y="507" type="line"/>
+      <point x="494" y="487" type="line"/>
+      <point x="503" y="438"/>
+      <point x="565" y="371"/>
+      <point x="662" y="371" type="curve" smooth="yes"/>
+      <point x="767" y="371"/>
+      <point x="848" y="451"/>
+      <point x="848" y="588" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>mtei</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

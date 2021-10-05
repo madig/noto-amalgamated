@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="austral.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="20B3"/>
+  <outline>
+    <contour>
+      <point x="10" y="418" type="line"/>
+      <point x="489" y="418" type="line"/>
+      <point x="489" y="442" type="line"/>
+      <point x="10" y="442" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="282" type="line"/>
+      <point x="489" y="282" type="line"/>
+      <point x="489" y="306" type="line"/>
+      <point x="10" y="306" type="line"/>
+    </contour>
+    <component base="V" xScale="-1" yScale="-1" xOffset="500" yOffset="714"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>V</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

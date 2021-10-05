@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamDotabove_alef-ar.fina" format="2">
+  <advance width="669"/>
+  <note>
+uni06B60627.fina
+</note>
+  <anchor x="576" y="-57" name="bottom_1"/>
+  <anchor x="232" y="-77" name="bottom_2"/>
+  <anchor x="335" y="0" name="caret_1"/>
+  <anchor x="535" y="947" name="top_1"/>
+  <anchor x="171" y="774" name="top_2"/>
+  <outline>
+    <component base="lam_alef-ar.fina"/>
+    <component base="onedot.above" xOffset="543" yOffset="256"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>lam_alef-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

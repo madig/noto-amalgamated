@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehTwodotsverticalabove-ar" format="2">
+  <advance width="249"/>
+  <unicode hex="076B"/>
+  <note>
+uni076B
+</note>
+  <anchor x="58" y="-293" name="bottom"/>
+  <anchor x="153" y="831" name="top"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="twodots.vert.above" xOffset="163" yOffset="-62"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>reh-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.vert.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

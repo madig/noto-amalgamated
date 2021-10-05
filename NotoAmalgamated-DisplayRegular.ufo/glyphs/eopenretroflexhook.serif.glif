@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eopenretroflexhook.serif" format="2">
+  <advance width="496"/>
+  <unicode hex="1D93"/>
+  <outline>
+    <contour>
+      <point x="510" y="-197" type="curve" smooth="yes"/>
+      <point x="552" y="-197"/>
+      <point x="582" y="-178"/>
+      <point x="582" y="-142" type="curve" smooth="yes"/>
+      <point x="582" y="-126"/>
+      <point x="576" y="-114"/>
+      <point x="567" y="-105" type="curve"/>
+      <point x="551" y="-116"/>
+      <point x="538" y="-121"/>
+      <point x="511" y="-121" type="curve" smooth="yes"/>
+      <point x="459" y="-121"/>
+      <point x="435" y="-103"/>
+      <point x="435" y="-49" type="curve" smooth="yes"/>
+      <point x="435" y="87" type="line"/>
+      <point x="425" y="87" type="line"/>
+      <point x="425" y="-59" type="line" smooth="yes"/>
+      <point x="425" y="-143"/>
+      <point x="431" y="-197"/>
+    </contour>
+    <component base="eopen"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

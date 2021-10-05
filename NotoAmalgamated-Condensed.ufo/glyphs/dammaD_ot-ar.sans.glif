@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dammaDot-ar.sans" format="2">
+  <unicode hex="08FE"/>
+  <anchor x="144" y="458" name="_top"/>
+  <anchor x="143" y="821" name="top"/>
+  <outline>
+    <component base="damma-ar" xOffset="38"/>
+    <component base="toneonedotabove-ar" yOffset="-8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>damma-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>toneonedotabove-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=toneonedotabove-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=damma-ar</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>336</integer>
+    </dict>
+  </lib>
+</glyph>

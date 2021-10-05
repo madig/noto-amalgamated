@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cachaorya" format="2">
+  <advance width="679"/>
+  <anchor x="338" y="29" name="b.tasubscriptorya"/>
+  <anchor x="559" y="29" name="b.uvowelsignorya"/>
+  <anchor x="344" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="27" y="445" type="curve" smooth="yes"/>
+      <point x="27" y="369"/>
+      <point x="66" y="300"/>
+      <point x="144" y="250" type="curve"/>
+      <point x="192" y="380" type="line"/>
+      <point x="147" y="401"/>
+      <point x="128" y="431"/>
+      <point x="128" y="462" type="curve" smooth="yes"/>
+      <point x="128" y="522"/>
+      <point x="200" y="550"/>
+      <point x="277" y="550" type="curve" smooth="yes"/>
+      <point x="389" y="550"/>
+      <point x="503" y="489"/>
+      <point x="560" y="400" type="curve"/>
+      <point x="570" y="400" type="line"/>
+      <point x="659" y="499" type="line"/>
+      <point x="580" y="601"/>
+      <point x="464" y="667"/>
+      <point x="321" y="667" type="curve" smooth="yes"/>
+      <point x="148" y="667"/>
+      <point x="27" y="569"/>
+    </contour>
+    <component base="thasubscriptdeeporya" xScale="0.93895" yScale="0.93895" xOffset="561" yOffset="325"/>
+    <component base="_part.ooo" xScale="0.94932" yScale="0.94932" xOffset="52" yOffset="96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>kaorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

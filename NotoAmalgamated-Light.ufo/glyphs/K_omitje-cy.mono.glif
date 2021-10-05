@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Komitje-cy.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="050E"/>
+  <anchor x="386" y="0" name="bottom"/>
+  <anchor x="247" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="386" y="-10" type="curve" smooth="yes"/>
+      <point x="477" y="-10"/>
+      <point x="534" y="52"/>
+      <point x="534" y="163" type="curve" smooth="yes"/>
+      <point x="534" y="414" type="line"/>
+      <point x="508" y="414" type="line"/>
+      <point x="508" y="168" type="line" smooth="yes"/>
+      <point x="508" y="64"/>
+      <point x="466" y="15"/>
+      <point x="386" y="15" type="curve" smooth="yes"/>
+      <point x="302" y="15"/>
+      <point x="260" y="64"/>
+      <point x="260" y="168" type="curve" smooth="yes"/>
+      <point x="260" y="689" type="line"/>
+      <point x="482" y="689" type="line"/>
+      <point x="482" y="714" type="line"/>
+      <point x="13" y="714" type="line"/>
+      <point x="13" y="689" type="line"/>
+      <point x="234" y="689" type="line"/>
+      <point x="234" y="163" type="line" smooth="yes"/>
+      <point x="234" y="52"/>
+      <point x="284" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

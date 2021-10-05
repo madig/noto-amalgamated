@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphapsiliperispomeniypogegrammeni.serif" format="2">
+  <advance width="677"/>
+  <unicode hex="1F86"/>
+  <anchor x="339" y="-249" name="bottom"/>
+  <anchor x="339" y="911" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="psiliperispomeni" xOffset="118" yOffset="20"/>
+    <component base="prosgegrammeni" xOffset="218"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

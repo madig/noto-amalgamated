@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzeabkhasian-cy" format="2">
+  <advance width="464"/>
+  <unicode hex="04E1"/>
+  <anchor x="124" y="-240" name="bottom"/>
+  <anchor x="289" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="95" y="-240" type="curve" smooth="yes"/>
+      <point x="271" y="-240"/>
+      <point x="373" y="-128"/>
+      <point x="373" y="25" type="curve" smooth="yes"/>
+      <point x="373" y="148"/>
+      <point x="294" y="214"/>
+      <point x="195" y="222" type="curve"/>
+      <point x="437" y="472" type="line"/>
+      <point x="450" y="536" type="line"/>
+      <point x="87" y="536" type="line"/>
+      <point x="71" y="462" type="line"/>
+      <point x="332" y="462" type="line"/>
+      <point x="98" y="219" type="line"/>
+      <point x="85" y="159" type="line"/>
+      <point x="122" y="159" type="line" smooth="yes"/>
+      <point x="223" y="159"/>
+      <point x="285" y="117"/>
+      <point x="285" y="21" type="curve" smooth="yes"/>
+      <point x="285" y="-85"/>
+      <point x="223" y="-168"/>
+      <point x="97" y="-168" type="curve" smooth="yes"/>
+      <point x="25" y="-168"/>
+      <point x="-31" y="-146"/>
+      <point x="-66" y="-125" type="curve"/>
+      <point x="-66" y="-206" type="line"/>
+      <point x="-25" y="-228"/>
+      <point x="22" y="-240"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

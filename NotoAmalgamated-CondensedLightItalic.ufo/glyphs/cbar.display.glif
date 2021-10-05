@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cbar.display" format="2">
+  <advance width="355"/>
+  <unicode hex="A793"/>
+  <anchor x="145" y="0" name="bottom"/>
+  <anchor x="257" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="10" y="274" type="line"/>
+      <point x="178" y="274" type="line"/>
+      <point x="180" y="284" type="line"/>
+      <point x="12" y="284" type="line"/>
+    </contour>
+    <component base="c" xOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

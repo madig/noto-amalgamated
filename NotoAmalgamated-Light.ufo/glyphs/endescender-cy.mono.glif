@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endescender-cy.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="04A3"/>
+  <anchor x="300" y="-176" name="bottom"/>
+  <anchor x="300" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="535" y="-176" type="line"/>
+      <point x="561" y="-176" type="line"/>
+      <point x="561" y="25" type="line"/>
+      <point x="494" y="25" type="line"/>
+      <point x="494" y="528" type="line"/>
+      <point x="468" y="528" type="line"/>
+      <point x="468" y="289" type="line"/>
+      <point x="131" y="289" type="line"/>
+      <point x="131" y="528" type="line"/>
+      <point x="105" y="528" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="131" y="264" type="line"/>
+      <point x="468" y="264" type="line"/>
+      <point x="468" y="0" type="line"/>
+      <point x="535" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

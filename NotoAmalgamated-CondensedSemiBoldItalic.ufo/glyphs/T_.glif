@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="388"/>
+  <unicode hex="0054"/>
+  <anchor x="138" y="0" name="bottom"/>
+  <anchor x="226" y="357" name="center"/>
+  <anchor x="290" y="714" name="top"/>
+  <anchor x="463" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="323" y="603" type="line"/>
+      <point x="442" y="603" type="line"/>
+      <point x="466" y="714" type="line"/>
+      <point x="103" y="714" type="line"/>
+      <point x="79" y="603" type="line"/>
+      <point x="198" y="603" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

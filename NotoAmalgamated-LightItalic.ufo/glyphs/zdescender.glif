@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdescender" format="2">
+  <advance width="436"/>
+  <unicode hex="2C6C"/>
+  <anchor x="127" y="-167" name="bottom"/>
+  <anchor x="274" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="274" y="-167" type="line"/>
+      <point x="300" y="-167" type="line"/>
+      <point x="341" y="25" type="line"/>
+      <point x="28" y="25" type="line"/>
+      <point x="433" y="513" type="line"/>
+      <point x="436" y="528" type="line"/>
+      <point x="114" y="528" type="line"/>
+      <point x="108" y="503" type="line"/>
+      <point x="391" y="503" type="line"/>
+      <point x="-11" y="17" type="line"/>
+      <point x="-14" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

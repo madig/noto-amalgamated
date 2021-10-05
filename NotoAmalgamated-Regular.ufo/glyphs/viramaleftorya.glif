@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="viramaleftorya" format="2">
+  <anchor x="90" y="0" name="_b.uvowelsignorya"/>
+  <anchor x="0" y="-49" name="_m.rrvocalicvowelsignleftorya"/>
+  <outline>
+    <contour>
+      <point x="133" y="-471" type="curve"/>
+      <point x="176" y="-427" type="line"/>
+      <point x="132" y="-381"/>
+      <point x="86" y="-340"/>
+      <point x="40" y="-298" type="curve"/>
+      <point x="-9" y="-354" type="line"/>
+      <point x="36" y="-385"/>
+      <point x="86" y="-425"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

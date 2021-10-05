@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rephaiLengthcandraBindu-oriya.umbrella" format="2">
+  <advance width="1000"/>
+  <anchor x="466" y="658" name="_topright"/>
+  <outline>
+    <component base="rephaiLength-oriya" xOffset="-80"/>
+    <component base="candraBindu-oriya" xOffset="482"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>rephaiLength-oriya</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>candraBindu-oriya</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

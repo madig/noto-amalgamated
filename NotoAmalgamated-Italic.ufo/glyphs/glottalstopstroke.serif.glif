@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalstopstroke.serif" format="2">
+  <advance width="436"/>
+  <unicode hex="02A1"/>
+  <anchor x="131" y="0" name="bottom"/>
+  <anchor x="295" y="770" name="top"/>
+  <anchor x="539" y="760" name="topright"/>
+  <outline>
+    <contour>
+      <point x="36" y="187" type="line"/>
+      <point x="303" y="187" type="line"/>
+      <point x="313" y="233" type="line"/>
+      <point x="46" y="233" type="line"/>
+    </contour>
+    <component base="glottalstop"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>glottalstop</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

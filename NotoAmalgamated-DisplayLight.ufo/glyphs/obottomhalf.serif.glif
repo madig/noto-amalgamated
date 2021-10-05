@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obottomhalf.serif" format="2">
+  <advance width="577"/>
+  <unicode hex="1D17"/>
+  <anchor x="289" y="0" name="bottom"/>
+  <anchor x="289" y="265" name="top"/>
+  <outline>
+    <contour>
+      <point x="289" y="-10" type="curve" smooth="yes"/>
+      <point x="453" y="-10"/>
+      <point x="517" y="91"/>
+      <point x="517" y="265" type="curve"/>
+      <point x="489" y="265" type="line"/>
+      <point x="489" y="92"/>
+      <point x="437" y="0"/>
+      <point x="289" y="0" type="curve" smooth="yes"/>
+      <point x="153" y="0"/>
+      <point x="88" y="92"/>
+      <point x="88" y="265" type="curve"/>
+      <point x="60" y="265" type="line"/>
+      <point x="60" y="91"/>
+      <point x="139" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

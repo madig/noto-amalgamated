@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zcircumflex.serif" format="2">
+  <advance width="484"/>
+  <unicode hex="1E90"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="242" y="931" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="circumflex" xOffset="80" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

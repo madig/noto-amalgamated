@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghain_meem_yeh-ar.fina.sans" format="2">
+  <advance width="1972"/>
+  <unicode hex="FD7A"/>
+  <anchor x="1311" y="0" name="caret_1"/>
+  <anchor x="706" y="0" name="caret_2"/>
+  <outline>
+    <component base="ghain-ar.medi" xOffset="1441"/>
+    <component base="meem-ar.medi" xOffset="836"/>
+    <component base="yeh-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ghain-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yeh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

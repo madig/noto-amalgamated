@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nAryCircledDotOperator" format="2">
+  <advance width="1200"/>
+  <unicode hex="2A00"/>
+  <outline>
+    <contour>
+      <point x="600" y="-18" type="curve" smooth="yes"/>
+      <point x="813" y="-18"/>
+      <point x="986" y="155"/>
+      <point x="986" y="368" type="curve" smooth="yes"/>
+      <point x="986" y="581"/>
+      <point x="813" y="754"/>
+      <point x="600" y="754" type="curve" smooth="yes"/>
+      <point x="387" y="754"/>
+      <point x="214" y="581"/>
+      <point x="214" y="368" type="curve" smooth="yes"/>
+      <point x="214" y="155"/>
+      <point x="387" y="-18"/>
+    </contour>
+    <contour>
+      <point x="600" y="8" type="curve" smooth="yes"/>
+      <point x="401" y="8"/>
+      <point x="240" y="169"/>
+      <point x="240" y="368" type="curve" smooth="yes"/>
+      <point x="240" y="567"/>
+      <point x="401" y="728"/>
+      <point x="600" y="728" type="curve" smooth="yes"/>
+      <point x="799" y="728"/>
+      <point x="960" y="567"/>
+      <point x="960" y="368" type="curve" smooth="yes"/>
+      <point x="960" y="169"/>
+      <point x="799" y="8"/>
+    </contour>
+    <contour>
+      <point x="600" y="316" type="curve" smooth="yes"/>
+      <point x="630" y="316"/>
+      <point x="652" y="338"/>
+      <point x="652" y="368" type="curve" smooth="yes"/>
+      <point x="652" y="398"/>
+      <point x="629" y="421"/>
+      <point x="600" y="421" type="curve" smooth="yes"/>
+      <point x="571" y="421"/>
+      <point x="548" y="398"/>
+      <point x="548" y="368" type="curve" smooth="yes"/>
+      <point x="548" y="338"/>
+      <point x="570" y="316"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

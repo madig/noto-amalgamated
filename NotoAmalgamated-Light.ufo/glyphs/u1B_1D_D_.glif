@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1B1DD" format="2">
+  <advance height="1000" width="769"/>
+  <unicode hex="1B1DD"/>
+  <note>
+u1B1DD
+</note>
+  <outline>
+    <contour>
+      <point x="626" y="461" type="curve"/>
+      <point x="399" y="799" type="line"/>
+      <point x="419.68" y="861.31"/>
+      <point x="432.01" y="927.31"/>
+      <point x="436" y="997" type="curve"/>
+      <point x="381" y="1000" type="line"/>
+      <point x="374.34" y="904.88"/>
+      <point x="352.09" y="815.77"/>
+      <point x="314.26" y="732.69" type="curve" smooth="yes"/>
+      <point x="284.21" y="667.21"/>
+      <point x="227.12" y="575.64"/>
+      <point x="143" y="458" type="curve"/>
+      <point x="357" y="142" type="line"/>
+      <point x="294.92" y="55.77"/>
+      <point x="237.59" y="-18.57"/>
+      <point x="185" y="-81" type="curve"/>
+      <point x="227" y="-120" type="line"/>
+      <point x="283" y="-54"/>
+      <point x="338" y="16"/>
+      <point x="392" y="90" type="curve"/>
+      <point x="534" y="-120" type="line"/>
+      <point x="578" y="-87" type="line"/>
+      <point x="426" y="138" type="line"/>
+      <point x="497.46" y="240.74"/>
+      <point x="564.13" y="348.4"/>
+    </contour>
+    <contour>
+      <point x="375" y="735" type="curve"/>
+      <point x="453" y="619" type="line"/>
+      <point x="405.93" y="532.96"/>
+      <point x="350.6" y="441.3"/>
+      <point x="287" y="344" type="curve"/>
+      <point x="211" y="457" type="line"/>
+      <point x="290.33" y="572.02"/>
+      <point x="345" y="664.68"/>
+    </contour>
+    <contour>
+      <point x="391" y="190" type="curve"/>
+      <point x="318" y="298" type="line"/>
+      <point x="351.99" y="346.97"/>
+      <point x="408.32" y="436.97"/>
+      <point x="487" y="568" type="curve"/>
+      <point x="560" y="460" type="line"/>
+      <point x="518.35" y="384.95"/>
+      <point x="462.02" y="294.95"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>381</integer>
+            <integer>55</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

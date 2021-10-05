@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u18AF3" format="2">
+  <advance height="976" width="1000"/>
+  <unicode hex="18AF3"/>
+  <note>
+u18AF3
+</note>
+  <outline>
+    <contour>
+      <point x="543" y="607" type="curve"/>
+      <point x="566" y="608" type="line"/>
+      <point x="617.68" y="653.52"/>
+      <point x="666.02" y="707.19"/>
+      <point x="711" y="769" type="curve"/>
+      <point x="729.01" y="766.94"/>
+      <point x="742.34" y="771.94"/>
+      <point x="751" y="784" type="curve"/>
+      <point x="650" y="822" type="line"/>
+      <point x="614.06" y="739.36"/>
+      <point x="578.39" y="667.69"/>
+    </contour>
+    <contour>
+      <point x="253" y="812" type="curve"/>
+      <point x="242" y="805" type="line"/>
+      <point x="293.46" y="751.92"/>
+      <point x="325.12" y="701.92"/>
+      <point x="337" y="655" type="curve"/>
+      <point x="356.26" y="641.32"/>
+      <point x="372.58" y="640.63"/>
+      <point x="385.96" y="652.93" type="curve" smooth="yes"/>
+      <point x="400.57" y="666.36"/>
+      <point x="402.74" y="685.74"/>
+      <point x="392.49" y="711.06" type="curve" smooth="yes"/>
+      <point x="374.93" y="754.43"/>
+      <point x="328.43" y="788.08"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>608</integer>
+            <integer>214</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>836</integer>
+    </dict>
+  </lib>
+</glyph>

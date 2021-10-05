@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sdotbelowdotaccent.display" format="2">
+  <advance width="509"/>
+  <unicode hex="1E68"/>
+  <anchor x="197" y="-202" name="bottom"/>
+  <anchor x="375" y="943" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="dotaccent" xOffset="145" yOffset="165"/>
+    <component base="dotaccent" xOffset="-21" yOffset="-833"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

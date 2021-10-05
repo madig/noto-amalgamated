@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegadasiaperispomeniypogegrammeni.serif" format="2">
+  <advance width="800"/>
+  <unicode hex="1FA7"/>
+  <anchor x="400" y="-240" name="bottom"/>
+  <anchor x="400" y="899" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="dasiaperispomeni" xOffset="201" yOffset="20"/>
+    <component base="prosgegrammeni" xOffset="293"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

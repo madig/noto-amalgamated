@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="delta.serif" format="2">
+  <advance width="534"/>
+  <unicode hex="03B4"/>
+  <anchor x="267" y="0" name="bottom"/>
+  <anchor x="267" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="261" y="-10" type="curve" smooth="yes"/>
+      <point x="405" y="-10"/>
+      <point x="500" y="78"/>
+      <point x="500" y="240" type="curve" smooth="yes"/>
+      <point x="500" y="363"/>
+      <point x="436" y="427"/>
+      <point x="341" y="495" type="curve" smooth="yes"/>
+      <point x="260" y="552"/>
+      <point x="231" y="580"/>
+      <point x="231" y="637" type="curve" smooth="yes"/>
+      <point x="231" y="677"/>
+      <point x="251" y="707"/>
+      <point x="290" y="707" type="curve" smooth="yes"/>
+      <point x="347" y="707"/>
+      <point x="364" y="656"/>
+      <point x="364" y="589" type="curve"/>
+      <point x="423" y="589"/>
+      <point x="462" y="614"/>
+      <point x="462" y="663" type="curve" smooth="yes"/>
+      <point x="462" y="707"/>
+      <point x="430" y="765"/>
+      <point x="294" y="765" type="curve" smooth="yes"/>
+      <point x="178" y="765"/>
+      <point x="101" y="708"/>
+      <point x="101" y="614" type="curve" smooth="yes"/>
+      <point x="101" y="534"/>
+      <point x="133" y="497"/>
+      <point x="202" y="441" type="curve"/>
+      <point x="97" y="404"/>
+      <point x="35" y="344"/>
+      <point x="35" y="214" type="curve" smooth="yes"/>
+      <point x="35" y="71"/>
+      <point x="123" y="-10"/>
+    </contour>
+    <contour>
+      <point x="264" y="56" type="curve" smooth="yes"/>
+      <point x="222" y="56"/>
+      <point x="202" y="110"/>
+      <point x="202" y="217" type="curve" smooth="yes"/>
+      <point x="202" y="339"/>
+      <point x="231" y="383"/>
+      <point x="253" y="403" type="curve"/>
+      <point x="302" y="358"/>
+      <point x="333" y="319"/>
+      <point x="333" y="212" type="curve" smooth="yes"/>
+      <point x="333" y="109"/>
+      <point x="303" y="56"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

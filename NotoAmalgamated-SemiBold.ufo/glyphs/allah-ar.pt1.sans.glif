@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="allah-ar.pt1.sans" format="2">
+  <advance width="1470"/>
+  <anchor x="367.5" y="0" name="caret_1"/>
+  <anchor x="735" y="0" name="caret_2"/>
+  <anchor x="1102.5" y="0" name="caret_3"/>
+  <outline>
+    <contour>
+      <point x="556" y="-5" type="curve" smooth="yes"/>
+      <point x="646" y="-5"/>
+      <point x="703" y="16"/>
+      <point x="740" y="67" type="curve"/>
+      <point x="770" y="15"/>
+      <point x="830" y="-5"/>
+      <point x="900" y="-5" type="curve" smooth="yes"/>
+      <point x="1125" y="-5"/>
+      <point x="1151" y="94"/>
+      <point x="1145" y="248" type="curve" smooth="yes"/>
+      <point x="1125" y="732" type="line"/>
+      <point x="984" y="732" type="line"/>
+      <point x="1002" y="258" type="line" smooth="yes"/>
+      <point x="1006" y="150"/>
+      <point x="1002" y="129"/>
+      <point x="910" y="129" type="curve" smooth="yes"/>
+      <point x="829" y="129"/>
+      <point x="805" y="152"/>
+      <point x="801" y="259" type="curve" smooth="yes"/>
+      <point x="786" y="659" type="line"/>
+      <point x="644" y="659" type="line"/>
+      <point x="658" y="258" type="line" smooth="yes"/>
+      <point x="662" y="142"/>
+      <point x="653" y="135"/>
+      <point x="566" y="135" type="curve" smooth="yes"/>
+      <point x="496" y="135"/>
+      <point x="466" y="152"/>
+      <point x="462" y="234" type="curve" smooth="yes"/>
+      <point x="445" y="588" type="line"/>
+      <point x="304" y="588" type="line"/>
+      <point x="307" y="512" type="line"/>
+      <point x="146" y="475"/>
+      <point x="27" y="388"/>
+      <point x="27" y="255" type="curve" smooth="yes"/>
+      <point x="27" y="103"/>
+      <point x="179" y="52"/>
+      <point x="348" y="83" type="curve"/>
+      <point x="384" y="20"/>
+      <point x="456" y="-5"/>
+    </contour>
+    <contour>
+      <point x="320" y="219" type="line"/>
+      <point x="243" y="205"/>
+      <point x="167" y="222"/>
+      <point x="167" y="268" type="curve" smooth="yes"/>
+      <point x="167" y="316"/>
+      <point x="223" y="359"/>
+      <point x="314" y="373" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1277" y="0" type="line"/>
+      <point x="1417" y="0" type="line"/>
+      <point x="1396" y="732" type="line"/>
+      <point x="1256" y="732" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=heh-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=alef-ar</string>
+    </dict>
+  </lib>
+</glyph>

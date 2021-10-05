@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FE4" format="2">
+  <advance width="480"/>
+  <unicode hex="1FE4"/>
+  <anchor x="137" y="-240" name="bottom"/>
+  <anchor x="353" y="780" name="top"/>
+  <outline>
+    <component base="rho"/>
+    <component base="uni1FBD" xOffset="50" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>rho</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

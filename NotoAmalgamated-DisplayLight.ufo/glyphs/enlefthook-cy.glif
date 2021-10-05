@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enlefthook-cy" format="2">
+  <advance width="567"/>
+  <unicode hex="0529"/>
+  <anchor x="284" y="-240" name="bottom"/>
+  <anchor x="284" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="5" y="-240" type="curve"/>
+      <point x="72" y="-240"/>
+      <point x="115" y="-190"/>
+      <point x="115" y="-105" type="curve" smooth="yes"/>
+      <point x="115" y="263" type="line"/>
+      <point x="454" y="263" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="481" y="0" type="line"/>
+      <point x="481" y="527" type="line"/>
+      <point x="454" y="527" type="line"/>
+      <point x="454" y="288" type="line"/>
+      <point x="115" y="288" type="line"/>
+      <point x="115" y="527" type="line"/>
+      <point x="88" y="527" type="line"/>
+      <point x="88" y="-102" type="line" smooth="yes"/>
+      <point x="88" y="-176"/>
+      <point x="57" y="-215"/>
+      <point x="5" y="-215" type="curve" smooth="yes"/>
+      <point x="-14" y="-215"/>
+      <point x="-35" y="-212"/>
+      <point x="-50" y="-206" type="curve"/>
+      <point x="-50" y="-232" type="line"/>
+      <point x="-37" y="-236"/>
+      <point x="-19" y="-240"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

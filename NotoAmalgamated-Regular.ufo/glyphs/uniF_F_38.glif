@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF38" format="2">
+  <advance height="976" width="1000"/>
+  <unicode hex="FF38"/>
+  <note>
+uniFF38
+</note>
+  <outline>
+    <contour>
+      <point x="883" y="37" type="line"/>
+      <point x="776" y="46" type="line"/>
+      <point x="539" y="391" type="line"/>
+      <point x="770" y="702" type="line"/>
+      <point x="869" y="710" type="line"/>
+      <point x="869" y="748" type="line"/>
+      <point x="610" y="748" type="line"/>
+      <point x="610" y="710" type="line"/>
+      <point x="717" y="702" type="line"/>
+      <point x="516" y="423" type="line"/>
+      <point x="323" y="703" type="line"/>
+      <point x="426" y="710" type="line"/>
+      <point x="426" y="748" type="line"/>
+      <point x="135" y="748" type="line"/>
+      <point x="135" y="710" type="line"/>
+      <point x="232" y="702" type="line"/>
+      <point x="465" y="362" type="line"/>
+      <point x="224" y="44" type="line"/>
+      <point x="117" y="37" type="line"/>
+      <point x="117" y="0" type="line"/>
+      <point x="386" y="0" type="line"/>
+      <point x="386" y="37" type="line"/>
+      <point x="278" y="44" type="line"/>
+      <point x="488" y="330" type="line"/>
+      <point x="684" y="45" type="line"/>
+      <point x="588" y="37" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="883" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>0</integer>
+            <real>41.5</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>706.5</real>
+            <real>41.5</real>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>117</integer>
+            <integer>766</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>836</integer>
+    </dict>
+  </lib>
+</glyph>

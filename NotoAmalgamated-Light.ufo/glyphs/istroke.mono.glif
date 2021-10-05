@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istroke.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="0268"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="734" name="top"/>
+  <anchor x="491" y="734" name="topright"/>
+  <outline>
+    <contour>
+      <point x="100" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="530" y="21" type="line"/>
+      <point x="333" y="25" type="line"/>
+      <point x="333" y="251" type="line"/>
+      <point x="462" y="251" type="line"/>
+      <point x="462" y="276" type="line"/>
+      <point x="333" y="276" type="line"/>
+      <point x="333" y="528" type="line"/>
+      <point x="118" y="528" type="line"/>
+      <point x="118" y="507" type="line"/>
+      <point x="307" y="503" type="line"/>
+      <point x="307" y="276" type="line"/>
+      <point x="166" y="276" type="line"/>
+      <point x="166" y="251" type="line"/>
+      <point x="307" y="251" type="line"/>
+      <point x="307" y="25" type="line"/>
+      <point x="100" y="21" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="660" type="curve" smooth="yes"/>
+      <point x="343" y="660"/>
+      <point x="347" y="679"/>
+      <point x="347" y="697" type="curve" smooth="yes"/>
+      <point x="347" y="716"/>
+      <point x="341" y="734"/>
+      <point x="317" y="734" type="curve" smooth="yes"/>
+      <point x="291" y="734"/>
+      <point x="285" y="716"/>
+      <point x="285" y="697" type="curve" smooth="yes"/>
+      <point x="285" y="677"/>
+      <point x="292" y="660"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="estroke.display" format="2">
+  <advance width="468"/>
+  <unicode hex="0247"/>
+  <anchor x="144" y="-153" name="bottom"/>
+  <anchor x="325" y="695" name="top"/>
+  <outline>
+    <contour>
+      <point x="31" y="-138" type="line"/>
+      <point x="43" y="-138" type="line"/>
+      <point x="442" y="714" type="line"/>
+      <point x="430" y="714" type="line"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

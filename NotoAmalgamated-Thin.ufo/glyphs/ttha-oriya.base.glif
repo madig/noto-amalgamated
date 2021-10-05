@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ttha-oriya.base" format="2">
+  <advance width="677"/>
+  <anchor x="460" y="110" name="bottom"/>
+  <anchor x="340" y="658" name="top"/>
+  <anchor x="574" y="658" name="topright"/>
+  <outline>
+    <contour>
+      <point x="340" y="90" type="curve"/>
+      <point x="340" y="90" type="line"/>
+      <point x="519" y="90"/>
+      <point x="639" y="204"/>
+      <point x="639" y="376" type="curve"/>
+      <point x="639" y="550"/>
+      <point x="519" y="666"/>
+      <point x="340" y="666" type="curve"/>
+      <point x="159" y="666"/>
+      <point x="38" y="550"/>
+      <point x="38" y="377" type="curve"/>
+      <point x="38" y="205"/>
+      <point x="159" y="90"/>
+    </contour>
+    <contour>
+      <point x="340" y="113" type="curve"/>
+      <point x="340" y="113" type="line"/>
+      <point x="174" y="113"/>
+      <point x="64" y="218"/>
+      <point x="64" y="376" type="curve"/>
+      <point x="64" y="536"/>
+      <point x="176" y="642"/>
+      <point x="344" y="642" type="curve"/>
+      <point x="505" y="642"/>
+      <point x="613" y="537"/>
+      <point x="613" y="380" type="curve"/>
+      <point x="613" y="220"/>
+      <point x="504" y="113"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ttha-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ttha-oriya</string>
+    </dict>
+  </lib>
+</glyph>

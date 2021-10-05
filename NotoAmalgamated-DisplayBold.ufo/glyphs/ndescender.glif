@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ndescender" format="2">
+  <advance width="689"/>
+  <unicode hex="A791"/>
+  <outline>
+    <contour>
+      <point x="501" y="0" type="line"/>
+      <point x="501" y="-203" type="line"/>
+      <point x="666" y="-203" type="line"/>
+      <point x="666" y="132" type="line"/>
+      <point x="583" y="132" type="line"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+      <key>com.schriftgestaltung.componentsLocked</key>
+      <array>
+        <true/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

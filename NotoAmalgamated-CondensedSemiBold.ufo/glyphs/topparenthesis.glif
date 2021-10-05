@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="topparenthesis" format="2">
+  <advance width="1500"/>
+  <unicode hex="23DC"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="curve"/>
+      <point x="154" y="0" type="line"/>
+      <point x="177" y="46"/>
+      <point x="220" y="95"/>
+      <point x="279" y="144" type="curve" smooth="yes"/>
+      <point x="397" y="237"/>
+      <point x="565" y="294"/>
+      <point x="751" y="294" type="curve" smooth="yes"/>
+      <point x="845" y="294"/>
+      <point x="933" y="281"/>
+      <point x="1014" y="254" type="curve" smooth="yes"/>
+      <point x="1175" y="199"/>
+      <point x="1304" y="90"/>
+      <point x="1346" y="0" type="curve"/>
+      <point x="1440" y="0" type="line"/>
+      <point x="1312" y="238"/>
+      <point x="1064" y="392"/>
+      <point x="751" y="392" type="curve" smooth="yes"/>
+      <point x="436" y="392"/>
+      <point x="187" y="236"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

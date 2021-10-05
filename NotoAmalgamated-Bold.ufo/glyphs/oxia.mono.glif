@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oxia.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="1FFD"/>
+  <anchor x="300" y="553" name="_top"/>
+  <anchor x="307" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="254" y="622" type="curve"/>
+      <point x="254" y="606" type="line"/>
+      <point x="355" y="606" type="line"/>
+      <point x="392" y="670"/>
+      <point x="417" y="728"/>
+      <point x="439" y="783" type="curve"/>
+      <point x="439" y="795" type="line"/>
+      <point x="282" y="795" type="line"/>
+      <point x="277" y="746"/>
+      <point x="265" y="667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

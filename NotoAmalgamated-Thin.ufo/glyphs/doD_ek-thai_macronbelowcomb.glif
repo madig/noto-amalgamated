@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doDek-thai_macronbelowcomb" format="2">
+  <advance width="592"/>
+  <anchor x="293" y="-100" name="bottom"/>
+  <anchor x="502" y="-100" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="502" y="-77" type="line"/>
+      <point x="83" y="-77" type="line"/>
+      <point x="83" y="-100" type="line"/>
+      <point x="502" y="-100" type="line"/>
+    </contour>
+    <component base="doDek-thai"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B27.conj.td" format="2">
+  <advance width="967"/>
+  <outline>
+    <contour>
+      <point x="23" y="73" type="line"/>
+      <point x="95" y="18"/>
+      <point x="174" y="-10"/>
+      <point x="257" y="-10" type="curve" smooth="yes"/>
+      <point x="369" y="-10"/>
+      <point x="443" y="40"/>
+      <point x="443" y="185" type="curve" smooth="yes"/>
+      <point x="443" y="230" type="line"/>
+      <point x="362" y="230" type="line"/>
+      <point x="362" y="172" type="line" smooth="yes"/>
+      <point x="362" y="95"/>
+      <point x="319" y="62"/>
+      <point x="247" y="62" type="curve" smooth="yes"/>
+      <point x="192" y="62"/>
+      <point x="119" y="83"/>
+      <point x="52" y="128" type="curve"/>
+    </contour>
+    <component base="uni1B32.part" xOffset="-241"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1B32.part</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

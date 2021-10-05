@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="marwaridda-deva" format="2">
+  <advance width="556"/>
+  <unicode hex="0978"/>
+  <anchor x="356" y="-20" name="bottom"/>
+  <anchor x="273" y="0" name="bottom_right"/>
+  <anchor x="316" y="623" name="candra"/>
+  <anchor x="415" y="623" name="top"/>
+  <outline>
+    <contour>
+      <point x="290" y="-13" type="line"/>
+      <point x="400" y="48"/>
+      <point x="474" y="127"/>
+      <point x="474" y="204" type="curve" smooth="yes"/>
+      <point x="474" y="252"/>
+      <point x="446" y="298"/>
+      <point x="408" y="331" type="curve" smooth="yes"/>
+      <point x="364" y="370"/>
+      <point x="302" y="391"/>
+      <point x="241" y="391" type="curve" smooth="yes"/>
+      <point x="159" y="391"/>
+      <point x="52" y="366"/>
+      <point x="52" y="306" type="curve" smooth="yes"/>
+      <point x="52" y="253"/>
+      <point x="102" y="198"/>
+      <point x="153" y="198" type="curve" smooth="yes"/>
+      <point x="178" y="198"/>
+      <point x="194" y="212"/>
+      <point x="194" y="245" type="curve" smooth="yes"/>
+      <point x="194" y="306" type="line"/>
+      <point x="174" y="290" type="line"/>
+      <point x="214" y="312"/>
+      <point x="249" y="323"/>
+      <point x="293" y="323" type="curve" smooth="yes"/>
+      <point x="351" y="323"/>
+      <point x="405" y="293"/>
+      <point x="405" y="240" type="curve" smooth="yes"/>
+      <point x="405" y="169"/>
+      <point x="333" y="100"/>
+      <point x="225" y="46" type="curve"/>
+    </contour>
+    <contour>
+      <point x="119" y="353" type="line"/>
+      <point x="194" y="353" type="line"/>
+      <point x="194" y="590" type="line"/>
+      <point x="119" y="590" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="555" type="line"/>
+      <point x="596" y="555" type="line"/>
+      <point x="596" y="564" type="line"/>
+      <point x="556" y="623" type="line"/>
+      <point x="-40" y="623" type="line"/>
+      <point x="-40" y="612" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

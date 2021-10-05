@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightlongArrow" format="2">
+  <advance width="1000"/>
+  <unicode hex="27F6"/>
+  <outline>
+    <contour>
+      <point x="707" y="77" type="curve"/>
+      <point x="783" y="77" type="line"/>
+      <point x="817" y="121"/>
+      <point x="854" y="154"/>
+      <point x="897" y="176" type="curve"/>
+      <point x="897" y="219" type="line"/>
+      <point x="854" y="241"/>
+      <point x="817" y="274"/>
+      <point x="783" y="317" type="curve"/>
+      <point x="708" y="317" type="line"/>
+      <point x="722" y="285"/>
+      <point x="734" y="257"/>
+      <point x="746" y="237" type="curve"/>
+      <point x="101" y="237" type="line"/>
+      <point x="101" y="158" type="line"/>
+      <point x="745" y="158" type="line"/>
+      <point x="730" y="139"/>
+      <point x="722" y="112"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Arrow</string>
+    </dict>
+  </lib>
+</glyph>

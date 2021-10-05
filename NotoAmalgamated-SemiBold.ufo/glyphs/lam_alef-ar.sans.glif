@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_alef-ar.sans" format="2">
+  <advance width="632"/>
+  <unicode hex="FEFB"/>
+  <anchor x="468" y="0" name="bottom_1"/>
+  <anchor x="207" y="0" name="bottom_2"/>
+  <anchor x="316" y="0" name="caret_1"/>
+  <anchor x="449" y="663" name="top"/>
+  <anchor x="444" y="728" name="top_1"/>
+  <anchor x="118" y="613" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="394" y="536" type="curve" smooth="yes"/>
+      <point x="394" y="400"/>
+      <point x="321" y="281"/>
+      <point x="116" y="134" type="curve"/>
+      <point x="116" y="0" type="line"/>
+      <point x="410" y="0" type="line"/>
+      <point x="534" y="0"/>
+      <point x="579" y="70"/>
+      <point x="579" y="147" type="curve" smooth="yes"/>
+      <point x="579" y="234"/>
+      <point x="505" y="371"/>
+      <point x="113" y="615" type="curve"/>
+      <point x="40" y="508" type="line"/>
+      <point x="267" y="367"/>
+      <point x="444" y="216"/>
+      <point x="444" y="168" type="curve" smooth="yes"/>
+      <point x="444" y="148"/>
+      <point x="429" y="135"/>
+      <point x="361" y="135" type="curve" smooth="yes"/>
+      <point x="296" y="135" type="line"/>
+      <point x="351" y="174"/>
+      <point x="397" y="215"/>
+      <point x="432" y="258" type="curve"/>
+      <point x="450" y="282" type="line"/>
+      <point x="504" y="356"/>
+      <point x="531" y="440"/>
+      <point x="531" y="544" type="curve" smooth="yes"/>
+      <point x="531" y="610"/>
+      <point x="520" y="695"/>
+      <point x="513" y="736" type="curve"/>
+      <point x="373" y="716" type="line"/>
+      <point x="381" y="672"/>
+      <point x="394" y="602"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alef-ar</string>
+    </dict>
+  </lib>
+</glyph>

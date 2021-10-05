@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q_r-deva" format="2">
+  <advance width="464"/>
+  <anchor x="229.4" y="-188" name="nukta"/>
+  <anchor x="393" y="627" name="top"/>
+  <outline>
+    <component base="k_r-deva"/>
+    <component base="nukta-deva" xScale="0.9" yScale="0.9" xOffset="458" yOffset="46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

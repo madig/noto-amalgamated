@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="auguru" format="2">
+  <advance width="727"/>
+  <unicode hex="0A14"/>
+  <outline>
+    <component base="aguru"/>
+    <component base="aumatraguru" xOffset="707"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>aguru</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>aguru</string>
+    </dict>
+  </lib>
+</glyph>

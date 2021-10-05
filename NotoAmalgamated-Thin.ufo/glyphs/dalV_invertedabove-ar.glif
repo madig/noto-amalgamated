@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalVinvertedabove-ar" format="2">
+  <advance width="443"/>
+  <unicode hex="06EE"/>
+  <note>
+uni06EE
+</note>
+  <anchor x="195" y="-78" name="bottom"/>
+  <anchor x="178" y="836" name="top"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="circumflex.arabic" xOffset="178" yOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dal-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflex.arabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

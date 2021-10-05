@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nacomb-deva" format="2">
+  <unicode hex="A8ED"/>
+  <note>
+uniA8ED
+</note>
+  <outline>
+    <contour>
+      <point x="-162" y="1068" type="curve" smooth="yes"/>
+      <point x="-148" y="1068"/>
+      <point x="-140" y="1074"/>
+      <point x="-140" y="1097" type="curve" smooth="yes"/>
+      <point x="-140" y="1110"/>
+      <point x="-142" y="1126"/>
+      <point x="-145" y="1140" type="curve"/>
+      <point x="-158" y="1120" type="line"/>
+      <point x="-47" y="1120" type="line"/>
+      <point x="-47" y="1150" type="line"/>
+      <point x="-102" y="1157"/>
+      <point x="-155" y="1161"/>
+      <point x="-177" y="1161" type="curve" smooth="yes"/>
+      <point x="-204" y="1161"/>
+      <point x="-223" y="1153"/>
+      <point x="-223" y="1132" type="curve" smooth="yes"/>
+      <point x="-223" y="1101"/>
+      <point x="-187" y="1068"/>
+    </contour>
+    <contour>
+      <point x="-30" y="976" type="line"/>
+      <point x="-24" y="976" type="line"/>
+      <point x="-24" y="1250" type="line"/>
+      <point x="-66" y="1250" type="line"/>
+      <point x="-66" y="998" type="line"/>
+    </contour>
+    <contour>
+      <point x="-225" y="1234" type="line"/>
+      <point x="22" y="1234" type="line"/>
+      <point x="22" y="1240" type="line"/>
+      <point x="5" y="1273" type="line"/>
+      <point x="-242" y="1273" type="line"/>
+      <point x="-242" y="1267" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>47</integer>
+        <key>verticalShift</key>
+        <integer>1496</integer>
+        <key>weight</key>
+        <integer>-27</integer>
+        <key>width</key>
+        <integer>47</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf_hah-ar.init" format="2">
+  <advance width="1278"/>
+  <unicode hex="FCC2"/>
+  <anchor x="728" y="0" name="caret_1"/>
+  <outline>
+    <component base="qaf-ar.init" xOffset="728"/>
+    <component base="hah-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>qaf-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hah-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

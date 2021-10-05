@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tchehDotabove-ar" format="2">
+  <advance width="683"/>
+  <unicode hex="06BF"/>
+  <note>
+uni06BF
+</note>
+  <anchor x="195" y="-377" name="bottom"/>
+  <anchor x="270" y="755" name="top"/>
+  <outline>
+    <component base="hah_alt.isol"/>
+    <component base="onedot.above" xOffset="259"/>
+    <component base="threedots.below" xOffset="430" yOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hah_alt.isol</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>threedots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

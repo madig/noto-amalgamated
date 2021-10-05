@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad_hah_alefMaksura-ar.fina" format="2">
+  <advance width="1834"/>
+  <unicode hex="FD6E"/>
+  <anchor x="1082" y="0" name="caret_1"/>
+  <anchor x="625" y="0" name="caret_2"/>
+  <outline>
+    <component base="dad-ar.medi" xOffset="1082"/>
+    <component base="hah-ar.medi" xOffset="625"/>
+    <component base="alefMaksura-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dad-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

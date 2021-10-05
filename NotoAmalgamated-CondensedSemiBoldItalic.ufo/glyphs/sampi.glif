@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sampi" format="2">
+  <advance width="355"/>
+  <unicode hex="03E1"/>
+  <outline>
+    <contour>
+      <point x="29" y="-240" type="curve"/>
+      <point x="154" y="-240" type="line"/>
+      <point x="248" y="-85"/>
+      <point x="315" y="123"/>
+      <point x="315" y="307" type="curve" smooth="yes"/>
+      <point x="315" y="563"/>
+      <point x="210" y="721"/>
+      <point x="22" y="765" type="curve"/>
+      <point x="22" y="641" type="line"/>
+      <point x="90" y="612"/>
+      <point x="140" y="545"/>
+      <point x="159" y="476" type="curve"/>
+      <point x="11" y="410" type="line"/>
+      <point x="34" y="345" type="line"/>
+      <point x="178" y="406" type="line"/>
+      <point x="185" y="373"/>
+      <point x="188" y="325"/>
+      <point x="188" y="287" type="curve"/>
+      <point x="55" y="228" type="line"/>
+      <point x="77" y="163" type="line"/>
+      <point x="183" y="211" type="line"/>
+      <point x="165" y="51"/>
+      <point x="108" y="-103"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

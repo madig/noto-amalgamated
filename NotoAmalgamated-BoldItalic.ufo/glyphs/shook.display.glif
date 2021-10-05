@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shook.display" format="2">
+  <advance width="551"/>
+  <unicode hex="0282"/>
+  <anchor x="177" y="-197" name="bottom"/>
+  <anchor x="333" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="62" y="-197" type="curve" smooth="yes"/>
+      <point x="121" y="-197"/>
+      <point x="151" y="-171"/>
+      <point x="151" y="-120" type="curve" smooth="yes"/>
+      <point x="151" y="-106"/>
+      <point x="150" y="-93"/>
+      <point x="146" y="-88" type="curve"/>
+      <point x="127" y="-101"/>
+      <point x="98" y="-108"/>
+      <point x="56" y="-108" type="curve" smooth="yes"/>
+      <point x="13" y="-108"/>
+      <point x="-10" y="-90"/>
+      <point x="-10" y="-56" type="curve" smooth="yes"/>
+      <point x="-10" y="-37"/>
+      <point x="-7" y="-16"/>
+      <point x="-4" y="-2" type="curve" smooth="yes"/>
+      <point x="19" y="97" type="line"/>
+      <point x="14" y="118" type="line"/>
+      <point x="-15" y="-4" type="line" smooth="yes"/>
+      <point x="-23" y="-39"/>
+      <point x="-27" y="-69"/>
+      <point x="-27" y="-88" type="curve" smooth="yes"/>
+      <point x="-27" y="-173"/>
+      <point x="20" y="-197"/>
+    </contour>
+    <component base="s"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

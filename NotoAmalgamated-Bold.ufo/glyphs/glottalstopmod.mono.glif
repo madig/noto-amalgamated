@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalstopmod.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="02C0"/>
+  <outline>
+    <contour>
+      <point x="211" y="561" type="curve"/>
+      <point x="211" y="449" type="line"/>
+      <point x="338" y="449" type="line"/>
+      <point x="338" y="498" type="line"/>
+      <point x="419" y="522"/>
+      <point x="451" y="569"/>
+      <point x="451" y="628" type="curve"/>
+      <point x="451" y="705"/>
+      <point x="402" y="766"/>
+      <point x="283" y="766" type="curve"/>
+      <point x="228" y="766"/>
+      <point x="183" y="755"/>
+      <point x="149" y="736" type="curve"/>
+      <point x="190" y="639" type="line"/>
+      <point x="214" y="654"/>
+      <point x="238" y="665"/>
+      <point x="266" y="665" type="curve"/>
+      <point x="284" y="665"/>
+      <point x="301" y="651"/>
+      <point x="301" y="624" type="curve"/>
+      <point x="301" y="597"/>
+      <point x="271" y="575"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddaorya" format="2">
+  <advance width="619"/>
+  <unicode hex="0B21"/>
+  <anchor x="317" y="0" name="b.tasubscriptorya"/>
+  <anchor x="412" y="0" name="b.uvowelsignorya"/>
+  <anchor x="500" y="657" name="t.candrabinduorya"/>
+  <anchor x="317" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <component base="_part.u" xOffset="20"/>
+    <component base="_part.swash3" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+    </dict>
+  </lib>
+</glyph>

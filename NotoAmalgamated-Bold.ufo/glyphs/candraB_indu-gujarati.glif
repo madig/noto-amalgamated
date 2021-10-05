@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="candraBindu-gujarati" format="2">
+  <unicode hex="0A81"/>
+  <anchor x="0" y="592" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="-2" y="648" type="curve" smooth="yes"/>
+      <point x="130" y="648"/>
+      <point x="207" y="733"/>
+      <point x="229" y="851" type="curve"/>
+      <point x="95" y="886" type="line"/>
+      <point x="80" y="802"/>
+      <point x="38" y="756"/>
+      <point x="-37" y="756" type="curve" smooth="yes"/>
+      <point x="-109" y="756"/>
+      <point x="-151" y="798"/>
+      <point x="-175" y="875" type="curve"/>
+      <point x="-253" y="848" type="line"/>
+      <point x="-219" y="738"/>
+      <point x="-147" y="648"/>
+    </contour>
+    <contour>
+      <point x="-40" y="813" type="curve" smooth="yes"/>
+      <point x="1" y="813"/>
+      <point x="29" y="833"/>
+      <point x="29" y="879" type="curve" smooth="yes"/>
+      <point x="29" y="925"/>
+      <point x="1" y="945"/>
+      <point x="-40" y="945" type="curve" smooth="yes"/>
+      <point x="-81" y="945"/>
+      <point x="-108" y="925"/>
+      <point x="-108" y="879" type="curve" smooth="yes"/>
+      <point x="-108" y="833"/>
+      <point x="-81" y="813"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

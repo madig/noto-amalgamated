@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="znotationrightimagebracket" format="2">
+  <advance width="600"/>
+  <unicode hex="2988"/>
+  <outline>
+    <contour>
+      <point x="177" y="-157" type="line"/>
+      <point x="272" y="-157" type="line"/>
+      <point x="376" y="-40"/>
+      <point x="424" y="114"/>
+      <point x="424" y="275" type="curve"/>
+      <point x="424" y="438"/>
+      <point x="376" y="594"/>
+      <point x="272" y="715" type="curve"/>
+      <point x="177" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="-21" type="curve"/>
+      <point x="266" y="576" type="line"/>
+      <point x="309" y="485"/>
+      <point x="331" y="380"/>
+      <point x="331" y="276" type="curve"/>
+      <point x="331" y="171"/>
+      <point x="309" y="69"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Parenthesis</string>
+    </dict>
+  </lib>
+</glyph>

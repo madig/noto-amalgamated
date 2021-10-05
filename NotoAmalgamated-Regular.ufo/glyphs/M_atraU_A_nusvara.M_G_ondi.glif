@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraUAnusvara.MGondi" format="2">
+  <advance width="280"/>
+  <outline>
+    <component base="MatraU.MGondi"/>
+    <component base="Anusvara.MGondi" xOffset="135"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Anusvara.MGondi</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraIAnusvara.MGondi</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iebreve-cy.display" format="2">
+  <advance width="621"/>
+  <unicode hex="04D6"/>
+  <anchor x="255" y="0" name="bottom"/>
+  <anchor x="457" y="947" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="cyrillicbreve" xOffset="52" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

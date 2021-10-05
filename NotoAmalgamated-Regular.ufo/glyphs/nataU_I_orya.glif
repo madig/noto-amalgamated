@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nataUIorya" format="2">
+  <advance width="625"/>
+  <anchor x="305" y="30" name="b.tasubscriptorya"/>
+  <anchor x="457" y="30" name="b.uvowelsignorya"/>
+  <anchor x="305" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <component base="_part.na" xOffset="14" yOffset="67"/>
+    <component base="tasubscriptorya" xOffset="592" yOffset="144"/>
+    <component base="_part.swash5" xOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>kaorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

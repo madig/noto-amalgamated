@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="halfeight_tibet" format="2">
+  <advance width="675"/>
+  <unicode hex="0F31"/>
+  <anchor x="279" y="86" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="339" y="689" type="line"/>
+      <point x="50" y="390" type="line"/>
+      <point x="56" y="348" type="line"/>
+      <point x="286" y="326"/>
+      <point x="437" y="227"/>
+      <point x="507" y="52" type="curve"/>
+      <point x="547" y="68" type="line"/>
+      <point x="463" y="315"/>
+      <point x="333" y="414"/>
+      <point x="105" y="441" type="curve"/>
+      <point x="111" y="385" type="line"/>
+      <point x="373" y="656" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="450" type="curve" smooth="yes"/>
+      <point x="30" y="152" type="line"/>
+      <point x="63" y="116" type="line"/>
+      <point x="389" y="418" type="line" smooth="yes"/>
+      <point x="439" y="464"/>
+      <point x="469" y="477"/>
+      <point x="515" y="477" type="curve" smooth="yes"/>
+      <point x="564" y="477"/>
+      <point x="593" y="447"/>
+      <point x="593" y="398" type="curve" smooth="yes"/>
+      <point x="593" y="357"/>
+      <point x="579" y="325"/>
+      <point x="528" y="277" type="curve"/>
+      <point x="556" y="244" type="line"/>
+      <point x="620" y="302"/>
+      <point x="645" y="341"/>
+      <point x="645" y="398" type="curve" smooth="yes"/>
+      <point x="645" y="470"/>
+      <point x="598" y="529"/>
+      <point x="515" y="529" type="curve" smooth="yes"/>
+      <point x="462" y="529"/>
+      <point x="414" y="507"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

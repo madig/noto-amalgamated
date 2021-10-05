@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uMatra_kannada" format="2">
+  <advance width="349"/>
+  <unicode hex="0CC1"/>
+  <outline>
+    <contour>
+      <point x="133" y="-12" type="curve" smooth="yes"/>
+      <point x="250" y="-12"/>
+      <point x="305" y="94"/>
+      <point x="305" y="225" type="curve" smooth="yes"/>
+      <point x="305" y="396"/>
+      <point x="178" y="535"/>
+      <point x="99" y="535" type="curve" smooth="yes"/>
+      <point x="68" y="535"/>
+      <point x="54" y="508"/>
+      <point x="54" y="473" type="curve" smooth="yes"/>
+      <point x="54" y="451"/>
+      <point x="58" y="433"/>
+      <point x="63" y="421" type="curve"/>
+      <point x="174" y="392"/>
+      <point x="241" y="340"/>
+      <point x="241" y="248" type="curve" smooth="yes"/>
+      <point x="241" y="183"/>
+      <point x="197" y="137"/>
+      <point x="115" y="137" type="curve" smooth="yes"/>
+      <point x="27" y="137"/>
+      <point x="-23" y="177"/>
+      <point x="-71" y="233" type="curve"/>
+      <point x="-99" y="217" type="line"/>
+      <point x="-49" y="90"/>
+      <point x="19" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>kannada</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing Combining</string>
+    </dict>
+  </lib>
+</glyph>

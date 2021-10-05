@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphapsilivariaypogegrammeni.display" format="2">
+  <advance width="487"/>
+  <unicode hex="1F82"/>
+  <anchor x="143" y="-210" name="bottom"/>
+  <anchor x="349" y="756" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="psilivaria" xOffset="84"/>
+    <component base="prosgegrammeni" xOffset="60" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>alpha</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

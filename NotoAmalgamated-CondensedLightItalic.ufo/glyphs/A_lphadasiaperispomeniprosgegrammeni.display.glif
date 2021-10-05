@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasiaperispomeniprosgegrammeni.display" format="2">
+  <advance width="772"/>
+  <unicode hex="1F8F"/>
+  <anchor x="533" y="0" name="bottom"/>
+  <anchor x="716" y="536" name="top"/>
+  <outline>
+    <component base="dasiaperispomeni" xOffset="-25"/>
+    <component base="A" xOffset="93"/>
+    <component base="iota" xOffset="574"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

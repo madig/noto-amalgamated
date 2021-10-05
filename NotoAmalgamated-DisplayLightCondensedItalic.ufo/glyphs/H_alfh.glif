@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Halfh" format="2">
+  <advance width="338"/>
+  <unicode hex="2C75"/>
+  <anchor x="115" y="0" name="bottom"/>
+  <anchor x="267" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="2" y="0" type="line"/>
+      <point x="28" y="0" type="line"/>
+      <point x="105" y="363" type="line"/>
+      <point x="328" y="363" type="line"/>
+      <point x="334" y="388" type="line"/>
+      <point x="111" y="388" type="line"/>
+      <point x="180" y="714" type="line"/>
+      <point x="154" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

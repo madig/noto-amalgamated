@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oopenretroflexhook.serif" format="2">
+  <advance width="356"/>
+  <unicode hex="1D97"/>
+  <outline>
+    <contour>
+      <point x="104" y="-195" type="curve" smooth="yes"/>
+      <point x="132" y="-195"/>
+      <point x="153" y="-179"/>
+      <point x="153" y="-150" type="curve" smooth="yes"/>
+      <point x="153" y="-135"/>
+      <point x="148" y="-128"/>
+      <point x="142" y="-121" type="curve"/>
+      <point x="142" y="-151"/>
+      <point x="128" y="-168"/>
+      <point x="106" y="-168" type="curve" smooth="yes"/>
+      <point x="76" y="-168"/>
+      <point x="65" y="-144"/>
+      <point x="65" y="-70" type="curve" smooth="yes"/>
+      <point x="65" y="58" type="line"/>
+      <point x="37" y="97" type="line"/>
+      <point x="37" y="-70" type="line" smooth="yes"/>
+      <point x="37" y="-157"/>
+      <point x="53" y="-195"/>
+    </contour>
+    <component base="oopen"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

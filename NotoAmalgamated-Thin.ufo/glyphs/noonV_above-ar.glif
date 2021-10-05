@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonVabove-ar" format="2">
+  <advance width="583"/>
+  <unicode hex="0769"/>
+  <note>
+uni0769
+</note>
+  <anchor x="322" y="-322" name="bottom"/>
+  <anchor x="289" y="843" name="top"/>
+  <outline>
+    <component base="noonghunna-ar"/>
+    <component base="smallv.arabic" xOffset="284" yOffset="6"/>
+    <component base="onedot.above" xOffset="297" yOffset="-105"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>noonghunna-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>smallv.arabic</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

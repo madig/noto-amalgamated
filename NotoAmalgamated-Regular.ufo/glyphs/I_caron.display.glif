@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icaron.display" format="2">
+  <advance width="322"/>
+  <unicode hex="01CF"/>
+  <anchor x="162" y="0" name="bottom"/>
+  <anchor x="162" y="944" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="caron" xOffset="-49" yOffset="178"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

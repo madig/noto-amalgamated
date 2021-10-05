@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro.serif" format="2">
+  <advance width="461"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="248" y="-10" type="curve" smooth="yes"/>
+      <point x="345" y="-10"/>
+      <point x="394" y="51"/>
+      <point x="394" y="84" type="curve" smooth="yes"/>
+      <point x="394" y="95"/>
+      <point x="389" y="101"/>
+      <point x="384" y="105" type="curve"/>
+      <point x="358" y="74"/>
+      <point x="324" y="47"/>
+      <point x="270" y="47" type="curve" smooth="yes"/>
+      <point x="212" y="47"/>
+      <point x="180" y="101"/>
+      <point x="180" y="194" type="curve" smooth="yes"/>
+      <point x="180" y="329"/>
+      <point x="240" y="676"/>
+      <point x="361" y="676" type="curve" smooth="yes"/>
+      <point x="411" y="676"/>
+      <point x="434" y="623"/>
+      <point x="431" y="560" type="curve"/>
+      <point x="484" y="560"/>
+      <point x="513" y="583"/>
+      <point x="513" y="634" type="curve" smooth="yes"/>
+      <point x="513" y="682"/>
+      <point x="474" y="722"/>
+      <point x="393" y="722" type="curve" smooth="yes"/>
+      <point x="187" y="722"/>
+      <point x="91" y="412"/>
+      <point x="91" y="198" type="curve" smooth="yes"/>
+      <point x="91" y="48"/>
+      <point x="159" y="-10"/>
+    </contour>
+    <contour>
+      <point x="32" y="266" type="line"/>
+      <point x="311" y="266" type="line"/>
+      <point x="322" y="311" type="line"/>
+      <point x="42" y="311" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="382" type="line"/>
+      <point x="368" y="382" type="line"/>
+      <point x="378" y="426" type="line"/>
+      <point x="67" y="426" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

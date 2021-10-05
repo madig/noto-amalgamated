@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="halfhturned.display" format="2">
+  <advance width="318"/>
+  <unicode hex="A7F6"/>
+  <anchor x="97" y="0" name="bottom"/>
+  <anchor x="209" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="166" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="286" y="438" type="line" smooth="yes"/>
+      <point x="295" y="479"/>
+      <point x="299" y="497"/>
+      <point x="302" y="505" type="curve" smooth="yes"/>
+      <point x="309" y="523"/>
+      <point x="316" y="526"/>
+      <point x="354" y="526" type="curve" smooth="yes"/>
+      <point x="368" y="526" type="line"/>
+      <point x="370" y="536" type="line"/>
+      <point x="279" y="536" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="273" type="line"/>
+      <point x="235" y="273" type="line"/>
+      <point x="237" y="283" type="line"/>
+      <point x="17" y="283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|uni2C76</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>halfh</string>
+    </dict>
+  </lib>
+</glyph>

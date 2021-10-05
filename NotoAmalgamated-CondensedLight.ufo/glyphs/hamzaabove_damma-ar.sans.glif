@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzaabove_damma-ar.sans" format="2">
+  <anchor x="129" y="498" name="_top"/>
+  <anchor x="103" y="1009" name="top"/>
+  <outline>
+    <component base="hamzaabove-ar" yOffset="40"/>
+    <component base="damma-ar" xOffset="7" yOffset="243"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>222</integer>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

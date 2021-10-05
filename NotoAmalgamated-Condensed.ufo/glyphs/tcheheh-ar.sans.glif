@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcheheh-ar.sans" format="2">
+  <advance width="514"/>
+  <unicode hex="0687"/>
+  <anchor x="314" y="496" name="top"/>
+  <outline>
+    <component base="hah-ar.wide"/>
+    <component base="fourdotsabove-ar.small" xOffset="160" yOffset="-657"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fourdotsabove-ar.small</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

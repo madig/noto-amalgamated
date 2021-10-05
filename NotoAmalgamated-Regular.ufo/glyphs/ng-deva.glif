@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ng-deva" format="2">
+  <advance width="569"/>
+  <anchor x="350" y="-10" name="bottom"/>
+  <anchor x="258" y="-10" name="bottom_right"/>
+  <anchor x="407" y="623" name="candra"/>
+  <anchor x="278" y="-105" name="nukta"/>
+  <anchor x="407" y="623" name="top"/>
+  <outline>
+    <component base="nga-deva"/>
+    <component base="halant-deva" xOffset="350" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Halfform</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamVabove_alef-ar.fina.sans" format="2">
+  <advance width="670"/>
+  <note>
+uni06B50627.fina
+</note>
+  <anchor x="0" y="0" name="caret_1"/>
+  <outline>
+    <component base="lam_alef-ar.fina"/>
+    <component base="vabove-ar" xOffset="350" yOffset="256"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>vabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

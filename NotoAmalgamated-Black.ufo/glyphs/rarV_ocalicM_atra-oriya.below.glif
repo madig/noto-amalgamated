@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rarVocalicMatra-oriya.below" format="2">
+  <note>
+rvocalicvowelsignaltorya
+</note>
+  <anchor x="664" y="0" name="_bottom_ra"/>
+  <outline>
+    <contour>
+      <point x="154" y="-100" type="line"/>
+      <point x="664" y="-100" type="line"/>
+      <point x="664" y="20" type="line"/>
+      <point x="494" y="20" type="line"/>
+      <point x="494" y="-16" type="line"/>
+      <point x="154" y="-16" type="line"/>
+    </contour>
+    <contour>
+      <point x="449" y="-110" type="curve"/>
+      <point x="449" y="-110" type="line"/>
+      <point x="433" y="-184" type="line"/>
+      <point x="450" y="-184"/>
+      <point x="458" y="-189"/>
+      <point x="458" y="-195" type="curve"/>
+      <point x="458" y="-203"/>
+      <point x="441" y="-206"/>
+      <point x="420" y="-206" type="curve"/>
+      <point x="387" y="-206"/>
+      <point x="359" y="-196"/>
+      <point x="359" y="-175" type="curve"/>
+      <point x="359" y="-157"/>
+      <point x="379" y="-145"/>
+      <point x="422" y="-139" type="curve"/>
+      <point x="403" y="-61" type="line"/>
+      <point x="298" y="-67"/>
+      <point x="233" y="-106"/>
+      <point x="233" y="-178" type="curve"/>
+      <point x="233" y="-256"/>
+      <point x="311" y="-292"/>
+      <point x="412" y="-292" type="curve"/>
+      <point x="505" y="-292"/>
+      <point x="575" y="-261"/>
+      <point x="575" y="-198" type="curve"/>
+      <point x="575" y="-147"/>
+      <point x="530" y="-110"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>800</integer>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

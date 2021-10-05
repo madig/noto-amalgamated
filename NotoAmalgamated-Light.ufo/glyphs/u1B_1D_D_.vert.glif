@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1B1DD.vert" format="2">
+  <advance height="1200" width="1000"/>
+  <note>
+u1B1DD.vert
+</note>
+  <outline>
+    <contour>
+      <point x="741.5" y="285" type="curve"/>
+      <point x="514.5" y="623" type="line"/>
+      <point x="535.18" y="685.31"/>
+      <point x="547.51" y="751.31"/>
+      <point x="551.5" y="821" type="curve"/>
+      <point x="496.5" y="824" type="line"/>
+      <point x="489.84" y="728.88"/>
+      <point x="467.59" y="639.78"/>
+      <point x="429.76" y="556.69" type="curve" smooth="yes"/>
+      <point x="399.71" y="491.21"/>
+      <point x="342.62" y="399.64"/>
+      <point x="258.5" y="282" type="curve"/>
+      <point x="472.5" y="-34" type="line"/>
+      <point x="410.42" y="-120.23"/>
+      <point x="353.09" y="-194.57"/>
+      <point x="300.5" y="-257" type="curve"/>
+      <point x="342.5" y="-296" type="line"/>
+      <point x="398.5" y="-230"/>
+      <point x="453.5" y="-160"/>
+      <point x="507.5" y="-86" type="curve"/>
+      <point x="649.5" y="-296" type="line"/>
+      <point x="693.5" y="-263" type="line"/>
+      <point x="541.5" y="-38" type="line"/>
+      <point x="612.96" y="64.74"/>
+      <point x="679.63" y="172.4"/>
+    </contour>
+    <contour>
+      <point x="490.5" y="559" type="curve"/>
+      <point x="568.5" y="443" type="line"/>
+      <point x="521.43" y="356.96"/>
+      <point x="466.1" y="265.3"/>
+      <point x="402.5" y="168" type="curve"/>
+      <point x="326.5" y="281" type="line"/>
+      <point x="405.83" y="396.02"/>
+      <point x="460.5" y="488.68"/>
+    </contour>
+    <contour>
+      <point x="506.5" y="14" type="curve"/>
+      <point x="433.5" y="122" type="line"/>
+      <point x="467.49" y="170.97"/>
+      <point x="523.82" y="260.97"/>
+      <point x="602.5" y="392" type="curve"/>
+      <point x="675.5" y="284" type="line"/>
+      <point x="633.85" y="208.95"/>
+      <point x="577.52" y="118.95"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>496.5</real>
+            <integer>55</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ystroke" format="2">
+  <advance width="266"/>
+  <unicode hex="024E"/>
+  <anchor x="77" y="0" name="bottom"/>
+  <anchor x="229" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="89" y="0" type="line"/>
+      <point x="148" y="278" type="line"/>
+      <point x="266" y="507" type="line"/>
+      <point x="325" y="507" type="line"/>
+      <point x="330" y="532" type="line"/>
+      <point x="279" y="532" type="line"/>
+      <point x="373" y="714" type="line"/>
+      <point x="344" y="714" type="line"/>
+      <point x="251" y="532" type="line"/>
+      <point x="124" y="532" type="line"/>
+      <point x="108" y="714" type="line"/>
+      <point x="82" y="714" type="line"/>
+      <point x="99" y="532" type="line"/>
+      <point x="50" y="532" type="line"/>
+      <point x="45" y="507" type="line"/>
+      <point x="101" y="507" type="line"/>
+      <point x="122" y="278" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="319" type="line"/>
+      <point x="126" y="507" type="line"/>
+      <point x="238" y="507" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

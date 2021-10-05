@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehFourbelow-farsi.medi" format="2">
+  <advance width="268"/>
+  <anchor x="120" y="-407" name="bottom"/>
+  <anchor x="134" y="540" name="top"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="Fourbelow-ar" xOffset="29" yOffset="-17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Fourbelow-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

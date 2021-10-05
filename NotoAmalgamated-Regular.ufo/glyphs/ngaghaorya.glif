@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ngaghaorya" format="2">
+  <advance width="793"/>
+  <anchor x="399" y="0" name="b.tasubscriptorya"/>
+  <anchor x="584" y="0" name="b.uvowelsignorya"/>
+  <anchor x="519" y="657" name="t.candrabinduorya"/>
+  <anchor x="363" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <component base="ghaorya"/>
+    <component base="_part.oo" xOffset="209" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="va_uMatra-khoj" format="2">
+  <advance width="673"/>
+  <note>
+VU
+</note>
+  <anchor x="444" y="-91" name="bottom"/>
+  <anchor x="325" y="560" name="nukta"/>
+  <anchor x="560" y="600" name="top"/>
+  <outline>
+    <contour>
+      <point x="311" y="-106" type="curve" smooth="yes"/>
+      <point x="501" y="-106"/>
+      <point x="588" y="49"/>
+      <point x="588" y="291" type="curve" smooth="yes"/>
+      <point x="588" y="387"/>
+      <point x="574" y="514"/>
+      <point x="550" y="600" type="curve"/>
+      <point x="474" y="600" type="line"/>
+      <point x="494" y="516"/>
+      <point x="506" y="432"/>
+      <point x="506" y="336" type="curve" smooth="yes"/>
+      <point x="506" y="127"/>
+      <point x="451" y="-24"/>
+      <point x="280" y="-24" type="curve" smooth="yes"/>
+      <point x="181" y="-24"/>
+      <point x="95" y="27"/>
+      <point x="22" y="117" type="curve"/>
+      <point x="16" y="115" type="line"/>
+      <point x="10" y="60" type="line"/>
+      <point x="82" y="-34"/>
+      <point x="182" y="-106"/>
+    </contour>
+    <contour>
+      <point x="298" y="150" type="curve" smooth="yes"/>
+      <point x="396" y="150"/>
+      <point x="496" y="219"/>
+      <point x="558" y="311" type="curve"/>
+      <point x="519" y="381" type="line"/>
+      <point x="468" y="301"/>
+      <point x="359" y="232"/>
+      <point x="265" y="232" type="curve" smooth="yes"/>
+      <point x="196" y="232"/>
+      <point x="167" y="271"/>
+      <point x="167" y="313" type="curve" smooth="yes"/>
+      <point x="167" y="367"/>
+      <point x="217" y="400"/>
+      <point x="298" y="400" type="curve" smooth="yes"/>
+      <point x="350" y="400"/>
+      <point x="403" y="386"/>
+      <point x="457" y="351" type="curve"/>
+      <point x="462" y="356" type="line"/>
+      <point x="438" y="434" type="line"/>
+      <point x="395" y="468"/>
+      <point x="336" y="491"/>
+      <point x="270" y="491" type="curve" smooth="yes"/>
+      <point x="162" y="491"/>
+      <point x="98" y="430"/>
+      <point x="98" y="348" type="curve" smooth="yes"/>
+      <point x="98" y="257"/>
+      <point x="177" y="150"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>va-khoj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

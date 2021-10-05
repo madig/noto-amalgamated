@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs_t.display" format="2">
+  <advance width="640"/>
+  <unicode hex="FB05"/>
+  <anchor x="125" y="0" name="bottom"/>
+  <anchor x="468" y="268" name="center"/>
+  <anchor x="274" y="765" name="top"/>
+  <anchor x="615" y="659" name="topright"/>
+  <outline>
+    <contour>
+      <point x="531" y="-10" type="curve" smooth="yes"/>
+      <point x="562" y="-10"/>
+      <point x="600" y="-3"/>
+      <point x="619" y="6" type="curve"/>
+      <point x="619" y="73" type="line"/>
+      <point x="602" y="67"/>
+      <point x="572" y="62"/>
+      <point x="547" y="62" type="curve" smooth="yes"/>
+      <point x="501" y="62"/>
+      <point x="469" y="93"/>
+      <point x="469" y="158" type="curve" smooth="yes"/>
+      <point x="469" y="468" type="line"/>
+      <point x="615" y="468" type="line"/>
+      <point x="615" y="536" type="line"/>
+      <point x="469" y="536" type="line"/>
+      <point x="469" y="659" type="line"/>
+      <point x="440" y="724"/>
+      <point x="379" y="765"/>
+      <point x="280" y="765" type="curve" smooth="yes"/>
+      <point x="164" y="765"/>
+      <point x="79" y="709"/>
+      <point x="79" y="577" type="curve" smooth="yes"/>
+      <point x="79" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="166" y="577" type="line" smooth="yes"/>
+      <point x="166" y="649"/>
+      <point x="200" y="692"/>
+      <point x="280" y="692" type="curve" smooth="yes"/>
+      <point x="329" y="692"/>
+      <point x="365" y="676"/>
+      <point x="384" y="641" type="curve"/>
+      <point x="384" y="545" type="line"/>
+      <point x="311" y="510" type="line"/>
+      <point x="311" y="468" type="line"/>
+      <point x="382" y="468" type="line"/>
+      <point x="382" y="156" type="line" smooth="yes"/>
+      <point x="382" y="26"/>
+      <point x="451" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>longs</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="llu_kannada" format="2">
+  <advance width="1013"/>
+  <anchor x="342" y="0" name="bottom"/>
+  <anchor x="344" y="566" name="top"/>
+  <outline>
+    <contour>
+      <point x="798" y="-12" type="curve" smooth="yes"/>
+      <point x="916" y="-12"/>
+      <point x="973" y="94"/>
+      <point x="973" y="227" type="curve" smooth="yes"/>
+      <point x="973" y="398"/>
+      <point x="853" y="542"/>
+      <point x="762" y="542" type="curve" smooth="yes"/>
+      <point x="729" y="542"/>
+      <point x="711" y="514"/>
+      <point x="711" y="476" type="curve" smooth="yes"/>
+      <point x="711" y="449"/>
+      <point x="716" y="430"/>
+      <point x="723" y="416" type="curve"/>
+      <point x="833" y="394"/>
+      <point x="899" y="342"/>
+      <point x="899" y="263" type="curve" smooth="yes"/>
+      <point x="899" y="200"/>
+      <point x="848" y="167"/>
+      <point x="771" y="167" type="curve" smooth="yes"/>
+      <point x="695" y="167"/>
+      <point x="634" y="198"/>
+      <point x="595" y="251" type="curve"/>
+      <point x="556" y="234" type="line"/>
+      <point x="602" y="90"/>
+      <point x="680" y="-12"/>
+    </contour>
+    <component base="lla_kannada" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>kannada</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

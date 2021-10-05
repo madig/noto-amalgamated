@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="baguru" format="2">
+  <advance width="615"/>
+  <unicode hex="0A2C"/>
+  <anchor x="527" y="0" name="bottom"/>
+  <anchor x="478" y="622" name="top"/>
+  <outline>
+    <contour>
+      <point x="650" y="565" type="line"/>
+      <point x="628" y="622" type="line"/>
+      <point x="-30" y="622" type="line"/>
+      <point x="-35" y="613" type="line"/>
+      <point x="-13" y="555" type="line"/>
+      <point x="56" y="555" type="line"/>
+      <point x="71" y="480"/>
+      <point x="122" y="398"/>
+      <point x="232" y="371" type="curve"/>
+      <point x="157" y="355"/>
+      <point x="95" y="319"/>
+      <point x="48" y="255" type="curve"/>
+      <point x="95" y="143"/>
+      <point x="215" y="60"/>
+      <point x="332" y="60" type="curve" smooth="yes"/>
+      <point x="374" y="60"/>
+      <point x="412" y="69"/>
+      <point x="444" y="83" type="curve"/>
+      <point x="444" y="0" type="line"/>
+      <point x="517" y="-37" type="line"/>
+      <point x="527" y="-32" type="line"/>
+      <point x="527" y="555" type="line"/>
+      <point x="645" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="444" y="391" type="line"/>
+      <point x="341" y="391" type="line" smooth="yes"/>
+      <point x="213" y="391"/>
+      <point x="153" y="470"/>
+      <point x="139" y="555" type="curve"/>
+      <point x="444" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="132" type="curve" smooth="yes"/>
+      <point x="233" y="132"/>
+      <point x="162" y="164"/>
+      <point x="124" y="223" type="curve"/>
+      <point x="187" y="295"/>
+      <point x="277" y="320"/>
+      <point x="381" y="320" type="curve" smooth="yes"/>
+      <point x="444" y="320" type="line"/>
+      <point x="444" y="171" type="line"/>
+      <point x="404" y="144"/>
+      <point x="357" y="132"/>
+    </contour>
+  </outline>
+</glyph>

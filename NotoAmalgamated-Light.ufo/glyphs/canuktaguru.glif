@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="canuktaguru" format="2">
+  <advance width="575"/>
+  <note>
+canuktaguru
+</note>
+  <anchor x="468" y="0" name="bottom"/>
+  <anchor x="460" y="622" name="top"/>
+  <outline>
+    <component base="caguru"/>
+    <component base="nuktaguru" xOffset="132" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>caguru</string>
+    </dict>
+  </lib>
+</glyph>

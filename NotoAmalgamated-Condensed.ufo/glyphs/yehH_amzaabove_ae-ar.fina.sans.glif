@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehHamzaabove_ae-ar.fina.sans" format="2">
+  <advance width="665"/>
+  <unicode hex="FBED"/>
+  <anchor x="382" y="0" name="caret_1"/>
+  <outline>
+    <component base="yehHamzaabove-ar.medi" xOffset="402"/>
+    <component base="heh-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yehHamzaabove-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ae-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

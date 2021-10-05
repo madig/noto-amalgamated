@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noNok-lao" format="2">
+  <advance width="725"/>
+  <unicode hex="0E99"/>
+  <anchor x="355" y="0" name="bottom"/>
+  <anchor x="649" y="0" name="bottomright"/>
+  <anchor x="372" y="608" name="top"/>
+  <anchor x="659" y="608" name="topright"/>
+  <outline>
+    <contour>
+      <point x="112" y="-22" type="line"/>
+      <point x="175" y="-9"/>
+      <point x="230" y="23"/>
+      <point x="257" y="78" type="curve"/>
+      <point x="263" y="78" type="line"/>
+      <point x="306" y="28"/>
+      <point x="358" y="-15"/>
+      <point x="449" y="-15" type="curve" smooth="yes"/>
+      <point x="578" y="-15"/>
+      <point x="659" y="68"/>
+      <point x="659" y="199" type="curve" smooth="yes"/>
+      <point x="659" y="563" type="line"/>
+      <point x="473" y="563" type="line"/>
+      <point x="473" y="218" type="line" smooth="yes"/>
+      <point x="473" y="164"/>
+      <point x="440" y="131"/>
+      <point x="384" y="131" type="curve" smooth="yes"/>
+      <point x="330" y="131"/>
+      <point x="305" y="152"/>
+      <point x="294" y="179" type="curve"/>
+      <point x="303" y="134" type="line"/>
+      <point x="303" y="424" type="line" smooth="yes"/>
+      <point x="303" y="516"/>
+      <point x="245" y="573"/>
+      <point x="151" y="573" type="curve" smooth="yes"/>
+      <point x="77" y="573"/>
+      <point x="26" y="530"/>
+      <point x="26" y="467" type="curve" smooth="yes"/>
+      <point x="26" y="403"/>
+      <point x="69" y="359"/>
+      <point x="132" y="359" type="curve" smooth="yes"/>
+      <point x="209" y="359"/>
+      <point x="284" y="389"/>
+      <point x="284" y="467" type="curve"/>
+      <point x="259" y="467" type="line"/>
+      <point x="259" y="420"/>
+      <point x="195" y="381"/>
+      <point x="117" y="381" type="curve"/>
+      <point x="117" y="200" type="line" smooth="yes"/>
+      <point x="117" y="155"/>
+      <point x="97" y="126"/>
+      <point x="54" y="113" type="curve"/>
+    </contour>
+    <contour>
+      <point x="145" y="421" type="curve" smooth="yes"/>
+      <point x="115" y="421"/>
+      <point x="97" y="438"/>
+      <point x="97" y="466" type="curve" smooth="yes"/>
+      <point x="97" y="494"/>
+      <point x="115" y="511"/>
+      <point x="145" y="511" type="curve" smooth="yes"/>
+      <point x="175" y="511"/>
+      <point x="193" y="494"/>
+      <point x="193" y="466" type="curve" smooth="yes"/>
+      <point x="193" y="438"/>
+      <point x="175" y="421"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>doDek-lao</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

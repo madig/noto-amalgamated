@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rfishhookmiddletilde.serif" format="2">
+  <advance width="523"/>
+  <unicode hex="1D73"/>
+  <outline>
+    <contour>
+      <point x="-36" y="188" type="curve"/>
+      <point x="34" y="188" type="line"/>
+      <point x="38" y="216"/>
+      <point x="49" y="250"/>
+      <point x="86" y="250" type="curve" smooth="yes"/>
+      <point x="142" y="250"/>
+      <point x="187" y="177"/>
+      <point x="265" y="177" type="curve" smooth="yes"/>
+      <point x="351" y="177"/>
+      <point x="384" y="247"/>
+      <point x="389" y="332" type="curve"/>
+      <point x="319" y="332" type="line"/>
+      <point x="315" y="304"/>
+      <point x="301" y="271"/>
+      <point x="266" y="271" type="curve" smooth="yes"/>
+      <point x="211" y="271"/>
+      <point x="165" y="343"/>
+      <point x="89" y="343" type="curve" smooth="yes"/>
+      <point x="2" y="343"/>
+      <point x="-32" y="273"/>
+    </contour>
+    <component base="rfishhook"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

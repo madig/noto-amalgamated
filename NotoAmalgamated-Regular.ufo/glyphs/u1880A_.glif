@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1880A" format="2">
+  <advance height="976" width="1000"/>
+  <unicode hex="1880A"/>
+  <note>
+u1880A
+</note>
+  <outline>
+    <contour>
+      <point x="758" y="839" type="line"/>
+      <point x="708" y="774" type="line"/>
+      <point x="146" y="774" type="line"/>
+      <point x="155" y="744" type="line"/>
+      <point x="824" y="744" type="line" smooth="yes"/>
+      <point x="838.17" y="744.38"/>
+      <point x="847.17" y="749.72"/>
+      <point x="851" y="760" type="curve"/>
+    </contour>
+    <contour>
+      <point x="849" y="676" type="line"/>
+      <point x="799" y="611" type="line"/>
+      <point x="55" y="611" type="line"/>
+      <point x="64" y="581" type="line"/>
+      <point x="915" y="581" type="line" smooth="yes"/>
+      <point x="929.17" y="581.38"/>
+      <point x="938.17" y="586.72"/>
+      <point x="942" y="597" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>581</integer>
+            <integer>30</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>744</integer>
+            <integer>30</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>836</integer>
+    </dict>
+  </lib>
+</glyph>

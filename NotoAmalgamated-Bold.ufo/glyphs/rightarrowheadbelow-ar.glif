@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightarrowheadbelow-ar" format="2">
+  <unicode hex="08FA"/>
+  <anchor x="113" y="0" name="_bottom"/>
+  <anchor x="134" y="-235" name="bottom"/>
+  <outline>
+    <component base="rightarrowheadabove-ar" yOffset="-819"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=rightarrowheadabove-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=rightarrowheadabove-ar</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>250</integer>
+    </dict>
+  </lib>
+</glyph>

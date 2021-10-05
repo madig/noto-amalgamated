@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ye-tifi" format="2">
+  <advance width="622"/>
+  <unicode hex="2D66"/>
+  <note>
+uni2D66
+</note>
+  <anchor x="329" y="614" name="top"/>
+  <outline>
+    <contour>
+      <point x="532" y="65" type="line"/>
+      <point x="572" y="146" type="line"/>
+      <point x="256" y="301" type="line" smooth="yes"/>
+      <point x="216" y="321"/>
+      <point x="164" y="344"/>
+      <point x="125" y="351" type="curve"/>
+      <point x="125" y="357" type="line"/>
+      <point x="160" y="364"/>
+      <point x="208" y="385"/>
+      <point x="252" y="407" type="curve" smooth="yes"/>
+      <point x="569" y="569" type="line"/>
+      <point x="533" y="644" type="line"/>
+      <point x="20" y="383" type="line"/>
+      <point x="20" y="316" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

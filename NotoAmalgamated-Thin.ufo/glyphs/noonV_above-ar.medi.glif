@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonVabove-ar.medi" format="2">
+  <advance width="288"/>
+  <note>
+uni0769.medi
+</note>
+  <anchor x="145" y="-78" name="bottom"/>
+  <anchor x="148" y="960" name="top"/>
+  <outline>
+    <component base="behDotless-ar.medi"/>
+    <component base="onedot.above" xOffset="158"/>
+    <component base="smallv.arabic" xOffset="150" yOffset="121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>behDotless-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>smallv.arabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

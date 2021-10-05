@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sigma.sc" format="2">
+  <advance width="281"/>
+  <outline>
+    <contour>
+      <point x="-50" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="211" y="25" type="line"/>
+      <point x="59" y="25" type="line" smooth="yes"/>
+      <point x="21" y="25"/>
+      <point x="-1" y="24"/>
+      <point x="-16" y="24" type="curve"/>
+      <point x="171" y="289" type="line"/>
+      <point x="173" y="297" type="line"/>
+      <point x="106" y="535" type="line"/>
+      <point x="125" y="534"/>
+      <point x="141" y="534"/>
+      <point x="155" y="534" type="curve" smooth="yes"/>
+      <point x="314" y="534" type="line"/>
+      <point x="319" y="559" type="line"/>
+      <point x="81" y="559" type="line"/>
+      <point x="78" y="545" type="line"/>
+      <point x="147" y="295" type="line"/>
+      <point x="-47" y="17" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=z.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=z.sc</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1B18B.vert" format="2">
+  <advance height="1200" width="1000"/>
+  <note>
+u1B18B.vert
+</note>
+  <outline>
+    <contour>
+      <point x="406" y="823" type="curve"/>
+      <point x="319" y="824" type="line"/>
+      <point x="317.82" y="590.92"/>
+      <point x="263.15" y="412.92"/>
+      <point x="155" y="290" type="curve"/>
+      <point x="155" y="285" type="line"/>
+      <point x="282.98" y="131.7"/>
+      <point x="317.32" y="-56.3"/>
+      <point x="258" y="-279" type="curve"/>
+      <point x="344" y="-296" type="line"/>
+      <point x="402.07" y="-72.58"/>
+      <point x="375.07" y="121.76"/>
+      <point x="263" y="287" type="curve"/>
+      <point x="356.01" y="411.1"/>
+      <point x="403.68" y="589.77"/>
+    </contour>
+    <contour>
+      <point x="651" y="665" type="curve"/>
+      <point x="566" y="669" type="line"/>
+      <point x="563.87" y="640.89"/>
+      <point x="561.01" y="614.17"/>
+      <point x="557.4" y="588.83" type="curve" smooth="yes"/>
+      <point x="541.22" y="476.52"/>
+      <point x="502.75" y="376.57"/>
+      <point x="442" y="289" type="curve"/>
+      <point x="442" y="285" type="line"/>
+      <point x="465.51" y="252.55"/>
+      <point x="484.81" y="219.45"/>
+      <point x="499.91" y="185.71" type="curve" smooth="yes"/>
+      <point x="536.75" y="102.35"/>
+      <point x="550.45" y="-6.22"/>
+      <point x="541" y="-140" type="curve"/>
+      <point x="627" y="-145" type="line"/>
+      <point x="629.47" y="-117.61"/>
+      <point x="630.94" y="-91.07"/>
+      <point x="631.4" y="-65.38" type="curve" smooth="yes"/>
+      <point x="633.51" y="64.88"/>
+      <point x="603.71" y="182.67"/>
+      <point x="542" y="288" type="curve"/>
+      <point x="544.26" y="291.66"/>
+      <point x="546.68" y="295.66"/>
+      <point x="549.26" y="300" type="curve" smooth="yes"/>
+      <point x="604.26" y="393.13"/>
+      <point x="638.17" y="514.79"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>319</integer>
+            <integer>87</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>541</integer>
+            <integer>86</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>258</integer>
+            <integer>86</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

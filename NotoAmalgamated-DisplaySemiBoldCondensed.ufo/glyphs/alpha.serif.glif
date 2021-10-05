@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alpha.serif" format="2">
+  <advance width="533"/>
+  <unicode hex="03B1"/>
+  <anchor x="267" y="0" name="bottom"/>
+  <anchor x="267" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="202" y="-10" type="curve" smooth="yes"/>
+      <point x="263" y="-10"/>
+      <point x="304" y="25"/>
+      <point x="328" y="118" type="curve"/>
+      <point x="330" y="118" type="line"/>
+      <point x="337" y="42"/>
+      <point x="373" y="0"/>
+      <point x="467" y="0" type="curve" smooth="yes"/>
+      <point x="519" y="0" type="line"/>
+      <point x="519" y="10" type="line"/>
+      <point x="516" y="10" type="line" smooth="yes"/>
+      <point x="468" y="10"/>
+      <point x="451" y="35"/>
+      <point x="451" y="103" type="curve" smooth="yes"/>
+      <point x="451" y="337" type="line"/>
+      <point x="451" y="404"/>
+      <point x="463" y="497"/>
+      <point x="474" y="536" type="curve"/>
+      <point x="386" y="536" type="line"/>
+      <point x="367" y="509"/>
+      <point x="351" y="476"/>
+      <point x="339" y="414" type="curve"/>
+      <point x="337" y="414" type="line"/>
+      <point x="319" y="506"/>
+      <point x="279" y="546"/>
+      <point x="218" y="546" type="curve" smooth="yes"/>
+      <point x="113" y="546"/>
+      <point x="37" y="460"/>
+      <point x="37" y="267" type="curve" smooth="yes"/>
+      <point x="37" y="76"/>
+      <point x="95" y="-10"/>
+    </contour>
+    <contour>
+      <point x="239" y="17" type="curve" smooth="yes"/>
+      <point x="186" y="17"/>
+      <point x="168" y="80"/>
+      <point x="168" y="266" type="curve" smooth="yes"/>
+      <point x="168" y="460"/>
+      <point x="189" y="530"/>
+      <point x="242" y="530" type="curve" smooth="yes"/>
+      <point x="278" y="530"/>
+      <point x="316" y="491"/>
+      <point x="325" y="392" type="curve"/>
+      <point x="325" y="233" type="line" smooth="yes"/>
+      <point x="325" y="119"/>
+      <point x="301" y="17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

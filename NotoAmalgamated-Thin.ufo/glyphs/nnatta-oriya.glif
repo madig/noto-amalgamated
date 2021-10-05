@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nnatta-oriya" format="2">
+  <advance width="738"/>
+  <note>
+nnattaorya
+</note>
+  <outline>
+    <component base="tta-oriya.below" xOffset="331"/>
+    <component base="nna-oriya.base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>nna-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tta-oriya.below</string>
+    </dict>
+  </lib>
+</glyph>

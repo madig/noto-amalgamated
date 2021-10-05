@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_jeem-ar.sans" format="2">
+  <advance width="912"/>
+  <unicode hex="FC3F"/>
+  <anchor x="582" y="0" name="caret_1"/>
+  <outline>
+    <component base="lam-ar.init" xOffset="612"/>
+    <component base="jeem-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lam-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>jeem-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

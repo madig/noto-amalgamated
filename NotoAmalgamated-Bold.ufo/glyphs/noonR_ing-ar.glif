@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonRing-ar" format="2">
+  <advance width="761"/>
+  <unicode hex="06BC"/>
+  <note>
+uni06BC
+</note>
+  <anchor x="356" y="-477" name="bottom"/>
+  <anchor x="348" y="685" name="top"/>
+  <outline>
+    <component base="noonghunna-ar"/>
+    <component base="sukun-ar" xOffset="366" yOffset="-1245"/>
+    <component base="onedot.above" xOffset="354" yOffset="-85"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>noonghunna-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>sukun-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

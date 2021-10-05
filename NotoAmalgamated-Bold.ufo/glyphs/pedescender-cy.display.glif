@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pedescender-cy.display" format="2">
+  <advance width="758"/>
+  <unicode hex="0525"/>
+  <anchor x="324" y="-203" name="bottom"/>
+  <anchor x="324" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="748" y="137" type="line"/>
+      <point x="581" y="137" type="line"/>
+      <point x="581" y="553" type="line"/>
+      <point x="66" y="553" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="272" y="411" type="line"/>
+      <point x="373" y="411" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="566" y="-203" type="line"/>
+      <point x="748" y="-203" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

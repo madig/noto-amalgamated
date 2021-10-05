@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="takaorya" format="2">
+  <advance width="680"/>
+  <anchor x="357" y="0" name="b.tasubscriptorya"/>
+  <anchor x="455" y="15" name="b.uvowelsignorya"/>
+  <anchor x="357" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="206" y="65" type="curve"/>
+      <point x="162" y="99" type="line"/>
+      <point x="116" y="57"/>
+      <point x="81" y="14"/>
+      <point x="46" y="-45" type="curve"/>
+      <point x="64" y="-86" type="line"/>
+      <point x="213" y="-101"/>
+      <point x="356" y="-126"/>
+      <point x="492" y="-161" type="curve"/>
+      <point x="556" y="-51" type="line"/>
+      <point x="419" y="-34"/>
+      <point x="279" y="-18"/>
+      <point x="140" y="-13" type="curve"/>
+      <point x="156" y="-23" type="line"/>
+      <point x="170" y="9"/>
+      <point x="187" y="38"/>
+    </contour>
+    <component base="_part.ka" xOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>kaorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

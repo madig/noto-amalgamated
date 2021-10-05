@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiavariaprosgegrammeni.serif" format="2">
+  <advance width="861"/>
+  <unicode hex="1FAB"/>
+  <anchor x="756" y="0" name="bottom"/>
+  <anchor x="756" y="536" name="top"/>
+  <outline>
+    <component base="dasiavaria" xOffset="-106"/>
+    <component base="Omega" xOffset="131"/>
+    <component base="iota" xOffset="651"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

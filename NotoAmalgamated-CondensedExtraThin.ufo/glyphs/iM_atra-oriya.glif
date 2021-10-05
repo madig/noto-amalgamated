@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iMatra-oriya" format="2">
+  <unicode hex="0B3F"/>
+  <note>
+ivowelsignorya
+</note>
+  <anchor x="300" y="658" name="_top"/>
+  <outline>
+    <contour>
+      <point x="90" y="728" type="curve"/>
+      <point x="110" y="714" type="line"/>
+      <point x="155" y="777"/>
+      <point x="226" y="811"/>
+      <point x="301" y="811" type="curve"/>
+      <point x="374" y="811"/>
+      <point x="444" y="777"/>
+      <point x="489" y="714" type="curve"/>
+      <point x="509" y="728" type="line"/>
+      <point x="458" y="800"/>
+      <point x="380" y="836"/>
+      <point x="301" y="836" type="curve"/>
+      <point x="222" y="836"/>
+      <point x="143" y="800"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

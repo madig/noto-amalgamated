@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yerubackyer-cy" format="2">
+  <advance width="967"/>
+  <unicode hex="A651"/>
+  <outline>
+    <contour>
+      <point x="200" y="0" type="line"/>
+      <point x="421" y="0" type="line" smooth="yes"/>
+      <point x="608" y="0"/>
+      <point x="662" y="72"/>
+      <point x="662" y="183" type="curve" smooth="yes"/>
+      <point x="662" y="296"/>
+      <point x="601" y="354"/>
+      <point x="390" y="354" type="curve" smooth="yes"/>
+      <point x="402" y="354" type="line"/>
+      <point x="402" y="553" type="line"/>
+      <point x="35" y="553" type="line"/>
+      <point x="35" y="412" type="line"/>
+      <point x="200" y="412" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="125" type="curve" smooth="yes"/>
+      <point x="402" y="125" type="line"/>
+      <point x="402" y="229" type="line"/>
+      <point x="410" y="229" type="line" smooth="yes"/>
+      <point x="457" y="229"/>
+      <point x="460" y="209"/>
+      <point x="460" y="175" type="curve" smooth="yes"/>
+      <point x="460" y="143"/>
+      <point x="451" y="125"/>
+    </contour>
+    <contour>
+      <point x="709" y="0" type="line"/>
+      <point x="911" y="0" type="line"/>
+      <point x="911" y="553" type="line"/>
+      <point x="709" y="553" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

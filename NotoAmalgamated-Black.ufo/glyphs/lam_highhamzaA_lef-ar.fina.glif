@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_highhamzaAlef-ar.fina" format="2">
+  <advance width="776"/>
+  <note>
+uni06440675.fina
+</note>
+  <anchor x="557" y="-94" name="bottom_1"/>
+  <anchor x="211" y="-80" name="bottom_2"/>
+  <anchor x="388" y="0" name="caret_1"/>
+  <anchor x="555" y="954" name="top_1"/>
+  <anchor x="156" y="994" name="top_2"/>
+  <outline>
+    <component base="lam_alef-ar.fina"/>
+    <component base="hamzaabove-ar" xOffset="298" yOffset="-54"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

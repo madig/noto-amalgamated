@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotaserifed.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="026A"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="440" y="99" type="line"/>
+      <point x="312" y="112" type="line"/>
+      <point x="312" y="436" type="line"/>
+      <point x="440" y="447" type="line"/>
+      <point x="440" y="546" type="line"/>
+      <point x="60" y="546" type="line"/>
+      <point x="60" y="447" type="line"/>
+      <point x="189" y="436" type="line"/>
+      <point x="189" y="112" type="line"/>
+      <point x="60" y="99" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gafRing-ar.init" format="2">
+  <advance width="641"/>
+  <note>
+uni06B0.init
+</note>
+  <anchor x="325" y="-78" name="bottom"/>
+  <anchor x="185" y="977" name="top"/>
+  <outline>
+    <component base="kafRing-ar.init" xOffset="7"/>
+    <component base="diagonal" yScale="1.15503" xOffset="23" yOffset="-154"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>kafRing-ar.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>diagonal</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

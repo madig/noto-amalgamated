@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aeacute.sc.serif" format="2">
+  <advance width="774"/>
+  <anchor x="387" y="0" name="bottom"/>
+  <anchor x="387" y="820" name="top"/>
+  <outline>
+    <component base="ae.sc"/>
+    <component base="acutecomb.sc" xOffset="265" yOffset="54"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

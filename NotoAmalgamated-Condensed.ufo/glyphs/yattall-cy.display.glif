@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yattall-cy.display" format="2">
+  <advance width="418"/>
+  <unicode hex="1C87"/>
+  <anchor x="209" y="0" name="bottom"/>
+  <anchor x="117" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="160" y="760" type="line"/>
+      <point x="79" y="760" type="line"/>
+      <point x="79" y="537" type="line"/>
+      <point x="6" y="537" type="line"/>
+      <point x="6" y="475" type="line"/>
+      <point x="79" y="475" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="216" y="0" type="line" smooth="yes"/>
+      <point x="324" y="0"/>
+      <point x="385" y="55"/>
+      <point x="385" y="159" type="curve" smooth="yes"/>
+      <point x="385" y="262"/>
+      <point x="326" y="315"/>
+      <point x="212" y="315" type="curve" smooth="yes"/>
+      <point x="160" y="315" type="line"/>
+      <point x="160" y="475" type="line"/>
+      <point x="251" y="475" type="line"/>
+      <point x="251" y="537" type="line"/>
+      <point x="160" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="250" type="line"/>
+      <point x="274" y="250"/>
+      <point x="302" y="218"/>
+      <point x="302" y="156" type="curve" smooth="yes"/>
+      <point x="302" y="96"/>
+      <point x="272" y="65"/>
+      <point x="212" y="65" type="curve" smooth="yes"/>
+      <point x="160" y="65" type="line"/>
+      <point x="160" y="250" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

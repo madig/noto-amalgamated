@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seenThreedotsbelow-ar" format="2">
+  <advance width="1073"/>
+  <unicode hex="069B"/>
+  <note>
+uni069B
+</note>
+  <anchor x="753" y="-300" name="bottom"/>
+  <anchor x="751" y="484" name="top"/>
+  <outline>
+    <component base="seen-ar"/>
+    <component base="threedots.below" xOffset="753" yOffset="37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>seen-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

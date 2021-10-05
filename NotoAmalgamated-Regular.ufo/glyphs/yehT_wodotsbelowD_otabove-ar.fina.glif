@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehTwodotsbelowDotabove-ar.fina" format="2">
+  <advance width="964"/>
+  <note>
+uni064A.fina
+</note>
+  <anchor x="384" y="-479" name="bottom"/>
+  <anchor x="212" y="447" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar.fina"/>
+    <component base="twodots.below" xOffset="385" yOffset="-240"/>
+    <component base="onedot.above" xOffset="187" yOffset="-319"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>alefMaksura-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh_khah_alefMaksura-ar.fina" format="2">
+  <advance width="1715"/>
+  <unicode hex="FDA2"/>
+  <anchor x="1363" y="0" name="caret_1"/>
+  <anchor x="756" y="0" name="caret_2"/>
+  <outline>
+    <component base="teh-ar.medi" xOffset="1363"/>
+    <component base="khah-ar.medi" xOffset="756"/>
+    <component base="alefMaksura-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>teh-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

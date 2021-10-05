@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hturnedfishhook.display" format="2">
+  <advance width="645"/>
+  <unicode hex="02AE"/>
+  <anchor x="322" y="-240" name="bottom"/>
+  <anchor x="322" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="75" y="562" type="curve"/>
+      <point x="29" y="562"/>
+      <point x="-6" y="550"/>
+      <point x="-19" y="546" type="curve"/>
+      <point x="-19" y="402" type="line"/>
+      <point x="-9" y="406"/>
+      <point x="4" y="413"/>
+      <point x="30" y="413" type="curve"/>
+      <point x="51" y="413"/>
+      <point x="56" y="391"/>
+      <point x="56" y="356" type="curve"/>
+      <point x="56" y="192" type="line"/>
+      <point x="56" y="50"/>
+      <point x="138" y="-11"/>
+      <point x="237" y="-11" type="curve"/>
+      <point x="316" y="-11"/>
+      <point x="348" y="14"/>
+      <point x="382" y="69" type="curve"/>
+      <point x="388" y="69" type="line"/>
+      <point x="383" y="42"/>
+      <point x="381" y="5"/>
+      <point x="381" y="-18" type="curve"/>
+      <point x="381" y="-240" type="line"/>
+      <point x="579" y="-240" type="line"/>
+      <point x="579" y="552" type="line"/>
+      <point x="381" y="552" type="line"/>
+      <point x="381" y="308" type="line" smooth="yes"/>
+      <point x="381" y="198"/>
+      <point x="365" y="138"/>
+      <point x="308" y="138" type="curve"/>
+      <point x="270" y="138"/>
+      <point x="256" y="176"/>
+      <point x="256" y="249" type="curve"/>
+      <point x="256" y="363" type="line" smooth="yes"/>
+      <point x="256" y="500"/>
+      <point x="224" y="562"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

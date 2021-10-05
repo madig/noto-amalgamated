@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rmiddletildeturned.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="AB68"/>
+  <anchor x="258" y="0" name="bottom"/>
+  <anchor x="8" y="0" name="bottomleft"/>
+  <anchor x="328" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="522" y="364" type="curve"/>
+      <point x="450" y="364" type="line"/>
+      <point x="444" y="328"/>
+      <point x="434" y="312"/>
+      <point x="410" y="312" type="curve" smooth="yes"/>
+      <point x="366" y="312"/>
+      <point x="308" y="363"/>
+      <point x="252" y="363" type="curve" smooth="yes"/>
+      <point x="194" y="363"/>
+      <point x="147" y="313"/>
+      <point x="142" y="213" type="curve"/>
+      <point x="214" y="213" type="line"/>
+      <point x="221" y="247"/>
+      <point x="231" y="265"/>
+      <point x="254" y="265" type="curve" smooth="yes"/>
+      <point x="302" y="265"/>
+      <point x="354" y="214"/>
+      <point x="412" y="214" type="curve" smooth="yes"/>
+      <point x="482" y="214"/>
+      <point x="517" y="281"/>
+    </contour>
+    <contour>
+      <point x="547" y="546" type="line"/>
+      <point x="117" y="546" type="line"/>
+      <point x="117" y="456" type="line"/>
+      <point x="260" y="426" type="line"/>
+      <point x="260" y="284" type="line" smooth="yes"/>
+      <point x="260" y="196"/>
+      <point x="215" y="129"/>
+      <point x="123" y="129" type="curve" smooth="yes"/>
+      <point x="93" y="129"/>
+      <point x="63" y="136"/>
+      <point x="44" y="142" type="curve"/>
+      <point x="5" y="7" type="line"/>
+      <point x="40" y="-7"/>
+      <point x="78" y="-10"/>
+      <point x="100" y="-10" type="curve" smooth="yes"/>
+      <point x="182" y="-10"/>
+      <point x="232" y="31"/>
+      <point x="267" y="92" type="curve"/>
+      <point x="274" y="92" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="520" y="103" type="line"/>
+      <point x="405" y="120" type="line"/>
+      <point x="405" y="426" type="line"/>
+      <point x="547" y="456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|uni1D72</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>rmiddletilde</string>
+    </dict>
+  </lib>
+</glyph>

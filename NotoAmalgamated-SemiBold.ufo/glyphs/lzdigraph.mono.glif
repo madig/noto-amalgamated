@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lzdigraph.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="02AB"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="67" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="562" y="114" type="line"/>
+      <point x="365" y="114" type="line"/>
+      <point x="561" y="449" type="line"/>
+      <point x="561" y="546" type="line"/>
+      <point x="209" y="546" type="line"/>
+      <point x="209" y="760" type="line"/>
+      <point x="67" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="101" type="line"/>
+      <point x="209" y="432" type="line"/>
+      <point x="402" y="432" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

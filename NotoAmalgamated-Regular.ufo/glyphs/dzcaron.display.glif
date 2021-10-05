@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcaron.display" format="2">
+  <advance width="1022"/>
+  <unicode hex="01C6"/>
+  <anchor x="807" y="0" name="bottom"/>
+  <anchor x="801" y="766" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="579"/>
+    <component base="caron" xOffset="631"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="spirantvoicedlaryngeal" format="2">
+  <advance width="462"/>
+  <unicode hex="1D24"/>
+  <anchor x="226" y="0" name="bottom"/>
+  <anchor x="226" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="235" y="-10" type="curve" smooth="yes"/>
+      <point x="314" y="-10"/>
+      <point x="386" y="15"/>
+      <point x="448" y="51" type="curve"/>
+      <point x="395" y="158" type="line"/>
+      <point x="368" y="141"/>
+      <point x="307" y="110"/>
+      <point x="250" y="110" type="curve" smooth="yes"/>
+      <point x="192" y="110"/>
+      <point x="166" y="141"/>
+      <point x="166" y="185" type="curve" smooth="yes"/>
+      <point x="166" y="224"/>
+      <point x="192" y="273"/>
+      <point x="308" y="308" type="curve"/>
+      <point x="308" y="384" type="line"/>
+      <point x="400" y="433"/>
+      <point x="448" y="495"/>
+      <point x="448" y="586" type="curve" smooth="yes"/>
+      <point x="448" y="689"/>
+      <point x="364" y="765"/>
+      <point x="223" y="765" type="curve" smooth="yes"/>
+      <point x="144" y="765"/>
+      <point x="78" y="740"/>
+      <point x="16" y="704" type="curve"/>
+      <point x="69" y="597" type="line"/>
+      <point x="96" y="614"/>
+      <point x="152" y="645"/>
+      <point x="217" y="645" type="curve" smooth="yes"/>
+      <point x="270" y="645"/>
+      <point x="298" y="618"/>
+      <point x="298" y="573" type="curve" smooth="yes"/>
+      <point x="298" y="534"/>
+      <point x="272" y="483"/>
+      <point x="159" y="447" type="curve"/>
+      <point x="159" y="371" type="line"/>
+      <point x="65" y="325"/>
+      <point x="16" y="261"/>
+      <point x="16" y="174" type="curve" smooth="yes"/>
+      <point x="16" y="65"/>
+      <point x="90" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>glottalstop</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

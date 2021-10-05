@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehStroke-ar.fina" format="2">
+  <advance width="359"/>
+  <note>
+uni075B.fina
+</note>
+  <anchor x="98" y="-361" name="bottom"/>
+  <anchor x="176" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="240" y="78" type="line"/>
+      <point x="240" y="485" type="line"/>
+      <point x="156" y="485" type="line"/>
+      <point x="156" y="-49" type="line" smooth="yes"/>
+      <point x="156" y="-63"/>
+      <point x="154" y="-77"/>
+      <point x="151" y="-91" type="curve"/>
+      <point x="14" y="-91" type="line"/>
+      <point x="14" y="-148" type="line"/>
+      <point x="127" y="-148" type="line"/>
+      <point x="108" y="-179"/>
+      <point x="73" y="-216"/>
+      <point x="23" y="-257" type="curve"/>
+      <point x="78" y="-320" type="line"/>
+      <point x="146" y="-259"/>
+      <point x="193" y="-207"/>
+      <point x="218" y="-148" type="curve"/>
+      <point x="296" y="-148" type="line"/>
+      <point x="296" y="-91" type="line"/>
+      <point x="236" y="-91" type="line"/>
+      <point x="239" y="-77"/>
+      <point x="240" y="-61"/>
+      <point x="240" y="-44" type="curve" smooth="yes"/>
+      <point x="240" y="0" type="line"/>
+      <point x="364" y="0" type="line" smooth="yes"/>
+      <point x="367" y="0"/>
+      <point x="369" y="2"/>
+      <point x="369" y="5" type="curve" smooth="yes"/>
+      <point x="369" y="74" type="line" smooth="yes"/>
+      <point x="369" y="77"/>
+      <point x="367" y="78"/>
+      <point x="364" y="78" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 37 values pushed */
+2 9 9 26 13 26 21 19 23 5 27 5 28 23 22 72 89 23 23 13 13 14 72 89 13 13 9 18 28 9 2 70 89 9 18 1 15 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIAP[1]	/* MoveIndirectAbsPt */
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+RTG[ ]	/* RoundToGrid */
+MIAP[1]	/* MoveIndirectAbsPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+SHP[1]	/* ShiftPointByLastPoint */
+RTG[ ]	/* RoundToGrid */
+MDAP[1]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

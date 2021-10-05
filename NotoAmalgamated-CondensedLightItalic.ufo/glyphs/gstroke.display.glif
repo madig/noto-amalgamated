@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gstroke.display" format="2">
+  <advance width="401"/>
+  <unicode hex="01E5"/>
+  <anchor x="129" y="-240" name="bottom"/>
+  <anchor x="300" y="566" name="top"/>
+  <outline>
+    <contour>
+      <point x="145" y="-86" type="line"/>
+      <point x="364" y="-86" type="line"/>
+      <point x="366" y="-76" type="line"/>
+      <point x="147" y="-76" type="line"/>
+    </contour>
+    <component base="g" xOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

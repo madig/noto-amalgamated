@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadasiaoxia.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="1F3D"/>
+  <anchor x="365" y="0" name="bottom"/>
+  <anchor x="365" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="244" y="0" type="line"/>
+      <point x="484" y="0" type="line"/>
+      <point x="484" y="99" type="line"/>
+      <point x="426" y="112" type="line"/>
+      <point x="426" y="604" type="line"/>
+      <point x="484" y="615" type="line"/>
+      <point x="484" y="714" type="line"/>
+      <point x="244" y="714" type="line"/>
+      <point x="244" y="615" type="line"/>
+      <point x="303" y="604" type="line"/>
+      <point x="303" y="112" type="line"/>
+      <point x="244" y="99" type="line"/>
+    </contour>
+    <component base="dasiaoxia" xOffset="-156" yOffset="-50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dasiaoxia</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

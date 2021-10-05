@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sdotbelowdotaccent.serif" format="2">
+  <advance width="419"/>
+  <unicode hex="1E69"/>
+  <anchor x="210" y="-208" name="bottom"/>
+  <anchor x="210" y="771" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="dotaccent" xOffset="85"/>
+    <component base="dotbelowcomb" xOffset="453"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>s</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

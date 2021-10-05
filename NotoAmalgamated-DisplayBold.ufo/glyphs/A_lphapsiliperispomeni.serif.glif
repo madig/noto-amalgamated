@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsiliperispomeni.serif" format="2">
+  <advance width="796"/>
+  <unicode hex="1F0E"/>
+  <anchor x="398" y="0" name="bottom"/>
+  <anchor x="398" y="891" name="top"/>
+  <outline>
+    <component base="psiliperispomeni" xOffset="-67"/>
+    <component base="A" xOffset="8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

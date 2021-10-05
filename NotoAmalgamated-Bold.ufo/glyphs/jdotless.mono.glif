@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="0237"/>
+  <anchor x="300" y="-245" name="bottom"/>
+  <anchor x="360" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="207" y="-245" type="curve" smooth="yes"/>
+      <point x="381" y="-245"/>
+      <point x="446" y="-168"/>
+      <point x="446" y="-12" type="curve" smooth="yes"/>
+      <point x="446" y="553" type="line"/>
+      <point x="100" y="553" type="line"/>
+      <point x="100" y="426" type="line"/>
+      <point x="271" y="413" type="line"/>
+      <point x="271" y="28" type="line" smooth="yes"/>
+      <point x="271" y="-73"/>
+      <point x="251" y="-102"/>
+      <point x="172" y="-102" type="curve" smooth="yes"/>
+      <point x="139" y="-102"/>
+      <point x="84" y="-97"/>
+      <point x="30" y="-83" type="curve"/>
+      <point x="30" y="-220" type="line"/>
+      <point x="91" y="-238"/>
+      <point x="154" y="-245"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>j</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

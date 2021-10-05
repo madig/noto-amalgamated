@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsilivaria.serif" format="2">
+  <advance width="959"/>
+  <unicode hex="1F2A"/>
+  <anchor x="610" y="0" name="bottom"/>
+  <anchor x="610" y="714" name="top"/>
+  <outline>
+    <component base="H" xOffset="261"/>
+    <component base="psilivaria" xOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

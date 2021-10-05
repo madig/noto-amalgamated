@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FD2" format="2">
+  <advance width="386"/>
+  <unicode hex="1FD2"/>
+  <anchor x="141" y="0" name="bottom"/>
+  <anchor x="276" y="780" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="uni1FED" xOffset="-122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

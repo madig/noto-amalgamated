@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="middlegraveaccentmod.serif" format="2">
+  <advance width="295"/>
+  <unicode hex="02F4"/>
+  <outline>
+    <contour>
+      <point x="195" y="278" type="curve"/>
+      <point x="253" y="278" type="line"/>
+      <point x="253" y="291" type="line"/>
+      <point x="229" y="326"/>
+      <point x="191" y="394"/>
+      <point x="174" y="438" type="curve"/>
+      <point x="40" y="438" type="line"/>
+      <point x="40" y="426" type="line"/>
+      <point x="65" y="392"/>
+      <point x="143" y="313"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>grave</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>grave</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

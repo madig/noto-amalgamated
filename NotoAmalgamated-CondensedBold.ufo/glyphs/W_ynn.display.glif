@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wynn.display" format="2">
+  <advance width="569"/>
+  <unicode hex="01F7"/>
+  <anchor x="285" y="-240" name="bottom"/>
+  <anchor x="285" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="343" y="723" type="curve" smooth="yes"/>
+      <point x="284" y="723"/>
+      <point x="250" y="695"/>
+      <point x="227" y="642" type="curve"/>
+      <point x="223" y="642" type="line"/>
+      <point x="203" y="714" type="line"/>
+      <point x="56" y="714" type="line"/>
+      <point x="56" y="-240" type="line"/>
+      <point x="227" y="-240" type="line"/>
+      <point x="227" y="-2" type="line"/>
+      <point x="392" y="34"/>
+      <point x="537" y="184"/>
+      <point x="537" y="431" type="curve" smooth="yes"/>
+      <point x="537" y="622"/>
+      <point x="470" y="723"/>
+    </contour>
+    <contour>
+      <point x="294" y="578" type="curve" smooth="yes"/>
+      <point x="346" y="578"/>
+      <point x="359" y="526"/>
+      <point x="359" y="440" type="curve" smooth="yes"/>
+      <point x="359" y="240"/>
+      <point x="294" y="169"/>
+      <point x="227" y="146" type="curve"/>
+      <point x="227" y="445" type="line" smooth="yes"/>
+      <point x="227" y="532"/>
+      <point x="242" y="578"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

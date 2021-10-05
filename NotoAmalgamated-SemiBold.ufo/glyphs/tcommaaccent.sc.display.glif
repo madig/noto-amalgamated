@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcommaaccent.sc.display" format="2">
+  <advance width="470"/>
+  <anchor x="246" y="-221" name="bottom"/>
+  <anchor x="246" y="582" name="top"/>
+  <outline>
+    <component base="t.sc"/>
+    <component base="commaaccent2" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

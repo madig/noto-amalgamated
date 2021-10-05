@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eeMatra_tibet.narrow" format="2">
+  <anchor x="493" y="678" name="_topright"/>
+  <anchor x="247" y="1146" name="top"/>
+  <anchor x="13" y="1072" name="topleft"/>
+  <anchor x="493" y="1089" name="topright"/>
+  <outline>
+    <contour>
+      <point x="431" y="710" type="line"/>
+      <point x="468" y="792" type="line"/>
+      <point x="309" y="1099"/>
+      <point x="265" y="1161"/>
+      <point x="169" y="1161" type="curve" smooth="yes"/>
+      <point x="158" y="1161"/>
+      <point x="144" y="1159"/>
+      <point x="135" y="1155" type="curve"/>
+      <point x="109" y="995" type="line"/>
+      <point x="118" y="997"/>
+      <point x="130" y="998"/>
+      <point x="142" y="998" type="curve" smooth="yes"/>
+      <point x="211" y="998"/>
+      <point x="272" y="952"/>
+      <point x="422" y="751" type="curve"/>
+    </contour>
+    <contour>
+      <point x="431" y="710" type="curve"/>
+      <point x="426" y="757" type="line"/>
+      <point x="270" y="939"/>
+      <point x="202" y="975"/>
+      <point x="131" y="975" type="curve" smooth="yes"/>
+      <point x="106" y="975"/>
+      <point x="79" y="971"/>
+      <point x="57" y="961" type="curve"/>
+      <point x="30" y="800" type="line"/>
+      <point x="55" y="808"/>
+      <point x="79" y="812"/>
+      <point x="104" y="812" type="curve" smooth="yes"/>
+      <point x="187" y="812"/>
+      <point x="258" y="792"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>498</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

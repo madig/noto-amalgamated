@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kstrokediagonalstroke" format="2">
+  <advance width="658"/>
+  <unicode hex="A744"/>
+  <outline>
+    <contour>
+      <point x="300" y="161" type="line"/>
+      <point x="364" y="50" type="line"/>
+      <point x="661" y="215" type="line"/>
+      <point x="596" y="326" type="line"/>
+    </contour>
+    <component base="Kstroke"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=K</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

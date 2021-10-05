@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonTwodotsbelow-ar.fina" format="2">
+  <advance width="692"/>
+  <note>
+uni0767.fina
+</note>
+  <anchor x="336" y="-440" name="bottom"/>
+  <anchor x="316" y="640" name="top"/>
+  <outline>
+    <component base="noonghunna-ar.fina"/>
+    <component base="twodots.small.below" xOffset="347" yOffset="-220"/>
+    <component base="onedot.above" xOffset="328" yOffset="-95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>noonghunna-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.small.below</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

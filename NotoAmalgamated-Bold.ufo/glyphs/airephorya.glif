@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="airephorya" format="2">
+  <advance width="924"/>
+  <anchor x="462" y="0" name="b.tasubscriptorya"/>
+  <outline>
+    <contour>
+      <point x="777" y="842" type="curve"/>
+      <point x="837" y="707" type="line"/>
+      <point x="876" y="697"/>
+      <point x="914" y="689"/>
+      <point x="953" y="681" type="curve"/>
+      <point x="990" y="780" type="line"/>
+      <point x="931" y="785"/>
+      <point x="874" y="793"/>
+      <point x="821" y="802" type="curve"/>
+      <point x="812" y="788" type="line"/>
+      <point x="938" y="781"/>
+      <point x="979" y="811"/>
+      <point x="1083" y="885" type="curve"/>
+      <point x="1058" y="917" type="line"/>
+      <point x="967" y="874"/>
+      <point x="875" y="849"/>
+    </contour>
+    <component base="aiorya"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>eorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kehehThreedotsupbelow-ar" format="2">
+  <advance width="887"/>
+  <unicode hex="0764"/>
+  <note>
+uni0764
+</note>
+  <outline>
+    <component base="keheh-ar"/>
+    <component base="threedots.rev.below" xOffset="443"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>keheh-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.rev.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

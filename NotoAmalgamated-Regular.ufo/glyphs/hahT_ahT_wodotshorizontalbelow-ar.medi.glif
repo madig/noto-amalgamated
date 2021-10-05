@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahTahTwodotshorizontalbelow-ar.medi" format="2">
+  <advance width="574"/>
+  <outline>
+    <component base="hah-ar.medi"/>
+    <component base="tahcenter-ar" xOffset="-67" yOffset="-87"/>
+    <component base="twodots.small.below" xOffset="270" yOffset="-243"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>twodots.small.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

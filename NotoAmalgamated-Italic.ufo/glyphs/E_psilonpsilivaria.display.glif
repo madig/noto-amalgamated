@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonpsilivaria.display" format="2">
+  <advance width="987"/>
+  <unicode hex="1F1A"/>
+  <anchor x="657" y="0" name="bottom"/>
+  <anchor x="809" y="714" name="top"/>
+  <outline>
+    <component base="psilivaria"/>
+    <component base="E" xOffset="366"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

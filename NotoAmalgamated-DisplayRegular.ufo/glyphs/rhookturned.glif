@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhookturned" format="2">
+  <advance width="392"/>
+  <unicode hex="027B"/>
+  <anchor x="196" y="-240" name="bottom"/>
+  <anchor x="196" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="345" y="-240" type="curve" smooth="yes"/>
+      <point x="379" y="-240"/>
+      <point x="406" y="-233"/>
+      <point x="419" y="-224" type="curve"/>
+      <point x="419" y="-157" type="line"/>
+      <point x="409" y="-162"/>
+      <point x="389" y="-168"/>
+      <point x="365" y="-168" type="curve" smooth="yes"/>
+      <point x="331" y="-168"/>
+      <point x="312" y="-151"/>
+      <point x="312" y="-72" type="curve" smooth="yes"/>
+      <point x="312" y="536" type="line"/>
+      <point x="225" y="536" type="line"/>
+      <point x="225" y="250" type="line" smooth="yes"/>
+      <point x="225" y="142"/>
+      <point x="156" y="70"/>
+      <point x="79" y="70" type="curve" smooth="yes"/>
+      <point x="62" y="70"/>
+      <point x="41" y="73"/>
+      <point x="25" y="77" type="curve"/>
+      <point x="15" y="-4" type="line"/>
+      <point x="31" y="-8"/>
+      <point x="55" y="-10"/>
+      <point x="73" y="-10" type="curve" smooth="yes"/>
+      <point x="144" y="-10"/>
+      <point x="195" y="39"/>
+      <point x="227" y="98" type="curve"/>
+      <point x="231" y="98" type="line"/>
+      <point x="229" y="81"/>
+      <point x="225" y="39"/>
+      <point x="225" y="19" type="curve" smooth="yes"/>
+      <point x="225" y="-73" type="line" smooth="yes"/>
+      <point x="225" y="-204"/>
+      <point x="278" y="-240"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

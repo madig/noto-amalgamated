@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotslashmod.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="A718"/>
+  <outline>
+    <contour>
+      <point x="226" y="550" type="line"/>
+      <point x="460" y="784" type="line"/>
+      <point x="394" y="850" type="line"/>
+      <point x="160" y="616" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="741" type="curve" smooth="yes"/>
+      <point x="242" y="741"/>
+      <point x="267" y="761"/>
+      <point x="267" y="802" type="curve" smooth="yes"/>
+      <point x="267" y="841"/>
+      <point x="242" y="862"/>
+      <point x="204" y="862" type="curve" smooth="yes"/>
+      <point x="167" y="862"/>
+      <point x="140" y="841"/>
+      <point x="140" y="802" type="curve" smooth="yes"/>
+      <point x="140" y="761"/>
+      <point x="167" y="741"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

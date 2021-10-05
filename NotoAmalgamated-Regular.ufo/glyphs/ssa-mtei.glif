@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ssa-mtei" format="2">
+  <advance width="691"/>
+  <unicode hex="AAEA"/>
+  <anchor x="611" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="bottom_left"/>
+  <anchor x="691" y="0" name="bottom_right"/>
+  <anchor x="479" y="713" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="611" y="0" type="line"/>
+      <point x="611" y="386" type="line" smooth="yes"/>
+      <point x="611" y="541"/>
+      <point x="528" y="665"/>
+      <point x="344" y="665" type="curve" smooth="yes"/>
+      <point x="166" y="665"/>
+      <point x="80" y="541"/>
+      <point x="80" y="386" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="545" y="282" type="line"/>
+      <point x="545" y="354" type="line"/>
+      <point x="147" y="354" type="line"/>
+      <point x="147" y="282" type="line"/>
+    </contour>
+    <contour>
+      <point x="529" y="399" type="curve" smooth="yes"/>
+      <point x="529" y="33" type="line"/>
+      <point x="567" y="72" type="line"/>
+      <point x="125" y="72" type="line"/>
+      <point x="162" y="33" type="line"/>
+      <point x="162" y="399" type="line" smooth="yes"/>
+      <point x="162" y="521"/>
+      <point x="229" y="592"/>
+      <point x="345" y="592" type="curve" smooth="yes"/>
+      <point x="461" y="592"/>
+      <point x="529" y="523"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>mtei</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

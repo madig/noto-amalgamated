@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gheupturn-cy.display" format="2">
+  <advance width="527"/>
+  <unicode hex="0491"/>
+  <anchor x="264" y="0" name="bottom"/>
+  <anchor x="264" y="697" name="top"/>
+  <outline>
+    <contour>
+      <point x="484" y="697" type="line"/>
+      <point x="310" y="697" type="line"/>
+      <point x="310" y="553" type="line"/>
+      <point x="56" y="553" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="258" y="411" type="line"/>
+      <point x="484" y="411" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

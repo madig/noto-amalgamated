@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilonpsilivaria.display" format="2">
+  <advance width="671"/>
+  <unicode hex="1F52"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="445" y="774" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="psilivaria" xOffset="125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

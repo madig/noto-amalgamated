@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tamaorya" format="2">
+  <advance width="648"/>
+  <anchor x="583" y="0" name="b.uvowelsignorya"/>
+  <anchor x="324" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="583" y="7" type="curve"/>
+      <point x="561" y="40" type="line"/>
+      <point x="481" y="15"/>
+      <point x="441" y="-2"/>
+      <point x="364" y="-49" type="curve"/>
+      <point x="380" y="-80" type="line"/>
+      <point x="484" y="-94"/>
+      <point x="579" y="-117"/>
+      <point x="671" y="-149" type="curve"/>
+      <point x="709" y="-83" type="line"/>
+      <point x="610" y="-58"/>
+      <point x="508" y="-38"/>
+      <point x="407" y="-29" type="curve"/>
+      <point x="439" y="-60" type="line"/>
+      <point x="480" y="-36"/>
+      <point x="530" y="-14"/>
+    </contour>
+    <component base="maorya"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

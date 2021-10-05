@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adotmacron.display" format="2">
+  <advance width="472"/>
+  <unicode hex="01E1"/>
+  <anchor x="189" y="0" name="bottom"/>
+  <anchor x="335" y="814" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="dotmacron" xOffset="-39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

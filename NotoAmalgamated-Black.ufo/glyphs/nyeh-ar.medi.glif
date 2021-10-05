@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nyeh-ar.medi" format="2">
+  <advance width="631"/>
+  <note>
+uni0683.medi
+</note>
+  <anchor x="249" y="-338" name="bottom"/>
+  <anchor x="190" y="599" name="top"/>
+  <outline>
+    <component base="hah-ar.medi"/>
+    <component base="twodots.below" xOffset="244"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hah-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

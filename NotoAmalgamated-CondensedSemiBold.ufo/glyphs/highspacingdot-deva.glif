@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="highspacingdot-deva" format="2">
+  <advance width="306"/>
+  <unicode hex="0971"/>
+  <outline>
+    <contour>
+      <point x="153" y="512" type="curve" smooth="yes"/>
+      <point x="190" y="512"/>
+      <point x="212" y="532"/>
+      <point x="212" y="577" type="curve" smooth="yes"/>
+      <point x="212" y="622"/>
+      <point x="190" y="642"/>
+      <point x="153" y="642" type="curve" smooth="yes"/>
+      <point x="115" y="642"/>
+      <point x="94" y="622"/>
+      <point x="94" y="577" type="curve" smooth="yes"/>
+      <point x="94" y="532"/>
+      <point x="115" y="512"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ezhsmall" format="2">
+  <advance width="363"/>
+  <unicode hex="1D23"/>
+  <anchor x="181" y="-12" name="bottom"/>
+  <anchor x="181" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="323" y="528" type="line"/>
+      <point x="39" y="528" type="line"/>
+      <point x="39" y="503" type="line"/>
+      <point x="282" y="503" type="line"/>
+      <point x="95" y="288" type="line"/>
+      <point x="95" y="263" type="line"/>
+      <point x="129" y="263" type="line" smooth="yes"/>
+      <point x="226" y="263"/>
+      <point x="305" y="250"/>
+      <point x="305" y="147" type="curve" smooth="yes"/>
+      <point x="305" y="65"/>
+      <point x="256" y="13"/>
+      <point x="160" y="13" type="curve" smooth="yes"/>
+      <point x="102" y="13"/>
+      <point x="59" y="30"/>
+      <point x="18" y="52" type="curve"/>
+      <point x="18" y="23" type="line"/>
+      <point x="48" y="7"/>
+      <point x="97" y="-12"/>
+      <point x="160" y="-12" type="curve" smooth="yes"/>
+      <point x="243" y="-12"/>
+      <point x="333" y="26"/>
+      <point x="333" y="147" type="curve" smooth="yes"/>
+      <point x="333" y="272"/>
+      <point x="234" y="288"/>
+      <point x="129" y="288" type="curve"/>
+      <point x="323" y="509" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

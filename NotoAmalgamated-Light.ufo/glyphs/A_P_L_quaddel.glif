@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLquaddel" format="2">
+  <advance width="600"/>
+  <unicode hex="2354"/>
+  <outline>
+    <contour>
+      <point x="297" y="127" type="line"/>
+      <point x="303" y="127" type="line"/>
+      <point x="471" y="552" type="line"/>
+      <point x="471" y="566" type="line"/>
+      <point x="129" y="566" type="line"/>
+      <point x="129" y="552" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="182" type="line"/>
+      <point x="161" y="541" type="line"/>
+      <point x="439" y="541" type="line"/>
+    </contour>
+    <component base="APLquad"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

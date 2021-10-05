@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="carondot.serif" format="2">
+  <advance width="462"/>
+  <outline>
+    <contour>
+      <point x="334" y="752" type="curve" smooth="yes"/>
+      <point x="357" y="752"/>
+      <point x="382" y="768"/>
+      <point x="382" y="815" type="curve" smooth="yes"/>
+      <point x="382" y="846"/>
+      <point x="364" y="861"/>
+      <point x="340" y="861" type="curve" smooth="yes"/>
+      <point x="311" y="861"/>
+      <point x="293" y="836"/>
+      <point x="293" y="799" type="curve" smooth="yes"/>
+      <point x="293" y="767"/>
+      <point x="309" y="752"/>
+    </contour>
+    <component base="caron" xOffset="71"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>caron</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

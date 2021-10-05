@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="feh_khah-ar.init" format="2">
+  <advance width="826"/>
+  <unicode hex="FCC0"/>
+  <anchor x="457" y="0" name="caret_1"/>
+  <outline>
+    <component base="feh-ar.init" xOffset="457"/>
+    <component base="khah-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>feh-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>khah-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

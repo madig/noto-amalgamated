@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rdotaccent.serif" format="2">
+  <advance width="622"/>
+  <unicode hex="1E58"/>
+  <anchor x="311" y="0" name="bottom"/>
+  <anchor x="311" y="936" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="dotaccent" xOffset="155" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

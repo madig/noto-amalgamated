@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefMadda-ar" format="2">
+  <advance width="391"/>
+  <unicode hex="0622"/>
+  <note>
+uni0622
+</note>
+  <anchor x="195" y="-78" name="bottom"/>
+  <anchor x="202" y="970" name="top"/>
+  <outline>
+    <component base="alef_alt-hb.isol"/>
+    <component base="madda-ar" xOffset="171" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>madda-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

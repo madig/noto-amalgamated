@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Che-cy" format="2">
+  <advance width="420"/>
+  <unicode hex="0427"/>
+  <anchor x="157" y="0" name="bottom"/>
+  <anchor x="344" y="0" name="bottomright"/>
+  <anchor x="309" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="315" y="316" type="curve"/>
+      <point x="249" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="425" y="714" type="line"/>
+      <point x="399" y="714" type="line"/>
+      <point x="320" y="341" type="line"/>
+      <point x="280" y="316"/>
+      <point x="232" y="294"/>
+      <point x="186" y="294" type="curve" smooth="yes"/>
+      <point x="130" y="294"/>
+      <point x="101" y="323"/>
+      <point x="101" y="376" type="curve" smooth="yes"/>
+      <point x="101" y="402"/>
+      <point x="105" y="421"/>
+      <point x="112" y="456" type="curve" smooth="yes"/>
+      <point x="168" y="714" type="line"/>
+      <point x="142" y="714" type="line"/>
+      <point x="86" y="456" type="line" smooth="yes"/>
+      <point x="79" y="425"/>
+      <point x="75" y="398"/>
+      <point x="75" y="373" type="curve" smooth="yes"/>
+      <point x="75" y="311"/>
+      <point x="110" y="269"/>
+      <point x="183" y="269" type="curve" smooth="yes"/>
+      <point x="227" y="269"/>
+      <point x="278" y="291"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

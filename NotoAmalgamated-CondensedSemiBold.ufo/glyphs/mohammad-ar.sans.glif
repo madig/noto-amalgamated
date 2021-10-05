@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mohammad-ar.sans" format="2">
+  <advance width="2081"/>
+  <unicode hex="FDF4"/>
+  <outline>
+    <component base="meem-ar.init" xOffset="1581"/>
+    <component base="hah-ar.medi" xOffset="1049"/>
+    <component base="meem-ar.medi" xOffset="485"/>
+    <component base="dal-ar.fina"/>
+    <component base="damma-ar" xOffset="1640" yOffset="-91"/>
+    <component base="fatha-ar" xOffset="1026" yOffset="-52"/>
+    <component base="shadda_fatha-ar" xOffset="532" yOffset="-69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>4</integer>
+          <key>name</key>
+          <string>damma-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>fatha-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>6</integer>
+          <key>name</key>
+          <string>shadda_fatha-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=dal-ar.fi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=meem-ar.init</string>
+    </dict>
+  </lib>
+</glyph>

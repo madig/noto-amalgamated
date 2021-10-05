@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nmiddletilde.display" format="2">
+  <advance width="584"/>
+  <unicode hex="1D70"/>
+  <outline>
+    <contour>
+      <point x="618" y="325" type="curve"/>
+      <point x="568" y="325" type="line"/>
+      <point x="562" y="288"/>
+      <point x="549" y="266"/>
+      <point x="494" y="266" type="curve" smooth="yes"/>
+      <point x="370" y="266"/>
+      <point x="230" y="324"/>
+      <point x="115" y="324" type="curve" smooth="yes"/>
+      <point x="31" y="324"/>
+      <point x="-25" y="290"/>
+      <point x="-34" y="196" type="curve"/>
+      <point x="17" y="196" type="line"/>
+      <point x="21" y="234"/>
+      <point x="36" y="255"/>
+      <point x="107" y="255" type="curve" smooth="yes"/>
+      <point x="205" y="255"/>
+      <point x="354" y="197"/>
+      <point x="472" y="197" type="curve" smooth="yes"/>
+      <point x="559" y="197"/>
+      <point x="612" y="233"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=n</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

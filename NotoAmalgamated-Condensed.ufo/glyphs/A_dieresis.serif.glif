@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis.serif" format="2">
+  <advance width="568"/>
+  <unicode hex="00C4"/>
+  <anchor x="284" y="0" name="bottom"/>
+  <anchor x="284" y="910" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dieresis" xOffset="55" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

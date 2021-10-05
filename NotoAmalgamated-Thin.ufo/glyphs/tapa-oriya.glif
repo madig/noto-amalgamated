@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tapa-oriya" format="2">
+  <advance width="708"/>
+  <note>
+tapaorya
+</note>
+  <outline>
+    <component base="pa-oriya"/>
+    <component base="taalt-oriya.below" xOffset="482"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>pa-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>taalt-oriya.below</string>
+    </dict>
+  </lib>
+</glyph>

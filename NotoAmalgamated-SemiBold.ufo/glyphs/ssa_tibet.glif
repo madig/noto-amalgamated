@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ssa_tibet" format="2">
+  <advance width="647"/>
+  <unicode hex="0F65"/>
+  <anchor x="607" y="678" name="_bottomright"/>
+  <anchor x="401" y="20" name="bottom"/>
+  <anchor x="140" y="-440" name="bottomleft"/>
+  <anchor x="607" y="-430" name="bottomright"/>
+  <anchor x="485" y="678" name="flag"/>
+  <anchor x="341" y="678" name="top"/>
+  <anchor x="64" y="678" name="topleft"/>
+  <anchor x="607" y="678" name="topright"/>
+  <outline>
+    <contour>
+      <point x="140" y="-486" type="line"/>
+      <point x="140" y="38"/>
+      <point x="152" y="288"/>
+      <point x="190" y="532" type="curve"/>
+      <point x="330" y="532" type="line" smooth="yes"/>
+      <point x="422" y="532"/>
+      <point x="470" y="491"/>
+      <point x="470" y="431" type="curve" smooth="yes"/>
+      <point x="470" y="369"/>
+      <point x="422" y="325"/>
+      <point x="324" y="325" type="curve" smooth="yes"/>
+      <point x="261" y="325"/>
+      <point x="202" y="349"/>
+      <point x="153" y="407" type="curve"/>
+      <point x="153" y="306" type="line"/>
+      <point x="196" y="224"/>
+      <point x="262" y="175"/>
+      <point x="334" y="175" type="curve" smooth="yes"/>
+      <point x="403" y="175"/>
+      <point x="445" y="212"/>
+      <point x="466" y="265" type="curve"/>
+      <point x="470" y="265" type="line"/>
+      <point x="470" y="134" type="line"/>
+      <point x="544" y="137" type="line"/>
+      <point x="544" y="439" type="line" smooth="yes"/>
+      <point x="544" y="575"/>
+      <point x="459" y="678"/>
+      <point x="310" y="678" type="curve" smooth="yes"/>
+      <point x="64" y="678" type="line"/>
+      <point x="64" y="-440" type="line"/>
+    </contour>
+    <contour>
+      <point x="470" y="27" type="line"/>
+      <point x="523" y="70"/>
+      <point x="573" y="88"/>
+      <point x="633" y="88" type="curve" smooth="yes"/>
+      <point x="644" y="88"/>
+      <point x="657" y="86"/>
+      <point x="667" y="83" type="curve"/>
+      <point x="650" y="235" type="line"/>
+      <point x="638" y="239"/>
+      <point x="624" y="240"/>
+      <point x="612" y="240" type="curve" smooth="yes"/>
+      <point x="520" y="240"/>
+      <point x="450" y="183"/>
+      <point x="373" y="48" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|sha_tibet+20</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|sha_tibet</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

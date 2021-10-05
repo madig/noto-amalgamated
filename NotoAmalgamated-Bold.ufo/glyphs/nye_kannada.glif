@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nye_kannada" format="2">
+  <advance width="1226"/>
+  <anchor x="443" y="-110" name="bottom"/>
+  <anchor x="479" y="566" name="top"/>
+  <outline>
+    <contour>
+      <point x="936" y="436" type="line"/>
+      <point x="987" y="436" type="line" smooth="yes"/>
+      <point x="1128" y="436"/>
+      <point x="1208" y="505"/>
+      <point x="1208" y="633" type="curve" smooth="yes"/>
+      <point x="1208" y="726"/>
+      <point x="1149" y="809"/>
+      <point x="1040" y="809" type="curve" smooth="yes"/>
+      <point x="959" y="809"/>
+      <point x="906" y="760"/>
+      <point x="906" y="696" type="curve" smooth="yes"/>
+      <point x="906" y="636"/>
+      <point x="954" y="596"/>
+      <point x="1010" y="596" type="curve" smooth="yes"/>
+      <point x="1052" y="596"/>
+      <point x="1074" y="619"/>
+      <point x="1074" y="650" type="curve" smooth="yes"/>
+      <point x="1074" y="675"/>
+      <point x="1059" y="699"/>
+      <point x="1027" y="699" type="curve" smooth="yes"/>
+      <point x="997" y="699"/>
+      <point x="978" y="680"/>
+      <point x="978" y="651" type="curve" smooth="yes"/>
+      <point x="978" y="641" type="line"/>
+      <point x="1001" y="638" type="line"/>
+      <point x="979" y="646"/>
+      <point x="970" y="660"/>
+      <point x="970" y="681" type="curve" smooth="yes"/>
+      <point x="970" y="712"/>
+      <point x="997" y="736"/>
+      <point x="1045" y="736" type="curve" smooth="yes"/>
+      <point x="1108" y="736"/>
+      <point x="1140" y="697"/>
+      <point x="1140" y="657" type="curve" smooth="yes"/>
+      <point x="1140" y="627"/>
+      <point x="1127" y="604"/>
+      <point x="1105" y="590" type="curve" smooth="yes"/>
+      <point x="1081" y="574"/>
+      <point x="1045" y="566"/>
+      <point x="1001" y="566" type="curve" smooth="yes"/>
+      <point x="947" y="566" type="line"/>
+    </contour>
+    <component base="nya_kannada.base" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>kannada</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meem_yeh-ar" format="2">
+  <advance width="1261"/>
+  <unicode hex="FC4A"/>
+  <anchor x="736" y="0" name="caret_1"/>
+  <outline>
+    <component base="meem-ar.init" xOffset="736"/>
+    <component base="yeh-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>meem-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yeh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adotaccent.display" format="2">
+  <advance width="512"/>
+  <unicode hex="0226"/>
+  <anchor x="195" y="0" name="bottom"/>
+  <anchor x="380" y="870" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dotaccent" xOffset="208" yOffset="135"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

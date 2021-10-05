@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tmiddletilde.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="1D75"/>
+  <outline>
+    <contour>
+      <point x="15" y="192" type="curve"/>
+      <point x="91" y="192" type="line"/>
+      <point x="94" y="228"/>
+      <point x="105" y="242"/>
+      <point x="138" y="242" type="curve" smooth="yes"/>
+      <point x="195" y="242"/>
+      <point x="236" y="193"/>
+      <point x="314" y="193" type="curve" smooth="yes"/>
+      <point x="376" y="193"/>
+      <point x="413" y="242"/>
+      <point x="415" y="348" type="curve"/>
+      <point x="340" y="348" type="line"/>
+      <point x="334" y="312"/>
+      <point x="327" y="298"/>
+      <point x="297" y="298" type="curve" smooth="yes"/>
+      <point x="233" y="298"/>
+      <point x="196" y="347"/>
+      <point x="119" y="347" type="curve" smooth="yes"/>
+      <point x="29" y="347"/>
+      <point x="16" y="254"/>
+    </contour>
+    <component base="t" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

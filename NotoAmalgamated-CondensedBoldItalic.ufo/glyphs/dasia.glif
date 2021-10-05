@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasia" format="2">
+  <advance width="249"/>
+  <unicode hex="1FFE"/>
+  <anchor x="198" y="553" name="_top"/>
+  <outline>
+    <contour>
+      <point x="209" y="594" type="curve"/>
+      <point x="273" y="630" type="line"/>
+      <point x="261" y="643"/>
+      <point x="254" y="655"/>
+      <point x="254" y="669" type="curve" smooth="yes"/>
+      <point x="254" y="682"/>
+      <point x="262" y="695"/>
+      <point x="283" y="695" type="curve" smooth="yes"/>
+      <point x="294" y="695"/>
+      <point x="302" y="692"/>
+      <point x="308" y="689" type="curve"/>
+      <point x="308" y="769" type="line"/>
+      <point x="287" y="776"/>
+      <point x="266" y="781"/>
+      <point x="232" y="781" type="curve" smooth="yes"/>
+      <point x="172" y="781"/>
+      <point x="130" y="752"/>
+      <point x="130" y="700" type="curve" smooth="yes"/>
+      <point x="130" y="658"/>
+      <point x="153" y="623"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|psili</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|psili</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

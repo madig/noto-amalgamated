@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="San" format="2">
+  <advance width="775"/>
+  <unicode hex="03FA"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="200" y="597" type="line" smooth="yes"/>
+      <point x="206" y="627"/>
+      <point x="209" y="646"/>
+      <point x="215" y="679" type="curve"/>
+      <point x="217" y="679" type="line"/>
+      <point x="385" y="260" type="line"/>
+      <point x="406" y="260" type="line"/>
+      <point x="743" y="678" type="line"/>
+      <point x="745" y="678" type="line"/>
+      <point x="737" y="644"/>
+      <point x="732" y="622"/>
+      <point x="728" y="602" type="curve" smooth="yes"/>
+      <point x="601" y="0" type="line"/>
+      <point x="627" y="0" type="line"/>
+      <point x="778" y="714" type="line"/>
+      <point x="740" y="714" type="line"/>
+      <point x="400" y="292" type="line"/>
+      <point x="398" y="292" type="line"/>
+      <point x="231" y="714" type="line"/>
+      <point x="198" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=M</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=M</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

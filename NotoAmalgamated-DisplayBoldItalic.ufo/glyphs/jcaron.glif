@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcaron" format="2">
+  <advance width="315"/>
+  <unicode hex="01F0"/>
+  <anchor x="53" y="-240" name="bottom"/>
+  <anchor x="257" y="766" name="top"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="caron" xOffset="-109"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

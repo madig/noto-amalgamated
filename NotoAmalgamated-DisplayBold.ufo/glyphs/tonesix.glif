@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonesix" format="2">
+  <advance width="623"/>
+  <unicode hex="0185"/>
+  <anchor x="312" y="0" name="bottom"/>
+  <anchor x="312" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="331" y="-10" type="curve"/>
+      <point x="465" y="-10"/>
+      <point x="588" y="74"/>
+      <point x="588" y="276" type="curve"/>
+      <point x="588" y="465"/>
+      <point x="504" y="563"/>
+      <point x="406" y="563" type="curve"/>
+      <point x="333" y="563"/>
+      <point x="291" y="525"/>
+      <point x="268" y="489" type="curve"/>
+      <point x="261" y="489" type="line"/>
+      <point x="265" y="516"/>
+      <point x="268" y="546"/>
+      <point x="268" y="591" type="curve"/>
+      <point x="268" y="760" type="line"/>
+      <point x="62" y="760" type="line"/>
+      <point x="62" y="271" type="line" smooth="yes"/>
+      <point x="62" y="97"/>
+      <point x="166" y="-10"/>
+    </contour>
+    <contour>
+      <point x="326" y="145" type="curve"/>
+      <point x="298" y="145"/>
+      <point x="268" y="174"/>
+      <point x="268" y="268" type="curve"/>
+      <point x="268" y="302" type="line" smooth="yes"/>
+      <point x="268" y="373"/>
+      <point x="287" y="410"/>
+      <point x="330" y="410" type="curve"/>
+      <point x="354" y="410"/>
+      <point x="379" y="366"/>
+      <point x="379" y="276" type="curve"/>
+      <point x="379" y="175"/>
+      <point x="359" y="145"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

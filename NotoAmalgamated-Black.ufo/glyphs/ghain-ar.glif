@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghain-ar" format="2">
+  <advance width="631.66667"/>
+  <unicode hex="063A"/>
+  <note>
+uni063A
+</note>
+  <anchor x="228" y="-415" name="bottom"/>
+  <anchor x="345" y="789" name="top"/>
+  <outline>
+    <component base="ain-ar"/>
+    <component base="onedot.above" xOffset="327"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ain-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

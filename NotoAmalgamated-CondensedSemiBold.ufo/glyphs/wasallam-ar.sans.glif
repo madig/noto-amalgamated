@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wasallam-ar.sans" format="2">
+  <advance width="2121"/>
+  <unicode hex="FDF8"/>
+  <outline>
+    <component base="waw-ar" xOffset="1671"/>
+    <component base="seen-ar.init" xOffset="857"/>
+    <component base="lam-ar.medi" xOffset="571"/>
+    <component base="meem-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>waw-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>meem-ar</string>
+    </dict>
+  </lib>
+</glyph>

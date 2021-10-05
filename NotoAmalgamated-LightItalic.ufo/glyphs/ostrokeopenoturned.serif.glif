@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ostrokeopenoturned.serif" format="2">
+  <advance width="779"/>
+  <unicode hex="AB44"/>
+  <outline>
+    <contour>
+      <point x="344" y="-40" type="line"/>
+      <point x="373" y="-40" type="line"/>
+      <point x="717" y="576" type="line"/>
+      <point x="688" y="576" type="line"/>
+    </contour>
+    <component base="oopenoturned" xOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>oopenoturned</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

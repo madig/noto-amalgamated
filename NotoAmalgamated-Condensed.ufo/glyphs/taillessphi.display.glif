@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="taillessphi.display" format="2">
+  <advance width="564"/>
+  <unicode hex="2C77"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="282" y="537" name="top"/>
+  <outline>
+    <contour>
+      <point x="282" y="-10" type="curve" smooth="yes"/>
+      <point x="390" y="-10"/>
+      <point x="525" y="38"/>
+      <point x="525" y="288" type="curve" smooth="yes"/>
+      <point x="525" y="427"/>
+      <point x="474" y="547"/>
+      <point x="368" y="547" type="curve" smooth="yes"/>
+      <point x="282" y="547"/>
+      <point x="241" y="489"/>
+      <point x="241" y="368" type="curve" smooth="yes"/>
+      <point x="241" y="62" type="line"/>
+      <point x="164" y="74"/>
+      <point x="124" y="144"/>
+      <point x="124" y="269" type="curve" smooth="yes"/>
+      <point x="124" y="357"/>
+      <point x="149" y="438"/>
+      <point x="196" y="501" type="curve"/>
+      <point x="135" y="542" type="line"/>
+      <point x="72" y="463"/>
+      <point x="41" y="373"/>
+      <point x="41" y="270" type="curve" smooth="yes"/>
+      <point x="41" y="17"/>
+      <point x="182" y="-10"/>
+    </contour>
+    <contour>
+      <point x="319" y="62" type="curve"/>
+      <point x="319" y="368" type="line" smooth="yes"/>
+      <point x="319" y="443"/>
+      <point x="331" y="477"/>
+      <point x="367" y="477" type="curve" smooth="yes"/>
+      <point x="409" y="477"/>
+      <point x="441" y="403"/>
+      <point x="441" y="287" type="curve" smooth="yes"/>
+      <point x="441" y="155"/>
+      <point x="393" y="71"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

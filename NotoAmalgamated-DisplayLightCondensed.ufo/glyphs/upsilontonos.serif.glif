@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilontonos.serif" format="2">
+  <advance width="423"/>
+  <unicode hex="03CD"/>
+  <anchor x="212" y="0" name="bottom"/>
+  <anchor x="212" y="796" name="top"/>
+  <outline>
+    <component base="tonos"/>
+    <component base="upsilon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

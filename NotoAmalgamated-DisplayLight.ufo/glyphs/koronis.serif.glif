@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koronis.serif" format="2">
+  <advance width="70"/>
+  <unicode hex="1FBD"/>
+  <anchor x="35" y="536" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-9" y="560" type="curve"/>
+      <point x="-9" y="549" type="line"/>
+      <point x="57" y="574"/>
+      <point x="76" y="604"/>
+      <point x="76" y="658" type="curve" smooth="yes"/>
+      <point x="76" y="699"/>
+      <point x="60" y="724"/>
+      <point x="35" y="724" type="curve" smooth="yes"/>
+      <point x="17" y="724"/>
+      <point x="6" y="712"/>
+      <point x="6" y="692" type="curve" smooth="yes"/>
+      <point x="6" y="650"/>
+      <point x="56" y="669"/>
+      <point x="56" y="629" type="curve" smooth="yes"/>
+      <point x="56" y="599"/>
+      <point x="34" y="575"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

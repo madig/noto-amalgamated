@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_tta-gujarati" format="2">
+  <advance width="696"/>
+  <anchor x="494" y="0" name="bottom"/>
+  <anchor x="494" y="-125" name="bottomleft"/>
+  <anchor x="494" y="0" name="bottomright"/>
+  <anchor x="494" y="73" name="bottomround"/>
+  <anchor x="540" y="592" name="top"/>
+  <anchor x="479" y="592" name="topright"/>
+  <outline>
+    <contour>
+      <point x="147" y="179" type="curve" smooth="yes"/>
+      <point x="175" y="179"/>
+      <point x="187" y="196"/>
+      <point x="187" y="228" type="curve" smooth="yes"/>
+      <point x="187" y="248" type="line" smooth="yes"/>
+      <point x="187" y="284"/>
+      <point x="206" y="292"/>
+      <point x="255" y="292" type="curve" smooth="yes"/>
+      <point x="434" y="292" type="line"/>
+      <point x="463" y="333" type="line"/>
+      <point x="411" y="344"/>
+      <point x="265" y="369"/>
+      <point x="122" y="369" type="curve" smooth="yes"/>
+      <point x="57" y="369"/>
+      <point x="28" y="348"/>
+      <point x="28" y="311" type="curve" smooth="yes"/>
+      <point x="28" y="245"/>
+      <point x="98" y="179"/>
+    </contour>
+    <component base="tta-gujarati" xOffset="214"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Ligature</string>
+    </dict>
+  </lib>
+</glyph>

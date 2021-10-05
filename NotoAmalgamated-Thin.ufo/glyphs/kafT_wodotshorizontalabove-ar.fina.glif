@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kafTwodotshorizontalabove-ar.fina" format="2">
+  <advance width="735"/>
+  <anchor x="352" y="-78" name="bottom"/>
+  <anchor x="350" y="726" name="top"/>
+  <outline>
+    <component base="kaf-ar.fina"/>
+    <component base="twodots.small.above" xOffset="349" yOffset="-21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.small.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

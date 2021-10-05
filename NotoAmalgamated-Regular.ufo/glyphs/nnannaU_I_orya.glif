@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nnannaUIorya" format="2">
+  <advance width="671"/>
+  <anchor x="587" y="0" name="b.uvowelsignorya"/>
+  <anchor x="325" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="289" y="31" type="curve" smooth="yes"/>
+      <point x="289" y="-82"/>
+      <point x="361" y="-160"/>
+      <point x="485" y="-160" type="curve" smooth="yes"/>
+      <point x="587" y="-160"/>
+      <point x="656" y="-101"/>
+      <point x="656" y="-34" type="curve" smooth="yes"/>
+      <point x="656" y="2"/>
+      <point x="639" y="24"/>
+      <point x="610" y="39" type="curve" smooth="yes"/>
+      <point x="592" y="48"/>
+      <point x="566" y="56"/>
+      <point x="539" y="55" type="curve"/>
+      <point x="542" y="42" type="line"/>
+      <point x="598" y="62"/>
+      <point x="643" y="100"/>
+      <point x="643" y="157" type="curve" smooth="yes"/>
+      <point x="643" y="209"/>
+      <point x="601" y="246"/>
+      <point x="544" y="246" type="curve" smooth="yes"/>
+      <point x="487" y="246"/>
+      <point x="429" y="211"/>
+      <point x="429" y="152" type="curve" smooth="yes"/>
+      <point x="429" y="141"/>
+      <point x="432" y="128"/>
+      <point x="439" y="112" type="curve"/>
+      <point x="497" y="138" type="line"/>
+      <point x="493" y="149"/>
+      <point x="491" y="159"/>
+      <point x="491" y="164" type="curve" smooth="yes"/>
+      <point x="491" y="180"/>
+      <point x="509" y="187"/>
+      <point x="529" y="187" type="curve" smooth="yes"/>
+      <point x="566" y="187"/>
+      <point x="582" y="165"/>
+      <point x="582" y="144" type="curve" smooth="yes"/>
+      <point x="582" y="102"/>
+      <point x="511" y="73"/>
+      <point x="475" y="63" type="curve"/>
+      <point x="455" y="22" type="line"/>
+      <point x="461" y="15" type="line"/>
+      <point x="475" y="14"/>
+      <point x="501" y="10"/>
+      <point x="526" y="5" type="curve" smooth="yes"/>
+      <point x="562" y="-2"/>
+      <point x="592" y="-14"/>
+      <point x="592" y="-42" type="curve" smooth="yes"/>
+      <point x="592" y="-76"/>
+      <point x="542" y="-96"/>
+      <point x="499" y="-96" type="curve" smooth="yes"/>
+      <point x="384" y="-96"/>
+      <point x="351" y="-15"/>
+      <point x="351" y="48" type="curve" smooth="yes"/>
+      <point x="351" y="64"/>
+      <point x="353" y="79"/>
+      <point x="356" y="95" type="curve"/>
+      <point x="309" y="100" type="line"/>
+      <point x="297" y="77"/>
+      <point x="289" y="54"/>
+    </contour>
+    <contour>
+      <point x="520" y="220" type="line"/>
+      <point x="527" y="213" type="line"/>
+      <point x="587" y="227" type="line"/>
+      <point x="587" y="657" type="line"/>
+      <point x="580" y="664" type="line"/>
+      <point x="520" y="650" type="line"/>
+    </contour>
+    <component base="_part.nnahalf" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

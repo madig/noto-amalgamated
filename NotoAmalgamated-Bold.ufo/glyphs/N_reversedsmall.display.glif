@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nreversedsmall.display" format="2">
+  <advance width="670"/>
+  <unicode hex="1D0E"/>
+  <anchor x="336" y="0" name="bottom"/>
+  <anchor x="336" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="51" y="553" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="432" y="323" type="line"/>
+      <point x="435" y="323" type="line"/>
+      <point x="432" y="282"/>
+      <point x="431" y="231"/>
+      <point x="431" y="189" type="curve" smooth="yes"/>
+      <point x="431" y="0" type="line"/>
+      <point x="619" y="0" type="line"/>
+      <point x="619" y="553" type="line"/>
+      <point x="441" y="553" type="line"/>
+      <point x="236" y="224" type="line"/>
+      <point x="233" y="224" type="line"/>
+      <point x="236" y="260"/>
+      <point x="239" y="310"/>
+      <point x="239" y="362" type="curve" smooth="yes"/>
+      <point x="239" y="553" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahThreedotsupbelow-ar" format="2">
+  <advance width="620"/>
+  <unicode hex="0758"/>
+  <outline>
+    <component base="hah-ar.wide"/>
+    <component base="threedotsupabove-ar.small" xOffset="232" yOffset="-724"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedotsupabove-ar.small</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

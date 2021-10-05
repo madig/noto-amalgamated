@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shachaorya" format="2">
+  <advance width="658"/>
+  <anchor x="579" y="-132" name="b.uvowelsignmarkorya"/>
+  <anchor x="597" y="0" name="b.uvowelsignorya"/>
+  <anchor x="645" y="-49" name="m.rrvocalicvowelsignleftorya"/>
+  <anchor x="329" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <component base="shaorya"/>
+    <component base="thasubscriptorya" xOffset="628"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

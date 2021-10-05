@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflexgrave.serif" format="2">
+  <advance width="598"/>
+  <unicode hex="1EC1"/>
+  <anchor x="299" y="0" name="bottom"/>
+  <anchor x="299" y="812" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflexgravecomb" xOffset="621"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

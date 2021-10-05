@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kobliquestroke" format="2">
+  <advance width="506"/>
+  <unicode hex="A7A2"/>
+  <anchor x="200" y="0" name="bottom"/>
+  <anchor x="351" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="1" y="252" type="line"/>
+      <point x="534" y="362" type="line"/>
+      <point x="556" y="468" type="line"/>
+      <point x="23" y="358" type="line"/>
+    </contour>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>K</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

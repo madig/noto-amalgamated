@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalinvertedstroke.display" format="2">
+  <advance width="461"/>
+  <unicode hex="01BE"/>
+  <anchor x="180" y="0" name="bottom"/>
+  <anchor x="320" y="659" name="top"/>
+  <outline>
+    <contour>
+      <point x="201" y="-10" type="curve" smooth="yes"/>
+      <point x="346" y="-10"/>
+      <point x="416" y="73"/>
+      <point x="416" y="173" type="curve" smooth="yes"/>
+      <point x="416" y="233"/>
+      <point x="390" y="264"/>
+      <point x="366" y="290" type="curve" smooth="yes"/>
+      <point x="341" y="318"/>
+      <point x="322" y="337"/>
+      <point x="322" y="377" type="curve" smooth="yes"/>
+      <point x="322" y="398"/>
+      <point x="325" y="422"/>
+      <point x="330" y="446" type="curve" smooth="yes"/>
+      <point x="345" y="526" type="line"/>
+      <point x="442" y="526" type="line"/>
+      <point x="445" y="536" type="line"/>
+      <point x="347" y="536" type="line"/>
+      <point x="375" y="659" type="line"/>
+      <point x="367" y="659" type="line"/>
+      <point x="297" y="556"/>
+      <point x="231" y="536"/>
+      <point x="105" y="536" type="curve"/>
+      <point x="102" y="526" type="line"/>
+      <point x="178" y="526" type="line"/>
+      <point x="163" y="454" type="line" smooth="yes"/>
+      <point x="153" y="405"/>
+      <point x="149" y="381"/>
+      <point x="149" y="354" type="curve" smooth="yes"/>
+      <point x="149" y="279"/>
+      <point x="184" y="237"/>
+      <point x="220" y="203" type="curve" smooth="yes"/>
+      <point x="251" y="173"/>
+      <point x="281" y="139"/>
+      <point x="281" y="86" type="curve" smooth="yes"/>
+      <point x="281" y="21"/>
+      <point x="258" y="0"/>
+      <point x="228" y="0" type="curve" smooth="yes"/>
+      <point x="155" y="0"/>
+      <point x="135" y="123"/>
+      <point x="135" y="192" type="curve"/>
+      <point x="72" y="192"/>
+      <point x="15" y="162"/>
+      <point x="15" y="100" type="curve" smooth="yes"/>
+      <point x="15" y="28"/>
+      <point x="90" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

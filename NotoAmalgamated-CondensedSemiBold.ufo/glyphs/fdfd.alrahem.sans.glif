@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fdfd.alrahem.sans" format="2">
+  <advance width="3845"/>
+  <outline>
+    <component base="hah-ar.init" xOffset="2449"/>
+    <component base="alef-ar" xOffset="3627"/>
+    <component base="lam-ar.init" xOffset="3363"/>
+    <component base="reh-ar.fina" xOffset="3008"/>
+    <component base="meem-ar.fina" xOffset="-14"/>
+    <component base="yeh-farsi.medi" xOffset="555"/>
+    <component base="kashida-ar" xOffset="2201"/>
+    <component base="kashida-ar" xOffset="1951"/>
+    <component base="kashida-ar" xOffset="1701"/>
+    <component base="kashida-ar" xOffset="1441"/>
+    <component base="kashida-ar" xOffset="1183"/>
+    <component base="kashida-ar" xOffset="923"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hah-ar.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>alef-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>lam-ar.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>reh-ar.fina</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

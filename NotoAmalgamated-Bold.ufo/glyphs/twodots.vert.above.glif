@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodots.vert.above" format="2">
+  <note>
+twodots.vert.above
+</note>
+  <outline>
+    <contour>
+      <point x="0" y="581" type="curve" smooth="yes"/>
+      <point x="40" y="581"/>
+      <point x="66" y="608"/>
+      <point x="66" y="653" type="curve" smooth="yes"/>
+      <point x="66" y="698"/>
+      <point x="41" y="725"/>
+      <point x="0" y="725" type="curve" smooth="yes"/>
+      <point x="-41" y="725"/>
+      <point x="-67" y="700"/>
+      <point x="-67" y="653" type="curve" smooth="yes"/>
+      <point x="-67" y="606"/>
+      <point x="-40" y="581"/>
+    </contour>
+    <contour>
+      <point x="0" y="767" type="curve" smooth="yes"/>
+      <point x="40" y="767"/>
+      <point x="66" y="794"/>
+      <point x="66" y="839" type="curve" smooth="yes"/>
+      <point x="66" y="884"/>
+      <point x="41" y="911"/>
+      <point x="0" y="911" type="curve" smooth="yes"/>
+      <point x="-41" y="911"/>
+      <point x="-67" y="886"/>
+      <point x="-67" y="839" type="curve" smooth="yes"/>
+      <point x="-67" y="792"/>
+      <point x="-40" y="767"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 4 values pushed */
+12 6 18 0 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MDRP[01100]	/* MoveDirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

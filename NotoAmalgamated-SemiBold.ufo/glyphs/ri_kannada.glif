@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ri_kannada" format="2">
+  <advance width="634"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="317" y="561" name="top"/>
+  <outline>
+    <contour>
+      <point x="318" y="-12" type="curve" smooth="yes"/>
+      <point x="486" y="-12"/>
+      <point x="582" y="97"/>
+      <point x="582" y="267" type="curve" smooth="yes"/>
+      <point x="582" y="463"/>
+      <point x="484" y="692"/>
+      <point x="251" y="692" type="curve" smooth="yes"/>
+      <point x="136" y="692"/>
+      <point x="62" y="635"/>
+      <point x="62" y="546" type="curve" smooth="yes"/>
+      <point x="62" y="470"/>
+      <point x="131" y="420"/>
+      <point x="218" y="420" type="curve" smooth="yes"/>
+      <point x="243" y="420"/>
+      <point x="263" y="426"/>
+      <point x="279" y="434" type="curve"/>
+      <point x="206" y="452" type="line"/>
+      <point x="108" y="414"/>
+      <point x="52" y="327"/>
+      <point x="52" y="228" type="curve" smooth="yes"/>
+      <point x="52" y="86"/>
+      <point x="149" y="-12"/>
+    </contour>
+    <contour>
+      <point x="317" y="141" type="curve" smooth="yes"/>
+      <point x="209" y="141"/>
+      <point x="148" y="202"/>
+      <point x="148" y="281" type="curve" smooth="yes"/>
+      <point x="148" y="360"/>
+      <point x="209" y="421"/>
+      <point x="318" y="421" type="curve" smooth="yes"/>
+      <point x="429" y="421"/>
+      <point x="486" y="361"/>
+      <point x="486" y="281" type="curve" smooth="yes"/>
+      <point x="486" y="201"/>
+      <point x="429" y="141"/>
+    </contour>
+    <contour>
+      <point x="527" y="285" type="curve"/>
+      <point x="543" y="361" type="line"/>
+      <point x="501" y="427"/>
+      <point x="422" y="471"/>
+      <point x="318" y="471" type="curve" smooth="yes"/>
+      <point x="295" y="471"/>
+      <point x="280" y="467"/>
+      <point x="261" y="467" type="curve" smooth="yes"/>
+      <point x="218" y="467"/>
+      <point x="189" y="492"/>
+      <point x="189" y="532" type="curve" smooth="yes"/>
+      <point x="189" y="579"/>
+      <point x="228" y="608"/>
+      <point x="288" y="608" type="curve" smooth="yes"/>
+      <point x="439" y="608"/>
+      <point x="518" y="448"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>kannada</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

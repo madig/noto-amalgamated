@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdescender" format="2">
+  <advance width="438"/>
+  <unicode hex="2C6B"/>
+  <anchor x="116" y="-222" name="bottom"/>
+  <anchor x="314" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="152" y="-222" type="line"/>
+      <point x="314" y="-222" type="line"/>
+      <point x="393" y="146" type="line"/>
+      <point x="181" y="146" type="line"/>
+      <point x="484" y="597" type="line"/>
+      <point x="508" y="714" type="line"/>
+      <point x="117" y="714" type="line"/>
+      <point x="87" y="570" type="line"/>
+      <point x="287" y="570" type="line"/>
+      <point x="-15" y="117" type="line"/>
+      <point x="-39" y="0" type="line"/>
+      <point x="199" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

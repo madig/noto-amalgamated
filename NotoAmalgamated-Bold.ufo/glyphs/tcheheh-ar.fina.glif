@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcheheh-ar.fina" format="2">
+  <advance width="645"/>
+  <note>
+uni0687.fina
+</note>
+  <anchor x="195" y="-377" name="bottom"/>
+  <anchor x="195" y="566" name="top"/>
+  <outline>
+    <component base="hah_alt.fina"/>
+    <component base="fourdots.below" xOffset="471" yOffset="69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hah_alt.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fourdots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

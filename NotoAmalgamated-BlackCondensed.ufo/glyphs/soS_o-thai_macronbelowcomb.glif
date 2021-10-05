@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="soSo-thai_macronbelowcomb" format="2">
+  <advance width="557"/>
+  <anchor x="295" y="-215" name="bottom"/>
+  <anchor x="510" y="-215" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="510" y="-76" type="line"/>
+      <point x="80" y="-76" type="line"/>
+      <point x="80" y="-215" type="line"/>
+      <point x="510" y="-215" type="line"/>
+    </contour>
+    <component base="soSo-thai"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

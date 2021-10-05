@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLquaddowncaret" format="2">
+  <advance width="600"/>
+  <unicode hex="234C"/>
+  <outline>
+    <contour>
+      <point x="261" y="126" type="line"/>
+      <point x="339" y="126" type="line"/>
+      <point x="531" y="428" type="line"/>
+      <point x="531" y="591" type="line"/>
+      <point x="300" y="235" type="line"/>
+      <point x="69" y="591" type="line"/>
+      <point x="69" y="428" type="line"/>
+    </contour>
+    <component base="APLquad"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

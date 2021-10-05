@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="highhamzaAlef-ar" format="2">
+  <advance width="432"/>
+  <unicode hex="0675"/>
+  <note>
+uni0675
+</note>
+  <anchor x="145" y="-78" name="bottom"/>
+  <anchor x="145" y="764" name="top"/>
+  <outline>
+    <component base="alef_alt-hb.isol"/>
+    <component base="hamzaabove-ar" xOffset="338" yOffset="-254"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>alef_alt-hb.isol</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

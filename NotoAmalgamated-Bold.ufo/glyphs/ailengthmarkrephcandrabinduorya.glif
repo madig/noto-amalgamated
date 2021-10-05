@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ailengthmarkrephcandrabinduorya" format="2">
+  <anchor x="-176" y="657" name="_t.candrabinduorya"/>
+  <outline>
+    <contour>
+      <point x="-110" y="782" type="curve"/>
+      <point x="-142" y="736" type="line"/>
+      <point x="-90" y="704"/>
+      <point x="-43" y="678"/>
+      <point x="8" y="653" type="curve"/>
+      <point x="47" y="732" type="line"/>
+      <point x="-8" y="747"/>
+      <point x="-62" y="764"/>
+    </contour>
+    <contour>
+      <point x="-136" y="851" type="curve"/>
+      <point x="-160" y="791" type="line"/>
+      <point x="-45" y="754"/>
+      <point x="6" y="789"/>
+      <point x="123" y="868" type="curve"/>
+      <point x="104" y="904" type="line"/>
+      <point x="22" y="865"/>
+      <point x="-56" y="847"/>
+    </contour>
+    <component base="_part.cand" xOffset="1" yOffset="-26"/>
+    <component base="_part.ailength" xOffset="47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

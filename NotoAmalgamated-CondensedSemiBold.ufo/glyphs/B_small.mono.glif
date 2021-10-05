@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bsmall.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="0299"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="275" y="0" type="line" smooth="yes"/>
+      <point x="396" y="0"/>
+      <point x="458" y="55"/>
+      <point x="458" y="158" type="curve" smooth="yes"/>
+      <point x="458" y="227"/>
+      <point x="420" y="275"/>
+      <point x="359" y="284" type="curve"/>
+      <point x="359" y="288" type="line"/>
+      <point x="414" y="301"/>
+      <point x="445" y="343"/>
+      <point x="445" y="408" type="curve" smooth="yes"/>
+      <point x="445" y="499"/>
+      <point x="387" y="546"/>
+      <point x="273" y="546" type="curve" smooth="yes"/>
+      <point x="78" y="546" type="line"/>
+    </contour>
+    <contour>
+      <point x="265" y="93" type="curve" smooth="yes"/>
+      <point x="200" y="93" type="line"/>
+      <point x="200" y="239" type="line"/>
+      <point x="266" y="239" type="line" smooth="yes"/>
+      <point x="311" y="239"/>
+      <point x="334" y="219"/>
+      <point x="334" y="171" type="curve" smooth="yes"/>
+      <point x="334" y="118"/>
+      <point x="311" y="93"/>
+    </contour>
+    <contour>
+      <point x="263" y="328" type="curve" smooth="yes"/>
+      <point x="200" y="328" type="line"/>
+      <point x="200" y="453" type="line"/>
+      <point x="259" y="453" type="line" smooth="yes"/>
+      <point x="302" y="453"/>
+      <point x="322" y="431"/>
+      <point x="322" y="391" type="curve" smooth="yes"/>
+      <point x="322" y="351"/>
+      <point x="304" y="328"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="keheh-ar" format="2">
+  <advance width="800"/>
+  <unicode hex="06A9"/>
+  <anchor x="384" y="-21" name="bottom"/>
+  <anchor x="556" y="615" name="top"/>
+  <outline>
+    <contour>
+      <point x="357" y="-21" type="line"/>
+      <point x="577" y="-21"/>
+      <point x="732" y="37"/>
+      <point x="732" y="181" type="curve" smooth="yes"/>
+      <point x="732" y="303"/>
+      <point x="631" y="396"/>
+      <point x="534" y="513" type="curve"/>
+      <point x="529" y="445" type="line"/>
+      <point x="582" y="495"/>
+      <point x="670" y="548"/>
+      <point x="808" y="622" type="curve"/>
+      <point x="744" y="730" type="line"/>
+      <point x="608" y="658"/>
+      <point x="506" y="592"/>
+      <point x="457" y="540" type="curve" smooth="yes"/>
+      <point x="443" y="526"/>
+      <point x="436" y="474"/>
+      <point x="436" y="444" type="curve" smooth="yes"/>
+      <point x="436" y="418"/>
+      <point x="490" y="365"/>
+      <point x="534" y="309" type="curve" smooth="yes"/>
+      <point x="566" y="269"/>
+      <point x="594" y="227"/>
+      <point x="594" y="191" type="curve" smooth="yes"/>
+      <point x="594" y="123"/>
+      <point x="472" y="107"/>
+      <point x="382" y="107" type="curve"/>
+    </contour>
+    <component base="_part.beh.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=kaf-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>kaf-ar.init</string>
+    </dict>
+  </lib>
+</glyph>

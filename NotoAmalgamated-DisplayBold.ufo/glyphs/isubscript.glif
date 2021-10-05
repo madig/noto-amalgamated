@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="isubscript" format="2">
+  <advance width="205"/>
+  <unicode hex="1D62"/>
+  <anchor x="103" y="-96" name="bottom"/>
+  <anchor x="103" y="370" name="top"/>
+  <outline>
+    <component base="i" xScale="0.65" yScale="0.6" yOffset="-96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

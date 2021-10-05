@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ngakhaorya" format="2">
+  <advance width="799"/>
+  <anchor x="405" y="0" name="b.tasubscriptorya"/>
+  <anchor x="592" y="0" name="b.uvowelsignorya"/>
+  <anchor x="525" y="657" name="t.candrabinduorya"/>
+  <anchor x="358" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="285" y="495" type="curve" smooth="yes"/>
+      <point x="285" y="430"/>
+      <point x="333" y="382"/>
+      <point x="405" y="382" type="curve" smooth="yes"/>
+      <point x="492" y="382"/>
+      <point x="551" y="453"/>
+      <point x="562" y="564" type="curve"/>
+      <point x="527" y="610" type="line"/>
+      <point x="527" y="510"/>
+      <point x="489" y="447"/>
+      <point x="421" y="447" type="curve" smooth="yes"/>
+      <point x="381" y="447"/>
+      <point x="352" y="470"/>
+      <point x="352" y="510" type="curve" smooth="yes"/>
+      <point x="352" y="546"/>
+      <point x="376" y="591"/>
+      <point x="420" y="635" type="curve"/>
+      <point x="420" y="649" type="line"/>
+      <point x="359" y="628" type="line"/>
+      <point x="307" y="579"/>
+      <point x="285" y="539"/>
+    </contour>
+    <contour>
+      <point x="32" y="430" type="curve" smooth="yes"/>
+      <point x="32" y="366"/>
+      <point x="57" y="303"/>
+      <point x="103" y="254" type="curve"/>
+      <point x="179" y="303" type="line"/>
+      <point x="129" y="336"/>
+      <point x="100" y="384"/>
+      <point x="100" y="444" type="curve" smooth="yes"/>
+      <point x="100" y="531"/>
+      <point x="175" y="601"/>
+      <point x="302" y="601" type="curve" smooth="yes"/>
+      <point x="327" y="601"/>
+      <point x="353" y="598"/>
+      <point x="376" y="591" type="curve"/>
+      <point x="420" y="649" type="line"/>
+      <point x="387" y="661"/>
+      <point x="351" y="667"/>
+      <point x="313" y="667" type="curve" smooth="yes"/>
+      <point x="146" y="667"/>
+      <point x="32" y="558"/>
+    </contour>
+    <component base="aavowelsignorya" xOffset="454"/>
+    <component base="_part.oo" xOffset="213" yOffset="1"/>
+    <component base="_part.ooo" xOffset="-15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

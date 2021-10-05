@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonRing-ar.init.sans" format="2">
+  <advance width="236"/>
+  <anchor x="113" y="-99" name="bottom"/>
+  <anchor x="43" y="632" name="top"/>
+  <outline>
+    <component base="dotlessbeh-ar.init.wide"/>
+    <component base="ringArabic" xOffset="-16" yOffset="-127"/>
+    <component base="dotabove-ar" xOffset="55" yOffset="-100"/>
+  </outline>
+</glyph>

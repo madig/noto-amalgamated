@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright" format="2">
+  <advance width="475"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="281" y="45" type="line"/>
+      <point x="451" y="263" type="line"/>
+      <point x="453" y="275" type="line"/>
+      <point x="353" y="495" type="line"/>
+      <point x="255" y="452" type="line"/>
+      <point x="329" y="272" type="line"/>
+      <point x="197" y="97" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="45" type="line"/>
+      <point x="248" y="263" type="line"/>
+      <point x="249" y="275" type="line"/>
+      <point x="149" y="495" type="line"/>
+      <point x="53" y="452" type="line"/>
+      <point x="125" y="272" type="line"/>
+      <point x="-7" y="97" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Quote</string>
+    </dict>
+  </lib>
+</glyph>

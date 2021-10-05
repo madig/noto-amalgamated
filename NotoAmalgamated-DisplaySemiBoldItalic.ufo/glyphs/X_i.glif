@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Xi" format="2">
+  <advance width="550"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="-2" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="464" y="125" type="line"/>
+      <point x="23" y="125" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="309" type="line"/>
+      <point x="446" y="309" type="line"/>
+      <point x="473" y="433" type="line"/>
+      <point x="147" y="433" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="590" type="line"/>
+      <point x="544" y="590" type="line"/>
+      <point x="570" y="714" type="line"/>
+      <point x="168" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|E</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=E</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

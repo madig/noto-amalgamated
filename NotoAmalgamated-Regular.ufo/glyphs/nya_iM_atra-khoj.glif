@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nya_iMatra-khoj" format="2">
+  <advance width="767"/>
+  <anchor x="609" y="63" name="bottom"/>
+  <anchor x="172" y="600" name="nukta"/>
+  <anchor x="440" y="77" name="rakar"/>
+  <anchor x="761" y="889" name="top"/>
+  <outline>
+    <component base="two-khoj"/>
+    <component base="i_v_dots" xOffset="399"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>two-khoj</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>nya-khoj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>nga_iMatra-khoj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilonoxia.display" format="2">
+  <advance width="431"/>
+  <unicode hex="1F7B"/>
+  <anchor x="155" y="0" name="bottom"/>
+  <anchor x="307" y="714" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="oxia" xOffset="125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

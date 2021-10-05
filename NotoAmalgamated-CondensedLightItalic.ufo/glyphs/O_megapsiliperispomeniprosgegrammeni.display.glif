@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsiliperispomeniprosgegrammeni.display" format="2">
+  <advance width="1005"/>
+  <unicode hex="1FAE"/>
+  <anchor x="889" y="0" name="bottom"/>
+  <anchor x="953" y="536" name="top"/>
+  <outline>
+    <component base="psiliperispomeni"/>
+    <component base="Omega" xOffset="258"/>
+    <component base="iota" xOffset="807"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

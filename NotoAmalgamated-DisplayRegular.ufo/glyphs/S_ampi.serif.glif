@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sampi.serif" format="2">
+  <advance width="640"/>
+  <unicode hex="03E0"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="320" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="249" y="0" type="curve"/>
+      <point x="249" y="-10" type="line"/>
+      <point x="466" y="-10"/>
+      <point x="583" y="137"/>
+      <point x="583" y="358" type="curve" smooth="yes"/>
+      <point x="583" y="600"/>
+      <point x="456" y="724"/>
+      <point x="270" y="724" type="curve" smooth="yes"/>
+      <point x="99" y="724"/>
+      <point x="34" y="645"/>
+      <point x="34" y="587" type="curve" smooth="yes"/>
+      <point x="34" y="546"/>
+      <point x="61" y="524"/>
+      <point x="110" y="524" type="curve"/>
+      <point x="110" y="645"/>
+      <point x="158" y="714"/>
+      <point x="270" y="714" type="curve" smooth="yes"/>
+      <point x="358" y="714"/>
+      <point x="412" y="667"/>
+      <point x="442" y="584" type="curve"/>
+      <point x="159" y="435" type="line"/>
+      <point x="164" y="426" type="line"/>
+      <point x="445" y="575" type="line"/>
+      <point x="458" y="537"/>
+      <point x="465" y="492"/>
+      <point x="469" y="442" type="curve"/>
+      <point x="224" y="312" type="line"/>
+      <point x="229" y="303" type="line"/>
+      <point x="470" y="431" type="line"/>
+      <point x="471" y="408"/>
+      <point x="472" y="383"/>
+      <point x="472" y="358" type="curve" smooth="yes"/>
+      <point x="472" y="94"/>
+      <point x="398" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

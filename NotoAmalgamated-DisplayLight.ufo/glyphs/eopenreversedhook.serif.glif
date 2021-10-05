@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eopenreversedhook.serif" format="2">
+  <advance width="612"/>
+  <unicode hex="025D"/>
+  <anchor x="266" y="0" name="bottom"/>
+  <anchor x="266" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="553" y="248" type="curve" smooth="yes"/>
+      <point x="577" y="248"/>
+      <point x="612" y="263"/>
+      <point x="612" y="290" type="curve" smooth="yes"/>
+      <point x="612" y="299"/>
+      <point x="609" y="306"/>
+      <point x="599" y="309" type="curve"/>
+      <point x="593" y="286"/>
+      <point x="574" y="274"/>
+      <point x="548" y="274" type="curve" smooth="yes"/>
+      <point x="507" y="274"/>
+      <point x="486" y="307"/>
+      <point x="473" y="352" type="curve" smooth="yes"/>
+      <point x="448" y="437" type="line"/>
+      <point x="357" y="406" type="line"/>
+      <point x="359" y="396" type="line"/>
+      <point x="441" y="424" type="line"/>
+      <point x="469" y="328" type="line" smooth="yes"/>
+      <point x="483" y="281"/>
+      <point x="509" y="248"/>
+    </contour>
+    <component base="ze-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ze-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>rhotichookmod</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

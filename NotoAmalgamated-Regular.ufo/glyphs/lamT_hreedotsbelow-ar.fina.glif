@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamThreedotsbelow-ar.fina" format="2">
+  <advance width="692"/>
+  <note>
+uni06B8.fina
+</note>
+  <anchor x="332" y="-522" name="bottom"/>
+  <anchor x="523" y="817" name="top"/>
+  <outline>
+    <component base="lam-ar.fina"/>
+    <component base="threedots.small.below" xOffset="331" yOffset="-189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>lam-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.small.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

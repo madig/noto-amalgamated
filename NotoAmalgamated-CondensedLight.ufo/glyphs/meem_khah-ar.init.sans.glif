@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meem_khah-ar.init.sans" format="2">
+  <advance width="904"/>
+  <unicode hex="FCD0"/>
+  <anchor x="477" y="0" name="caret_1"/>
+  <outline>
+    <component base="meem-ar.init" xOffset="477"/>
+    <component base="khah-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>meem-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>khah-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

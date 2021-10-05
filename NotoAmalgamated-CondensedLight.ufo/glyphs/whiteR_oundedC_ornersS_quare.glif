@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteRoundedCornersSquare" format="2">
+  <advance width="1000"/>
+  <unicode hex="25A2"/>
+  <outline>
+    <contour>
+      <point x="348" y="60" type="curve" smooth="yes"/>
+      <point x="652" y="60" type="line" smooth="yes"/>
+      <point x="716" y="60"/>
+      <point x="748" y="94"/>
+      <point x="748" y="160" type="curve" smooth="yes"/>
+      <point x="748" y="456" type="line" smooth="yes"/>
+      <point x="748" y="523"/>
+      <point x="716" y="556"/>
+      <point x="652" y="556" type="curve" smooth="yes"/>
+      <point x="348" y="556" type="line" smooth="yes"/>
+      <point x="284" y="556"/>
+      <point x="252" y="523"/>
+      <point x="252" y="456" type="curve" smooth="yes"/>
+      <point x="252" y="160" type="line" smooth="yes"/>
+      <point x="252" y="94"/>
+      <point x="284" y="60"/>
+    </contour>
+    <contour>
+      <point x="654" y="83" type="curve" smooth="yes"/>
+      <point x="348" y="83" type="line"/>
+      <point x="298" y="83"/>
+      <point x="275" y="109"/>
+      <point x="275" y="160" type="curve" smooth="yes"/>
+      <point x="275" y="458" type="line" smooth="yes"/>
+      <point x="275" y="509"/>
+      <point x="298" y="534"/>
+      <point x="348" y="534" type="curve" smooth="yes"/>
+      <point x="654" y="534" type="line" smooth="yes"/>
+      <point x="703" y="534"/>
+      <point x="725" y="509"/>
+      <point x="725" y="458" type="curve" smooth="yes"/>
+      <point x="725" y="160" type="line" smooth="yes"/>
+      <point x="725" y="109"/>
+      <point x="703" y="83"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+    </dict>
+  </lib>
+</glyph>

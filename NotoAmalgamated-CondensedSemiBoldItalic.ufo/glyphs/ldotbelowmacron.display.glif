@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldotbelowmacron.display" format="2">
+  <advance width="299"/>
+  <unicode hex="1E39"/>
+  <anchor x="98" y="-195" name="bottom"/>
+  <anchor x="255" y="877" name="top"/>
+  <outline>
+    <component base="l"/>
+    <component base="dotaccent" xOffset="-103" yOffset="-832"/>
+    <component base="macronmod" xOffset="19" yOffset="210"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

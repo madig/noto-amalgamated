@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamVaboveMadda_alef-ar.isol" format="2">
+  <advance width="634"/>
+  <note>
+uni06B50627.isol
+</note>
+  <anchor x="526" y="-57" name="bottom_1"/>
+  <anchor x="197" y="-77" name="bottom_2"/>
+  <anchor x="317" y="0" name="caret_1"/>
+  <anchor x="519" y="1055" name="top_1"/>
+  <anchor x="182" y="890" name="top_2"/>
+  <outline>
+    <component base="lam_alef-ar.isol"/>
+    <component base="smallv.arabic" xOffset="530" yOffset="217"/>
+    <component base="madda-ar" xOffset="170" yOffset="-60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>lam_alef-ar.isol</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>smallv.arabic</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>madda-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftarrowheadabove-ar" format="2">
+  <unicode hex="08F7"/>
+  <anchor x="99" y="458" name="_top"/>
+  <anchor x="97" y="785" name="top"/>
+  <outline>
+    <contour>
+      <point x="20" y="725" type="curve"/>
+      <point x="26" y="645" type="line"/>
+      <point x="75" y="666" type="line"/>
+      <point x="113" y="688"/>
+      <point x="190" y="733"/>
+      <point x="217" y="752" type="curve"/>
+      <point x="182" y="818" type="line"/>
+      <point x="140" y="791"/>
+      <point x="60" y="746"/>
+    </contour>
+    <contour>
+      <point x="26" y="645" type="line"/>
+      <point x="68" y="628"/>
+      <point x="165" y="577"/>
+      <point x="192" y="562" type="curve"/>
+      <point x="220" y="628" type="line"/>
+      <point x="199" y="641"/>
+      <point x="98" y="692"/>
+      <point x="52" y="710" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>250</integer>
+    </dict>
+  </lib>
+</glyph>

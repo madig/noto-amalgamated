@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowuparrowheadmod.serif" format="2">
+  <advance width="285"/>
+  <unicode hex="02F0"/>
+  <outline>
+    <contour>
+      <point x="40" y="-230" type="curve"/>
+      <point x="40" y="-240" type="line"/>
+      <point x="81" y="-240" type="line"/>
+      <point x="105" y="-202"/>
+      <point x="127" y="-165"/>
+      <point x="142" y="-121" type="curve"/>
+      <point x="159" y="-165"/>
+      <point x="180" y="-202"/>
+      <point x="204" y="-240" type="curve"/>
+      <point x="245" y="-240" type="line"/>
+      <point x="245" y="-230" type="line"/>
+      <point x="207" y="-164"/>
+      <point x="184" y="-99"/>
+      <point x="161" y="-28" type="curve"/>
+      <point x="123" y="-28" type="line"/>
+      <point x="100" y="-98"/>
+      <point x="78" y="-165"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lowdownarrowheadmod</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>lowdownarrowheadmod</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

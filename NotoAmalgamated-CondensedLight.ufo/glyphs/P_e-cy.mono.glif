@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pe-cy.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="041F"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="480" y="0" name="bottomright"/>
+  <anchor x="250" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="91" y="689" type="line"/>
+      <point x="409" y="689" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="435" y="714" type="line"/>
+      <point x="65" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

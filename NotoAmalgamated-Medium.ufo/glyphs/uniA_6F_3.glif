@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA6F3" format="2">
+  <advance width="386.11475"/>
+  <unicode hex="A6F3"/>
+  <outline>
+    <contour>
+      <point x="32" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="273" y="714" type="line"/>
+      <point x="169" y="714" type="line"/>
+    </contour>
+    <component base="_dot" xOffset="48" yOffset="-48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_dot</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rnoon-ar" format="2">
+  <advance width="820"/>
+  <unicode hex="06BB"/>
+  <note>
+uni06BB
+</note>
+  <anchor x="390" y="-300" name="bottom"/>
+  <anchor x="374" y="725" name="top"/>
+  <outline>
+    <component base="noonghunna-ar"/>
+    <component base="tahabove-ar" xOffset="337" yOffset="-146"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tahabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

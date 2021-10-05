@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1B171" format="2">
+  <advance height="1000" width="850"/>
+  <unicode hex="1B171"/>
+  <note>
+u1B171
+</note>
+  <outline>
+    <contour>
+      <point x="141" y="324" type="curve"/>
+      <point x="203" y="217" type="line"/>
+      <point x="248.07" y="243.59"/>
+      <point x="290.82" y="272.26"/>
+      <point x="331.23" y="302.99" type="curve" smooth="yes"/>
+      <point x="561.32" y="478.66"/>
+      <point x="693.91" y="706"/>
+      <point x="729" y="985" type="curve"/>
+      <point x="607" y="1000" type="line"/>
+      <point x="593.2" y="893.82"/>
+      <point x="559.13" y="791.61"/>
+      <point x="504.81" y="693.36" type="curve" smooth="yes"/>
+      <point x="419.88" y="540.59"/>
+      <point x="298.61" y="417.47"/>
+    </contour>
+    <contour>
+      <point x="120" y="-12" type="curve"/>
+      <point x="179" y="-120" type="line"/>
+      <point x="384.32" y="-1.52"/>
+      <point x="564.65" y="139.81"/>
+      <point x="720" y="304" type="curve"/>
+      <point x="633" y="391" type="line"/>
+      <point x="617.86" y="374.95"/>
+      <point x="601.58" y="358.39"/>
+      <point x="584.18" y="341.3" type="curve" smooth="yes"/>
+      <point x="448.18" y="208.21"/>
+      <point x="293.45" y="90.45"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>607</integer>
+            <integer>122</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

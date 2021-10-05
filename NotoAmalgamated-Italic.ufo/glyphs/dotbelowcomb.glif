@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <unicode hex="0323"/>
+  <anchor x="-342" y="0" name="_bottom"/>
+  <anchor x="-365" y="-175" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-372" y="-175" type="curve"/>
+      <point x="-343" y="-175"/>
+      <point x="-315" y="-150"/>
+      <point x="-315" y="-109" type="curve"/>
+      <point x="-315" y="-83"/>
+      <point x="-329" y="-64"/>
+      <point x="-360" y="-64" type="curve"/>
+      <point x="-397" y="-64"/>
+      <point x="-419" y="-94"/>
+      <point x="-419" y="-128" type="curve"/>
+      <point x="-419" y="-159"/>
+      <point x="-398" y="-175"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

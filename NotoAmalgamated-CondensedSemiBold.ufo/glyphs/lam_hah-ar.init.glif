@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_hah-ar.init" format="2">
+  <advance width="800"/>
+  <unicode hex="FCCA"/>
+  <anchor x="532" y="0" name="caret_1"/>
+  <outline>
+    <component base="lam-ar.init" xOffset="532"/>
+    <component base="hah-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lam-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hah-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

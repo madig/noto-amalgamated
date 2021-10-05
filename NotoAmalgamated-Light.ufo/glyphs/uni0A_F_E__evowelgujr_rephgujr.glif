@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0AFE_evowelgujr_rephgujr" format="2">
+  <anchor x="1" y="592" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-142" y="797" type="curve" smooth="yes"/>
+      <point x="-142" y="741"/>
+      <point x="-104" y="702"/>
+      <point x="-46" y="702" type="curve" smooth="yes"/>
+      <point x="12" y="702"/>
+      <point x="50" y="743"/>
+      <point x="50" y="797" type="curve" smooth="yes"/>
+      <point x="50" y="854"/>
+      <point x="11" y="893"/>
+      <point x="-46" y="893" type="curve" smooth="yes"/>
+      <point x="-102" y="893"/>
+      <point x="-142" y="853"/>
+    </contour>
+    <contour>
+      <point x="-117" y="797" type="curve" smooth="yes"/>
+      <point x="-117" y="839"/>
+      <point x="-89" y="869"/>
+      <point x="-46" y="869" type="curve" smooth="yes"/>
+      <point x="-1" y="869"/>
+      <point x="25" y="840"/>
+      <point x="25" y="797" type="curve" smooth="yes"/>
+      <point x="25" y="756"/>
+      <point x="-3" y="726"/>
+      <point x="-46" y="726" type="curve" smooth="yes"/>
+      <point x="-91" y="726"/>
+      <point x="-117" y="755"/>
+    </contour>
+    <component base="eMatra-gujarati" xOffset="-120"/>
+    <component base="reph-gujarati" xOffset="181"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

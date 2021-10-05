@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rfishhookreversed.serif" format="2">
+  <advance width="451"/>
+  <unicode hex="027F"/>
+  <anchor x="226" y="-240" name="bottom"/>
+  <anchor x="226" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="139" y="-240" type="line"/>
+      <point x="428" y="-240" type="line"/>
+      <point x="428" y="-198" type="line"/>
+      <point x="424" y="-198" type="line" smooth="yes"/>
+      <point x="379" y="-198"/>
+      <point x="343" y="-189"/>
+      <point x="343" y="-126" type="curve" smooth="yes"/>
+      <point x="343" y="349" type="line"/>
+      <point x="343" y="476"/>
+      <point x="286" y="546"/>
+      <point x="171" y="546" type="curve" smooth="yes"/>
+      <point x="61" y="546"/>
+      <point x="15" y="505"/>
+      <point x="15" y="451" type="curve" smooth="yes"/>
+      <point x="15" y="415"/>
+      <point x="41" y="393"/>
+      <point x="108" y="393" type="curve"/>
+      <point x="108" y="448"/>
+      <point x="122" y="500"/>
+      <point x="175" y="500" type="curve" smooth="yes"/>
+      <point x="220" y="500"/>
+      <point x="249" y="466"/>
+      <point x="249" y="345" type="curve" smooth="yes"/>
+      <point x="249" y="-131" type="line" smooth="yes"/>
+      <point x="249" y="-190"/>
+      <point x="211" y="-198"/>
+      <point x="167" y="-198" type="curve" smooth="yes"/>
+      <point x="139" y="-198" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

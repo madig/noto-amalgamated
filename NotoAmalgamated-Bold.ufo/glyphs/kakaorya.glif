@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kakaorya" format="2">
+  <advance width="705"/>
+  <anchor x="355" y="0" name="b.tasubscriptorya"/>
+  <anchor x="682" y="0" name="b.uvowelsignorya"/>
+  <anchor x="357" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <component base="_part.ka" xOffset="-3"/>
+    <component base="kasubscriptorya" xOffset="670" yOffset="63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

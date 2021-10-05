@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasiaprosgegrammeni.serif" format="2">
+  <advance width="987"/>
+  <unicode hex="1F89"/>
+  <anchor x="806" y="0" name="bottom"/>
+  <anchor x="806" y="536" name="top"/>
+  <outline>
+    <component base="iota" xOffset="624"/>
+    <component base="dasia" xOffset="-95"/>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

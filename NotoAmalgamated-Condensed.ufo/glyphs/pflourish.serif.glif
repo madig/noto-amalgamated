@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pflourish.serif" format="2">
+  <advance width="602"/>
+  <unicode hex="A753"/>
+  <outline>
+    <contour>
+      <point x="55" y="54" type="curve" smooth="yes"/>
+      <point x="74" y="54"/>
+      <point x="86" y="64"/>
+      <point x="90" y="77" type="curve"/>
+      <point x="74" y="91"/>
+      <point x="63" y="109"/>
+      <point x="63" y="140" type="curve" smooth="yes"/>
+      <point x="63" y="179"/>
+      <point x="87" y="200"/>
+      <point x="119" y="200" type="curve" smooth="yes"/>
+      <point x="144" y="200"/>
+      <point x="172" y="183"/>
+      <point x="195" y="151" type="curve"/>
+      <point x="195" y="199" type="line"/>
+      <point x="173" y="224"/>
+      <point x="141" y="244"/>
+      <point x="107" y="244" type="curve" smooth="yes"/>
+      <point x="39" y="244"/>
+      <point x="-4" y="199"/>
+      <point x="-4" y="133" type="curve" smooth="yes"/>
+      <point x="-4" y="80"/>
+      <point x="25" y="54"/>
+    </contour>
+    <component base="p" xOffset="109"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

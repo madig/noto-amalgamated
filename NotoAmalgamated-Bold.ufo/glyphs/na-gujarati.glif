@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="na-gujarati" format="2">
+  <advance width="629"/>
+  <unicode hex="0AA8"/>
+  <anchor x="448" y="0" name="bottom"/>
+  <anchor x="205" y="54" name="bottomleft"/>
+  <anchor x="448" y="0" name="bottomright"/>
+  <anchor x="448" y="592" name="top"/>
+  <anchor x="448" y="592" name="topright"/>
+  <outline>
+    <contour>
+      <point x="583" y="-5" type="curve" smooth="yes"/>
+      <point x="623" y="-5"/>
+      <point x="653" y="13"/>
+      <point x="675" y="35" type="curve"/>
+      <point x="613" y="154" type="line"/>
+      <point x="585" y="120"/>
+      <point x="555" y="100"/>
+      <point x="533" y="100" type="curve" smooth="yes"/>
+      <point x="527" y="100"/>
+      <point x="523" y="102"/>
+      <point x="523" y="109" type="curve" smooth="yes"/>
+      <point x="523" y="579" type="line"/>
+      <point x="372" y="612" type="line"/>
+      <point x="372" y="167" type="line" smooth="yes"/>
+      <point x="372" y="109"/>
+      <point x="408" y="76"/>
+      <point x="451" y="46" type="curve" smooth="yes"/>
+      <point x="499" y="13"/>
+      <point x="538" y="-5"/>
+    </contour>
+    <contour>
+      <point x="183" y="162" type="curve" smooth="yes"/>
+      <point x="216" y="162"/>
+      <point x="230" y="182"/>
+      <point x="230" y="220" type="curve" smooth="yes"/>
+      <point x="230" y="263" type="line" smooth="yes"/>
+      <point x="230" y="300"/>
+      <point x="249" y="309"/>
+      <point x="298" y="309" type="curve" smooth="yes"/>
+      <point x="415" y="309" type="line"/>
+      <point x="415" y="380" type="line"/>
+      <point x="355" y="400"/>
+      <point x="256" y="421"/>
+      <point x="169" y="421" type="curve" smooth="yes"/>
+      <point x="76" y="421"/>
+      <point x="22" y="387"/>
+      <point x="22" y="327" type="curve" smooth="yes"/>
+      <point x="22" y="247"/>
+      <point x="119" y="162"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

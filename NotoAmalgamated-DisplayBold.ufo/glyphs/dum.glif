@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dum" format="2">
+  <advance width="853"/>
+  <unicode hex="A771"/>
+  <outline>
+    <contour>
+      <point x="515" y="0" type="line"/>
+      <point x="848" y="0" type="line"/>
+      <point x="848" y="144" type="line"/>
+      <point x="515" y="144" type="line"/>
+    </contour>
+    <contour>
+      <point x="665" y="298" type="line"/>
+      <point x="523" y="-157" type="line"/>
+      <point x="640" y="-157" type="line"/>
+      <point x="781" y="298" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="invertedCandrabindu-deva" format="2">
+  <unicode hex="0900"/>
+  <anchor x="0" y="622" name="_candra"/>
+  <outline>
+    <contour>
+      <point x="-13" y="903" type="curve" smooth="yes"/>
+      <point x="-102" y="903"/>
+      <point x="-151" y="830"/>
+      <point x="-169" y="731" type="curve"/>
+      <point x="-149" y="727" type="line"/>
+      <point x="-130" y="823"/>
+      <point x="-88" y="879"/>
+      <point x="-14" y="879" type="curve" smooth="yes"/>
+      <point x="60" y="879"/>
+      <point x="96" y="816"/>
+      <point x="108" y="723" type="curve"/>
+      <point x="134" y="726" type="line"/>
+      <point x="122" y="834"/>
+      <point x="71" y="903"/>
+    </contour>
+    <contour>
+      <point x="-20" y="752" type="curve" smooth="yes"/>
+      <point x="-36" y="752"/>
+      <point x="-45" y="739"/>
+      <point x="-45" y="718" type="curve" smooth="yes"/>
+      <point x="-45" y="696"/>
+      <point x="-36" y="684"/>
+      <point x="-20" y="684" type="curve" smooth="yes"/>
+      <point x="-3" y="684"/>
+      <point x="7" y="696"/>
+      <point x="7" y="718" type="curve" smooth="yes"/>
+      <point x="7" y="739"/>
+      <point x="-3" y="752"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

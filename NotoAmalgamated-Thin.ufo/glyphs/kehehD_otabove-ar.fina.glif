@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kehehDotabove-ar.fina" format="2">
+  <advance width="779"/>
+  <note>
+uni0762.fina
+</note>
+  <anchor x="384" y="-78" name="bottom"/>
+  <anchor x="336" y="821" name="top"/>
+  <outline>
+    <component base="keheh-ar.fina"/>
+    <component base="onedot.above" xOffset="346" yOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>keheh-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

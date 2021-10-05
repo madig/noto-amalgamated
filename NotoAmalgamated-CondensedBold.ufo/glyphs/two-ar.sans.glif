@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two-ar.sans" format="2">
+  <advance width="532"/>
+  <unicode hex="0662"/>
+  <outline>
+    <contour>
+      <point x="289" y="0" type="line"/>
+      <point x="289" y="138"/>
+      <point x="270" y="469"/>
+      <point x="200" y="690" type="curve"/>
+      <point x="30" y="647" type="line"/>
+      <point x="89" y="428"/>
+      <point x="119" y="58"/>
+      <point x="119" y="-7" type="curve"/>
+    </contour>
+    <contour>
+      <point x="271" y="410" type="curve" smooth="yes"/>
+      <point x="439" y="410"/>
+      <point x="500" y="495"/>
+      <point x="517" y="662" type="curve"/>
+      <point x="363" y="683" type="line"/>
+      <point x="355" y="604"/>
+      <point x="336" y="566"/>
+      <point x="263" y="566" type="curve" smooth="yes"/>
+      <point x="235" y="566"/>
+      <point x="188" y="572"/>
+      <point x="150" y="585" type="curve"/>
+      <point x="150" y="431" type="line"/>
+      <point x="201" y="415"/>
+      <point x="231" y="410"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=one-ar</string>
+    </dict>
+  </lib>
+</glyph>

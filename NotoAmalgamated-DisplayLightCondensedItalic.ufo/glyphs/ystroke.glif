@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ystroke" format="2">
+  <advance width="289"/>
+  <unicode hex="024F"/>
+  <anchor x="-72" y="-243" name="bottom"/>
+  <anchor x="201" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="12" y="266" type="line"/>
+      <point x="290" y="266" type="line"/>
+      <point x="296" y="290" type="line"/>
+      <point x="18" y="290" type="line"/>
+    </contour>
+    <component base="y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>y</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

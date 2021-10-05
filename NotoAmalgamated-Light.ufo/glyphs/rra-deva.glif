@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rra-deva" format="2">
+  <advance width="354"/>
+  <unicode hex="0931"/>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="191" y="0" name="bottom_right"/>
+  <anchor x="312" y="622" name="candra"/>
+  <anchor x="92" y="-53" name="nukta"/>
+  <anchor x="242" y="622" name="top"/>
+  <outline>
+    <component base="ra-deva"/>
+    <component base="nukta-deva" xOffset="348" yOffset="159"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

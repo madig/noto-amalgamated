@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fdfd.bsm.sans" format="2">
+  <advance width="3219"/>
+  <outline>
+    <component base="beh-ar.init" xOffset="3000" yOffset="5"/>
+    <component base="meem-ar.fina" xOffset="-10" yOffset="5"/>
+    <component base="seen-ar.medi" xOffset="2157" yOffset="5"/>
+    <component base="kashida-ar" xOffset="1884" yOffset="5"/>
+    <component base="kashida-ar" xOffset="1624" yOffset="5"/>
+    <component base="kashida-ar" xOffset="1362" yOffset="5"/>
+    <component base="kashida-ar" xOffset="1096" yOffset="5"/>
+    <component base="kashida-ar" xOffset="828" yOffset="5"/>
+    <component base="kashida-ar" xOffset="558" yOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>beh-ar.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>seen-ar.medi</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

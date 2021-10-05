@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero-deva" format="2">
+  <advance width="519"/>
+  <unicode hex="0966"/>
+  <anchor x="259" y="0" name="bottom_right"/>
+  <anchor x="339" y="627" name="top"/>
+  <outline>
+    <contour>
+      <point x="274" y="88" type="curve" smooth="yes"/>
+      <point x="402" y="88"/>
+      <point x="493" y="181"/>
+      <point x="493" y="282" type="curve" smooth="yes"/>
+      <point x="493" y="406"/>
+      <point x="374" y="522"/>
+      <point x="247" y="522" type="curve" smooth="yes"/>
+      <point x="116" y="522"/>
+      <point x="26" y="428"/>
+      <point x="26" y="328" type="curve" smooth="yes"/>
+      <point x="26" y="204"/>
+      <point x="146" y="88"/>
+    </contour>
+    <contour>
+      <point x="220" y="205" type="curve" smooth="yes"/>
+      <point x="177" y="205"/>
+      <point x="149" y="233"/>
+      <point x="149" y="273" type="curve" smooth="yes"/>
+      <point x="149" y="339"/>
+      <point x="225" y="405"/>
+      <point x="301" y="405" type="curve" smooth="yes"/>
+      <point x="343" y="405"/>
+      <point x="370" y="376"/>
+      <point x="370" y="339" type="curve" smooth="yes"/>
+      <point x="370" y="271"/>
+      <point x="296" y="205"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

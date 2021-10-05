@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ta.dogra" format="2">
+  <advance height="1494" width="526"/>
+  <unicode hex="11819"/>
+  <anchor x="265" y="-50" name="bottom1"/>
+  <anchor x="251" y="-50" name="bottom2"/>
+  <anchor x="220" y="56" name="bottom3"/>
+  <anchor x="264" y="660" name="top"/>
+  <anchor x="282" y="660" name="top2"/>
+  <outline>
+    <contour>
+      <point x="222" y="24" type="curve" smooth="yes"/>
+      <point x="375" y="24"/>
+      <point x="456" y="90"/>
+      <point x="456" y="189" type="curve" smooth="yes"/>
+      <point x="456" y="263"/>
+      <point x="399" y="318"/>
+      <point x="333" y="346" type="curve"/>
+      <point x="406" y="385"/>
+      <point x="444" y="452"/>
+      <point x="454" y="558" type="curve"/>
+      <point x="501" y="558" type="line"/>
+      <point x="501" y="567" type="line"/>
+      <point x="469" y="625" type="line"/>
+      <point x="25" y="625" type="line"/>
+      <point x="25" y="616" type="line"/>
+      <point x="57" y="558" type="line"/>
+      <point x="371" y="558" type="line"/>
+      <point x="358" y="442"/>
+      <point x="292" y="380"/>
+      <point x="140" y="380" type="curve" smooth="yes"/>
+      <point x="97" y="380" type="line"/>
+      <point x="120" y="313" type="line"/>
+      <point x="242" y="313" type="line" smooth="yes"/>
+      <point x="335" y="313"/>
+      <point x="375" y="276"/>
+      <point x="375" y="218" type="curve" smooth="yes"/>
+      <point x="375" y="130"/>
+      <point x="303" y="93"/>
+      <point x="190" y="93" type="curve" smooth="yes"/>
+      <point x="137" y="93"/>
+      <point x="81" y="104"/>
+      <point x="37" y="120" type="curve"/>
+      <point x="32" y="114" type="line"/>
+      <point x="56" y="51" type="line"/>
+      <point x="105" y="34"/>
+      <point x="156" y="24"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>public.verticalOrigin</key>
+      <integer>1130</integer>
+    </dict>
+  </lib>
+</glyph>

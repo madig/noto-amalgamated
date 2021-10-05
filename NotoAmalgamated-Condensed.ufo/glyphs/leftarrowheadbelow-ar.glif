@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftarrowheadbelow-ar" format="2">
+  <unicode hex="08F9"/>
+  <anchor x="103" y="0" name="_bottom"/>
+  <anchor x="103" y="-192" name="bottom"/>
+  <outline>
+    <component base="leftarrowheadabove-ar" yOffset="-799"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=leftarrowheadabove-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=leftarrowheadabove-ar</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>227</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reversedtildeequals" format="2">
+  <advance width="600"/>
+  <unicode hex="22CD"/>
+  <outline>
+    <contour>
+      <point x="185" y="368" type="curve" smooth="yes"/>
+      <point x="223" y="368"/>
+      <point x="257" y="374"/>
+      <point x="317" y="400" type="curve" smooth="yes"/>
+      <point x="365" y="421"/>
+      <point x="393" y="427"/>
+      <point x="422" y="427" type="curve" smooth="yes"/>
+      <point x="459" y="427"/>
+      <point x="503" y="401"/>
+      <point x="535" y="368" type="curve"/>
+      <point x="535" y="516" type="line"/>
+      <point x="503" y="551"/>
+      <point x="464" y="569"/>
+      <point x="416" y="569" type="curve" smooth="yes"/>
+      <point x="378" y="569"/>
+      <point x="345" y="564"/>
+      <point x="284" y="537" type="curve" smooth="yes"/>
+      <point x="236" y="516"/>
+      <point x="208" y="510"/>
+      <point x="180" y="510" type="curve" smooth="yes"/>
+      <point x="141" y="510"/>
+      <point x="97" y="536"/>
+      <point x="65" y="569" type="curve"/>
+      <point x="65" y="422" type="line"/>
+      <point x="97" y="387"/>
+      <point x="137" y="368"/>
+    </contour>
+    <contour>
+      <point x="65" y="176" type="line"/>
+      <point x="535" y="176" type="line"/>
+      <point x="535" y="317" type="line"/>
+      <point x="65" y="317" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

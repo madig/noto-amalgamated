@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tripledagger.serif" format="2">
+  <advance width="478"/>
+  <unicode hex="2E4B"/>
+  <outline>
+    <contour>
+      <point x="234" y="322" type="line"/>
+      <point x="244" y="322" type="line"/>
+      <point x="443" y="268" type="line"/>
+      <point x="443" y="384" type="line"/>
+      <point x="244" y="332" type="line"/>
+      <point x="234" y="332" type="line"/>
+      <point x="35" y="384" type="line"/>
+      <point x="35" y="268" type="line"/>
+    </contour>
+    <component base="daggerdbl"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

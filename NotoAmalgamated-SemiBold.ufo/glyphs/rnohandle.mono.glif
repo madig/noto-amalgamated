@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rnohandle.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="AB47"/>
+  <outline>
+    <contour>
+      <point x="77" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="507" y="90" type="line"/>
+      <point x="364" y="120" type="line"/>
+      <point x="364" y="262" type="line" smooth="yes"/>
+      <point x="364" y="350"/>
+      <point x="409" y="417"/>
+      <point x="501" y="417" type="curve"/>
+      <point x="501" y="555" type="line"/>
+      <point x="432" y="548"/>
+      <point x="389" y="509"/>
+      <point x="357" y="454" type="curve"/>
+      <point x="350" y="454" type="line"/>
+      <point x="329" y="546" type="line"/>
+      <point x="104" y="546" type="line"/>
+      <point x="104" y="443" type="line"/>
+      <point x="219" y="426" type="line"/>
+      <point x="219" y="120" type="line"/>
+      <point x="77" y="90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

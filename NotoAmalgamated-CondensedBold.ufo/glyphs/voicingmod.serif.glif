@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="voicingmod.serif" format="2">
+  <advance width="430"/>
+  <unicode hex="02EC"/>
+  <outline>
+    <contour>
+      <point x="142" y="-229" type="curve"/>
+      <point x="287" y="-229" type="line"/>
+      <point x="316" y="-179"/>
+      <point x="347" y="-129"/>
+      <point x="390" y="-78" type="curve"/>
+      <point x="390" y="-63" type="line"/>
+      <point x="310" y="-63" type="line"/>
+      <point x="291" y="-84"/>
+      <point x="240" y="-136"/>
+      <point x="215" y="-168" type="curve"/>
+      <point x="192" y="-137"/>
+      <point x="140" y="-84"/>
+      <point x="120" y="-63" type="curve"/>
+      <point x="40" y="-63" type="line"/>
+      <point x="40" y="-78" type="line"/>
+      <point x="81" y="-126"/>
+      <point x="113" y="-177"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>caron</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>caron</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

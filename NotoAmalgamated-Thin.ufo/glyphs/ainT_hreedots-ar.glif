@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ainThreedots-ar" format="2">
+  <advance width="477"/>
+  <unicode hex="06A0"/>
+  <note>
+uni06A0
+</note>
+  <anchor x="175" y="-365" name="bottom"/>
+  <anchor x="285" y="755" name="top"/>
+  <outline>
+    <component base="ain-ar"/>
+    <component base="threedots.above" xOffset="285"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ain-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

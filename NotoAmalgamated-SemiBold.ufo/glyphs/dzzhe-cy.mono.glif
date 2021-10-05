@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzzhe-cy.mono" format="2">
+  <advance width="1200"/>
+  <unicode hex="052B"/>
+  <anchor x="600" y="-195" name="bottom"/>
+  <anchor x="600" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="421" y="231" type="line"/>
+      <point x="703" y="231" type="line"/>
+      <point x="703" y="334" type="line"/>
+      <point x="421" y="334" type="line"/>
+    </contour>
+    <component base="de-cy"/>
+    <component base="ka-cy" xOffset="600"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>de-cy</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ka-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

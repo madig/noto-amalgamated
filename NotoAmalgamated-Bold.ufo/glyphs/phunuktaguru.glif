@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phunuktaguru" format="2">
+  <advance width="641"/>
+  <note>
+phunuktaguru
+</note>
+  <anchor x="561" y="622" name="top"/>
+  <outline>
+    <component base="phanuktaguru"/>
+    <component base="umatraguru" xOffset="671" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>umatraguru</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

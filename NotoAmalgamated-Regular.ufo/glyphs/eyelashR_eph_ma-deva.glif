@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eyelashReph_ma-deva" format="2">
+  <advance width="844"/>
+  <anchor x="759" y="0" name="bottom"/>
+  <anchor x="566" y="-6" name="bottom_right"/>
+  <anchor x="759" y="623" name="candra"/>
+  <anchor x="433" y="26" name="nukta"/>
+  <anchor x="759" y="623" name="top"/>
+  <outline>
+    <contour>
+      <point x="441" y="162" type="curve" smooth="yes"/>
+      <point x="466" y="162"/>
+      <point x="482" y="176"/>
+      <point x="482" y="208" type="curve" smooth="yes"/>
+      <point x="482" y="276" type="line"/>
+      <point x="463" y="251" type="line"/>
+      <point x="475" y="252"/>
+      <point x="488" y="252"/>
+      <point x="500" y="252" type="curve" smooth="yes"/>
+      <point x="585" y="252"/>
+      <point x="666" y="249"/>
+      <point x="689" y="248" type="curve"/>
+      <point x="689" y="305" type="line"/>
+      <point x="670" y="309"/>
+      <point x="546" y="328"/>
+      <point x="423" y="328" type="curve" smooth="yes"/>
+      <point x="378" y="328"/>
+      <point x="335" y="324"/>
+      <point x="335" y="277" type="curve" smooth="yes"/>
+      <point x="335" y="223"/>
+      <point x="390" y="162"/>
+    </contour>
+    <contour>
+      <point x="268" y="194" type="curve" smooth="yes"/>
+      <point x="312" y="194"/>
+      <point x="339" y="198"/>
+      <point x="373" y="209" type="curve"/>
+      <point x="351" y="291" type="line"/>
+      <point x="318" y="278"/>
+      <point x="277" y="271"/>
+      <point x="234" y="271" type="curve" smooth="yes"/>
+      <point x="177" y="271"/>
+      <point x="119" y="286"/>
+      <point x="73" y="322" type="curve"/>
+      <point x="46" y="286" type="line"/>
+      <point x="115" y="217"/>
+      <point x="205" y="194"/>
+    </contour>
+    <contour>
+      <point x="407" y="297" type="line"/>
+      <point x="482" y="297" type="line"/>
+      <point x="482" y="582" type="line"/>
+      <point x="407" y="582" type="line"/>
+    </contour>
+    <contour>
+      <point x="750" y="-6" type="line"/>
+      <point x="759" y="-6" type="line"/>
+      <point x="759" y="582" type="line"/>
+      <point x="684" y="582" type="line"/>
+      <point x="684" y="42" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="555" type="line"/>
+      <point x="884" y="555" type="line"/>
+      <point x="884" y="564" type="line"/>
+      <point x="844" y="623" type="line"/>
+      <point x="-40" y="623" type="line"/>
+      <point x="-40" y="612" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>eyelashReph-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ma-deva</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilondasiavaria.serif" format="2">
+  <advance width="675"/>
+  <unicode hex="1F1B"/>
+  <anchor x="427" y="0" name="bottom"/>
+  <anchor x="427" y="714" name="top"/>
+  <outline>
+    <component base="dasiavaria" xOffset="-75"/>
+    <component base="E" xOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

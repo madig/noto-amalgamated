@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="20A3"/>
+  <outline>
+    <contour>
+      <point x="85" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="214" y="316" type="line"/>
+      <point x="425" y="316" type="line"/>
+      <point x="425" y="433" type="line"/>
+      <point x="214" y="433" type="line"/>
+      <point x="214" y="595" type="line"/>
+      <point x="440" y="595" type="line"/>
+      <point x="440" y="714" type="line"/>
+      <point x="85" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="120" type="line"/>
+      <point x="338" y="120" type="line"/>
+      <point x="338" y="214" type="line"/>
+      <point x="30" y="214" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

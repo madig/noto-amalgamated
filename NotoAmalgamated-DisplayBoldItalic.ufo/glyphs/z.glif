@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="467"/>
+  <unicode hex="007A"/>
+  <anchor x="175" y="0" name="bottom"/>
+  <anchor x="293" y="553" name="top"/>
+  <anchor x="506" y="553" name="topright"/>
+  <outline>
+    <contour>
+      <point x="-18" y="0" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="413" y="146" type="line"/>
+      <point x="241" y="146" type="line"/>
+      <point x="466" y="435" type="line"/>
+      <point x="493" y="553" type="line"/>
+      <point x="110" y="553" type="line"/>
+      <point x="76" y="407" type="line"/>
+      <point x="232" y="407" type="line"/>
+      <point x="4" y="108" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

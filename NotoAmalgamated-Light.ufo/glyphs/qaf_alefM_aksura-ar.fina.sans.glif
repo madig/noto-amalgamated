@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf_alefMaksura-ar.fina.sans" format="2">
+  <advance width="1245"/>
+  <unicode hex="FC7E"/>
+  <anchor x="706" y="0" name="caret_1"/>
+  <outline>
+    <component base="qaf-ar.medi" xOffset="756"/>
+    <component base="alefMaksura-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>qaf-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

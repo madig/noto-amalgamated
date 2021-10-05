@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shhadescender-cy.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="0527"/>
+  <anchor x="250" y="-187" name="bottom"/>
+  <anchor x="100" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="423" y="-187" type="line"/>
+      <point x="500" y="-187" type="line"/>
+      <point x="500" y="69" type="line"/>
+      <point x="414" y="69" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="423" y="0" type="line"/>
+    </contour>
+    <component base="h"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>h</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="413" y="196" type="curve"/>
+      <point x="481" y="131" type="line"/>
+      <point x="529" y="179" type="line"/>
+      <point x="465" y="246" type="line"/>
+      <point x="487" y="278"/>
+      <point x="501" y="318"/>
+      <point x="501" y="359" type="curve" smooth="yes"/>
+      <point x="501" y="402"/>
+      <point x="485" y="442"/>
+      <point x="465" y="473" type="curve"/>
+      <point x="530" y="541" type="line"/>
+      <point x="481" y="589" type="line"/>
+      <point x="413" y="524" type="line"/>
+      <point x="380" y="546"/>
+      <point x="343" y="560"/>
+      <point x="301" y="560" type="curve" smooth="yes"/>
+      <point x="258" y="560"/>
+      <point x="218" y="546"/>
+      <point x="187" y="524" type="curve"/>
+      <point x="120" y="589" type="line"/>
+      <point x="70" y="541" type="line"/>
+      <point x="137" y="472" type="line"/>
+      <point x="115" y="441"/>
+      <point x="101" y="401"/>
+      <point x="101" y="360" type="curve" smooth="yes"/>
+      <point x="101" y="318"/>
+      <point x="115" y="279"/>
+      <point x="137" y="247" type="curve"/>
+      <point x="71" y="180" type="line"/>
+      <point x="120" y="132" type="line"/>
+      <point x="187" y="197" type="line"/>
+      <point x="217" y="175"/>
+      <point x="258" y="161"/>
+      <point x="301" y="161" type="curve" smooth="yes"/>
+      <point x="343" y="161"/>
+      <point x="381" y="175"/>
+    </contour>
+    <contour>
+      <point x="301" y="229" type="curve" smooth="yes"/>
+      <point x="228" y="229"/>
+      <point x="169" y="277"/>
+      <point x="169" y="360" type="curve" smooth="yes"/>
+      <point x="169" y="444"/>
+      <point x="228" y="494"/>
+      <point x="301" y="494" type="curve" smooth="yes"/>
+      <point x="375" y="494"/>
+      <point x="433" y="444"/>
+      <point x="433" y="360" type="curve" smooth="yes"/>
+      <point x="433" y="277"/>
+      <point x="375" y="229"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

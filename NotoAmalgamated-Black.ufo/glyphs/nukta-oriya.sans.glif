@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nukta-oriya.sans" format="2">
+  <unicode hex="0B3C"/>
+  <note>
+nuktaorya
+</note>
+  <anchor x="300" y="-31" name="_nukta"/>
+  <outline>
+    <contour>
+      <point x="300" y="-123" type="curve"/>
+      <point x="300" y="-123" type="line"/>
+      <point x="353" y="-123"/>
+      <point x="393" y="-86"/>
+      <point x="393" y="-31" type="curve"/>
+      <point x="393" y="21"/>
+      <point x="350" y="63"/>
+      <point x="300" y="63" type="curve"/>
+      <point x="250" y="63"/>
+      <point x="208" y="21"/>
+      <point x="208" y="-31" type="curve"/>
+      <point x="208" y="-84"/>
+      <point x="251" y="-123"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pertenthousand-ar" format="2">
+  <advance width="1013"/>
+  <unicode hex="060A"/>
+  <outline>
+    <contour>
+      <point x="616" y="210" type="line"/>
+      <point x="616" y="70" type="line"/>
+      <point x="756" y="70" type="line"/>
+      <point x="756" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="823" y="210" type="line"/>
+      <point x="823" y="70" type="line"/>
+      <point x="963" y="70" type="line"/>
+      <point x="963" y="210" type="line"/>
+    </contour>
+    <component base="percent-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>percent-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>percent-ar</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh_noon-ar.fina.sans" format="2">
+  <advance width="900"/>
+  <unicode hex="FC73"/>
+  <anchor x="574" y="0" name="caret_1"/>
+  <outline>
+    <component base="teh-ar.medi" xOffset="577"/>
+    <component base="noon-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>teh-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>noon-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

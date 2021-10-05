@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V-middleWelsh" format="2">
+  <advance width="669"/>
+  <unicode hex="1EFC"/>
+  <anchor x="279" y="0" name="bottom"/>
+  <anchor x="438" y="745" name="top"/>
+  <outline>
+    <contour>
+      <point x="311" y="-11" type="curve" smooth="yes"/>
+      <point x="510" y="-11"/>
+      <point x="635" y="129"/>
+      <point x="635" y="357" type="curve" smooth="yes"/>
+      <point x="635" y="476"/>
+      <point x="578" y="552"/>
+      <point x="474" y="552" type="curve" smooth="yes"/>
+      <point x="435" y="552"/>
+      <point x="401" y="544"/>
+      <point x="352" y="526" type="curve"/>
+      <point x="319" y="380" type="line"/>
+      <point x="352" y="394"/>
+      <point x="379" y="401"/>
+      <point x="393" y="401" type="curve" smooth="yes"/>
+      <point x="428" y="401"/>
+      <point x="445" y="373"/>
+      <point x="445" y="323" type="curve" smooth="yes"/>
+      <point x="445" y="226"/>
+      <point x="393" y="146"/>
+      <point x="328" y="146" type="curve" smooth="yes"/>
+      <point x="285" y="146"/>
+      <point x="257" y="197"/>
+      <point x="257" y="274" type="curve" smooth="yes"/>
+      <point x="257" y="463"/>
+      <point x="346" y="565"/>
+      <point x="534" y="669" type="curve"/>
+      <point x="388" y="745" type="line"/>
+      <point x="170" y="650"/>
+      <point x="64" y="442"/>
+      <point x="64" y="249" type="curve" smooth="yes"/>
+      <point x="64" y="101"/>
+      <point x="150" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

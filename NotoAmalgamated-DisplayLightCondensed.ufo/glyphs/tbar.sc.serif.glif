@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar.sc.serif" format="2">
+  <advance width="364"/>
+  <anchor x="182" y="0" name="bottom"/>
+  <anchor x="182" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="72" y="276" type="line"/>
+      <point x="292" y="276" type="line"/>
+      <point x="292" y="286" type="line"/>
+      <point x="72" y="286" type="line"/>
+    </contour>
+    <component base="t.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>t.sc</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Xdotaccent" format="2">
+  <advance width="392"/>
+  <unicode hex="1E8A"/>
+  <anchor x="196" y="0" name="bottom"/>
+  <anchor x="201" y="902" name="top"/>
+  <outline>
+    <component base="X"/>
+    <component base="dotaccentcomb" xOffset="201" yOffset="163"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

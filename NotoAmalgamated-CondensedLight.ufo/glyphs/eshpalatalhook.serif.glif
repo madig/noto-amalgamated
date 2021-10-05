@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eshpalatalhook.serif" format="2">
+  <advance width="306"/>
+  <unicode hex="1D8B"/>
+  <outline>
+    <contour>
+      <point x="220" y="-195" type="curve" smooth="yes"/>
+      <point x="271" y="-195"/>
+      <point x="287" y="-157"/>
+      <point x="287" y="-70" type="curve" smooth="yes"/>
+      <point x="287" y="107" type="line"/>
+      <point x="108" y="107" type="line"/>
+      <point x="108" y="82" type="line"/>
+      <point x="259" y="82" type="line"/>
+      <point x="259" y="-70" type="line" smooth="yes"/>
+      <point x="259" y="-144"/>
+      <point x="248" y="-168"/>
+      <point x="218" y="-168" type="curve" smooth="yes"/>
+      <point x="196" y="-168"/>
+      <point x="182" y="-151"/>
+      <point x="182" y="-121" type="curve"/>
+      <point x="176" y="-128"/>
+      <point x="171" y="-135"/>
+      <point x="171" y="-150" type="curve" smooth="yes"/>
+      <point x="171" y="-179"/>
+      <point x="192" y="-195"/>
+    </contour>
+    <component base="esh"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

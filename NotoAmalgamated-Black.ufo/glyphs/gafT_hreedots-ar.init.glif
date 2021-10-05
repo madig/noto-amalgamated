@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gafThreedots-ar.init" format="2">
+  <advance width="664"/>
+  <note>
+uni06B4.init
+</note>
+  <anchor x="347" y="-78" name="bottom"/>
+  <anchor x="99" y="1265" name="top"/>
+  <outline>
+    <component base="kaf-ar.init" xOffset="31"/>
+    <component base="diagonal" xOffset="41"/>
+    <component base="threedots_alt1.above" xScale="0.98481" xyScale="-0.17365" yxScale="0.17365" yScale="0.98481" xOffset="-192" yOffset="75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>kaf-ar.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>diagonal</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>threedots_alt1.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

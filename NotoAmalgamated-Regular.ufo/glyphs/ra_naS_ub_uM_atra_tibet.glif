@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra_naSub_uMatra_tibet" format="2">
+  <advance width="667"/>
+  <anchor x="382" y="-552" name="bottom"/>
+  <anchor x="647" y="-552" name="bottomright"/>
+  <anchor x="623" y="488" name="flag"/>
+  <anchor x="349" y="678" name="top"/>
+  <anchor x="84" y="678" name="topleft"/>
+  <anchor x="623" y="678" name="topright"/>
+  <outline>
+    <contour>
+      <point x="364" y="655" type="curve"/>
+      <point x="278" y="624" type="line"/>
+      <point x="326" y="586"/>
+      <point x="345" y="535"/>
+      <point x="345" y="488" type="curve" smooth="yes"/>
+      <point x="345" y="465"/>
+      <point x="343" y="444"/>
+      <point x="337" y="425" type="curve"/>
+      <point x="372" y="427" type="line"/>
+      <point x="384" y="456"/>
+      <point x="391" y="489"/>
+      <point x="391" y="522" type="curve" smooth="yes"/>
+      <point x="391" y="567"/>
+      <point x="382" y="620"/>
+    </contour>
+    <contour>
+      <point x="565" y="678" type="line"/>
+      <point x="163" y="678" type="line"/>
+      <point x="143" y="592" type="line"/>
+      <point x="545" y="592" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="456" type="curve"/>
+      <point x="308" y="444" type="line"/>
+      <point x="374" y="373"/>
+      <point x="416" y="288"/>
+      <point x="416" y="194" type="curve" smooth="yes"/>
+      <point x="416" y="81"/>
+      <point x="346" y="25"/>
+      <point x="239" y="25" type="curve" smooth="yes"/>
+      <point x="145" y="25"/>
+      <point x="101" y="64"/>
+      <point x="101" y="126" type="curve" smooth="yes"/>
+      <point x="101" y="187"/>
+      <point x="155" y="227"/>
+      <point x="261" y="227" type="curve" smooth="yes"/>
+      <point x="444" y="227"/>
+      <point x="526" y="139"/>
+      <point x="557" y="-290" type="curve"/>
+      <point x="603" y="-322" type="line"/>
+      <point x="594" y="191"/>
+      <point x="491" y="317"/>
+      <point x="271" y="317" type="curve" smooth="yes"/>
+      <point x="123" y="317"/>
+      <point x="40" y="247"/>
+      <point x="40" y="141" type="curve" smooth="yes"/>
+      <point x="40" y="49"/>
+      <point x="105" y="-22"/>
+      <point x="239" y="-22" type="curve" smooth="yes"/>
+      <point x="381" y="-22"/>
+      <point x="472" y="62"/>
+      <point x="472" y="204" type="curve" smooth="yes"/>
+      <point x="472" y="298"/>
+      <point x="440" y="391"/>
+    </contour>
+    <contour>
+      <point x="623" y="488" type="line"/>
+      <point x="84" y="488" type="line"/>
+      <point x="64" y="402" type="line"/>
+      <point x="603" y="402" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="-79" type="curve"/>
+      <point x="73" y="-99" type="line"/>
+      <point x="293" y="-362"/>
+      <point x="353" y="-552"/>
+      <point x="529" y="-552" type="curve" smooth="yes"/>
+      <point x="633" y="-552"/>
+      <point x="690" y="-481"/>
+      <point x="690" y="-389" type="curve" smooth="yes"/>
+      <point x="690" y="-310"/>
+      <point x="637" y="-251"/>
+      <point x="554" y="-251" type="curve" smooth="yes"/>
+      <point x="523" y="-251"/>
+      <point x="492" y="-262"/>
+      <point x="473" y="-280" type="curve"/>
+      <point x="487" y="-366" type="line"/>
+      <point x="510" y="-349"/>
+      <point x="540" y="-340"/>
+      <point x="571" y="-340" type="curve" smooth="yes"/>
+      <point x="616" y="-340"/>
+      <point x="643" y="-364"/>
+      <point x="643" y="-399" type="curve" smooth="yes"/>
+      <point x="643" y="-434"/>
+      <point x="613" y="-463"/>
+      <point x="556" y="-463" type="curve" smooth="yes"/>
+      <point x="389" y="-463"/>
+      <point x="332" y="-312"/>
+    </contour>
+    <contour>
+      <point x="557" y="-290" type="line"/>
+      <point x="557" y="-300" type="line"/>
+      <point x="603" y="-300" type="line"/>
+      <point x="603" y="-290" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Composition</string>
+    </dict>
+  </lib>
+</glyph>

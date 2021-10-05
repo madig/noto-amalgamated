@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="au-sidd" format="2">
+  <advance width="913"/>
+  <unicode hex="1158D"/>
+  <anchor x="475" y="0" name="bottom"/>
+  <anchor x="475" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="893" y="74" type="line"/>
+      <point x="893" y="195"/>
+      <point x="812" y="282"/>
+      <point x="694" y="282" type="curve" smooth="yes"/>
+      <point x="674" y="282"/>
+      <point x="657" y="280"/>
+      <point x="643" y="275" type="curve"/>
+      <point x="665" y="232" type="line"/>
+      <point x="674" y="235"/>
+      <point x="684" y="236"/>
+      <point x="698" y="236" type="curve" smooth="yes"/>
+      <point x="748" y="236"/>
+      <point x="784" y="193"/>
+      <point x="784" y="116" type="curve"/>
+    </contour>
+    <contour>
+      <point x="526" y="6" type="curve" smooth="yes"/>
+      <point x="644" y="6"/>
+      <point x="722" y="75"/>
+      <point x="722" y="173" type="curve" smooth="yes"/>
+      <point x="722" y="281"/>
+      <point x="577" y="383"/>
+      <point x="471" y="383" type="curve"/>
+      <point x="512" y="347" type="line"/>
+      <point x="771" y="620" type="line"/>
+      <point x="681" y="683" type="line"/>
+      <point x="622" y="605" type="line"/>
+      <point x="363" y="332" type="line"/>
+      <point x="453" y="269" type="line"/>
+      <point x="480" y="297"/>
+      <point x="504" y="312"/>
+      <point x="541" y="312" type="curve" smooth="yes"/>
+      <point x="587" y="312"/>
+      <point x="626" y="278"/>
+      <point x="626" y="216" type="curve" smooth="yes"/>
+      <point x="626" y="139"/>
+      <point x="565" y="84"/>
+      <point x="472" y="84" type="curve" smooth="yes"/>
+      <point x="382" y="84"/>
+      <point x="348" y="99"/>
+      <point x="294" y="232" type="curve" smooth="yes"/>
+      <point x="233" y="382"/>
+      <point x="172" y="429"/>
+      <point x="23" y="499" type="curve"/>
+      <point x="10" y="468" type="line"/>
+      <point x="97" y="418"/>
+      <point x="132" y="375"/>
+      <point x="173" y="281" type="curve" smooth="yes"/>
+      <point x="255" y="91"/>
+      <point x="388" y="6"/>
+    </contour>
+    <contour>
+      <point x="371" y="472" type="curve"/>
+      <point x="384" y="493" type="line"/>
+      <point x="365" y="508"/>
+      <point x="350" y="528"/>
+      <point x="350" y="549" type="curve" smooth="yes"/>
+      <point x="350" y="577"/>
+      <point x="365" y="594"/>
+      <point x="399" y="594" type="curve" smooth="yes"/>
+      <point x="445" y="594"/>
+      <point x="499" y="553"/>
+      <point x="579" y="553" type="curve" smooth="yes"/>
+      <point x="600" y="553"/>
+      <point x="632" y="557"/>
+      <point x="651" y="562" type="curve"/>
+      <point x="681" y="683" type="line"/>
+      <point x="638" y="658"/>
+      <point x="577" y="641"/>
+      <point x="530" y="641" type="curve" smooth="yes"/>
+      <point x="439" y="641"/>
+      <point x="396" y="680"/>
+      <point x="336" y="680" type="curve" smooth="yes"/>
+      <point x="281" y="680"/>
+      <point x="250" y="649"/>
+      <point x="250" y="594" type="curve" smooth="yes"/>
+      <point x="250" y="539"/>
+      <point x="283" y="499"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o-sidd</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>uu-sidd</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>siddham</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

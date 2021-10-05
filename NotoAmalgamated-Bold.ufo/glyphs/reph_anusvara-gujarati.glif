@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reph_anusvara-gujarati" format="2">
+  <anchor x="0" y="592" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-23" y="625" type="curve"/>
+      <point x="55" y="625" type="line"/>
+      <point x="27" y="652"/>
+      <point x="-1" y="687"/>
+      <point x="-1" y="725" type="curve" smooth="yes"/>
+      <point x="-1" y="797"/>
+      <point x="48" y="826"/>
+      <point x="111" y="826" type="curve" smooth="yes"/>
+      <point x="139" y="826"/>
+      <point x="163" y="821"/>
+      <point x="185" y="814" type="curve"/>
+      <point x="154" y="932" type="line"/>
+      <point x="138" y="937"/>
+      <point x="113" y="942"/>
+      <point x="77" y="942" type="curve" smooth="yes"/>
+      <point x="-22" y="942"/>
+      <point x="-103" y="880"/>
+      <point x="-103" y="769" type="curve" smooth="yes"/>
+      <point x="-103" y="709"/>
+      <point x="-61" y="655"/>
+    </contour>
+    <component base="anusvara-gujarati" xScale="0.85" yScale="0.85" xOffset="111" yOffset="63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

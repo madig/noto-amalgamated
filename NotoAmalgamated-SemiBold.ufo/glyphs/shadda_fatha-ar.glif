@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shadda_fatha-ar" format="2">
+  <advance width="323"/>
+  <unicode hex="FC60"/>
+  <anchor x="171" y="658" name="_top"/>
+  <anchor x="145" y="1074" name="top"/>
+  <outline>
+    <component base="shadda-ar" yOffset="200"/>
+    <component base="fatha-ar" xOffset="-8" yOffset="420"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=shadda-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=shadda-ar</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

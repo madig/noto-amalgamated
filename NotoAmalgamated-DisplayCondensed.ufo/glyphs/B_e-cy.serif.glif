@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Be-cy.serif" format="2">
+  <advance width="492"/>
+  <unicode hex="0411"/>
+  <anchor x="247" y="0" name="bottom"/>
+  <anchor x="247" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="28" y="0" type="line"/>
+      <point x="251" y="0" type="line" smooth="yes"/>
+      <point x="401" y="0"/>
+      <point x="460" y="77"/>
+      <point x="460" y="199" type="curve" smooth="yes"/>
+      <point x="460" y="329"/>
+      <point x="402" y="394"/>
+      <point x="254" y="394" type="curve" smooth="yes"/>
+      <point x="192" y="394" type="line"/>
+      <point x="192" y="704" type="line"/>
+      <point x="307" y="704" type="line" smooth="yes"/>
+      <point x="384" y="704"/>
+      <point x="404" y="680"/>
+      <point x="410" y="599" type="curve" smooth="yes"/>
+      <point x="413" y="542" type="line"/>
+      <point x="423" y="542" type="line"/>
+      <point x="418" y="714" type="line"/>
+      <point x="28" y="714" type="line"/>
+      <point x="28" y="704" type="line"/>
+      <point x="56" y="704" type="line" smooth="yes"/>
+      <point x="94" y="704"/>
+      <point x="103" y="693"/>
+      <point x="103" y="627" type="curve" smooth="yes"/>
+      <point x="103" y="88" type="line" smooth="yes"/>
+      <point x="103" y="24"/>
+      <point x="95" y="10"/>
+      <point x="54" y="10" type="curve" smooth="yes"/>
+      <point x="28" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="10" type="curve" smooth="yes"/>
+      <point x="192" y="10" type="line"/>
+      <point x="192" y="384" type="line"/>
+      <point x="235" y="384" type="line" smooth="yes"/>
+      <point x="331" y="384"/>
+      <point x="367" y="334"/>
+      <point x="367" y="199" type="curve" smooth="yes"/>
+      <point x="367" y="72"/>
+      <point x="338" y="10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kpalatalhook.display" format="2">
+  <advance width="454"/>
+  <unicode hex="1D84"/>
+  <anchor x="227" y="-169" name="bottom"/>
+  <anchor x="104" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="398" y="25" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="429" y="-81" type="line" smooth="yes"/>
+      <point x="429" y="-125"/>
+      <point x="415" y="-144"/>
+      <point x="384" y="-144" type="curve" smooth="yes"/>
+      <point x="369" y="-144"/>
+      <point x="353" y="-140"/>
+      <point x="342" y="-135" type="curve"/>
+      <point x="342" y="-160" type="line"/>
+      <point x="351" y="-165"/>
+      <point x="367" y="-169"/>
+      <point x="384" y="-169" type="curve" smooth="yes"/>
+      <point x="430" y="-169"/>
+      <point x="455" y="-139"/>
+      <point x="455" y="-84" type="curve" smooth="yes"/>
+      <point x="455" y="25" type="line"/>
+    </contour>
+    <component base="k"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>k</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

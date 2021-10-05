@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tta-deva" format="2">
+  <advance width="463"/>
+  <unicode hex="091F"/>
+  <anchor x="340" y="0" name="bottom"/>
+  <anchor x="271" y="0" name="bottom_right"/>
+  <anchor x="386" y="623" name="candra"/>
+  <anchor x="278" y="-79" name="nukta"/>
+  <anchor x="386" y="623" name="top"/>
+  <outline>
+    <contour>
+      <point x="296" y="28" type="curve" smooth="yes"/>
+      <point x="355" y="28"/>
+      <point x="417" y="49"/>
+      <point x="454" y="75" type="curve"/>
+      <point x="410" y="148" type="line"/>
+      <point x="376" y="126"/>
+      <point x="329" y="102"/>
+      <point x="265" y="102" type="curve" smooth="yes"/>
+      <point x="171" y="102"/>
+      <point x="122" y="156"/>
+      <point x="122" y="227" type="curve" smooth="yes"/>
+      <point x="122" y="312"/>
+      <point x="212" y="372"/>
+      <point x="344" y="372" type="curve" smooth="yes"/>
+      <point x="355" y="372"/>
+      <point x="365" y="372"/>
+      <point x="386" y="371" type="curve"/>
+      <point x="386" y="582" type="line"/>
+      <point x="312" y="582" type="line"/>
+      <point x="312" y="407" type="line"/>
+      <point x="325" y="427" type="line"/>
+      <point x="305" y="430"/>
+      <point x="282" y="431"/>
+      <point x="260" y="431" type="curve" smooth="yes"/>
+      <point x="137" y="431"/>
+      <point x="51" y="367"/>
+      <point x="51" y="265" type="curve" smooth="yes"/>
+      <point x="51" y="140"/>
+      <point x="168" y="28"/>
+    </contour>
+    <contour>
+      <point x="0" y="555" type="line"/>
+      <point x="503" y="555" type="line"/>
+      <point x="503" y="564" type="line"/>
+      <point x="464" y="623" type="line"/>
+      <point x="-40" y="623" type="line"/>
+      <point x="-40" y="612" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Psi" format="2">
+  <advance width="864"/>
+  <unicode hex="03A8"/>
+  <outline>
+    <contour>
+      <point x="339" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="525" y="164" type="line"/>
+      <point x="728" y="170"/>
+      <point x="802" y="270"/>
+      <point x="802" y="441" type="curve" smooth="yes"/>
+      <point x="802" y="714" type="line"/>
+      <point x="612" y="714" type="line"/>
+      <point x="612" y="428" type="line" smooth="yes"/>
+      <point x="612" y="354"/>
+      <point x="574" y="323"/>
+      <point x="525" y="323" type="curve"/>
+      <point x="525" y="714" type="line"/>
+      <point x="339" y="714" type="line"/>
+      <point x="339" y="323" type="line"/>
+      <point x="280" y="323"/>
+      <point x="252" y="350"/>
+      <point x="252" y="430" type="curve" smooth="yes"/>
+      <point x="252" y="714" type="line"/>
+      <point x="62" y="714" type="line"/>
+      <point x="62" y="428" type="line" smooth="yes"/>
+      <point x="62" y="258"/>
+      <point x="136" y="170"/>
+      <point x="339" y="164" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=U</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=U</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

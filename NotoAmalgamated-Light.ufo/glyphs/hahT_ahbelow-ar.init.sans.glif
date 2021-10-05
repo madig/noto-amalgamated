@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahTahbelow-ar.init.sans" format="2">
+  <advance width="563"/>
+  <anchor x="308" y="-235" name="bottom"/>
+  <anchor x="150" y="304" name="top"/>
+  <outline>
+    <component base="hah-ar.init"/>
+    <component base="uniFBC0.small" xOffset="183" yOffset="-830"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uniFBC0.small</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hah-ar.init</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B37" format="2">
+  <unicode hex="1B37"/>
+  <outline>
+    <contour>
+      <point x="-367" y="820" type="curve"/>
+      <point x="-410" y="785" type="line"/>
+      <point x="-387" y="768"/>
+      <point x="-370" y="739"/>
+      <point x="-355" y="698" type="curve"/>
+      <point x="-310" y="715" type="line"/>
+      <point x="-321" y="753"/>
+      <point x="-341" y="801"/>
+    </contour>
+    <component base="uni1B36" xOffset="-34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1B36</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

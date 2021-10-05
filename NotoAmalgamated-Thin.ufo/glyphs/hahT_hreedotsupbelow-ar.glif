@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahThreedotsupbelow-ar" format="2">
+  <advance width="605"/>
+  <unicode hex="0758"/>
+  <note>
+uni0758
+</note>
+  <anchor x="179" y="-383" name="bottom"/>
+  <anchor x="209" y="528" name="top"/>
+  <outline>
+    <component base="hah_alt.isol"/>
+    <component base="threedots.rev_alt2.below" xOffset="-30" yOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hah_alt.isol</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.rev_alt2.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

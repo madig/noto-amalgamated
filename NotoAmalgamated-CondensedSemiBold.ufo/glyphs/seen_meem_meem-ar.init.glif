@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen_meem_meem-ar.init" format="2">
+  <advance width="1942"/>
+  <unicode hex="FD63"/>
+  <anchor x="1128" y="0" name="caret_1"/>
+  <anchor x="564" y="0" name="caret_2"/>
+  <outline>
+    <component base="seen-ar.init" xOffset="1128"/>
+    <component base="meem-ar.medi" xOffset="564"/>
+    <component base="meem-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>seen-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>meem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

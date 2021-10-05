@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jstroke" format="2">
+  <advance width="340"/>
+  <unicode hex="0249"/>
+  <anchor x="171" y="-240" name="bottom"/>
+  <anchor x="171" y="776" name="top"/>
+  <outline>
+    <contour>
+      <point x="43" y="-240" type="curve"/>
+      <point x="217" y="-240"/>
+      <point x="273" y="-145"/>
+      <point x="273" y="-39" type="curve"/>
+      <point x="273" y="221" type="line"/>
+      <point x="343" y="221" type="line"/>
+      <point x="343" y="344" type="line"/>
+      <point x="273" y="344" type="line"/>
+      <point x="273" y="553" type="line"/>
+      <point x="66" y="553" type="line"/>
+      <point x="66" y="344" type="line"/>
+      <point x="-5" y="344" type="line"/>
+      <point x="-5" y="221" type="line"/>
+      <point x="66" y="221" type="line"/>
+      <point x="66" y="-4" type="line" smooth="yes"/>
+      <point x="66" y="-74"/>
+      <point x="32" y="-86"/>
+      <point x="0" y="-86" type="curve"/>
+      <point x="-31" y="-86"/>
+      <point x="-47" y="-83"/>
+      <point x="-70" y="-77" type="curve"/>
+      <point x="-70" y="-228" type="line"/>
+      <point x="-45" y="-235"/>
+      <point x="6" y="-240"/>
+    </contour>
+    <contour>
+      <point x="61" y="691" type="curve"/>
+      <point x="61" y="626"/>
+      <point x="112" y="606"/>
+      <point x="171" y="606" type="curve"/>
+      <point x="228" y="606"/>
+      <point x="279" y="624"/>
+      <point x="279" y="691" type="curve"/>
+      <point x="279" y="759"/>
+      <point x="228" y="776"/>
+      <point x="171" y="776" type="curve"/>
+      <point x="112" y="776"/>
+      <point x="61" y="758"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

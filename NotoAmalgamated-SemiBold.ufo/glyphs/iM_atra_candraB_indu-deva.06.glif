@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iMatra_candraBindu-deva.06" format="2">
+  <advance width="266"/>
+  <anchor x="863" y="792" name="#topRight"/>
+  <outline>
+    <component base="iMatra-deva.06"/>
+    <component base="candraBindu-deva" xOffset="901"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

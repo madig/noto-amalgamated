@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf_yeh-ar.fina.sans" format="2">
+  <advance width="1388"/>
+  <unicode hex="FC7F"/>
+  <anchor x="774" y="0" name="caret_1"/>
+  <outline>
+    <component base="qaf-ar.medi" xOffset="859"/>
+    <component base="yeh-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>qaf-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yeh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

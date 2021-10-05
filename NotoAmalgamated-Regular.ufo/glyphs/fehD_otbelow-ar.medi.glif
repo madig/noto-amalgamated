@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehDotbelow-ar.medi" format="2">
+  <advance width="601"/>
+  <note>
+uni06A3.medi
+</note>
+  <anchor x="321" y="-238" name="bottom"/>
+  <anchor x="311" y="736" name="top"/>
+  <outline>
+    <component base="qafDotless-ar.medi"/>
+    <component base="onedot.above" xOffset="319"/>
+    <component base="onedot.below" xOffset="321"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>qafDotless-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>onedot.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

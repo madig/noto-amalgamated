@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dh_ra-gujarati" format="2">
+  <advance width="620"/>
+  <anchor x="462" y="0" name="bottom"/>
+  <anchor x="203" y="-36" name="bottomleft"/>
+  <anchor x="462" y="592" name="top"/>
+  <anchor x="462" y="592" name="topright"/>
+  <outline>
+    <contour>
+      <point x="160" y="-17" type="line"/>
+      <point x="449" y="161" type="line"/>
+      <point x="414" y="276" type="line"/>
+      <point x="351" y="227"/>
+      <point x="291" y="199"/>
+      <point x="237" y="199" type="curve" smooth="yes"/>
+      <point x="198" y="199"/>
+      <point x="175" y="218"/>
+      <point x="175" y="243" type="curve" smooth="yes"/>
+      <point x="175" y="297"/>
+      <point x="241" y="321"/>
+      <point x="325" y="334" type="curve"/>
+      <point x="281" y="444" type="line"/>
+      <point x="171" y="428"/>
+      <point x="80" y="382"/>
+      <point x="80" y="287" type="curve" smooth="yes"/>
+      <point x="80" y="237"/>
+      <point x="108" y="193"/>
+      <point x="148" y="161" type="curve" smooth="yes"/>
+      <point x="187" y="130"/>
+      <point x="234" y="111"/>
+      <point x="289" y="111" type="curve" smooth="yes"/>
+      <point x="303" y="111"/>
+      <point x="317" y="113"/>
+      <point x="331" y="118" type="curve"/>
+      <point x="267" y="178" type="line"/>
+      <point x="83" y="73" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="369" type="curve"/>
+      <point x="210" y="401" type="line"/>
+      <point x="179" y="419"/>
+      <point x="160" y="441"/>
+      <point x="160" y="473" type="curve" smooth="yes"/>
+      <point x="160" y="518"/>
+      <point x="194" y="548"/>
+      <point x="251" y="582" type="curve"/>
+      <point x="161" y="674" type="line"/>
+      <point x="94" y="636"/>
+      <point x="54" y="584"/>
+      <point x="54" y="521" type="curve" smooth="yes"/>
+      <point x="54" y="447"/>
+      <point x="110" y="399"/>
+    </contour>
+    <contour>
+      <point x="580" y="-5" type="curve" smooth="yes"/>
+      <point x="617" y="-5"/>
+      <point x="645" y="13"/>
+      <point x="664" y="31" type="curve"/>
+      <point x="611" y="128" type="line"/>
+      <point x="585" y="98"/>
+      <point x="555" y="79"/>
+      <point x="532" y="79" type="curve" smooth="yes"/>
+      <point x="526" y="79"/>
+      <point x="523" y="82"/>
+      <point x="523" y="89" type="curve" smooth="yes"/>
+      <point x="523" y="579" type="line"/>
+      <point x="401" y="612" type="line"/>
+      <point x="401" y="149" type="line" smooth="yes"/>
+      <point x="401" y="99"/>
+      <point x="426" y="71"/>
+      <point x="469" y="40" type="curve" smooth="yes"/>
+      <point x="509" y="11"/>
+      <point x="541" y="-5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Ligature</string>
+    </dict>
+  </lib>
+</glyph>

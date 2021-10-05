@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kassaorya" format="2">
+  <advance width="677"/>
+  <anchor x="616" y="0" name="b.uvowelsignorya"/>
+  <anchor x="352" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="180" y="578" type="line"/>
+      <point x="517" y="72" type="line"/>
+      <point x="548" y="108" type="line"/>
+      <point x="217" y="602" type="line"/>
+    </contour>
+    <component base="yaorya"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yaorya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

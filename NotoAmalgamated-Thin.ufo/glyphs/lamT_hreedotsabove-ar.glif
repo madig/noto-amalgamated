@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamThreedotsabove-ar" format="2">
+  <advance width="598"/>
+  <unicode hex="06B7"/>
+  <note>
+uni06B7
+</note>
+  <anchor x="342" y="-322" name="bottom"/>
+  <anchor x="455" y="1048" name="top"/>
+  <outline>
+    <component base="lam-ar"/>
+    <component base="threedots.small.above" xOffset="479" yOffset="224"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>lam-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.small.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

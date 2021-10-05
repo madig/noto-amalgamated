@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gueh-ar.init" format="2">
+  <advance width="610"/>
+  <note>
+uni06B3.init
+</note>
+  <anchor x="226" y="-467" name="bottom"/>
+  <anchor x="140" y="959" name="top"/>
+  <outline>
+    <component base="kaf-ar.init"/>
+    <component base="diagonal" xOffset="17" yOffset="-2"/>
+    <component base="twodots.vert.below" xOffset="226"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>kaf-ar.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>diagonal</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>twodots.vert.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

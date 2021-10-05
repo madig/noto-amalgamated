@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalVinvertedbelow-ar" format="2">
+  <advance width="619"/>
+  <unicode hex="075A"/>
+  <note>
+uni075A
+</note>
+  <anchor x="244" y="-303" name="bottom"/>
+  <anchor x="213" y="657" name="top"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="circumflex.arabic" xOffset="249" yOffset="-908"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dal-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflex.arabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

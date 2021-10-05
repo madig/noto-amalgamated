@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="takhallusabove-ar" format="2">
+  <unicode hex="0614"/>
+  <note>
+uni0614
+</note>
+  <anchor x="0" y="688" name="_top"/>
+  <anchor x="0" y="688" name="_top2"/>
+  <anchor x="-8" y="831" name="top"/>
+  <outline>
+    <contour>
+      <point x="-133" y="685" type="line"/>
+      <point x="-82" y="692"/>
+      <point x="-48" y="699"/>
+      <point x="-28" y="706" type="curve" smooth="yes"/>
+      <point x="-8" y="713"/>
+      <point x="7" y="721"/>
+      <point x="16" y="734" type="curve"/>
+      <point x="27" y="718"/>
+      <point x="43" y="710"/>
+      <point x="62" y="710" type="curve" smooth="yes"/>
+      <point x="107" y="710"/>
+      <point x="131" y="739"/>
+      <point x="131" y="787" type="curve" smooth="yes"/>
+      <point x="131" y="831" type="line"/>
+      <point x="84" y="817" type="line"/>
+      <point x="84" y="799" type="line" smooth="yes"/>
+      <point x="84" y="767"/>
+      <point x="78" y="755"/>
+      <point x="61" y="755" type="curve" smooth="yes"/>
+      <point x="45" y="755"/>
+      <point x="37" y="767"/>
+      <point x="37" y="790" type="curve" smooth="yes"/>
+      <point x="37" y="820" type="line"/>
+      <point x="-7" y="806" type="line"/>
+      <point x="-7" y="786" type="line" smooth="yes"/>
+      <point x="-7" y="771"/>
+      <point x="-13" y="759"/>
+      <point x="-24" y="751" type="curve" smooth="yes"/>
+      <point x="-35" y="743"/>
+      <point x="-60" y="735"/>
+      <point x="-101" y="726" type="curve" smooth="yes"/>
+      <point x="-116" y="723"/>
+      <point x="-130" y="720"/>
+      <point x="-147" y="716" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 9 values pushed */
+1 1 9 13 128 18 18 4 13 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MDRP[01101]	/* MoveDirectRelPt */
+SHP[1]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+SMD[ ]	/* SetMinimumDistance */
+SRP0[ ]	/* SetRefPoint0 */
+MDRP[01101]	/* MoveDirectRelPt */
+SHP[0]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

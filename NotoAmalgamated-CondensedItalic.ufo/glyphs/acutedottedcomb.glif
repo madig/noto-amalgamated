@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedottedcomb" format="2">
+  <unicode hex="1DC1"/>
+  <anchor x="57" y="529" name="_top"/>
+  <anchor x="102" y="764" name="top"/>
+  <outline>
+    <contour>
+      <point x="6" y="615" type="curve"/>
+      <point x="6" y="606" type="line"/>
+      <point x="57" y="606" type="line"/>
+      <point x="90" y="638"/>
+      <point x="153" y="717"/>
+      <point x="174" y="753" type="curve"/>
+      <point x="173" y="761" type="line"/>
+      <point x="79" y="761" type="line"/>
+      <point x="65" y="720"/>
+      <point x="39" y="668"/>
+    </contour>
+    <contour>
+      <point x="-41" y="624" type="curve"/>
+      <point x="-13" y="624"/>
+      <point x="7" y="651"/>
+      <point x="8" y="690" type="curve" smooth="yes"/>
+      <point x="8" y="711"/>
+      <point x="-3" y="722"/>
+      <point x="-22" y="722" type="curve"/>
+      <point x="-52" y="722"/>
+      <point x="-73" y="696"/>
+      <point x="-73" y="659" type="curve"/>
+      <point x="-73" y="635"/>
+      <point x="-62" y="624"/>
+    </contour>
+    <contour>
+      <point x="203" y="650" type="curve"/>
+      <point x="232" y="650"/>
+      <point x="253" y="677"/>
+      <point x="253" y="716" type="curve" smooth="yes"/>
+      <point x="253" y="737"/>
+      <point x="242" y="748"/>
+      <point x="223" y="748" type="curve"/>
+      <point x="193" y="748"/>
+      <point x="172" y="722"/>
+      <point x="172" y="685" type="curve"/>
+      <point x="172" y="661"/>
+      <point x="182" y="650"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

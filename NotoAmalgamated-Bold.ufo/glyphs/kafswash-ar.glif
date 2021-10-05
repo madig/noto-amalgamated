@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kafswash-ar" format="2">
+  <advance width="1155"/>
+  <unicode hex="06AA"/>
+  <note>
+uni06AA
+</note>
+  <anchor x="586" y="-78" name="bottom"/>
+  <anchor x="459" y="684" name="top"/>
+  <outline>
+    <contour>
+      <point x="408" y="0" type="curve" smooth="yes"/>
+      <point x="1080" y="0" type="line"/>
+      <point x="1080" y="139" type="line" smooth="yes"/>
+      <point x="1080" y="287"/>
+      <point x="984" y="365"/>
+      <point x="795" y="365" type="curve" smooth="yes"/>
+      <point x="395" y="365" type="line"/>
+      <point x="440" y="436"/>
+      <point x="553" y="512"/>
+      <point x="668" y="547" type="curve"/>
+      <point x="613" y="681" type="line"/>
+      <point x="444" y="621"/>
+      <point x="311" y="504"/>
+      <point x="240" y="353" type="curve"/>
+      <point x="240" y="245" type="line"/>
+      <point x="772" y="245" type="line" smooth="yes"/>
+      <point x="873" y="245"/>
+      <point x="931" y="202"/>
+      <point x="931" y="121" type="curve"/>
+      <point x="931" y="120" type="line"/>
+      <point x="360" y="120" type="line" smooth="yes"/>
+      <point x="251" y="120"/>
+      <point x="145" y="131"/>
+      <point x="41" y="152" type="curve"/>
+      <point x="20" y="64" type="line"/>
+      <point x="113" y="24"/>
+      <point x="267" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 29 values pushed */
+3 19 15 8 24 8 12 19 4 26 25 8 15 15 7 70 89 15 15 11 21 21 2 70 89 21 18 11 7 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MIAP[1]	/* MoveIndirectAbsPt */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+IP[ ]	/* InterpolatePts */
+RTG[ ]	/* RoundToGrid */
+MDAP[1]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

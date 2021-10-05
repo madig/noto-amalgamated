@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thornstroke" format="2">
+  <advance width="541"/>
+  <unicode hex="A764"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="153" y="116" type="line"/>
+      <point x="214" y="116" type="line" smooth="yes"/>
+      <point x="408" y="116"/>
+      <point x="514" y="205"/>
+      <point x="514" y="368" type="curve" smooth="yes"/>
+      <point x="514" y="478"/>
+      <point x="456" y="551"/>
+      <point x="312" y="551" type="curve" smooth="yes"/>
+      <point x="245" y="551" type="line"/>
+      <point x="280" y="714" type="line"/>
+      <point x="191" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="228" y="192" type="curve" smooth="yes"/>
+      <point x="169" y="192" type="line"/>
+      <point x="228" y="474" type="line"/>
+      <point x="299" y="474" type="line" smooth="yes"/>
+      <point x="382" y="474"/>
+      <point x="423" y="442"/>
+      <point x="423" y="364" type="curve" smooth="yes"/>
+      <point x="423" y="245"/>
+      <point x="346" y="192"/>
+    </contour>
+    <contour>
+      <point x="54" y="476" type="line"/>
+      <point x="426" y="627" type="line"/>
+      <point x="442" y="700" type="line"/>
+      <point x="70" y="548" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Thorn</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>Thorn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

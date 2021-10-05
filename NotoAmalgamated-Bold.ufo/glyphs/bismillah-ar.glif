@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bismillah-ar" format="2">
+  <advance width="8581"/>
+  <unicode hex="FDFD"/>
+  <outline>
+    <component base="fdfd.bsm" xScale="0.6" yScale="0.6" xOffset="6240"/>
+    <component base="allah-ar.pt1" xScale="0.6" yScale="0.6" xOffset="5066"/>
+    <component base="fdfd.alrhman" xScale="0.6" yScale="0.6" xOffset="3102"/>
+    <component base="fdfd.alrahem" xScale="0.6" yScale="0.6" xOffset="45"/>
+    <component base="kasra-ar" xScale="0.6" yScale="0.6" xOffset="8337" yOffset="-151"/>
+    <component base="kasra-ar" xScale="0.6" yScale="0.6" xOffset="5112" yOffset="-19"/>
+    <component base="kasra-ar" xScale="0.6" yScale="0.6" xOffset="3031" yOffset="-165"/>
+    <component base="kasra-ar" xScale="0.6" yScale="0.6" xOffset="6408" yOffset="-73"/>
+    <component base="kasra-ar" xScale="0.6" yScale="0.6" xOffset="228" yOffset="-73"/>
+    <component base="hahabove-ar" xScale="0.6" yScale="0.6" xOffset="509" yOffset="-98"/>
+    <component base="hahabove-ar" xScale="0.6" yScale="0.6" xOffset="3896" yOffset="-48"/>
+    <component base="hahabove-ar" xScale="0.6" yScale="0.6" xOffset="7935" yOffset="-98"/>
+    <component base="alefabove-ar" xScale="0.6" yScale="0.6" xOffset="3354" yOffset="-55"/>
+    <component base="shadda_fatha-ar" xScale="0.6" yScale="0.6" xOffset="5436" yOffset="87"/>
+    <component base="shadda_fatha-ar" xScale="0.6" yScale="0.6" xOffset="4273" yOffset="-62"/>
+    <component base="shadda_fatha-ar" xScale="0.6" yScale="0.6" xOffset="2115" yOffset="-62"/>
+    <component base="kasra-ar" xScale="0.6" yScale="0.6" xOffset="1640" yOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fdfd.bsm</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>fdfd.alrhman</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>fdfd.alrahem</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>4</integer>
+          <key>name</key>
+          <string>kasra-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>kasra-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>6</integer>
+          <key>name</key>
+          <string>kasra-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>7</integer>
+          <key>name</key>
+          <string>kasra-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>8</integer>
+          <key>name</key>
+          <string>kasra-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>9</integer>
+          <key>name</key>
+          <string>hahabove-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>10</integer>
+          <key>name</key>
+          <string>hahabove-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>11</integer>
+          <key>name</key>
+          <string>hahabove-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>12</integer>
+          <key>name</key>
+          <string>alefabove-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>13</integer>
+          <key>name</key>
+          <string>shadda_fatha-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>14</integer>
+          <key>name</key>
+          <string>shadda_fatha-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>15</integer>
+          <key>name</key>
+          <string>shadda_fatha-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>16</integer>
+          <key>name</key>
+          <string>kasra-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

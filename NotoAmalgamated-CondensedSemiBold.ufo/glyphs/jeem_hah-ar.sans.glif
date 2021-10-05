@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeem_hah-ar.sans" format="2">
+  <advance width="1114"/>
+  <unicode hex="FC15"/>
+  <anchor x="577" y="0" name="caret_1"/>
+  <outline>
+    <component base="jeem-ar.init" xOffset="577"/>
+    <component base="hah-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>jeem-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hah-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s_ma-deva" format="2">
+  <advance width="805"/>
+  <anchor x="760" y="20" name="bottom"/>
+  <anchor x="553" y="-9" name="bottom_right"/>
+  <anchor x="760" y="627" name="candra"/>
+  <anchor x="54" y="9" name="nukta"/>
+  <anchor x="760" y="627" name="top"/>
+  <outline>
+    <contour>
+      <point x="251" y="-23" type="curve"/>
+      <point x="340" y="73" type="line"/>
+      <point x="254" y="121"/>
+      <point x="164" y="190"/>
+      <point x="109" y="270" type="curve"/>
+      <point x="127" y="216" type="line"/>
+      <point x="142" y="219"/>
+      <point x="151" y="220"/>
+      <point x="170" y="225" type="curve" smooth="yes"/>
+      <point x="248" y="242"/>
+      <point x="290" y="306"/>
+      <point x="290" y="392" type="curve" smooth="yes"/>
+      <point x="290" y="450"/>
+      <point x="278" y="510"/>
+      <point x="262" y="566" type="curve"/>
+      <point x="144" y="566" type="line"/>
+      <point x="159" y="527"/>
+      <point x="166" y="476"/>
+      <point x="166" y="436" type="curve" smooth="yes"/>
+      <point x="166" y="396"/>
+      <point x="160" y="365"/>
+      <point x="149" y="342" type="curve"/>
+      <point x="189" y="337" type="line"/>
+      <point x="150" y="363"/>
+      <point x="118" y="378"/>
+      <point x="89" y="378" type="curve" smooth="yes"/>
+      <point x="50" y="378"/>
+      <point x="32" y="355"/>
+      <point x="32" y="317" type="curve" smooth="yes"/>
+      <point x="32" y="227"/>
+      <point x="136" y="78"/>
+    </contour>
+    <contour>
+      <point x="370" y="201" type="curve" smooth="yes"/>
+      <point x="396" y="201"/>
+      <point x="421" y="209"/>
+      <point x="439" y="220" type="curve"/>
+      <point x="398" y="338" type="line"/>
+      <point x="377" y="316"/>
+      <point x="353" y="304"/>
+      <point x="321" y="304" type="curve" smooth="yes"/>
+      <point x="286" y="304"/>
+      <point x="254" y="317"/>
+      <point x="229" y="335" type="curve"/>
+      <point x="209" y="270" type="line"/>
+      <point x="248" y="233"/>
+      <point x="313" y="201"/>
+    </contour>
+    <contour>
+      <point x="490" y="126" type="curve" smooth="yes"/>
+      <point x="526" y="126"/>
+      <point x="536" y="160"/>
+      <point x="536" y="204" type="curve" smooth="yes"/>
+      <point x="536" y="244" type="line"/>
+      <point x="532" y="232" type="line"/>
+      <point x="533" y="232"/>
+      <point x="538" y="232"/>
+      <point x="540" y="232" type="curve" smooth="yes"/>
+      <point x="569" y="232"/>
+      <point x="627" y="231"/>
+      <point x="654" y="230" type="curve"/>
+      <point x="654" y="321" type="line"/>
+      <point x="604" y="335"/>
+      <point x="507" y="350"/>
+      <point x="442" y="350" type="curve" smooth="yes"/>
+      <point x="375" y="350"/>
+      <point x="341" y="339"/>
+      <point x="341" y="289" type="curve" smooth="yes"/>
+      <point x="341" y="210"/>
+      <point x="417" y="126"/>
+    </contour>
+    <contour>
+      <point x="400" y="304" type="line"/>
+      <point x="536" y="304" type="line"/>
+      <point x="536" y="558" type="line"/>
+      <point x="400" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="-16" y="516" type="line"/>
+      <point x="873" y="516" type="line"/>
+      <point x="873" y="531" type="line"/>
+      <point x="821" y="627" type="line"/>
+      <point x="-68" y="627" type="line"/>
+      <point x="-68" y="613" type="line"/>
+    </contour>
+    <contour>
+      <point x="746" y="-9" type="line"/>
+      <point x="760" y="-9" type="line"/>
+      <point x="760" y="560" type="line"/>
+      <point x="624" y="560" type="line"/>
+      <point x="624" y="60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>sa-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ma-deva</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

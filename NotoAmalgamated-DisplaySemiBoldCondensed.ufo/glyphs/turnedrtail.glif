@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="turnedrtail" format="2">
+  <advance width="340"/>
+  <unicode hex="2C79"/>
+  <anchor x="171" y="0" name="bottom"/>
+  <anchor x="171" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="602" type="line" smooth="yes"/>
+      <point x="286" y="716"/>
+      <point x="233" y="765"/>
+      <point x="140" y="765" type="curve" smooth="yes"/>
+      <point x="119" y="765"/>
+      <point x="84" y="760"/>
+      <point x="69" y="754" type="curve"/>
+      <point x="69" y="642" type="line"/>
+      <point x="83" y="648"/>
+      <point x="98" y="651"/>
+      <point x="111" y="651" type="curve" smooth="yes"/>
+      <point x="142" y="651"/>
+      <point x="156" y="633"/>
+      <point x="156" y="587" type="curve" smooth="yes"/>
+      <point x="156" y="268" type="line" smooth="yes"/>
+      <point x="156" y="183"/>
+      <point x="125" y="129"/>
+      <point x="66" y="129" type="curve" smooth="yes"/>
+      <point x="47" y="129"/>
+      <point x="32" y="131"/>
+      <point x="20" y="135" type="curve"/>
+      <point x="8" y="-4" type="line"/>
+      <point x="26" y="-9"/>
+      <point x="38" y="-10"/>
+      <point x="52" y="-10" type="curve" smooth="yes"/>
+      <point x="103" y="-10"/>
+      <point x="141" y="38"/>
+      <point x="161" y="89" type="curve"/>
+      <point x="168" y="89" type="line"/>
+      <point x="186" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

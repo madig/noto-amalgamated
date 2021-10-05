@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzzhe-cy" format="2">
+  <advance width="1066"/>
+  <unicode hex="052B"/>
+  <anchor x="434" y="-203" name="bottom"/>
+  <anchor x="589" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="-86" y="-203" type="line"/>
+      <point x="69" y="-203" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="317" y="0" type="line"/>
+      <point x="274" y="-203" type="line"/>
+      <point x="429" y="-203" type="line"/>
+      <point x="501" y="135" type="line"/>
+      <point x="439" y="135" type="line"/>
+      <point x="527" y="553" type="line"/>
+      <point x="166" y="553" type="line"/>
+      <point x="137" y="404"/>
+      <point x="90" y="264"/>
+      <point x="21" y="135" type="curve"/>
+      <point x="-14" y="135" type="line"/>
+    </contour>
+    <contour>
+      <point x="184" y="135" type="line"/>
+      <point x="229" y="223"/>
+      <point x="262" y="317"/>
+      <point x="287" y="417" type="curve"/>
+      <point x="339" y="417" type="line"/>
+      <point x="279" y="135" type="line"/>
+    </contour>
+    <contour>
+      <point x="444" y="215" type="line"/>
+      <point x="626" y="215" type="line"/>
+      <point x="654" y="351" type="line"/>
+      <point x="473" y="351" type="line"/>
+    </contour>
+    <component base="ka-cy" xOffset="571"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ka-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ka-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

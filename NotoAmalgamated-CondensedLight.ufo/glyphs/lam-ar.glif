@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam-ar" format="2">
+  <advance width="519"/>
+  <unicode hex="0644"/>
+  <anchor x="237" y="-230" name="bottom"/>
+  <anchor x="219" y="457" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="-38" type="curve" smooth="yes"/>
+      <point x="40" y="-155"/>
+      <point x="104" y="-230"/>
+      <point x="233" y="-230" type="curve" smooth="yes"/>
+      <point x="427" y="-230"/>
+      <point x="450" y="-62"/>
+      <point x="443" y="173" type="curve" smooth="yes"/>
+      <point x="426" y="714" type="line"/>
+      <point x="402" y="714" type="line"/>
+      <point x="419" y="173" type="line" smooth="yes"/>
+      <point x="428" y="-107"/>
+      <point x="380" y="-206"/>
+      <point x="234" y="-206" type="curve" smooth="yes"/>
+      <point x="120" y="-206"/>
+      <point x="65" y="-142"/>
+      <point x="65" y="-38" type="curve" smooth="yes"/>
+      <point x="65" y="24"/>
+      <point x="81" y="84"/>
+      <point x="109" y="148" type="curve"/>
+      <point x="87" y="159" type="line"/>
+      <point x="49" y="70"/>
+      <point x="40" y="10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>noonghunna-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alef-ar</string>
+    </dict>
+  </lib>
+</glyph>

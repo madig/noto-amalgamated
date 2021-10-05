@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kirghizyu-ar" format="2">
+  <advance width="493"/>
+  <unicode hex="06C9"/>
+  <note>
+uni06C9
+</note>
+  <anchor x="244" y="-293" name="bottom"/>
+  <anchor x="274" y="812" name="top"/>
+  <outline>
+    <component base="waw-ar"/>
+    <component base="circumflex.arabic" xOffset="271" yOffset="-47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>waw-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflex.arabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

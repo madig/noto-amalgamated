@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yigmgotshegshadma_tibet" format="2">
+  <advance width="1485"/>
+  <unicode hex="0F07"/>
+  <outline>
+    <contour>
+      <point x="1037" y="678" type="line"/>
+      <point x="1037" y="129" type="line"/>
+      <point x="1140" y="129" type="line"/>
+      <point x="1140" y="678" type="line"/>
+    </contour>
+    <contour>
+      <point x="1332" y="678" type="line"/>
+      <point x="1332" y="129" type="line"/>
+      <point x="1436" y="129" type="line"/>
+      <point x="1436" y="678" type="line"/>
+    </contour>
+    <contour>
+      <point x="1236" y="460" type="curve" smooth="yes"/>
+      <point x="1282" y="460"/>
+      <point x="1321" y="499"/>
+      <point x="1321" y="545" type="curve" smooth="yes"/>
+      <point x="1321" y="590"/>
+      <point x="1282" y="629"/>
+      <point x="1236" y="629" type="curve" smooth="yes"/>
+      <point x="1190" y="629"/>
+      <point x="1152" y="590"/>
+      <point x="1152" y="545" type="curve" smooth="yes"/>
+      <point x="1152" y="499"/>
+      <point x="1190" y="460"/>
+    </contour>
+    <contour>
+      <point x="1236" y="178" type="curve" smooth="yes"/>
+      <point x="1282" y="178"/>
+      <point x="1321" y="216"/>
+      <point x="1321" y="262" type="curve" smooth="yes"/>
+      <point x="1321" y="308"/>
+      <point x="1282" y="347"/>
+      <point x="1236" y="347" type="curve" smooth="yes"/>
+      <point x="1190" y="347"/>
+      <point x="1152" y="308"/>
+      <point x="1152" y="262" type="curve" smooth="yes"/>
+      <point x="1152" y="216"/>
+      <point x="1190" y="178"/>
+    </contour>
+    <component base="brdaRnyingYigMgoMdunMa_tibet"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>brdaRnyingYigMgoMdunMa_tibet</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yigMgoMdunMa_tibet</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

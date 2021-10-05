@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thornstrokethroughdescender" format="2">
+  <advance width="476"/>
+  <unicode hex="A766"/>
+  <outline>
+    <contour>
+      <point x="-5" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="204" y="199" type="line"/>
+      <point x="242" y="199" type="line" smooth="yes"/>
+      <point x="426" y="199"/>
+      <point x="492" y="358"/>
+      <point x="492" y="470" type="curve" smooth="yes"/>
+      <point x="492" y="572"/>
+      <point x="437" y="640"/>
+      <point x="304" y="640" type="curve" smooth="yes"/>
+      <point x="297" y="640" type="line"/>
+      <point x="313" y="714" type="line"/>
+      <point x="146" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="-43" y="54" type="line"/>
+      <point x="240" y="54" type="line"/>
+      <point x="262" y="159" type="line"/>
+      <point x="-21" y="159" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="343" type="curve" smooth="yes"/>
+      <point x="235" y="343" type="line"/>
+      <point x="267" y="496" type="line"/>
+      <point x="275" y="496" type="line" smooth="yes"/>
+      <point x="305" y="496"/>
+      <point x="320" y="486"/>
+      <point x="320" y="448" type="curve" smooth="yes"/>
+      <point x="320" y="391"/>
+      <point x="296" y="343"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

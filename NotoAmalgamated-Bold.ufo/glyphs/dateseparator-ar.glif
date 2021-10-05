@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dateseparator-ar" format="2">
+  <advance width="323"/>
+  <unicode hex="060D"/>
+  <note>
+uni060D
+</note>
+  <outline>
+    <contour>
+      <point x="323" y="0" type="line"/>
+      <point x="323" y="120" type="line"/>
+      <point x="268" y="120" type="line" smooth="yes"/>
+      <point x="160" y="120"/>
+      <point x="74" y="24"/>
+      <point x="14" y="-172" type="curve"/>
+      <point x="115" y="-207" type="line"/>
+      <point x="152" y="-92"/>
+      <point x="184" y="0"/>
+      <point x="269" y="0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 11 values pushed */
+6 11 10 12 1 9 70 89 5 1 18 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+MDRP[01110]	/* MoveDirectRelPt */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

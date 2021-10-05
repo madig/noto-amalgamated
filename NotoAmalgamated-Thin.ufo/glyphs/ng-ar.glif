@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ng-ar" format="2">
+  <advance width="704"/>
+  <unicode hex="06AD"/>
+  <note>
+uni06AD
+</note>
+  <anchor x="353" y="-78" name="bottom"/>
+  <anchor x="351" y="760" name="top"/>
+  <outline>
+    <component base="kaf-ar"/>
+    <component base="threedots.above" xOffset="350" yOffset="16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>kaf-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gaf-ar.init" format="2">
+  <advance width="610"/>
+  <note>
+uni06AF.init
+</note>
+  <anchor x="305" y="-78" name="bottom"/>
+  <anchor x="136" y="954" name="top"/>
+  <outline>
+    <component base="kaf-ar.init"/>
+    <component base="diagonal" xOffset="21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>kaf-ar.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>diagonal</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

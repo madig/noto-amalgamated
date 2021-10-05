@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ngouLonsum-mtei" format="2">
+  <advance width="757"/>
+  <unicode hex="ABE1"/>
+  <anchor x="684" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="bottom_left"/>
+  <anchor x="757" y="0" name="bottom_right"/>
+  <anchor x="530" y="713" name="top"/>
+  <outline>
+    <contour>
+      <point x="25" y="537" type="line"/>
+      <point x="732" y="537" type="line"/>
+      <point x="732" y="659" type="line"/>
+      <point x="25" y="659" type="line"/>
+    </contour>
+    <contour>
+      <point x="592" y="122" type="line"/>
+      <point x="206" y="122" type="line"/>
+      <point x="227" y="11" type="line"/>
+      <point x="227" y="641" type="line"/>
+      <point x="73" y="641" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="684" y="0" type="line"/>
+      <point x="684" y="641" type="line"/>
+      <point x="530" y="641" type="line"/>
+      <point x="530" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="23" type="line"/>
+      <point x="446" y="23" type="line"/>
+      <point x="446" y="641" type="line"/>
+      <point x="312" y="641" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>mtei</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

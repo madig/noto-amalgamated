@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phinthu-thai" format="2">
+  <unicode hex="0E3A"/>
+  <anchor x="203" y="0" name="_bottomright"/>
+  <anchor x="203" y="-221" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="125" y="-220" type="curve" smooth="yes"/>
+      <point x="171" y="-220"/>
+      <point x="208" y="-183"/>
+      <point x="208" y="-138" type="curve" smooth="yes"/>
+      <point x="208" y="-92"/>
+      <point x="171" y="-55"/>
+      <point x="125" y="-55" type="curve" smooth="yes"/>
+      <point x="79" y="-55"/>
+      <point x="42" y="-92"/>
+      <point x="42" y="-138" type="curve" smooth="yes"/>
+      <point x="42" y="-183"/>
+      <point x="79" y="-220"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>258</integer>
+    </dict>
+  </lib>
+</glyph>

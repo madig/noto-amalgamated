@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen_hah_jeem-ar.init" format="2">
+  <advance width="1595"/>
+  <unicode hex="FD5C"/>
+  <anchor x="914" y="0" name="caret_1"/>
+  <anchor x="457" y="0" name="caret_2"/>
+  <outline>
+    <component base="seen-ar.init" xOffset="914"/>
+    <component base="hah-ar.medi" xOffset="457"/>
+    <component base="jeem-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>seen-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>jeem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

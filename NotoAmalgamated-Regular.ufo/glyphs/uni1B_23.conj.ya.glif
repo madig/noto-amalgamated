@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B23.conj.ya" format="2">
+  <advance width="386"/>
+  <outline>
+    <component base="uni1B64" xScale="1.03363" yScale="1.03363" xOffset="-571" yOffset="-635"/>
+    <component base="uni1B2C.conj.2"/>
+    <component base="uni1B23.conj.part" yOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1B64</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1B2C.conj.2</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1B23.conj.part</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

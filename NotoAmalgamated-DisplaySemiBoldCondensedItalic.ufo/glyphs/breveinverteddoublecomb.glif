@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinverteddoublecomb" format="2">
+  <unicode hex="0361"/>
+  <anchor x="-152" y="633" name="_top"/>
+  <anchor x="113" y="863" name="top"/>
+  <outline>
+    <contour>
+      <point x="-204" y="668" type="curve"/>
+      <point x="-124" y="668" type="line"/>
+      <point x="-66" y="740"/>
+      <point x="12" y="774"/>
+      <point x="112" y="774" type="curve" smooth="yes"/>
+      <point x="220" y="774"/>
+      <point x="284" y="734"/>
+      <point x="307" y="668" type="curve"/>
+      <point x="388" y="668" type="line"/>
+      <point x="371" y="789"/>
+      <point x="276" y="863"/>
+      <point x="117" y="863" type="curve" smooth="yes"/>
+      <point x="-23" y="863"/>
+      <point x="-127" y="808"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

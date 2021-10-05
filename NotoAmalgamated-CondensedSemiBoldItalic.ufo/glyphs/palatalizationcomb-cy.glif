@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palatalizationcomb-cy" format="2">
+  <unicode hex="0484"/>
+  <anchor x="-198" y="530" name="_top"/>
+  <anchor x="-161" y="751" name="top"/>
+  <outline>
+    <contour>
+      <point x="-314" y="606" type="line"/>
+      <point x="-298" y="606" type="line" smooth="yes"/>
+      <point x="-257" y="607"/>
+      <point x="-223" y="623"/>
+      <point x="-196" y="637" type="curve" smooth="yes"/>
+      <point x="-171" y="649"/>
+      <point x="-151" y="660"/>
+      <point x="-132" y="660" type="curve" smooth="yes"/>
+      <point x="-114" y="660"/>
+      <point x="-106" y="650"/>
+      <point x="-106" y="630" type="curve" smooth="yes"/>
+      <point x="-106" y="623"/>
+      <point x="-107" y="615"/>
+      <point x="-109" y="606" type="curve"/>
+      <point x="-29" y="606" type="line"/>
+      <point x="-22" y="633"/>
+      <point x="-18" y="654"/>
+      <point x="-18" y="672" type="curve" smooth="yes"/>
+      <point x="-18" y="725"/>
+      <point x="-47" y="751"/>
+      <point x="-101" y="751" type="curve" smooth="yes"/>
+      <point x="-145" y="751"/>
+      <point x="-176" y="734"/>
+      <point x="-209" y="718" type="curve" smooth="yes"/>
+      <point x="-235" y="705"/>
+      <point x="-263" y="693"/>
+      <point x="-296" y="691" type="curve" smooth="yes"/>
+      <point x="-303" y="691" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aleutka-cy.serif" format="2">
+  <advance width="552"/>
+  <unicode hex="051F"/>
+  <anchor x="276" y="0" name="bottom"/>
+  <anchor x="276" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="434" y="319" type="line"/>
+      <point x="465" y="367" type="line"/>
+      <point x="303" y="473" type="line"/>
+      <point x="272" y="424" type="line"/>
+    </contour>
+    <component base="ka-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>ka-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

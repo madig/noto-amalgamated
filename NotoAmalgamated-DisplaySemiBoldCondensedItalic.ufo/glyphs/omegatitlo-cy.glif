@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegatitlo-cy" format="2">
+  <advance width="615"/>
+  <unicode hex="047D"/>
+  <outline>
+    <contour>
+      <point x="266" y="789" type="curve"/>
+      <point x="345" y="789" type="line"/>
+      <point x="351" y="823"/>
+      <point x="365" y="843"/>
+      <point x="384" y="843" type="curve" smooth="yes"/>
+      <point x="410" y="843"/>
+      <point x="467" y="789"/>
+      <point x="533" y="789" type="curve" smooth="yes"/>
+      <point x="550" y="789" type="line"/>
+      <point x="569" y="875" type="line"/>
+      <point x="556" y="875" type="line" smooth="yes"/>
+      <point x="479" y="875"/>
+      <point x="446" y="934"/>
+      <point x="384" y="934" type="curve" smooth="yes"/>
+      <point x="309" y="934"/>
+      <point x="279" y="864"/>
+    </contour>
+    <contour>
+      <point x="314" y="630" type="curve"/>
+      <point x="313" y="585" type="line"/>
+      <point x="408" y="595"/>
+      <point x="467" y="644"/>
+      <point x="467" y="715" type="curve" smooth="yes"/>
+      <point x="467" y="757"/>
+      <point x="443" y="782"/>
+      <point x="408" y="782" type="curve" smooth="yes"/>
+      <point x="369" y="782"/>
+      <point x="349" y="757"/>
+      <point x="349" y="732" type="curve" smooth="yes"/>
+      <point x="349" y="716"/>
+      <point x="356" y="708"/>
+      <point x="365" y="701" type="curve" smooth="yes"/>
+      <point x="376" y="692"/>
+      <point x="387" y="687"/>
+      <point x="387" y="674" type="curve" smooth="yes"/>
+      <point x="387" y="645"/>
+      <point x="343" y="635"/>
+    </contour>
+    <component base="omegabroad-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>omegabroad-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>omegabroad-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

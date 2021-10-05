@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zstroke.display" format="2">
+  <advance width="571"/>
+  <unicode hex="01B6"/>
+  <anchor x="223" y="0" name="bottom"/>
+  <anchor x="337" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="62" y="272" type="line"/>
+      <point x="480" y="272" type="line"/>
+      <point x="482" y="282" type="line"/>
+      <point x="65" y="282" type="line"/>
+    </contour>
+    <component base="z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

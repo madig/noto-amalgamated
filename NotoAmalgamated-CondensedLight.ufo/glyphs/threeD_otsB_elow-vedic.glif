@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeDotsBelow-vedic" format="2">
+  <unicode hex="1CDF"/>
+  <note>
+uni1CDF
+</note>
+  <anchor x="-180" y="0" name="_bottom_right"/>
+  <outline>
+    <component base="dotBelow-vedic"/>
+    <component base="dotBelow-vedic" xOffset="-93"/>
+    <component base="dotBelow-vedic" xOffset="-186"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>vedic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

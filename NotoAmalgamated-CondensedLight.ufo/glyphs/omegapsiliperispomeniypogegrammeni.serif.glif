@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegapsiliperispomeniypogegrammeni.serif" format="2">
+  <advance width="558"/>
+  <unicode hex="1FA6"/>
+  <anchor x="279" y="-221" name="bottom"/>
+  <anchor x="279" y="863" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="psiliperispomeni" xOffset="135" yOffset="20"/>
+    <component base="prosgegrammeni" xOffset="167"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonTwodotsbelow-ar.init" format="2">
+  <advance width="344"/>
+  <note>
+uni0767.init
+</note>
+  <anchor x="142" y="-180" name="bottom"/>
+  <anchor x="192" y="674" name="top"/>
+  <outline>
+    <component base="beh_dotless_alt.init"/>
+    <component base="onedot.above" xOffset="230" yOffset="-16"/>
+    <component base="twodots.below" xOffset="148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>beh_dotless_alt.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>twodots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

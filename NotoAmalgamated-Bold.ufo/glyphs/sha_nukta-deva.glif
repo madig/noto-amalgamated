@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha_nukta-deva" format="2">
+  <advance width="735"/>
+  <anchor x="675" y="20" name="bottom"/>
+  <anchor x="421" y="-18" name="bottom_right"/>
+  <anchor x="675" y="627" name="candra"/>
+  <anchor x="144" y="-104" name="nukta"/>
+  <anchor x="675" y="627" name="top"/>
+  <outline>
+    <component base="sha-deva"/>
+    <component base="nukta-deva" xOffset="397" yOffset="156"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

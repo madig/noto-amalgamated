@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf_alef-ar" format="2">
+  <advance width="542"/>
+  <unicode hex="FC37"/>
+  <anchor x="214" y="0" name="caret_1"/>
+  <outline>
+    <component base="kaf-ar.init" xOffset="214"/>
+    <component base="alef-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>kaf-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alef-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

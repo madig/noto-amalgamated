@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dal-ar.fina.sans" format="2">
+  <advance width="374"/>
+  <unicode hex="FEAA"/>
+  <anchor x="123" y="-4" name="bottom"/>
+  <anchor x="121" y="475" name="top"/>
+  <outline>
+    <contour>
+      <point x="140" y="17" type="curve" smooth="yes"/>
+      <point x="96" y="17"/>
+      <point x="66" y="25"/>
+      <point x="40" y="36" type="curve"/>
+      <point x="32" y="15" type="line"/>
+      <point x="59" y="2"/>
+      <point x="99" y="-5"/>
+      <point x="138" y="-5" type="curve"/>
+      <point x="235" y="-5"/>
+      <point x="259" y="62"/>
+      <point x="259" y="116" type="curve"/>
+      <point x="249" y="136" type="line"/>
+      <point x="264" y="45"/>
+      <point x="305" y="-5"/>
+      <point x="374" y="-5" type="curve" smooth="yes"/>
+      <point x="389" y="-5"/>
+      <point x="394" y="-1"/>
+      <point x="394" y="6" type="curve" smooth="yes"/>
+      <point x="394" y="11"/>
+      <point x="392" y="17"/>
+      <point x="378" y="17" type="curve" smooth="yes"/>
+      <point x="298" y="17"/>
+      <point x="279" y="77"/>
+      <point x="254" y="187" type="curve" smooth="yes"/>
+      <point x="243" y="236"/>
+      <point x="211" y="322"/>
+      <point x="139" y="434" type="curve"/>
+      <point x="119" y="421" type="line"/>
+      <point x="231" y="247"/>
+      <point x="239" y="170"/>
+      <point x="239" y="114" type="curve" smooth="yes"/>
+      <point x="239" y="67"/>
+      <point x="217" y="17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dal-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_part.instroke</string>
+    </dict>
+  </lib>
+</glyph>

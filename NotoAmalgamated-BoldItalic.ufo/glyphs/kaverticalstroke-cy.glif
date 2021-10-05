@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaverticalstroke-cy" format="2">
+  <advance width="678"/>
+  <unicode hex="049D"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="398" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="257" y="275" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="617" y="0" type="line"/>
+      <point x="458" y="272" type="line"/>
+      <point x="722" y="553" type="line"/>
+      <point x="502" y="553" type="line"/>
+      <point x="259" y="286" type="line"/>
+      <point x="315" y="553" type="line"/>
+      <point x="126" y="553" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="44" type="line"/>
+      <point x="315" y="44" type="line"/>
+      <point x="408" y="495" type="line"/>
+      <point x="345" y="495" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

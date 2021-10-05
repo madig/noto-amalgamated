@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ssasubscriptorya" format="2">
+  <anchor x="-56" y="0" name="_b.uvowelsignorya"/>
+  <anchor x="43" y="-146" name="b.uvowelsignmarkorya"/>
+  <anchor x="43" y="-49" name="m.rrvocalicvowelsignleftorya"/>
+  <outline>
+    <contour>
+      <point x="-229" y="-74" type="line"/>
+      <point x="-90" y="-282" type="line"/>
+      <point x="-54" y="-257" type="line"/>
+      <point x="-193" y="-49" type="line"/>
+    </contour>
+    <component base="pasubscriptorya"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

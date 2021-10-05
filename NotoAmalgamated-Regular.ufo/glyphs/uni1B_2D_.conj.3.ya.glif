@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B2D.conj.3.ya" format="2">
+  <advance width="376"/>
+  <outline>
+    <contour>
+      <point x="235" y="-819" type="line"/>
+      <point x="316" y="-819" type="line"/>
+      <point x="316" y="11" type="line"/>
+      <point x="235" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="-536" type="line"/>
+      <point x="119" y="11" type="line"/>
+      <point x="38" y="11" type="line"/>
+      <point x="38" y="-536" type="line"/>
+    </contour>
+    <component base="uni1B05.03.part" xOffset="-10"/>
+    <component base="wa.part" xOffset="179"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1B05.03.part</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>wa.part</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

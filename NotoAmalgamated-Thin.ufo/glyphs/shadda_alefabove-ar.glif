@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shadda_alefabove-ar" format="2">
+  <advance width="361"/>
+  <unicode hex="FC63"/>
+  <note>
+uniFC63
+</note>
+  <anchor x="181" y="706" name="_top"/>
+  <anchor x="184" y="1252" name="top"/>
+  <outline>
+    <component base="shadda-ar" xOffset="185" yOffset="-60"/>
+    <component base="alefabove-ar" xOffset="187" yOffset="201"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>shadda-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>alefabove-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

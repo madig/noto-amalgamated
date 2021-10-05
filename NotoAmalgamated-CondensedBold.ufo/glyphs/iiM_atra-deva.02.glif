@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iiMatra-deva.02" format="2">
+  <advance width="227"/>
+  <outline>
+    <contour>
+      <point x="-217" y="611" type="curve"/>
+      <point x="-149" y="611" type="line"/>
+      <point x="-161" y="632"/>
+      <point x="-170" y="662"/>
+      <point x="-170" y="691" type="curve" smooth="yes"/>
+      <point x="-170" y="740"/>
+      <point x="-139" y="773"/>
+      <point x="-86" y="773" type="curve" smooth="yes"/>
+      <point x="-5" y="773"/>
+      <point x="49" y="703"/>
+      <point x="96" y="615" type="curve"/>
+      <point x="160" y="615" type="line"/>
+      <point x="93" y="770"/>
+      <point x="-11" y="897"/>
+      <point x="-140" y="897" type="curve" smooth="yes"/>
+      <point x="-231" y="897"/>
+      <point x="-290" y="842"/>
+      <point x="-290" y="763" type="curve" smooth="yes"/>
+      <point x="-290" y="706"/>
+      <point x="-255" y="648"/>
+    </contour>
+    <contour>
+      <point x="167" y="-9" type="line"/>
+      <point x="182" y="-9" type="line"/>
+      <point x="182" y="561" type="line"/>
+      <point x="46" y="561" type="line"/>
+      <point x="46" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="-16" y="516" type="line"/>
+      <point x="295" y="516" type="line"/>
+      <point x="295" y="531" type="line"/>
+      <point x="243" y="627" type="line"/>
+      <point x="-68" y="627" type="line"/>
+      <point x="-68" y="613" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaMatra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iota_macroncomb_commareversedabovecomb_acutecomb.serif" format="2">
+  <advance width="276"/>
+  <anchor x="138" y="0" name="bottom"/>
+  <anchor x="138" y="868" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dasiaoxia_firsttonechinese" xOffset="-77"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

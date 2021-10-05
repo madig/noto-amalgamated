@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khah_alefMaksura-ar.fina.sans" format="2">
+  <advance width="1373"/>
+  <unicode hex="FD1F"/>
+  <anchor x="736" y="0" name="caret_1"/>
+  <outline>
+    <component base="khah-ar.medi" xOffset="736"/>
+    <component base="alefMaksura-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>khah-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

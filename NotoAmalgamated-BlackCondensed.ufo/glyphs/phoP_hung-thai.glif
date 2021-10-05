@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phoPhung-thai" format="2">
+  <advance width="573"/>
+  <unicode hex="0E1C"/>
+  <anchor x="286" y="0" name="bottom"/>
+  <anchor x="521" y="0" name="bottomright"/>
+  <anchor x="287" y="561" name="top"/>
+  <anchor x="521" y="561" name="topright"/>
+  <outline>
+    <contour>
+      <point x="52" y="417" type="curve" smooth="yes"/>
+      <point x="52" y="0" type="line"/>
+      <point x="219" y="0" type="line"/>
+      <point x="284" y="121" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="521" y="561" type="line"/>
+      <point x="365" y="561" type="line"/>
+      <point x="365" y="125" type="line"/>
+      <point x="385" y="132" type="line"/>
+      <point x="311" y="273" type="line"/>
+      <point x="258" y="273" type="line"/>
+      <point x="188" y="132" type="line"/>
+      <point x="208" y="125" type="line"/>
+      <point x="208" y="374" type="line"/>
+      <point x="146" y="374"/>
+      <point x="104" y="408"/>
+      <point x="104" y="464" type="curve"/>
+      <point x="83" y="464" type="line"/>
+      <point x="83" y="388"/>
+      <point x="125" y="357"/>
+      <point x="192" y="357" type="curve" smooth="yes"/>
+      <point x="246" y="357"/>
+      <point x="281" y="406"/>
+      <point x="281" y="464" type="curve" smooth="yes"/>
+      <point x="281" y="523"/>
+      <point x="241" y="571"/>
+      <point x="171" y="571" type="curve" smooth="yes"/>
+      <point x="102" y="571"/>
+      <point x="52" y="525"/>
+    </contour>
+    <contour>
+      <point x="179" y="418" type="curve" smooth="yes"/>
+      <point x="154" y="418"/>
+      <point x="140" y="434"/>
+      <point x="140" y="464" type="curve" smooth="yes"/>
+      <point x="140" y="493"/>
+      <point x="154" y="510"/>
+      <point x="179" y="510" type="curve" smooth="yes"/>
+      <point x="204" y="510"/>
+      <point x="218" y="493"/>
+      <point x="218" y="464" type="curve" smooth="yes"/>
+      <point x="218" y="435"/>
+      <point x="204" y="418"/>
+    </contour>
+    <contour>
+      <point x="200" y="168" type="line"/>
+      <point x="214" y="168" type="line"/>
+      <point x="214" y="176" type="line"/>
+      <point x="200" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="117" type="line"/>
+      <point x="291" y="117" type="line"/>
+      <point x="291" y="125" type="line"/>
+      <point x="277" y="125" type="line"/>
+    </contour>
+    <contour>
+      <point x="359" y="168" type="line"/>
+      <point x="373" y="168" type="line"/>
+      <point x="373" y="176" type="line"/>
+      <point x="359" y="176" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>moMa-thai</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

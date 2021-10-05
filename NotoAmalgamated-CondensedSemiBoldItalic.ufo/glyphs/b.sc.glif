@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b.sc" format="2">
+  <advance width="419"/>
+  <anchor x="147.999" y="0" name="bottom"/>
+  <anchor x="272" y="580" name="top"/>
+  <anchor x="461" y="580" name="topright"/>
+  <outline>
+    <contour>
+      <point x="-2" y="0" type="line"/>
+      <point x="171" y="0" type="line" smooth="yes"/>
+      <point x="291" y="0"/>
+      <point x="373" y="93"/>
+      <point x="373" y="206" type="curve" smooth="yes"/>
+      <point x="373" y="249"/>
+      <point x="352" y="289"/>
+      <point x="311" y="304" type="curve"/>
+      <point x="312" y="307" type="line"/>
+      <point x="386" y="332"/>
+      <point x="419" y="395"/>
+      <point x="419" y="466" type="curve" smooth="yes"/>
+      <point x="419" y="552"/>
+      <point x="343" y="580"/>
+      <point x="270" y="580" type="curve" smooth="yes"/>
+      <point x="122" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="173" y="101" type="curve" smooth="yes"/>
+      <point x="139" y="101" type="line"/>
+      <point x="172" y="253" type="line"/>
+      <point x="203" y="253" type="line"/>
+      <point x="232" y="253"/>
+      <point x="248" y="236"/>
+      <point x="248" y="202" type="curve" smooth="yes"/>
+      <point x="248" y="146"/>
+      <point x="226" y="101"/>
+    </contour>
+    <contour>
+      <point x="220" y="349" type="curve" smooth="yes"/>
+      <point x="192" y="349" type="line"/>
+      <point x="221" y="481" type="line"/>
+      <point x="247" y="481" type="line" smooth="yes"/>
+      <point x="277" y="481"/>
+      <point x="292" y="466"/>
+      <point x="292" y="438" type="curve" smooth="yes"/>
+      <point x="292" y="396"/>
+      <point x="267" y="349"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

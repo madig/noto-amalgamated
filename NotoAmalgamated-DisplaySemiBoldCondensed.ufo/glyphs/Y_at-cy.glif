@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yat-cy" format="2">
+  <advance width="488"/>
+  <unicode hex="0462"/>
+  <anchor x="245" y="0" name="bottom"/>
+  <anchor x="245" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="232" y="0" type="line" smooth="yes"/>
+      <point x="376" y="0"/>
+      <point x="458" y="84"/>
+      <point x="458" y="223" type="curve" smooth="yes"/>
+      <point x="458" y="368"/>
+      <point x="376" y="436"/>
+      <point x="225" y="436" type="curve" smooth="yes"/>
+      <point x="206" y="436" type="line"/>
+      <point x="206" y="555" type="line"/>
+      <point x="332" y="555" type="line"/>
+      <point x="332" y="656" type="line"/>
+      <point x="206" y="656" type="line"/>
+      <point x="206" y="760" type="line"/>
+      <point x="68" y="760" type="line"/>
+      <point x="68" y="656" type="line"/>
+      <point x="1" y="656" type="line"/>
+      <point x="1" y="555" type="line"/>
+      <point x="68" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="117" type="curve" smooth="yes"/>
+      <point x="206" y="117" type="line"/>
+      <point x="206" y="320" type="line"/>
+      <point x="226" y="320" type="line" smooth="yes"/>
+      <point x="294" y="320"/>
+      <point x="321" y="287"/>
+      <point x="321" y="220" type="curve" smooth="yes"/>
+      <point x="321" y="152"/>
+      <point x="289" y="117"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

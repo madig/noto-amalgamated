@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="highhamzaWaw-ar.fina" format="2">
+  <advance width="514"/>
+  <note>
+uni0676.fina
+</note>
+  <anchor x="235" y="-298" name="bottom"/>
+  <anchor x="316" y="798" name="top"/>
+  <outline>
+    <component base="waw-ar.fina"/>
+    <component base="hamzaabove-ar" xOffset="410" yOffset="-176"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

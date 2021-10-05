@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLrho" format="2">
+  <advance width="600"/>
+  <unicode hex="2374"/>
+  <outline>
+    <contour>
+      <point x="102" y="270" type="curve" smooth="yes"/>
+      <point x="102" y="-235" type="line"/>
+      <point x="129" y="-235" type="line"/>
+      <point x="129" y="-98" type="line" smooth="yes"/>
+      <point x="129" y="-14"/>
+      <point x="127" y="39"/>
+      <point x="126" y="63" type="curve"/>
+      <point x="127" y="63" type="line"/>
+      <point x="164" y="31"/>
+      <point x="207" y="0"/>
+      <point x="287" y="0" type="curve" smooth="yes"/>
+      <point x="429" y="0"/>
+      <point x="498" y="93"/>
+      <point x="498" y="267" type="curve" smooth="yes"/>
+      <point x="498" y="436"/>
+      <point x="441" y="531"/>
+      <point x="299" y="531" type="curve" smooth="yes"/>
+      <point x="183" y="531"/>
+      <point x="102" y="469"/>
+    </contour>
+    <contour>
+      <point x="287" y="25" type="curve" smooth="yes"/>
+      <point x="220" y="25"/>
+      <point x="173" y="49"/>
+      <point x="129" y="87" type="curve"/>
+      <point x="129" y="270" type="line" smooth="yes"/>
+      <point x="129" y="431"/>
+      <point x="182" y="506"/>
+      <point x="299" y="506" type="curve" smooth="yes"/>
+      <point x="414" y="506"/>
+      <point x="471" y="427"/>
+      <point x="471" y="267" type="curve" smooth="yes"/>
+      <point x="471" y="104"/>
+      <point x="409" y="25"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

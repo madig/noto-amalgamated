@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anusvara-deva" format="2">
+  <unicode hex="0902"/>
+  <anchor x="-63" y="777" name="_#topRight"/>
+  <anchor x="0" y="626" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-63" y="707" type="curve" smooth="yes"/>
+      <point x="-19" y="707"/>
+      <point x="5" y="732"/>
+      <point x="5" y="777" type="curve" smooth="yes"/>
+      <point x="5" y="823"/>
+      <point x="-19" y="847"/>
+      <point x="-63" y="847" type="curve" smooth="yes"/>
+      <point x="-107" y="847"/>
+      <point x="-131" y="823"/>
+      <point x="-131" y="777" type="curve" smooth="yes"/>
+      <point x="-131" y="732"/>
+      <point x="-107" y="707"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

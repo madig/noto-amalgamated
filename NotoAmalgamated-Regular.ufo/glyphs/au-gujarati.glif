@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="au-gujarati" format="2">
+  <advance width="1057"/>
+  <unicode hex="0A94"/>
+  <anchor x="1021" y="592" name="topright"/>
+  <outline>
+    <component base="a-gujarati"/>
+    <component base="auMatra-gujarati" xOffset="806"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

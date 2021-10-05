@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uretroflexhook" format="2">
+  <advance width="654"/>
+  <unicode hex="1D99"/>
+  <outline>
+    <contour>
+      <point x="588" y="552" type="line"/>
+      <point x="389" y="552" type="line"/>
+      <point x="389" y="310" type="line" smooth="yes"/>
+      <point x="389" y="200"/>
+      <point x="376" y="139"/>
+      <point x="317" y="139" type="curve"/>
+      <point x="278" y="139"/>
+      <point x="263" y="178"/>
+      <point x="263" y="250" type="curve"/>
+      <point x="263" y="552" type="line"/>
+      <point x="66" y="552" type="line"/>
+      <point x="66" y="193" type="line" smooth="yes"/>
+      <point x="66" y="51"/>
+      <point x="150" y="-10"/>
+      <point x="248" y="-10" type="curve"/>
+      <point x="311" y="-10"/>
+      <point x="370" y="13"/>
+      <point x="403" y="69" type="curve"/>
+      <point x="409" y="69" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="482" y="-81" type="line" smooth="yes"/>
+      <point x="482" y="-198"/>
+      <point x="539" y="-251"/>
+      <point x="633" y="-251" type="curve"/>
+      <point x="668" y="-251"/>
+      <point x="704" y="-245"/>
+      <point x="733" y="-237" type="curve"/>
+      <point x="733" y="-110" type="line"/>
+      <point x="716" y="-116"/>
+      <point x="703" y="-119"/>
+      <point x="685" y="-119" type="curve"/>
+      <point x="656" y="-119"/>
+      <point x="641" y="-106"/>
+      <point x="641" y="-65" type="curve"/>
+      <point x="641" y="132" type="line"/>
+      <point x="588" y="132" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

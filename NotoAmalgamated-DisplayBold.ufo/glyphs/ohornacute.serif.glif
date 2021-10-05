@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohornacute.serif" format="2">
+  <advance width="745"/>
+  <unicode hex="1EDB"/>
+  <anchor x="358" y="0" name="bottom"/>
+  <anchor x="358" y="766" name="top"/>
+  <outline>
+    <component base="acute" xOffset="231"/>
+    <component base="ohorn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>ohorn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

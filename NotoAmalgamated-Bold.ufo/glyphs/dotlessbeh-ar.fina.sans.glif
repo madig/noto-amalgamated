@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessbeh-ar.fina.sans" format="2">
+  <advance width="1192"/>
+  <anchor x="542" y="-25" name="bottom"/>
+  <anchor x="544" y="-21" name="center"/>
+  <anchor x="559" y="366" name="top"/>
+  <outline>
+    <contour>
+      <point x="478" y="-21" type="line"/>
+      <point x="756" y="-21"/>
+      <point x="938" y="33"/>
+      <point x="1010" y="159" type="curve"/>
+      <point x="961" y="137" type="line"/>
+      <point x="972" y="47"/>
+      <point x="1047" y="-5"/>
+      <point x="1192" y="-5" type="curve" smooth="yes"/>
+      <point x="1259" y="-5"/>
+      <point x="1292" y="30"/>
+      <point x="1292" y="81" type="curve" smooth="yes"/>
+      <point x="1292" y="126"/>
+      <point x="1266" y="163"/>
+      <point x="1202" y="163" type="curve" smooth="yes"/>
+      <point x="1124" y="163"/>
+      <point x="1082" y="189"/>
+      <point x="1082" y="229" type="curve" smooth="yes"/>
+      <point x="1082" y="249"/>
+      <point x="1088" y="269"/>
+      <point x="1099" y="296" type="curve"/>
+      <point x="961" y="355" type="line"/>
+      <point x="898" y="233"/>
+      <point x="815" y="147"/>
+      <point x="504" y="147" type="curve"/>
+    </contour>
+    <component base="_part.beh.fina" xOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_part.instroke</string>
+    </dict>
+  </lib>
+</glyph>

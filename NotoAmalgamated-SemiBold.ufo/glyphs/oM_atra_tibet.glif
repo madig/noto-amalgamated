@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oMatra_tibet" format="2">
+  <unicode hex="0F7C"/>
+  <anchor x="380" y="678" name="_top"/>
+  <anchor x="380" y="956" name="top"/>
+  <anchor x="156" y="1030" name="topleft"/>
+  <anchor x="636" y="1003" name="topright"/>
+  <outline>
+    <contour>
+      <point x="419" y="803" type="line"/>
+      <point x="447" y="848"/>
+      <point x="477" y="860"/>
+      <point x="534" y="866" type="curve" smooth="yes"/>
+      <point x="577" y="871"/>
+      <point x="634" y="875"/>
+      <point x="689" y="887" type="curve" smooth="yes"/>
+      <point x="777" y="906"/>
+      <point x="823" y="957"/>
+      <point x="860" y="1052" type="curve"/>
+      <point x="812" y="1108" type="line"/>
+      <point x="789" y="1066"/>
+      <point x="759" y="1042"/>
+      <point x="696" y="1031" type="curve" smooth="yes"/>
+      <point x="648" y="1023"/>
+      <point x="597" y="1022"/>
+      <point x="533" y="1013" type="curve" smooth="yes"/>
+      <point x="458" y="1003"/>
+      <point x="410" y="963"/>
+      <point x="377" y="858" type="curve"/>
+    </contour>
+    <contour>
+      <point x="436" y="710" type="curve"/>
+      <point x="465" y="776" type="line"/>
+      <point x="289" y="1003"/>
+      <point x="213" y="1049"/>
+      <point x="123" y="1049" type="curve" smooth="yes"/>
+      <point x="98" y="1049"/>
+      <point x="71" y="1045"/>
+      <point x="49" y="1035" type="curve"/>
+      <point x="26" y="887" type="line"/>
+      <point x="51" y="895"/>
+      <point x="75" y="899"/>
+      <point x="101" y="899" type="curve" smooth="yes"/>
+      <point x="173" y="899"/>
+      <point x="252" y="871"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>874</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadasia.display" format="2">
+  <advance width="610"/>
+  <unicode hex="1F39"/>
+  <anchor x="345" y="0" name="bottom"/>
+  <anchor x="497" y="714" name="top"/>
+  <outline>
+    <component base="dasia"/>
+    <component base="I" xOffset="216"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

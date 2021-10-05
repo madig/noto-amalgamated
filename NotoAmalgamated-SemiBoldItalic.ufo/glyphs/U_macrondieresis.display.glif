@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacrondieresis.display" format="2">
+  <advance width="740"/>
+  <unicode hex="1E7A"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="533" y="1016" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="macrondieresis" xOffset="185" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

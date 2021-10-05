@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vavvav-hb" format="2">
+  <advance width="485"/>
+  <unicode hex="05F0"/>
+  <note>
+vavvav
+</note>
+  <anchor x="170" y="0" name="bottom"/>
+  <anchor x="-2" y="0" name="bottomleft"/>
+  <anchor x="272" y="0" name="caret_2"/>
+  <anchor x="88" y="310" name="center"/>
+  <anchor x="129" y="536" name="top"/>
+  <anchor x="0" y="536" name="topleft"/>
+  <outline>
+    <component base="vav-hb" xOffset="224"/>
+    <component base="vav-hb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>vav-hb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

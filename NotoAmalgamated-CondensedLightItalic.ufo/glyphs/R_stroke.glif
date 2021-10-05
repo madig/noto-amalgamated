@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rstroke" format="2">
+  <advance width="366"/>
+  <unicode hex="024C"/>
+  <anchor x="127" y="0" name="bottom"/>
+  <anchor x="279" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="29" y="0" type="line"/>
+      <point x="97" y="321" type="line"/>
+      <point x="182" y="321" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="265" y="0" type="line"/>
+      <point x="208" y="325" type="line"/>
+      <point x="312" y="345"/>
+      <point x="364" y="453"/>
+      <point x="364" y="569" type="curve" smooth="yes"/>
+      <point x="364" y="666"/>
+      <point x="309" y="714"/>
+      <point x="229" y="714" type="curve" smooth="yes"/>
+      <point x="154" y="714" type="line"/>
+      <point x="76" y="346" type="line"/>
+      <point x="19" y="346" type="line"/>
+      <point x="14" y="321" type="line"/>
+      <point x="71" y="321" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="346" type="curve" smooth="yes"/>
+      <point x="103" y="346" type="line"/>
+      <point x="176" y="689" type="line"/>
+      <point x="220" y="689" type="line" smooth="yes"/>
+      <point x="297" y="689"/>
+      <point x="337" y="652"/>
+      <point x="337" y="566" type="curve" smooth="yes"/>
+      <point x="337" y="469"/>
+      <point x="293" y="346"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

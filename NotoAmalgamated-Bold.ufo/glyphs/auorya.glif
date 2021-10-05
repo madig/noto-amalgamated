@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="auorya" format="2">
+  <advance width="913"/>
+  <unicode hex="0B14"/>
+  <anchor x="456" y="0" name="b.tasubscriptorya"/>
+  <outline>
+    <contour>
+      <point x="559" y="324" type="curve"/>
+      <point x="517" y="269" type="line"/>
+      <point x="535" y="227"/>
+      <point x="574" y="198"/>
+      <point x="629" y="198" type="curve" smooth="yes"/>
+      <point x="718" y="198"/>
+      <point x="769" y="260"/>
+      <point x="790" y="386" type="curve"/>
+      <point x="739" y="410" type="line"/>
+      <point x="739" y="352"/>
+      <point x="706" y="305"/>
+      <point x="641" y="305" type="curve" smooth="yes"/>
+      <point x="610" y="305"/>
+      <point x="582" y="313"/>
+    </contour>
+    <component base="_part.ai" xOffset="-11"/>
+    <component base="oorya"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>eorya</string>
+    </dict>
+  </lib>
+</glyph>

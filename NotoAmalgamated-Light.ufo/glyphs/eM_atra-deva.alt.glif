@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eMatra-deva.alt" format="2">
+  <anchor x="54" y="802" name="#topRight"/>
+  <anchor x="0" y="622" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-25" y="619" type="line"/>
+      <point x="-1" y="619" type="line"/>
+      <point x="-34" y="728" type="line" smooth="yes"/>
+      <point x="-70" y="848"/>
+      <point x="-106" y="881"/>
+      <point x="-168" y="881" type="curve" smooth="yes"/>
+      <point x="-185" y="881"/>
+      <point x="-201" y="878"/>
+      <point x="-214" y="874" type="curve"/>
+      <point x="-205" y="847" type="line"/>
+      <point x="-193" y="851"/>
+      <point x="-179" y="854"/>
+      <point x="-165" y="854" type="curve" smooth="yes"/>
+      <point x="-117" y="854"/>
+      <point x="-88" y="827"/>
+      <point x="-56" y="721" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B51" format="2">
+  <advance width="1285"/>
+  <unicode hex="1B51"/>
+  <outline>
+    <contour>
+      <point x="840" y="201" type="line" smooth="yes"/>
+      <point x="840" y="48"/>
+      <point x="922" y="-10"/>
+      <point x="1023" y="-10" type="curve" smooth="yes"/>
+      <point x="1151" y="-10"/>
+      <point x="1241" y="85"/>
+      <point x="1241" y="328" type="curve" smooth="yes"/>
+      <point x="1241" y="525"/>
+      <point x="1183" y="819"/>
+      <point x="992" y="819" type="curve" smooth="yes"/>
+      <point x="912" y="819"/>
+      <point x="854" y="766"/>
+      <point x="854" y="683" type="curve" smooth="yes"/>
+      <point x="854" y="579"/>
+      <point x="945" y="528"/>
+      <point x="1119" y="524" type="curve"/>
+      <point x="1071" y="553" type="line"/>
+      <point x="1092" y="460"/>
+      <point x="1102" y="377"/>
+      <point x="1102" y="300" type="curve" smooth="yes"/>
+      <point x="1102" y="171"/>
+      <point x="1076" y="116"/>
+      <point x="1027" y="116" type="curve" smooth="yes"/>
+      <point x="996" y="116"/>
+      <point x="977" y="140"/>
+      <point x="977" y="188" type="curve" smooth="yes"/>
+      <point x="977" y="272" type="line"/>
+      <point x="840" y="272" type="line"/>
+    </contour>
+    <contour>
+      <point x="958" y="684" type="curve" smooth="yes"/>
+      <point x="958" y="704"/>
+      <point x="971" y="713"/>
+      <point x="987" y="713" type="curve" smooth="yes"/>
+      <point x="1023" y="713"/>
+      <point x="1050" y="668"/>
+      <point x="1064" y="596" type="curve"/>
+      <point x="1105" y="624" type="line"/>
+      <point x="1008" y="624"/>
+      <point x="958" y="644"/>
+    </contour>
+    <component base="Nga.part" xOffset="4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Nga.part</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

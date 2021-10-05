@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalstopstrokereversed.display" format="2">
+  <advance width="497"/>
+  <unicode hex="02A2"/>
+  <anchor x="249" y="0" name="bottom"/>
+  <anchor x="249" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="267" y="765" type="curve"/>
+      <point x="114" y="765"/>
+      <point x="18" y="660"/>
+      <point x="18" y="542" type="curve"/>
+      <point x="18" y="441"/>
+      <point x="47" y="362"/>
+      <point x="183" y="296" type="curve"/>
+      <point x="183" y="253" type="line"/>
+      <point x="78" y="253" type="line"/>
+      <point x="78" y="131" type="line"/>
+      <point x="183" y="131" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="393" y="131" type="line"/>
+      <point x="479" y="131" type="line"/>
+      <point x="479" y="253" type="line"/>
+      <point x="393" y="253" type="line"/>
+      <point x="393" y="376" type="line"/>
+      <point x="239" y="431"/>
+      <point x="228" y="508"/>
+      <point x="228" y="542" type="curve"/>
+      <point x="228" y="579"/>
+      <point x="262" y="610"/>
+      <point x="289" y="610" type="curve"/>
+      <point x="345" y="610"/>
+      <point x="405" y="575"/>
+      <point x="427" y="561" type="curve"/>
+      <point x="500" y="699" type="line"/>
+      <point x="427" y="739"/>
+      <point x="354" y="765"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

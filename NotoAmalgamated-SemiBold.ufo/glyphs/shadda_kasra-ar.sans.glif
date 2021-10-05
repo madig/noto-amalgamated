@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shadda_kasra-ar.sans" format="2">
+  <advance width="351"/>
+  <unicode hex="FC62"/>
+  <anchor x="187" y="458" name="_top"/>
+  <anchor x="199" y="867" name="top"/>
+  <outline>
+    <component base="fatha-ar" xOffset="25"/>
+    <component base="shadda-ar" xOffset="14" yOffset="159"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=fatha-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=fatha-ar</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

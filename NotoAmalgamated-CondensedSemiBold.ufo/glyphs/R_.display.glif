@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.display" format="2">
+  <advance width="501"/>
+  <unicode hex="0052"/>
+  <anchor x="261" y="0" name="bottom"/>
+  <anchor x="256" y="714" name="top"/>
+  <anchor x="482" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="226" y="714" type="curve" smooth="yes"/>
+      <point x="61" y="714" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="199" y="0" type="line"/>
+      <point x="199" y="280" type="line"/>
+      <point x="236" y="280" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="357" y="314" type="line"/>
+      <point x="424" y="356"/>
+      <point x="455" y="419"/>
+      <point x="455" y="507" type="curve" smooth="yes"/>
+      <point x="455" y="645"/>
+      <point x="380" y="714"/>
+    </contour>
+    <contour>
+      <point x="225" y="598" type="line"/>
+      <point x="285" y="598"/>
+      <point x="315" y="567"/>
+      <point x="315" y="500" type="curve" smooth="yes"/>
+      <point x="315" y="425"/>
+      <point x="285" y="388"/>
+      <point x="227" y="388" type="curve" smooth="yes"/>
+      <point x="199" y="388" type="line"/>
+      <point x="199" y="598" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

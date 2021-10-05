@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oeMatra_anusvara-deva" format="2">
+  <anchor x="-58" y="625" name="_top"/>
+  <anchor x="146" y="634" name="candra"/>
+  <anchor x="63" y="664" name="top"/>
+  <outline>
+    <component base="oeMatra-deva"/>
+    <component base="anusvara-deva" xOffset="63" yOffset="39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

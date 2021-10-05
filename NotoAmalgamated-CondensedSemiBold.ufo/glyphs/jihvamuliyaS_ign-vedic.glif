@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jihvamuliyaSign-vedic" format="2">
+  <advance width="541"/>
+  <unicode hex="1CF5"/>
+  <note>
+uni1CF5
+</note>
+  <outline>
+    <contour>
+      <point x="37" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="504" y="35" type="line"/>
+      <point x="179" y="579" type="line"/>
+      <point x="194" y="577"/>
+      <point x="213" y="576"/>
+      <point x="230" y="576" type="curve" smooth="yes"/>
+      <point x="357" y="576" type="line" smooth="yes"/>
+      <point x="375" y="576"/>
+      <point x="394" y="577"/>
+      <point x="409" y="579" type="curve"/>
+      <point x="37" y="35" type="line"/>
+    </contour>
+    <contour>
+      <point x="124" y="52" type="curve"/>
+      <point x="495" y="591" type="line"/>
+      <point x="495" y="625" type="line"/>
+      <point x="46" y="625" type="line"/>
+      <point x="46" y="591" type="line"/>
+      <point x="371" y="52" type="line"/>
+      <point x="354" y="54"/>
+      <point x="329" y="54"/>
+      <point x="310" y="54" type="curve" smooth="yes"/>
+      <point x="185" y="54" type="line" smooth="yes"/>
+      <point x="166" y="54"/>
+      <point x="141" y="54"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>vedic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

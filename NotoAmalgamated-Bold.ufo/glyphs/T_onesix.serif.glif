@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tonesix.serif" format="2">
+  <advance width="723"/>
+  <unicode hex="0184"/>
+  <anchor x="362" y="0" name="bottom"/>
+  <anchor x="362" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="371" y="-10" type="curve" smooth="yes"/>
+      <point x="589" y="-10"/>
+      <point x="680" y="71"/>
+      <point x="680" y="207" type="curve" smooth="yes"/>
+      <point x="680" y="359"/>
+      <point x="563" y="409"/>
+      <point x="389" y="409" type="curve" smooth="yes"/>
+      <point x="310" y="409" type="line"/>
+      <point x="310" y="589" type="line" smooth="yes"/>
+      <point x="310" y="640"/>
+      <point x="325" y="653"/>
+      <point x="363" y="653" type="curve" smooth="yes"/>
+      <point x="403" y="653" type="line"/>
+      <point x="403" y="714" type="line"/>
+      <point x="18" y="714" type="line"/>
+      <point x="18" y="653" type="line"/>
+      <point x="59" y="653" type="line" smooth="yes"/>
+      <point x="89" y="653"/>
+      <point x="110" y="642"/>
+      <point x="110" y="597" type="curve" smooth="yes"/>
+      <point x="110" y="237" type="line" smooth="yes"/>
+      <point x="110" y="82"/>
+      <point x="174" y="-10"/>
+    </contour>
+    <contour>
+      <point x="387" y="54" type="curve" smooth="yes"/>
+      <point x="329" y="54"/>
+      <point x="309" y="95"/>
+      <point x="309" y="197" type="curve" smooth="yes"/>
+      <point x="309" y="338" type="line"/>
+      <point x="343" y="338" type="line" smooth="yes"/>
+      <point x="428" y="338"/>
+      <point x="466" y="304"/>
+      <point x="466" y="201" type="curve" smooth="yes"/>
+      <point x="466" y="90"/>
+      <point x="439" y="54"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

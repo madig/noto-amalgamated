@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresismacron.display" format="2">
+  <advance width="523"/>
+  <unicode hex="01DF"/>
+  <anchor x="222" y="0" name="bottom"/>
+  <anchor x="362" y="834" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="dieresismacron" xOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

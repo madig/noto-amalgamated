@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shcha-cy.serif" format="2">
+  <advance width="982"/>
+  <unicode hex="0449"/>
+  <anchor x="434" y="0" name="bottom"/>
+  <anchor x="548" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="794" y="-228" type="curve" smooth="yes"/>
+      <point x="892" y="-228"/>
+      <point x="919" y="-140"/>
+      <point x="956" y="59" type="curve"/>
+      <point x="932" y="93" type="line"/>
+      <point x="880" y="7" type="line"/>
+      <point x="840" y="-104"/>
+      <point x="799" y="-149"/>
+      <point x="741" y="-149" type="curve" smooth="yes"/>
+      <point x="711" y="-149"/>
+      <point x="687" y="-142"/>
+      <point x="667" y="-136" type="curve"/>
+      <point x="646" y="-190" type="line"/>
+      <point x="685" y="-211"/>
+      <point x="725" y="-228"/>
+    </contour>
+    <component base="sha-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>sha-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

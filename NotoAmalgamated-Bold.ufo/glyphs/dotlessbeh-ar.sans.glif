@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessbeh-ar.sans" format="2">
+  <advance width="1068"/>
+  <unicode hex="066E"/>
+  <anchor x="525" y="-25" name="bottom"/>
+  <anchor x="544" y="-21" name="center"/>
+  <anchor x="520" y="366" name="top"/>
+  <outline>
+    <contour>
+      <point x="478" y="-21" type="line"/>
+      <point x="872" y="-21"/>
+      <point x="1013" y="65"/>
+      <point x="1013" y="234" type="curve" smooth="yes"/>
+      <point x="1013" y="311"/>
+      <point x="988" y="402"/>
+      <point x="962" y="472" type="curve"/>
+      <point x="802" y="426" type="line"/>
+      <point x="824" y="360"/>
+      <point x="841" y="297"/>
+      <point x="841" y="242" type="curve" smooth="yes"/>
+      <point x="841" y="180"/>
+      <point x="751" y="147"/>
+      <point x="504" y="147" type="curve"/>
+    </contour>
+    <component base="_part.beh.fina" xOffset="24"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>seen-ar</string>
+    </dict>
+  </lib>
+</glyph>

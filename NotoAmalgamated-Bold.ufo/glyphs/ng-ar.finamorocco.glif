@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ng-ar.finamorocco" format="2">
+  <advance width="937"/>
+  <note>
+uni06AD.finamorocco
+</note>
+  <anchor x="469" y="-78" name="bottom"/>
+  <anchor x="326" y="977" name="top"/>
+  <outline>
+    <component base="keheh-ar.fina"/>
+    <component base="threedots_alt1.above" xOffset="233" yOffset="-123"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>keheh-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots_alt1.above</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

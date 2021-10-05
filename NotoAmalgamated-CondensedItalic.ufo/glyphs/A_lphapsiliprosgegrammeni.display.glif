@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsiliprosgegrammeni.display" format="2">
+  <advance width="912"/>
+  <unicode hex="1F88"/>
+  <anchor x="520" y="0" name="bottom"/>
+  <anchor x="823" y="536" name="top"/>
+  <outline>
+    <component base="koronis"/>
+    <component base="A" xOffset="81"/>
+    <component base="iota" xOffset="653"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

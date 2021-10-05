@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bhanuktaguru" format="2">
+  <advance width="598"/>
+  <note>
+bhanuktaguru
+</note>
+  <anchor x="466" y="-20" name="bottom"/>
+  <anchor x="433" y="622" name="top"/>
+  <outline>
+    <component base="bhaguru"/>
+    <component base="nuktaguru" xOffset="112" yOffset="-28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bhaguru</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>nuktaguru</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>bhaguru</string>
+    </dict>
+  </lib>
+</glyph>

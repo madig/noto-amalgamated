@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzabelow_kasratan-ar" format="2">
+  <note>
+uni0655064D
+</note>
+  <anchor x="0" y="45" name="_bottom"/>
+  <anchor x="0" y="-489" name="bottom"/>
+  <outline>
+    <component base="kasratan-ar" yOffset="157"/>
+    <component base="hamzabelow-ar" yOffset="-189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

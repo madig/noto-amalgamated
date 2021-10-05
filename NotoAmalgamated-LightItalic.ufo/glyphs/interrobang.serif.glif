@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="interrobang.serif" format="2">
+  <advance width="437"/>
+  <unicode hex="203D"/>
+  <outline>
+    <contour>
+      <point x="147" y="167" type="line"/>
+      <point x="171" y="167" type="line"/>
+      <point x="206" y="323" type="line"/>
+      <point x="352" y="382"/>
+      <point x="441" y="452"/>
+      <point x="441" y="576" type="curve" smooth="yes"/>
+      <point x="441" y="665"/>
+      <point x="378" y="724"/>
+      <point x="287" y="724" type="curve" smooth="yes"/>
+      <point x="167" y="724"/>
+      <point x="113" y="651"/>
+      <point x="113" y="579" type="curve" smooth="yes"/>
+      <point x="113" y="563"/>
+      <point x="119" y="553"/>
+      <point x="132" y="553" type="curve"/>
+      <point x="140" y="633"/>
+      <point x="176" y="699"/>
+      <point x="287" y="699" type="curve" smooth="yes"/>
+      <point x="359" y="699"/>
+      <point x="413" y="651"/>
+      <point x="413" y="576" type="curve" smooth="yes"/>
+      <point x="413" y="475"/>
+      <point x="343" y="407"/>
+      <point x="212" y="350" type="curve"/>
+      <point x="255" y="540" type="line"/>
+      <point x="225" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="-9" type="curve" smooth="yes"/>
+      <point x="140" y="-9"/>
+      <point x="156" y="7"/>
+      <point x="156" y="42" type="curve" smooth="yes"/>
+      <point x="156" y="61"/>
+      <point x="145" y="69"/>
+      <point x="132" y="69" type="curve" smooth="yes"/>
+      <point x="113" y="69"/>
+      <point x="97" y="49"/>
+      <point x="97" y="20" type="curve" smooth="yes"/>
+      <point x="97" y="0"/>
+      <point x="108" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>question</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>question</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

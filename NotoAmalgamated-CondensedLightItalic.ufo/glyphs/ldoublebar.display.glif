@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldoublebar.display" format="2">
+  <advance width="227"/>
+  <unicode hex="2C61"/>
+  <anchor x="48" y="0" name="bottom"/>
+  <anchor x="210" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="38" y="397" type="line"/>
+      <point x="207" y="397" type="line"/>
+      <point x="209" y="407" type="line"/>
+      <point x="40" y="407" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="287" type="line"/>
+      <point x="184" y="287" type="line"/>
+      <point x="186" y="297" type="line"/>
+      <point x="17" y="297" type="line"/>
+    </contour>
+    <component base="l" xOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

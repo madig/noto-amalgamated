@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yusclosedlittle-cy" format="2">
+  <advance width="562"/>
+  <unicode hex="A658"/>
+  <outline>
+    <contour>
+      <point x="-57" y="0" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="173" y="254" type="line"/>
+      <point x="398" y="254" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="513" y="0" type="line"/>
+      <point x="425" y="714" type="line"/>
+      <point x="331" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="470" y="78" type="line"/>
+      <point x="27" y="78" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="334" type="line"/>
+      <point x="277" y="454" type="line" smooth="yes"/>
+      <point x="308" y="515"/>
+      <point x="337" y="574"/>
+      <point x="360" y="624" type="curve"/>
+      <point x="362" y="576"/>
+      <point x="369" y="510"/>
+      <point x="375" y="455" type="curve" smooth="yes"/>
+      <point x="389" y="334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

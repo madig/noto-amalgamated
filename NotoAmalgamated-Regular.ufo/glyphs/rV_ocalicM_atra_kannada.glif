@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rVocalicMatra_kannada" format="2">
+  <unicode hex="0CC3"/>
+  <outline>
+    <contour>
+      <point x="-76" y="-442" type="curve" smooth="yes"/>
+      <point x="55" y="-442"/>
+      <point x="130" y="-332"/>
+      <point x="130" y="-182" type="curve" smooth="yes"/>
+      <point x="130" y="-45"/>
+      <point x="64" y="73"/>
+      <point x="-14" y="73" type="curve" smooth="yes"/>
+      <point x="-42" y="73"/>
+      <point x="-57" y="57"/>
+      <point x="-57" y="37" type="curve"/>
+      <point x="31" y="2"/>
+      <point x="83" y="-69"/>
+      <point x="83" y="-179" type="curve" smooth="yes"/>
+      <point x="83" y="-290"/>
+      <point x="27" y="-360"/>
+      <point x="-76" y="-360" type="curve" smooth="yes"/>
+      <point x="-178" y="-360"/>
+      <point x="-233" y="-302"/>
+      <point x="-233" y="-229" type="curve" smooth="yes"/>
+      <point x="-233" y="-204"/>
+      <point x="-229" y="-187"/>
+      <point x="-221" y="-174" type="curve"/>
+      <point x="-210" y="-117" type="line"/>
+      <point x="-227" y="-136"/>
+      <point x="-237" y="-160"/>
+      <point x="-237" y="-185" type="curve" smooth="yes"/>
+      <point x="-237" y="-245"/>
+      <point x="-198" y="-284"/>
+      <point x="-142" y="-284" type="curve" smooth="yes"/>
+      <point x="-82" y="-284"/>
+      <point x="-47" y="-241"/>
+      <point x="-47" y="-176" type="curve" smooth="yes"/>
+      <point x="-47" y="-118"/>
+      <point x="-81" y="-67"/>
+      <point x="-143" y="-67" type="curve" smooth="yes"/>
+      <point x="-220" y="-67"/>
+      <point x="-271" y="-137"/>
+      <point x="-271" y="-240" type="curve" smooth="yes"/>
+      <point x="-271" y="-357"/>
+      <point x="-190" y="-442"/>
+    </contour>
+    <contour>
+      <point x="-145" y="-220" type="curve" smooth="yes"/>
+      <point x="-184" y="-220"/>
+      <point x="-205" y="-205"/>
+      <point x="-205" y="-176" type="curve" smooth="yes"/>
+      <point x="-205" y="-148"/>
+      <point x="-183" y="-131"/>
+      <point x="-145" y="-131" type="curve" smooth="yes"/>
+      <point x="-106" y="-131"/>
+      <point x="-84" y="-147"/>
+      <point x="-84" y="-176" type="curve" smooth="yes"/>
+      <point x="-84" y="-205"/>
+      <point x="-105" y="-220"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>kannada</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing Combining</string>
+    </dict>
+  </lib>
+</glyph>

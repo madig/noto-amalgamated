@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="titlocomb-cy" format="2">
+  <unicode hex="0483"/>
+  <anchor x="0" y="528" name="_top"/>
+  <anchor x="0" y="694" name="top"/>
+  <outline>
+    <contour>
+      <point x="-104" y="627" type="curve"/>
+      <point x="130" y="627" type="line" smooth="yes"/>
+      <point x="147" y="627"/>
+      <point x="155" y="638"/>
+      <point x="155" y="661" type="curve" smooth="yes"/>
+      <point x="155" y="681"/>
+      <point x="147" y="694"/>
+      <point x="129" y="694" type="curve" smooth="yes"/>
+      <point x="112" y="694"/>
+      <point x="105" y="681"/>
+      <point x="105" y="652" type="curve"/>
+      <point x="-130" y="652" type="line" smooth="yes"/>
+      <point x="-147" y="652"/>
+      <point x="-155" y="643"/>
+      <point x="-155" y="618" type="curve" smooth="yes"/>
+      <point x="-155" y="598"/>
+      <point x="-147" y="585"/>
+      <point x="-130" y="585" type="curve" smooth="yes"/>
+      <point x="-112" y="585"/>
+      <point x="-104" y="598"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

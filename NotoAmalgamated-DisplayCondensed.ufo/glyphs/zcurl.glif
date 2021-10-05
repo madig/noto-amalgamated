@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zcurl" format="2">
+  <advance width="403"/>
+  <unicode hex="0291"/>
+  <anchor x="202" y="-71" name="bottom"/>
+  <anchor x="202" y="537" name="top"/>
+  <outline>
+    <contour>
+      <point x="110" y="-54" type="curve"/>
+      <point x="165" y="-71" type="line"/>
+      <point x="172" y="-48"/>
+      <point x="180" y="-23"/>
+      <point x="187" y="0" type="curve"/>
+      <point x="268" y="0" type="line" smooth="yes"/>
+      <point x="332" y="0"/>
+      <point x="389" y="36"/>
+      <point x="389" y="111" type="curve"/>
+      <point x="389" y="171"/>
+      <point x="354" y="212"/>
+      <point x="294" y="212" type="curve" smooth="yes"/>
+      <point x="231" y="212"/>
+      <point x="194" y="166"/>
+      <point x="154" y="69" type="curve"/>
+      <point x="115" y="69" type="line"/>
+      <point x="283" y="478" type="line"/>
+      <point x="283" y="537" type="line"/>
+      <point x="34" y="537" type="line"/>
+      <point x="34" y="468" type="line"/>
+      <point x="195" y="468" type="line"/>
+      <point x="24" y="55" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="128" y="0" type="line"/>
+      <point x="122" y="-18"/>
+      <point x="117" y="-36"/>
+    </contour>
+    <contour>
+      <point x="271" y="69" type="curve" smooth="yes"/>
+      <point x="212" y="69" type="line"/>
+      <point x="236" y="132"/>
+      <point x="255" y="157"/>
+      <point x="284" y="157" type="curve" smooth="yes"/>
+      <point x="309" y="157"/>
+      <point x="322" y="140"/>
+      <point x="322" y="114" type="curve" smooth="yes"/>
+      <point x="322" y="89"/>
+      <point x="306" y="69"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

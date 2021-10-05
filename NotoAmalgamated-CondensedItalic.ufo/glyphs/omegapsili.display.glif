@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegapsili.display" format="2">
+  <advance width="624"/>
+  <unicode hex="1F60"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="400" y="782" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="koronis" xOffset="222"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

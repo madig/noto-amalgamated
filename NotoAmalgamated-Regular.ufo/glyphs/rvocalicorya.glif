@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rvocalicorya" format="2">
+  <advance width="677"/>
+  <unicode hex="0B0B"/>
+  <anchor x="329" y="0" name="b.tasubscriptorya"/>
+  <anchor x="500" y="657" name="t.candrabinduorya"/>
+  <outline>
+    <contour>
+      <point x="32" y="430" type="curve" smooth="yes"/>
+      <point x="32" y="339"/>
+      <point x="79" y="252"/>
+      <point x="158" y="199" type="curve"/>
+      <point x="193" y="287" type="line"/>
+      <point x="135" y="320"/>
+      <point x="100" y="377"/>
+      <point x="100" y="442" type="curve" smooth="yes"/>
+      <point x="100" y="538"/>
+      <point x="181" y="601"/>
+      <point x="304" y="601" type="curve" smooth="yes"/>
+      <point x="441" y="601"/>
+      <point x="535" y="519"/>
+      <point x="535" y="405" type="curve" smooth="yes"/>
+      <point x="535" y="356"/>
+      <point x="519" y="308"/>
+      <point x="492" y="272" type="curve"/>
+      <point x="493" y="247" type="line"/>
+      <point x="543" y="243"/>
+      <point x="564" y="233"/>
+      <point x="564" y="214" type="curve" smooth="yes"/>
+      <point x="564" y="193"/>
+      <point x="549" y="173"/>
+      <point x="500" y="128" type="curve"/>
+      <point x="500" y="100" type="line"/>
+      <point x="622" y="-35" type="line"/>
+      <point x="636" y="-35" type="line"/>
+      <point x="683" y="7" type="line"/>
+      <point x="545" y="137" type="line"/>
+      <point x="538" y="99" type="line"/>
+      <point x="607" y="162"/>
+      <point x="631" y="196"/>
+      <point x="631" y="231" type="curve" smooth="yes"/>
+      <point x="631" y="266"/>
+      <point x="601" y="292"/>
+      <point x="546" y="302" type="curve"/>
+      <point x="544" y="265" type="line"/>
+      <point x="584" y="323"/>
+      <point x="604" y="376"/>
+      <point x="604" y="430" type="curve" smooth="yes"/>
+      <point x="604" y="564"/>
+      <point x="480" y="667"/>
+      <point x="314" y="667" type="curve" smooth="yes"/>
+      <point x="150" y="667"/>
+      <point x="32" y="568"/>
+    </contour>
+    <component base="_part.vo" xOffset="73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+    </dict>
+  </lib>
+</glyph>

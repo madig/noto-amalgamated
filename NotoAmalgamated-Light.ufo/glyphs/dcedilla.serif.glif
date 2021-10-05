@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcedilla.serif" format="2">
+  <advance width="570"/>
+  <unicode hex="1E11"/>
+  <anchor x="285" y="-220" name="bottom"/>
+  <anchor x="285" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="266" y="-220" type="curve" smooth="yes"/>
+      <point x="322" y="-220"/>
+      <point x="365" y="-197"/>
+      <point x="365" y="-130" type="curve" smooth="yes"/>
+      <point x="365" y="-74"/>
+      <point x="323" y="-60"/>
+      <point x="283" y="-52" type="curve"/>
+      <point x="300" y="9" type="line"/>
+      <point x="275" y="9" type="line"/>
+      <point x="255" y="-71" type="line"/>
+      <point x="313" y="-76"/>
+      <point x="341" y="-92"/>
+      <point x="341" y="-133" type="curve" smooth="yes"/>
+      <point x="341" y="-181"/>
+      <point x="309" y="-199"/>
+      <point x="263" y="-199" type="curve" smooth="yes"/>
+      <point x="240" y="-199"/>
+      <point x="226" y="-195"/>
+      <point x="202" y="-189" type="curve"/>
+      <point x="202" y="-211" type="line"/>
+      <point x="226" y="-218"/>
+      <point x="246" y="-220"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

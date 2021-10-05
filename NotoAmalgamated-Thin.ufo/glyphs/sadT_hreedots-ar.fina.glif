@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sadThreedots-ar.fina" format="2">
+  <advance width="1124"/>
+  <note>
+uni069E.fina
+</note>
+  <anchor x="727" y="-78" name="bottom"/>
+  <anchor x="785" y="738" name="top"/>
+  <outline>
+    <component base="sad-ar.fina"/>
+    <component base="threedots.above" xOffset="783"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>sad-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

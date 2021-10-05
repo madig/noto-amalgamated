@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh_hah-ar.init" format="2">
+  <advance width="936"/>
+  <unicode hex="FCDB"/>
+  <anchor x="637" y="0" name="caret_1"/>
+  <outline>
+    <component base="yeh-ar.init" xOffset="637"/>
+    <component base="hah-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yeh-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hah-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

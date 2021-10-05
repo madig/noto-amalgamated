@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcircumflexbelow.display" format="2">
+  <advance width="313"/>
+  <unicode hex="1E71"/>
+  <anchor x="186" y="-210" name="bottom"/>
+  <anchor x="137" y="662" name="top"/>
+  <outline>
+    <component base="t"/>
+    <component base="circumflexbelowcomb" xOffset="186" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

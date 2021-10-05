@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aaMatra-deva" format="2">
+  <advance width="227"/>
+  <unicode hex="093E"/>
+  <anchor x="182" y="20" name="bottom"/>
+  <anchor x="-32" y="-9" name="bottom_right"/>
+  <anchor x="183" y="627" name="candra"/>
+  <anchor x="183" y="627" name="top"/>
+  <outline>
+    <contour>
+      <point x="167" y="-9" type="line"/>
+      <point x="182" y="-9" type="line"/>
+      <point x="182" y="560" type="line"/>
+      <point x="46" y="560" type="line"/>
+      <point x="46" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="-16" y="516" type="line"/>
+      <point x="295" y="516" type="line"/>
+      <point x="295" y="531" type="line"/>
+      <point x="243" y="627" type="line"/>
+      <point x="-68" y="627" type="line"/>
+      <point x="-68" y="613" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

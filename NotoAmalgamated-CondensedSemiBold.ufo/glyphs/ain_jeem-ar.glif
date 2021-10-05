@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ain_jeem-ar" format="2">
+  <advance width="1044"/>
+  <unicode hex="FC29"/>
+  <anchor x="577" y="0" name="caret_1"/>
+  <outline>
+    <component base="ain-ar.init" xOffset="577"/>
+    <component base="jeem-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ain-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>jeem-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

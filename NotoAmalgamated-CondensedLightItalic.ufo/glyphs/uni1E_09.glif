@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E09" format="2">
+  <advance width="264"/>
+  <unicode hex="1E09"/>
+  <anchor x="67" y="-240" name="bottom"/>
+  <anchor x="284" y="762" name="top"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedilla" xOffset="25"/>
+    <component base="acute" xOffset="95" yOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

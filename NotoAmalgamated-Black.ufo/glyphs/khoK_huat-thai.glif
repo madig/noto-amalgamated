@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khoKhuat-thai" format="2">
+  <advance width="677"/>
+  <unicode hex="0E03"/>
+  <anchor x="356" y="0" name="bottom"/>
+  <anchor x="605" y="0" name="bottomright"/>
+  <anchor x="356" y="563" name="top"/>
+  <anchor x="610" y="563" name="topright"/>
+  <outline>
+    <contour>
+      <point x="356" y="-15" type="curve" smooth="yes"/>
+      <point x="520" y="-15"/>
+      <point x="610" y="55"/>
+      <point x="610" y="185" type="curve" smooth="yes"/>
+      <point x="610" y="563" type="line"/>
+      <point x="424" y="563" type="line"/>
+      <point x="424" y="207" type="line" smooth="yes"/>
+      <point x="424" y="152"/>
+      <point x="407" y="124"/>
+      <point x="356" y="124" type="curve" smooth="yes"/>
+      <point x="310" y="124"/>
+      <point x="288" y="153"/>
+      <point x="288" y="191" type="curve" smooth="yes"/>
+      <point x="288" y="218" type="line" smooth="yes"/>
+      <point x="288" y="301"/>
+      <point x="367" y="336"/>
+      <point x="367" y="449" type="curve" smooth="yes"/>
+      <point x="367" y="488"/>
+      <point x="364" y="525"/>
+      <point x="357" y="563" type="curve"/>
+      <point x="265" y="563" type="line"/>
+      <point x="265" y="516"/>
+      <point x="253" y="475"/>
+      <point x="221" y="475" type="curve"/>
+      <point x="239" y="446" type="line"/>
+      <point x="244" y="454"/>
+      <point x="247" y="463"/>
+      <point x="247" y="473" type="curve" smooth="yes"/>
+      <point x="247" y="526"/>
+      <point x="207" y="573"/>
+      <point x="137" y="573" type="curve" smooth="yes"/>
+      <point x="67" y="573"/>
+      <point x="24" y="527"/>
+      <point x="24" y="470" type="curve" smooth="yes"/>
+      <point x="24" y="397"/>
+      <point x="78" y="357"/>
+      <point x="148" y="357" type="curve" smooth="yes"/>
+      <point x="209" y="357"/>
+      <point x="245" y="405"/>
+      <point x="245" y="442" type="curve"/>
+      <point x="216" y="442" type="line"/>
+      <point x="218" y="437"/>
+      <point x="218" y="429"/>
+      <point x="218" y="423" type="curve" smooth="yes"/>
+      <point x="218" y="372"/>
+      <point x="102" y="341"/>
+      <point x="102" y="210" type="curve" smooth="yes"/>
+      <point x="102" y="175" type="line" smooth="yes"/>
+      <point x="102" y="48"/>
+      <point x="200" y="-15"/>
+    </contour>
+    <contour>
+      <point x="138" y="426" type="curve" smooth="yes"/>
+      <point x="112" y="426"/>
+      <point x="92" y="442"/>
+      <point x="92" y="470" type="curve" smooth="yes"/>
+      <point x="92" y="498"/>
+      <point x="112" y="514"/>
+      <point x="138" y="514" type="curve" smooth="yes"/>
+      <point x="164" y="514"/>
+      <point x="184" y="498"/>
+      <point x="184" y="470" type="curve" smooth="yes"/>
+      <point x="184" y="441"/>
+      <point x="164" y="426"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>khoKhai-thai</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

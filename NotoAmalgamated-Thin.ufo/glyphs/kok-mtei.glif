@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kok-mtei" format="2">
+  <advance width="871"/>
+  <unicode hex="ABC0"/>
+  <anchor x="768" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="bottom_left"/>
+  <anchor x="871" y="0" name="bottom_right"/>
+  <anchor x="734" y="713" name="top"/>
+  <outline>
+    <contour>
+      <point x="55" y="627" type="line"/>
+      <point x="816" y="627" type="line"/>
+      <point x="816" y="659" type="line"/>
+      <point x="55" y="659" type="line"/>
+    </contour>
+    <contour>
+      <point x="747" y="593" type="line"/>
+      <point x="747" y="635" type="line"/>
+      <point x="124" y="67" type="line"/>
+      <point x="124" y="24" type="line"/>
+    </contour>
+    <contour>
+      <point x="734" y="641" type="line"/>
+      <point x="734" y="11" type="line"/>
+      <point x="756" y="32" type="line"/>
+      <point x="116" y="32" type="line"/>
+      <point x="137" y="11" type="line"/>
+      <point x="137" y="641" type="line"/>
+      <point x="103" y="641" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="768" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="641" type="line"/>
+      <point x="520" y="23" type="line"/>
+      <point x="554" y="23" type="line"/>
+      <point x="554" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="641" type="line"/>
+      <point x="316" y="23" type="line"/>
+      <point x="350" y="23" type="line"/>
+      <point x="350" y="641" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>mtei</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

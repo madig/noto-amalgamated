@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehRing-ar.init" format="2">
+  <advance width="404"/>
+  <note>
+uni067C.init
+</note>
+  <anchor x="182" y="-180" name="bottom"/>
+  <anchor x="232" y="760" name="top"/>
+  <outline>
+    <component base="beh_dotless_alt.init"/>
+    <component base="twodots.above" xOffset="241"/>
+    <component base="sukun-ar" xOffset="179" yOffset="-965"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>beh_dotless_alt.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.above</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>sukun-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twe-cy.display" format="2">
+  <advance width="449"/>
+  <unicode hex="A68D"/>
+  <anchor x="225" y="0" name="bottom"/>
+  <anchor x="225" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="144" y="175" type="line"/>
+      <point x="144" y="44"/>
+      <point x="203" y="-10"/>
+      <point x="293" y="-10" type="curve" smooth="yes"/>
+      <point x="333" y="-10"/>
+      <point x="375" y="-4"/>
+      <point x="393" y="2" type="curve"/>
+      <point x="393" y="139" type="line"/>
+      <point x="377" y="133"/>
+      <point x="362" y="130"/>
+      <point x="349" y="130" type="curve" smooth="yes"/>
+      <point x="320" y="130"/>
+      <point x="307" y="151"/>
+      <point x="307" y="193" type="curve" smooth="yes"/>
+      <point x="307" y="418" type="line"/>
+      <point x="434" y="418" type="line"/>
+      <point x="434" y="553" type="line"/>
+      <point x="15" y="553" type="line"/>
+      <point x="15" y="418" type="line"/>
+      <point x="144" y="418" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

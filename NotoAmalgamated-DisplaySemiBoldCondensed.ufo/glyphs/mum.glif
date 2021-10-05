@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mum" format="2">
+  <advance width="920"/>
+  <unicode hex="A773"/>
+  <outline>
+    <contour>
+      <point x="672" y="0" type="line"/>
+      <point x="915" y="0" type="line"/>
+      <point x="915" y="110" type="line"/>
+      <point x="672" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="798" y="272" type="line"/>
+      <point x="666" y="-157" type="line"/>
+      <point x="758" y="-157" type="line"/>
+      <point x="889" y="272" type="line"/>
+    </contour>
+    <component base="m"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

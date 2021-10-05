@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phi.display" format="2">
+  <advance width="430"/>
+  <unicode hex="03C6"/>
+  <outline>
+    <contour>
+      <point x="201" y="-240" type="line"/>
+      <point x="227" y="-240" type="line"/>
+      <point x="227" y="-12" type="line"/>
+      <point x="346" y="-1"/>
+      <point x="385" y="126"/>
+      <point x="385" y="265" type="curve" smooth="yes"/>
+      <point x="385" y="406"/>
+      <point x="340" y="531"/>
+      <point x="228" y="537" type="curve"/>
+      <point x="228" y="760" type="line"/>
+      <point x="202" y="760" type="line"/>
+      <point x="202" y="537" type="line"/>
+      <point x="87" y="531"/>
+      <point x="45" y="411"/>
+      <point x="45" y="268" type="curve" smooth="yes"/>
+      <point x="45" y="97"/>
+      <point x="100" y="-2"/>
+      <point x="201" y="-12" type="curve"/>
+    </contour>
+    <contour>
+      <point x="201" y="14" type="line"/>
+      <point x="109" y="24"/>
+      <point x="72" y="134"/>
+      <point x="72" y="267" type="curve" smooth="yes"/>
+      <point x="72" y="415"/>
+      <point x="118" y="507"/>
+      <point x="201" y="513" type="curve"/>
+    </contour>
+    <contour>
+      <point x="228" y="14" type="curve"/>
+      <point x="228" y="513" type="line"/>
+      <point x="310" y="506"/>
+      <point x="358" y="411"/>
+      <point x="358" y="265" type="curve" smooth="yes"/>
+      <point x="358" y="146"/>
+      <point x="326" y="23"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=o</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

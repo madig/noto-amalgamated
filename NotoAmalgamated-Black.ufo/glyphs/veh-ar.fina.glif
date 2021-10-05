@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="veh-ar.fina" format="2">
+  <advance width="1162"/>
+  <unicode hex="FB6B"/>
+  <note>
+veh.fina
+</note>
+  <anchor x="748" y="-78" name="bottom"/>
+  <anchor x="821" y="938" name="top"/>
+  <outline>
+    <component base="fehDotless-ar.fina"/>
+    <component base="threedots.above" xOffset="809"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fehDotless-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

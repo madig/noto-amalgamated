@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t_ta-deva" format="2">
+  <advance width="545"/>
+  <anchor x="500" y="20" name="bottom"/>
+  <anchor x="272" y="-18" name="bottom_right"/>
+  <anchor x="500" y="627" name="candra"/>
+  <anchor x="63" y="0" name="nukta"/>
+  <anchor x="500" y="627" name="top"/>
+  <outline>
+    <contour>
+      <point x="256" y="-18" type="curve"/>
+      <point x="317" y="34" type="line"/>
+      <point x="258" y="103"/>
+      <point x="233" y="153"/>
+      <point x="233" y="212" type="curve" smooth="yes"/>
+      <point x="233" y="276"/>
+      <point x="271" y="314"/>
+      <point x="331" y="314" type="curve" smooth="yes"/>
+      <point x="348" y="314"/>
+      <point x="361" y="313"/>
+      <point x="375" y="311" type="curve"/>
+      <point x="375" y="424" type="line"/>
+      <point x="351" y="430"/>
+      <point x="315" y="434"/>
+      <point x="285" y="434" type="curve" smooth="yes"/>
+      <point x="-16" y="434" type="line"/>
+      <point x="-16" y="419" type="line"/>
+      <point x="41" y="314" type="line"/>
+      <point x="163" y="314" type="line"/>
+      <point x="143" y="374" type="line"/>
+      <point x="111" y="344"/>
+      <point x="93" y="304"/>
+      <point x="93" y="258" type="curve" smooth="yes"/>
+      <point x="93" y="169"/>
+      <point x="150" y="78"/>
+    </contour>
+    <contour>
+      <point x="486" y="-9" type="line"/>
+      <point x="500" y="-9" type="line"/>
+      <point x="500" y="560" type="line"/>
+      <point x="364" y="560" type="line"/>
+      <point x="364" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="-16" y="516" type="line"/>
+      <point x="613" y="516" type="line"/>
+      <point x="613" y="531" type="line"/>
+      <point x="561" y="627" type="line"/>
+      <point x="-68" y="627" type="line"/>
+      <point x="-68" y="613" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaMatra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

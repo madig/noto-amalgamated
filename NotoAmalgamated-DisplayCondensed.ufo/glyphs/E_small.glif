@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Esmall" format="2">
+  <advance width="343"/>
+  <unicode hex="1D07"/>
+  <anchor x="172" y="0" name="bottom"/>
+  <anchor x="172" y="537" name="top"/>
+  <outline>
+    <contour>
+      <point x="308" y="0" type="line"/>
+      <point x="308" y="67" type="line"/>
+      <point x="141" y="67" type="line"/>
+      <point x="141" y="247" type="line"/>
+      <point x="298" y="247" type="line"/>
+      <point x="298" y="315" type="line"/>
+      <point x="141" y="315" type="line"/>
+      <point x="141" y="470" type="line"/>
+      <point x="308" y="470" type="line"/>
+      <point x="308" y="537" type="line"/>
+      <point x="63" y="537" type="line"/>
+      <point x="63" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehTwodotsbelowHamzaabove-ar.medi" format="2">
+  <advance width="445"/>
+  <outline>
+    <component base="dotlessbeh-ar.medi.wide"/>
+    <component base="hamzaabove-ar" xOffset="93" yOffset="-118"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="20" yOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pstroke.display" format="2">
+  <advance width="612"/>
+  <unicode hex="2C63"/>
+  <anchor x="307" y="0" name="bottom"/>
+  <anchor x="307" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="77" y="0" type="line"/>
+      <point x="278" y="0" type="line"/>
+      <point x="278" y="202" type="line"/>
+      <point x="308" y="202" type="line" smooth="yes"/>
+      <point x="478" y="202"/>
+      <point x="576" y="317"/>
+      <point x="576" y="463" type="curve"/>
+      <point x="576" y="625"/>
+      <point x="476" y="714"/>
+      <point x="315" y="714" type="curve"/>
+      <point x="77" y="714" type="line"/>
+      <point x="77" y="515" type="line"/>
+      <point x="9" y="515" type="line"/>
+      <point x="9" y="406" type="line"/>
+      <point x="77" y="406" type="line"/>
+    </contour>
+    <contour>
+      <point x="304" y="357" type="curve"/>
+      <point x="278" y="357" type="line"/>
+      <point x="278" y="406" type="line"/>
+      <point x="341" y="406" type="line"/>
+      <point x="341" y="515" type="line"/>
+      <point x="278" y="515" type="line"/>
+      <point x="278" y="559" type="line"/>
+      <point x="309" y="559" type="line" smooth="yes"/>
+      <point x="343" y="559"/>
+      <point x="385" y="527"/>
+      <point x="385" y="458" type="curve"/>
+      <point x="385" y="385"/>
+      <point x="335" y="357"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowerLeftArc" format="2">
+  <advance width="500"/>
+  <unicode hex="25DF"/>
+  <outline>
+    <contour>
+      <point x="249" y="121" type="curve"/>
+      <point x="249" y="195" type="line"/>
+      <point x="185" y="195"/>
+      <point x="132" y="248"/>
+      <point x="132" y="312" type="curve"/>
+      <point x="60" y="312" type="line"/>
+      <point x="60" y="208"/>
+      <point x="147" y="121"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+    </dict>
+  </lib>
+</glyph>

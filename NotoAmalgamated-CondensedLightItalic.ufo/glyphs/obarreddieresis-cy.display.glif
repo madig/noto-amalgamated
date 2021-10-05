@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarreddieresis-cy.display" format="2">
+  <advance width="430"/>
+  <unicode hex="04EB"/>
+  <anchor x="158" y="0" name="bottom"/>
+  <anchor x="295" y="714" name="top"/>
+  <outline>
+    <component base="obarred-cy"/>
+    <component base="dieresis" xOffset="-32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

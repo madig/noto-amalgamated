@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="midDottedToneBarmod.display" format="2">
+  <advance width="410"/>
+  <unicode hex="A70A"/>
+  <outline>
+    <contour>
+      <point x="272" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="334" y="688" type="line"/>
+      <point x="272" y="688" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="288" type="curve" smooth="yes"/>
+      <point x="156" y="288"/>
+      <point x="180" y="306"/>
+      <point x="180" y="344" type="curve" smooth="yes"/>
+      <point x="180" y="383"/>
+      <point x="156" y="400"/>
+      <point x="128" y="400" type="curve" smooth="yes"/>
+      <point x="99" y="400"/>
+      <point x="76" y="383"/>
+      <point x="76" y="344" type="curve" smooth="yes"/>
+      <point x="76" y="306"/>
+      <point x="99" y="288"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

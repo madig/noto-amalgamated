@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shaSub_tibet" format="2">
+  <unicode hex="0FB4"/>
+  <anchor x="557.333" y="245" name="_bottomright"/>
+  <anchor x="253.867" y="-361.667" name="bottom"/>
+  <anchor x="557.333" y="-483.3" name="bottomright"/>
+  <anchor x="600.333" y="245" name="flag"/>
+  <outline>
+    <contour>
+      <point x="600" y="245" type="line"/>
+      <point x="312" y="245" type="line" smooth="yes"/>
+      <point x="172" y="245"/>
+      <point x="92" y="146"/>
+      <point x="92" y="15" type="curve" smooth="yes"/>
+      <point x="92" y="-265" type="line"/>
+      <point x="181" y="-268" type="line"/>
+      <point x="181" y="-171" type="line"/>
+      <point x="185" y="-171" type="line"/>
+      <point x="206" y="-214"/>
+      <point x="240" y="-244"/>
+      <point x="296" y="-244" type="curve" smooth="yes"/>
+      <point x="364" y="-244"/>
+      <point x="426" y="-196"/>
+      <point x="465" y="-109" type="curve"/>
+      <point x="456" y="-7" type="line"/>
+      <point x="408" y="-49"/>
+      <point x="353" y="-65"/>
+      <point x="292" y="-65" type="curve" smooth="yes"/>
+      <point x="217" y="-65"/>
+      <point x="181" y="-36"/>
+      <point x="181" y="4" type="curve" smooth="yes"/>
+      <point x="181" y="43"/>
+      <point x="218" y="69"/>
+      <point x="290" y="69" type="curve" smooth="yes"/>
+      <point x="407" y="69" type="line"/>
+      <point x="444" y="-63"/>
+      <point x="458" y="-200"/>
+      <point x="463" y="-483" type="curve"/>
+      <point x="557" y="-527" type="line"/>
+      <point x="557" y="69" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="-370" type="curve"/>
+      <point x="274" y="-347" type="line"/>
+      <point x="198" y="-211"/>
+      <point x="129" y="-153"/>
+      <point x="38" y="-153" type="curve" smooth="yes"/>
+      <point x="27" y="-153"/>
+      <point x="13" y="-154"/>
+      <point x="1" y="-158" type="curve"/>
+      <point x="-20" y="-334" type="line"/>
+      <point x="-9" y="-331"/>
+      <point x="5" y="-329"/>
+      <point x="19" y="-329" type="curve" smooth="yes"/>
+      <point x="68" y="-329"/>
+      <point x="111" y="-341"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>615</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

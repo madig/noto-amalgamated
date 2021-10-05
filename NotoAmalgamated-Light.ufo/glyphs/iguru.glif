@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iguru" format="2">
+  <advance width="806"/>
+  <unicode hex="0A07"/>
+  <anchor x="677" y="622" name="top"/>
+  <outline>
+    <contour>
+      <point x="238" y="899" type="curve" smooth="yes"/>
+      <point x="151" y="899"/>
+      <point x="73" y="841"/>
+      <point x="73" y="735" type="curve" smooth="yes"/>
+      <point x="73" y="703"/>
+      <point x="81" y="662"/>
+      <point x="97" y="622" type="curve"/>
+      <point x="-24" y="622" type="line"/>
+      <point x="-25" y="620" type="line"/>
+      <point x="-15" y="596" type="line"/>
+      <point x="100" y="596" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="123" y="-15" type="line"/>
+      <point x="126" y="-13" type="line"/>
+      <point x="126" y="596" type="line"/>
+      <point x="250" y="596" type="line"/>
+      <point x="251" y="598" type="line"/>
+      <point x="241" y="622" type="line"/>
+      <point x="123" y="622" type="line"/>
+      <point x="107" y="661"/>
+      <point x="100" y="698"/>
+      <point x="100" y="729" type="curve" smooth="yes"/>
+      <point x="100" y="832"/>
+      <point x="174" y="871"/>
+      <point x="242" y="871" type="curve" smooth="yes"/>
+      <point x="353" y="871"/>
+      <point x="406" y="776"/>
+      <point x="455" y="659" type="curve"/>
+      <point x="469" y="659" type="line"/>
+      <point x="470" y="661" type="line"/>
+      <point x="427" y="810"/>
+      <point x="347" y="899"/>
+    </contour>
+    <component base="iriguru" xOffset="211"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iriguru</string>
+    </dict>
+  </lib>
+</glyph>

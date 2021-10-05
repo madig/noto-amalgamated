@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic.display" format="2">
+  <advance width="281"/>
+  <unicode hex="0138"/>
+  <anchor x="86" y="0" name="bottom"/>
+  <anchor x="198" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="5" y="0" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="71" y="189" type="line"/>
+      <point x="155" y="297" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="178" y="323" type="line"/>
+      <point x="328" y="527" type="line"/>
+      <point x="300" y="527" type="line"/>
+      <point x="81" y="234" type="line"/>
+      <point x="80" y="235" type="line"/>
+      <point x="91" y="281"/>
+      <point x="98" y="314"/>
+      <point x="108" y="357" type="curve" smooth="yes"/>
+      <point x="146" y="526" type="line"/>
+      <point x="120" y="526" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

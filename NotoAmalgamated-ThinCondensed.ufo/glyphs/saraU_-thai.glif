@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="saraU-thai" format="2">
+  <unicode hex="0E38"/>
+  <anchor x="157" y="0" name="_bottomright"/>
+  <anchor x="157" y="-297" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="133" y="-297" type="line"/>
+      <point x="157" y="-297" type="line"/>
+      <point x="157" y="-140" type="line" smooth="yes"/>
+      <point x="157" y="-85"/>
+      <point x="140" y="-55"/>
+      <point x="102" y="-55" type="curve" smooth="yes"/>
+      <point x="68" y="-55"/>
+      <point x="50" y="-85"/>
+      <point x="50" y="-126" type="curve" smooth="yes"/>
+      <point x="50" y="-167"/>
+      <point x="71" y="-194"/>
+      <point x="101" y="-194" type="curve" smooth="yes"/>
+      <point x="135" y="-194"/>
+      <point x="150" y="-168"/>
+      <point x="150" y="-125" type="curve"/>
+      <point x="143" y="-125" type="line"/>
+      <point x="143" y="-141"/>
+      <point x="142" y="-161"/>
+      <point x="133" y="-161" type="curve"/>
+    </contour>
+    <contour>
+      <point x="102" y="-173" type="curve" smooth="yes"/>
+      <point x="83" y="-173"/>
+      <point x="72" y="-154"/>
+      <point x="72" y="-125" type="curve" smooth="yes"/>
+      <point x="72" y="-96"/>
+      <point x="83" y="-76"/>
+      <point x="102" y="-76" type="curve" smooth="yes"/>
+      <point x="123" y="-76"/>
+      <point x="132" y="-96"/>
+      <point x="132" y="-125" type="curve" smooth="yes"/>
+      <point x="132" y="-154"/>
+      <point x="123" y="-173"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>207</integer>
+    </dict>
+  </lib>
+</glyph>

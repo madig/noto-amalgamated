@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kappaSymbol.display" format="2">
+  <advance width="594"/>
+  <unicode hex="03F0"/>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="352" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="468" y="-10" type="curve" smooth="yes"/>
+      <point x="516" y="-10"/>
+      <point x="547" y="12"/>
+      <point x="555" y="63" type="curve"/>
+      <point x="482" y="66"/>
+      <point x="460" y="87"/>
+      <point x="460" y="168" type="curve" smooth="yes"/>
+      <point x="460" y="262"/>
+      <point x="496" y="421"/>
+      <point x="551" y="536" type="curve"/>
+      <point x="517" y="536" type="line"/>
+      <point x="116" y="63" type="line"/>
+      <point x="114" y="63" type="line"/>
+      <point x="192" y="231"/>
+      <point x="222" y="330"/>
+      <point x="222" y="399" type="curve" smooth="yes"/>
+      <point x="222" y="495"/>
+      <point x="176" y="546"/>
+      <point x="115" y="546" type="curve" smooth="yes"/>
+      <point x="72" y="546"/>
+      <point x="49" y="524"/>
+      <point x="42" y="490" type="curve"/>
+      <point x="105" y="487"/>
+      <point x="127" y="447"/>
+      <point x="127" y="363" type="curve" smooth="yes"/>
+      <point x="127" y="256"/>
+      <point x="89" y="118"/>
+      <point x="36" y="0" type="curve"/>
+      <point x="76" y="0" type="line"/>
+      <point x="459" y="453" type="line"/>
+      <point x="462" y="453" type="line"/>
+      <point x="390" y="295"/>
+      <point x="366" y="185"/>
+      <point x="366" y="122" type="curve" smooth="yes"/>
+      <point x="366" y="22"/>
+      <point x="412" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

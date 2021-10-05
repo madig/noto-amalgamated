@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meemThreedotsabove-ar.fina.sans" format="2">
+  <advance width="571"/>
+  <outline>
+    <component base="meem-ar.fina"/>
+    <component base="threedotsaboveUI-ar" xOffset="179" yOffset="-75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedotsaboveUI-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

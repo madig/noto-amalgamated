@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine-deva" format="2">
+  <advance width="415"/>
+  <unicode hex="096F"/>
+  <anchor x="198" y="0" name="bottom_right"/>
+  <anchor x="252" y="625" name="top"/>
+  <outline>
+    <contour>
+      <point x="297" y="-46" type="line"/>
+      <point x="336" y="-9"/>
+      <point x="358" y="30"/>
+      <point x="358" y="72" type="curve" smooth="yes"/>
+      <point x="358" y="136"/>
+      <point x="316" y="181"/>
+      <point x="243" y="258" type="curve" smooth="yes"/>
+      <point x="171" y="334"/>
+      <point x="137" y="381"/>
+      <point x="137" y="444" type="curve" smooth="yes"/>
+      <point x="137" y="502"/>
+      <point x="171" y="543"/>
+      <point x="218" y="543" type="curve" smooth="yes"/>
+      <point x="250" y="543"/>
+      <point x="272" y="522"/>
+      <point x="272" y="491" type="curve" smooth="yes"/>
+      <point x="272" y="433"/>
+      <point x="214" y="383"/>
+      <point x="125" y="357" type="curve"/>
+      <point x="197" y="266" type="line"/>
+      <point x="300" y="309"/>
+      <point x="365" y="367"/>
+      <point x="365" y="449" type="curve" smooth="yes"/>
+      <point x="365" y="495"/>
+      <point x="344" y="540"/>
+      <point x="310" y="572" type="curve" smooth="yes"/>
+      <point x="277" y="604"/>
+      <point x="233" y="623"/>
+      <point x="187" y="623" type="curve" smooth="yes"/>
+      <point x="98" y="623"/>
+      <point x="32" y="560"/>
+      <point x="32" y="476" type="curve" smooth="yes"/>
+      <point x="32" y="410"/>
+      <point x="67" y="355"/>
+      <point x="136" y="279" type="curve" smooth="yes"/>
+      <point x="206" y="201"/>
+      <point x="244" y="159"/>
+      <point x="244" y="109" type="curve" smooth="yes"/>
+      <point x="244" y="77"/>
+      <point x="225" y="48"/>
+      <point x="196" y="18" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

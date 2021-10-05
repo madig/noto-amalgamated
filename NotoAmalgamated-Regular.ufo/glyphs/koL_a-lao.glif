@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koLa-lao" format="2">
+  <advance width="649"/>
+  <unicode hex="0EC6"/>
+  <outline>
+    <contour>
+      <point x="559" y="424" type="line" smooth="yes"/>
+      <point x="559" y="512"/>
+      <point x="511" y="563"/>
+      <point x="430" y="563" type="curve" smooth="yes"/>
+      <point x="355" y="563"/>
+      <point x="304" y="509"/>
+      <point x="304" y="416" type="curve"/>
+      <point x="330" y="493" type="line"/>
+      <point x="304" y="493" type="line"/>
+      <point x="330" y="416" type="line"/>
+      <point x="330" y="509"/>
+      <point x="279" y="563"/>
+      <point x="204" y="563" type="curve" smooth="yes"/>
+      <point x="123" y="563"/>
+      <point x="75" y="512"/>
+      <point x="75" y="424" type="curve" smooth="yes"/>
+      <point x="75" y="281" type="line" smooth="yes"/>
+      <point x="75" y="220"/>
+      <point x="115" y="181"/>
+      <point x="179" y="181" type="curve" smooth="yes"/>
+      <point x="242" y="181"/>
+      <point x="283" y="220"/>
+      <point x="283" y="281" type="curve" smooth="yes"/>
+      <point x="283" y="339"/>
+      <point x="244" y="379"/>
+      <point x="187" y="379" type="curve" smooth="yes"/>
+      <point x="120" y="379"/>
+      <point x="81" y="343"/>
+      <point x="81" y="280" type="curve"/>
+      <point x="94" y="280" type="line"/>
+      <point x="94" y="312"/>
+      <point x="132" y="353"/>
+      <point x="161" y="353" type="curve"/>
+      <point x="161" y="421" type="line" smooth="yes"/>
+      <point x="161" y="466"/>
+      <point x="181" y="490"/>
+      <point x="219" y="490" type="curve" smooth="yes"/>
+      <point x="259" y="490"/>
+      <point x="281" y="461"/>
+      <point x="287" y="399" type="curve"/>
+      <point x="347" y="399" type="line"/>
+      <point x="353" y="461"/>
+      <point x="375" y="490"/>
+      <point x="415" y="490" type="curve" smooth="yes"/>
+      <point x="453" y="490"/>
+      <point x="473" y="466"/>
+      <point x="473" y="421" type="curve" smooth="yes"/>
+      <point x="473" y="30" type="line" smooth="yes"/>
+      <point x="473" y="-53"/>
+      <point x="411" y="-107"/>
+      <point x="315" y="-107" type="curve" smooth="yes"/>
+      <point x="257" y="-107"/>
+      <point x="212" y="-88"/>
+      <point x="169" y="-63" type="curve"/>
+      <point x="136" y="-127" type="line"/>
+      <point x="181" y="-161"/>
+      <point x="251" y="-180"/>
+      <point x="323" y="-180" type="curve" smooth="yes"/>
+      <point x="467" y="-180"/>
+      <point x="559" y="-103"/>
+      <point x="559" y="16" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="179" y="331" type="curve" smooth="yes"/>
+      <point x="210" y="331"/>
+      <point x="229" y="312"/>
+      <point x="229" y="280" type="curve" smooth="yes"/>
+      <point x="229" y="248"/>
+      <point x="210" y="229"/>
+      <point x="179" y="229" type="curve" smooth="yes"/>
+      <point x="148" y="229"/>
+      <point x="129" y="248"/>
+      <point x="129" y="280" type="curve" smooth="yes"/>
+      <point x="129" y="312"/>
+      <point x="148" y="331"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>doDek-lao</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>56</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>49</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>11</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>35</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>46</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>59</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

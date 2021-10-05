@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishorttail-cy.serif" format="2">
+  <advance width="687"/>
+  <unicode hex="048A"/>
+  <anchor x="344" y="0" name="bottom"/>
+  <anchor x="344" y="914" name="top"/>
+  <outline>
+    <contour>
+      <point x="533" y="-210" type="line"/>
+      <point x="621" y="-210" type="line"/>
+      <point x="672" y="31" type="line"/>
+      <point x="672" y="49" type="line"/>
+      <point x="605" y="49" type="line"/>
+      <point x="609" y="3" type="line"/>
+    </contour>
+    <component base="Ii-cy"/>
+    <component base="cyrillicbreve" xOffset="132" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

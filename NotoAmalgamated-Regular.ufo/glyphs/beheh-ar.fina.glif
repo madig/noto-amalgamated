@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beheh-ar.fina" format="2">
+  <advance width="821"/>
+  <note>
+uni0680.fina
+</note>
+  <anchor x="381" y="-414" name="bottom"/>
+  <anchor x="411" y="455" name="top"/>
+  <outline>
+    <component base="behDotless-ar.fina"/>
+    <component base="fourdots.below" xOffset="386"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>behDotless-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fourdots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alpharetroflexhook.display" format="2">
+  <advance width="619"/>
+  <unicode hex="1D90"/>
+  <outline>
+    <contour>
+      <point x="603" y="-230" type="curve" smooth="yes"/>
+      <point x="634" y="-230"/>
+      <point x="666" y="-225"/>
+      <point x="689" y="-217" type="curve"/>
+      <point x="689" y="-113" type="line"/>
+      <point x="675" y="-118"/>
+      <point x="660" y="-122"/>
+      <point x="644" y="-122" type="curve" smooth="yes"/>
+      <point x="613" y="-122"/>
+      <point x="597" y="-107"/>
+      <point x="597" y="-64" type="curve" smooth="yes"/>
+      <point x="597" y="109" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="467" y="-74" type="line" smooth="yes"/>
+      <point x="467" y="-184"/>
+      <point x="520" y="-230"/>
+    </contour>
+    <component base="alpha-latin"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

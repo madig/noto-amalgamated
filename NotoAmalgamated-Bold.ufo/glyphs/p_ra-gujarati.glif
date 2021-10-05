@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p_ra-gujarati" format="2">
+  <advance width="660"/>
+  <note>
+not sure why instances are not apearing
+</note>
+  <anchor x="479" y="12" name="bottom"/>
+  <anchor x="95" y="-88" name="bottomleft"/>
+  <anchor x="479" y="592" name="top"/>
+  <anchor x="479" y="592" name="topright"/>
+  <outline>
+    <contour>
+      <point x="160" y="-12" type="line"/>
+      <point x="451" y="163" type="line"/>
+      <point x="451" y="322" type="line"/>
+      <point x="379" y="266"/>
+      <point x="345" y="248"/>
+      <point x="316" y="248" type="curve" smooth="yes"/>
+      <point x="292" y="248"/>
+      <point x="278" y="261"/>
+      <point x="278" y="289" type="curve" smooth="yes"/>
+      <point x="278" y="399" type="line" smooth="yes"/>
+      <point x="278" y="452"/>
+      <point x="252" y="504"/>
+      <point x="211" y="544" type="curve" smooth="yes"/>
+      <point x="175" y="580"/>
+      <point x="127" y="603"/>
+      <point x="78" y="603" type="curve" smooth="yes"/>
+      <point x="33" y="603"/>
+      <point x="0" y="592"/>
+      <point x="-24" y="580" type="curve"/>
+      <point x="37" y="446" type="line"/>
+      <point x="63" y="461"/>
+      <point x="97" y="472"/>
+      <point x="127" y="476" type="curve"/>
+      <point x="127" y="360" type="line" smooth="yes"/>
+      <point x="127" y="307"/>
+      <point x="157" y="264"/>
+      <point x="195" y="229" type="curve" smooth="yes"/>
+      <point x="224" y="202"/>
+      <point x="277" y="175"/>
+      <point x="321" y="175" type="curve" smooth="yes"/>
+      <point x="339" y="175"/>
+      <point x="356" y="179"/>
+      <point x="373" y="186" type="curve"/>
+      <point x="273" y="208" type="line"/>
+      <point x="64" y="93" type="line"/>
+    </contour>
+    <contour>
+      <point x="614" y="-5" type="curve" smooth="yes"/>
+      <point x="654" y="-5"/>
+      <point x="685" y="13"/>
+      <point x="706" y="35" type="curve"/>
+      <point x="645" y="154" type="line"/>
+      <point x="616" y="120"/>
+      <point x="586" y="100"/>
+      <point x="564" y="100" type="curve" smooth="yes"/>
+      <point x="558" y="100"/>
+      <point x="555" y="102"/>
+      <point x="555" y="109" type="curve" smooth="yes"/>
+      <point x="555" y="579" type="line"/>
+      <point x="403" y="612" type="line"/>
+      <point x="403" y="167" type="line" smooth="yes"/>
+      <point x="403" y="109"/>
+      <point x="439" y="76"/>
+      <point x="482" y="46" type="curve" smooth="yes"/>
+      <point x="530" y="13"/>
+      <point x="569" y="-5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Ligature</string>
+    </dict>
+  </lib>
+</glyph>

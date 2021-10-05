@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF08" format="2">
+  <advance height="976" width="1000"/>
+  <unicode hex="FF08"/>
+  <note>
+uniFF08
+</note>
+  <outline>
+    <contour>
+      <point x="651" y="380" type="curve" smooth="yes"/>
+      <point x="651.47" y="182.97"/>
+      <point x="741.14" y="26.97"/>
+      <point x="920" y="-88" type="curve"/>
+      <point x="937" y="-68" type="line"/>
+      <point x="790.85" y="50.77"/>
+      <point x="717.52" y="200.1"/>
+      <point x="717" y="380" type="curve" smooth="yes"/>
+      <point x="717.4" y="559.2"/>
+      <point x="790.73" y="708.53"/>
+      <point x="937" y="828" type="curve"/>
+      <point x="920" y="848" type="line"/>
+      <point x="741.24" y="733.81"/>
+      <point x="651.58" y="577.81"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-88</integer>
+            <integer>936</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>651</integer>
+            <integer>66</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>836</integer>
+    </dict>
+  </lib>
+</glyph>

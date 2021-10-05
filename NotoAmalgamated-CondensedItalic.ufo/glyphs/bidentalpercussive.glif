@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bidentalpercussive" format="2">
+  <advance width="470"/>
+  <unicode hex="02AD"/>
+  <anchor x="179" y="0" name="bottom"/>
+  <anchor x="330" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="105" y="476" type="line"/>
+      <point x="174" y="476" type="line"/>
+      <point x="210" y="649" type="line"/>
+      <point x="407" y="649" type="line"/>
+      <point x="371" y="476" type="line"/>
+      <point x="439" y="476" type="line"/>
+      <point x="490" y="714" type="line"/>
+      <point x="156" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="4" y="0" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="109" y="173" type="line"/>
+      <point x="307" y="173" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+      <point x="389" y="238" type="line"/>
+      <point x="55" y="238" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

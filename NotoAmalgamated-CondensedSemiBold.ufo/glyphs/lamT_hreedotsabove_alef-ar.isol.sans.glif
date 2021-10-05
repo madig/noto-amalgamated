@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamThreedotsabove_alef-ar.isol.sans" format="2">
+  <advance width="587"/>
+  <note>
+uni06B70627.isol
+</note>
+  <anchor x="0" y="0" name="caret_1"/>
+  <outline>
+    <component base="lam_alef-ar"/>
+    <component base="threedotsupabove-ar" xOffset="258" yOffset="222"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedotsupabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

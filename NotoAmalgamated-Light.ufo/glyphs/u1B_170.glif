@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1B170" format="2">
+  <advance height="1000" width="769"/>
+  <unicode hex="1B170"/>
+  <note>
+u1B170
+</note>
+  <outline>
+    <contour>
+      <point x="105" y="-74" type="curve"/>
+      <point x="148" y="-120" type="line"/>
+      <point x="243.07" y="-22.85"/>
+      <point x="321.42" y="84.39"/>
+      <point x="383.06" y="201.71" type="curve" smooth="yes"/>
+      <point x="493.41" y="412.72"/>
+      <point x="555.06" y="678.15"/>
+      <point x="568" y="998" type="curve"/>
+      <point x="511" y="1000" type="line"/>
+      <point x="502.2" y="805.06"/>
+      <point x="477.68" y="637.34"/>
+      <point x="437.45" y="496.84" type="curve" smooth="yes"/>
+      <point x="376.17" y="283.82"/>
+      <point x="265.36" y="93.54"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>511</integer>
+            <integer>57</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zedescender-cy.display" format="2">
+  <advance width="505"/>
+  <unicode hex="0499"/>
+  <anchor x="222" y="-240" name="bottom"/>
+  <anchor x="230" y="553" name="top"/>
+  <outline>
+    <component base="ze-cy"/>
+    <component base="cyrillichookleft" xOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

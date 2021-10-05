@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ia-cy" format="2">
+  <advance width="549"/>
+  <unicode hex="042F"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="371" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="203" y="326" type="curve"/>
+      <point x="-39" y="0" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="283" y="296" type="line"/>
+      <point x="382" y="296" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="559" y="714" type="line"/>
+      <point x="374" y="714" type="line" smooth="yes"/>
+      <point x="232" y="714"/>
+      <point x="115" y="651"/>
+      <point x="115" y="484" type="curve" smooth="yes"/>
+      <point x="115" y="400"/>
+      <point x="153" y="355"/>
+    </contour>
+    <contour>
+      <point x="333" y="372" type="line"/>
+      <point x="248" y="372"/>
+      <point x="207" y="420"/>
+      <point x="207" y="491" type="curve" smooth="yes"/>
+      <point x="207" y="601"/>
+      <point x="279" y="637"/>
+      <point x="373" y="637" type="curve" smooth="yes"/>
+      <point x="454" y="637" type="line"/>
+      <point x="399" y="372" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

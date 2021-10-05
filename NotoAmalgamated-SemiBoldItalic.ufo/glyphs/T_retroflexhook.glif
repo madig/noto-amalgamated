@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tretroflexhook" format="2">
+  <advance width="531"/>
+  <unicode hex="01AE"/>
+  <anchor x="157" y="-240" name="bottom"/>
+  <anchor x="360" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="264" y="-240" type="curve" smooth="yes"/>
+      <point x="303" y="-240"/>
+      <point x="342" y="-232"/>
+      <point x="359" y="-225" type="curve"/>
+      <point x="359" y="-111" type="line"/>
+      <point x="348" y="-115"/>
+      <point x="327" y="-121"/>
+      <point x="305" y="-121" type="curve" smooth="yes"/>
+      <point x="281" y="-121"/>
+      <point x="264" y="-110"/>
+      <point x="264" y="-81" type="curve" smooth="yes"/>
+      <point x="264" y="-74"/>
+      <point x="265" y="-65"/>
+      <point x="267" y="-56" type="curve" smooth="yes"/>
+      <point x="403" y="588" type="line"/>
+      <point x="575" y="588" type="line"/>
+      <point x="602" y="714" type="line"/>
+      <point x="109" y="714" type="line"/>
+      <point x="82" y="588" type="line"/>
+      <point x="254" y="588" type="line"/>
+      <point x="117" y="-60" type="line" smooth="yes"/>
+      <point x="113" y="-79"/>
+      <point x="111" y="-98"/>
+      <point x="111" y="-111" type="curve" smooth="yes"/>
+      <point x="111" y="-197"/>
+      <point x="169" y="-240"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

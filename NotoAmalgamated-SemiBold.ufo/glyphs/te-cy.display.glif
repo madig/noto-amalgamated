@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy.display" format="2">
+  <advance width="543"/>
+  <unicode hex="0442"/>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="272" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="521" y="434" type="line"/>
+      <point x="521" y="546" type="line"/>
+      <point x="22" y="546" type="line"/>
+      <point x="22" y="434" type="line"/>
+      <point x="192" y="434" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="351" y="434" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

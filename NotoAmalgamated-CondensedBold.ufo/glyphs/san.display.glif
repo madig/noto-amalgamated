@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="san.display" format="2">
+  <advance width="684"/>
+  <unicode hex="03FB"/>
+  <outline>
+    <contour>
+      <point x="47" y="-240" type="line"/>
+      <point x="198" y="-240" type="line"/>
+      <point x="198" y="305" type="line"/>
+      <point x="198" y="345"/>
+      <point x="198" y="381"/>
+      <point x="197" y="424" type="curve"/>
+      <point x="287" y="183" type="line"/>
+      <point x="395" y="183" type="line"/>
+      <point x="483" y="423" type="line"/>
+      <point x="482" y="387"/>
+      <point x="482" y="356"/>
+      <point x="482" y="320" type="curve"/>
+      <point x="482" y="0" type="line"/>
+      <point x="636" y="0" type="line"/>
+      <point x="636" y="553" type="line"/>
+      <point x="403" y="553" type="line"/>
+      <point x="342" y="366" type="line"/>
+      <point x="276" y="553" type="line"/>
+      <point x="47" y="553" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

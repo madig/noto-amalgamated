@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dhara-oriya" format="2">
+  <advance width="775"/>
+  <anchor x="343" y="658" name="top"/>
+  <anchor x="644" y="658" name="topright"/>
+  <outline>
+    <contour>
+      <point x="54" y="548" type="line"/>
+      <point x="394" y="234" type="line"/>
+      <point x="505" y="351" type="line"/>
+      <point x="164" y="666" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="225" type="curve"/>
+      <point x="22" y="225" type="line"/>
+      <point x="22" y="60"/>
+      <point x="150" y="-8"/>
+      <point x="303" y="-8" type="curve"/>
+      <point x="439" y="-8"/>
+      <point x="570" y="56"/>
+      <point x="646" y="164" type="curve"/>
+      <point x="576" y="293" type="line"/>
+      <point x="490" y="194"/>
+      <point x="382" y="152"/>
+      <point x="303" y="152" type="curve"/>
+      <point x="240" y="152"/>
+      <point x="196" y="178"/>
+      <point x="196" y="229" type="curve"/>
+      <point x="196" y="285"/>
+      <point x="250" y="334"/>
+      <point x="345" y="350" type="curve"/>
+      <point x="345" y="498" type="line"/>
+      <point x="139" y="471"/>
+      <point x="22" y="356"/>
+    </contour>
+    <contour>
+      <point x="558" y="161" type="line"/>
+      <point x="568" y="119" type="line"/>
+      <point x="560" y="-60" type="line"/>
+      <point x="95" y="-60" type="line"/>
+      <point x="95" y="-200" type="line"/>
+      <point x="729" y="-200" type="line"/>
+      <point x="729" y="658" type="line"/>
+      <point x="559" y="658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dha-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dha-oriya</string>
+    </dict>
+  </lib>
+</glyph>

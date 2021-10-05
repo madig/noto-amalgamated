@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yoYing-thai_macronbelowcomb" format="2">
+  <advance width="874"/>
+  <anchor x="430" y="-149" name="bottom"/>
+  <anchor x="783" y="-149" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="783" y="-77" type="line"/>
+      <point x="76" y="-77" type="line"/>
+      <point x="76" y="-149" type="line"/>
+      <point x="783" y="-149" type="line"/>
+    </contour>
+    <component base="yoYing-thai.less"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-149</integer>
+            <integer>72</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

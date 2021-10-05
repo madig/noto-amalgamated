@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DitalicDoubleStruck" format="2">
+  <advance width="730"/>
+  <unicode hex="2145"/>
+  <outline>
+    <contour>
+      <point x="-1" y="0" type="line"/>
+      <point x="259" y="0" type="line" smooth="yes"/>
+      <point x="529" y="0"/>
+      <point x="678" y="181"/>
+      <point x="678" y="429" type="curve" smooth="yes"/>
+      <point x="678" y="622"/>
+      <point x="575" y="714"/>
+      <point x="403" y="714" type="curve" smooth="yes"/>
+      <point x="150" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="53" type="line"/>
+      <point x="191" y="661" type="line"/>
+      <point x="258" y="661" type="line"/>
+      <point x="129" y="53" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="53" type="curve" smooth="yes"/>
+      <point x="182" y="53" type="line"/>
+      <point x="311" y="661" type="line"/>
+      <point x="417" y="661" type="line" smooth="yes"/>
+      <point x="468" y="661"/>
+      <point x="509" y="649"/>
+      <point x="541" y="626" type="curve"/>
+      <point x="428" y="87" type="line"/>
+      <point x="382" y="65"/>
+      <point x="327" y="53"/>
+    </contour>
+    <contour>
+      <point x="488" y="125" type="curve"/>
+      <point x="582" y="582" type="line"/>
+      <point x="607" y="544"/>
+      <point x="619" y="492"/>
+      <point x="619" y="430" type="curve" smooth="yes"/>
+      <point x="619" y="304"/>
+      <point x="574" y="193"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ksmall.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="1D0B"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="91" y="0" type="line"/>
+      <point x="226" y="0" type="line"/>
+      <point x="226" y="190" type="line"/>
+      <point x="274" y="221" type="line"/>
+      <point x="406" y="0" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="369" y="303" type="line"/>
+      <point x="558" y="546" type="line"/>
+      <point x="411" y="546" type="line"/>
+      <point x="273" y="370" type="line" smooth="yes"/>
+      <point x="256" y="348"/>
+      <point x="239" y="325"/>
+      <point x="226" y="302" type="curve"/>
+      <point x="226" y="546" type="line"/>
+      <point x="91" y="546" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

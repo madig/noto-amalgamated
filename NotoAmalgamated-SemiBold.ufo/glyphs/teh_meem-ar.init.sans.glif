@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh_meem-ar.init.sans" format="2">
+  <advance width="983"/>
+  <unicode hex="FCA4"/>
+  <anchor x="624" y="0" name="caret_1"/>
+  <outline>
+    <component base="teh-ar.init" xOffset="624"/>
+    <component base="meem-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>teh-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>meem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

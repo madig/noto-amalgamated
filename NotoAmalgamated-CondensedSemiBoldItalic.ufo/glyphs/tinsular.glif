@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tinsular" format="2">
+  <advance width="359"/>
+  <unicode hex="A787"/>
+  <anchor x="122" y="0" name="bottom"/>
+  <anchor x="238" y="545" name="top"/>
+  <outline>
+    <contour>
+      <point x="166" y="-10" type="curve" smooth="yes"/>
+      <point x="214" y="-10"/>
+      <point x="262" y="8"/>
+      <point x="293" y="29" type="curve"/>
+      <point x="293" y="133" type="line"/>
+      <point x="257" y="107"/>
+      <point x="224" y="94"/>
+      <point x="197" y="94" type="curve" smooth="yes"/>
+      <point x="163" y="94"/>
+      <point x="146" y="122"/>
+      <point x="146" y="178" type="curve" smooth="yes"/>
+      <point x="146" y="272"/>
+      <point x="182" y="443"/>
+      <point x="274" y="443" type="curve"/>
+      <point x="266" y="503" type="line"/>
+      <point x="83" y="503"/>
+      <point x="22" y="326"/>
+      <point x="22" y="161" type="curve" smooth="yes"/>
+      <point x="22" y="53"/>
+      <point x="73" y="-10"/>
+    </contour>
+    <contour>
+      <point x="44" y="443" type="line"/>
+      <point x="360" y="443" type="line"/>
+      <point x="381" y="545" type="line"/>
+      <point x="65" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

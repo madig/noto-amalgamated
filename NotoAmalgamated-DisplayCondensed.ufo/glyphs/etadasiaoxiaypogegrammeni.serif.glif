@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etadasiaoxiaypogegrammeni.serif" format="2">
+  <advance width="489"/>
+  <unicode hex="1F95"/>
+  <anchor x="245" y="-241" name="bottom"/>
+  <anchor x="245" y="761" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="dasiaoxia" xOffset="78" yOffset="40"/>
+    <component base="prosgegrammeni" xOffset="27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="engcrossedtail.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="AB3C"/>
+  <outline>
+    <contour>
+      <point x="449" y="-240" type="curve"/>
+      <point x="500" y="-222" type="line"/>
+      <point x="459" y="-97"/>
+      <point x="387" y="-28"/>
+      <point x="293" y="-28" type="curve" smooth="yes"/>
+      <point x="232" y="-28"/>
+      <point x="188" y="-70"/>
+      <point x="188" y="-133" type="curve" smooth="yes"/>
+      <point x="188" y="-196"/>
+      <point x="236" y="-237"/>
+      <point x="299" y="-237" type="curve" smooth="yes"/>
+      <point x="403" y="-237"/>
+      <point x="445" y="-144"/>
+      <point x="445" y="-35" type="curve" smooth="yes"/>
+      <point x="445" y="185" type="line"/>
+      <point x="363" y="185" type="line"/>
+      <point x="363" y="-73" type="line" smooth="yes"/>
+      <point x="363" y="-139"/>
+      <point x="345" y="-180"/>
+      <point x="294" y="-180" type="curve" smooth="yes"/>
+      <point x="263" y="-180"/>
+      <point x="248" y="-159"/>
+      <point x="248" y="-132" type="curve" smooth="yes"/>
+      <point x="248" y="-103"/>
+      <point x="266" y="-84"/>
+      <point x="300" y="-84" type="curve" smooth="yes"/>
+      <point x="355" y="-84"/>
+      <point x="415" y="-142"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>n</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phanuktaguru" format="2">
+  <advance width="595"/>
+  <unicode hex="0A5E"/>
+  <anchor x="460" y="0" name="bottom"/>
+  <anchor x="456" y="622" name="top"/>
+  <outline>
+    <contour>
+      <point x="-15" y="596" type="line"/>
+      <point x="309" y="596" type="line"/>
+      <point x="310" y="598" type="line"/>
+      <point x="300" y="622" type="line"/>
+      <point x="-24" y="622" type="line"/>
+      <point x="-25" y="620" type="line"/>
+    </contour>
+    <component base="phaguru" xOffset="20"/>
+    <component base="nuktaguru" xOffset="106" yOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>phaguru</string>
+    </dict>
+  </lib>
+</glyph>

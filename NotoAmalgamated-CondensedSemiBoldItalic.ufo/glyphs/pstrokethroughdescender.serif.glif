@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pstrokethroughdescender.serif" format="2">
+  <advance width="528"/>
+  <unicode hex="A751"/>
+  <anchor x="48" y="-240" name="bottom"/>
+  <anchor x="313" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="-76" y="-117" type="line"/>
+      <point x="220" y="-117" type="line"/>
+      <point x="233" y="-62" type="line"/>
+      <point x="-63" y="-62" type="line"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>p</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

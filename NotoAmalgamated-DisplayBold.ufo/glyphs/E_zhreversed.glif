@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ezhreversed" format="2">
+  <advance width="574"/>
+  <unicode hex="01B8"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="287" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="338" y="-10" type="curve"/>
+      <point x="425" y="-10"/>
+      <point x="492" y="3"/>
+      <point x="558" y="28" type="curve"/>
+      <point x="558" y="192" type="line"/>
+      <point x="495" y="161"/>
+      <point x="412" y="143"/>
+      <point x="357" y="143" type="curve"/>
+      <point x="261" y="143"/>
+      <point x="234" y="173"/>
+      <point x="234" y="224" type="curve"/>
+      <point x="234" y="265"/>
+      <point x="270" y="295"/>
+      <point x="409" y="295" type="curve"/>
+      <point x="453" y="295" type="line"/>
+      <point x="453" y="430" type="line"/>
+      <point x="346" y="554" type="line"/>
+      <point x="533" y="554" type="line"/>
+      <point x="533" y="714" type="line"/>
+      <point x="62" y="714" type="line"/>
+      <point x="62" y="594" type="line"/>
+      <point x="225" y="424" type="line"/>
+      <point x="97" y="407"/>
+      <point x="29" y="337"/>
+      <point x="29" y="208" type="curve"/>
+      <point x="29" y="81"/>
+      <point x="130" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reflexsuperset" format="2">
+  <advance width="600"/>
+  <unicode hex="2287"/>
+  <outline>
+    <contour>
+      <point x="51" y="217" type="line"/>
+      <point x="241" y="217" type="line" smooth="yes"/>
+      <point x="471" y="217"/>
+      <point x="569" y="310"/>
+      <point x="569" y="468" type="curve" smooth="yes"/>
+      <point x="569" y="616"/>
+      <point x="472" y="722"/>
+      <point x="241" y="722" type="curve" smooth="yes"/>
+      <point x="51" y="722" type="line"/>
+      <point x="51" y="581" type="line"/>
+      <point x="241" y="581" type="line" smooth="yes"/>
+      <point x="359" y="581"/>
+      <point x="409" y="542"/>
+      <point x="409" y="468" type="curve" smooth="yes"/>
+      <point x="409" y="389"/>
+      <point x="352" y="358"/>
+      <point x="241" y="358" type="curve" smooth="yes"/>
+      <point x="51" y="358" type="line"/>
+    </contour>
+    <contour>
+      <point x="51" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+      <point x="529" y="151" type="line"/>
+      <point x="51" y="151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

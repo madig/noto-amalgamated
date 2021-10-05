@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf_khah-ar.sans" format="2">
+  <advance width="1018"/>
+  <unicode hex="FC3A"/>
+  <anchor x="582" y="0" name="caret_1"/>
+  <outline>
+    <component base="kaf-ar.init" xOffset="612"/>
+    <component base="khah-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>kaf-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>khah-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koppa.display" format="2">
+  <advance width="542"/>
+  <unicode hex="03DF"/>
+  <anchor x="154" y="-240" name="bottom"/>
+  <anchor x="365" y="753" name="top"/>
+  <outline>
+    <contour>
+      <point x="204" y="-240" type="curve" smooth="yes"/>
+      <point x="278" y="-240"/>
+      <point x="306" y="-211"/>
+      <point x="314" y="-169" type="curve"/>
+      <point x="265" y="-171"/>
+      <point x="249" y="-151"/>
+      <point x="249" y="-100" type="curve" smooth="yes"/>
+      <point x="249" y="10"/>
+      <point x="332" y="122"/>
+      <point x="511" y="278" type="curve"/>
+      <point x="535" y="437" type="line"/>
+      <point x="79" y="284" type="line"/>
+      <point x="287" y="443"/>
+      <point x="414" y="543"/>
+      <point x="414" y="649" type="curve" smooth="yes"/>
+      <point x="414" y="702"/>
+      <point x="375" y="753"/>
+      <point x="296" y="753" type="curve" smooth="yes"/>
+      <point x="220" y="753"/>
+      <point x="181" y="727"/>
+      <point x="181" y="704" type="curve"/>
+      <point x="224" y="706"/>
+      <point x="266" y="688"/>
+      <point x="266" y="612" type="curve" smooth="yes"/>
+      <point x="266" y="490"/>
+      <point x="224" y="431"/>
+      <point x="26" y="247" type="curve"/>
+      <point x="0" y="92" type="line"/>
+      <point x="499" y="279" type="line"/>
+      <point x="357" y="167"/>
+      <point x="98" y="20"/>
+      <point x="98" y="-146" type="curve" smooth="yes"/>
+      <point x="98" y="-209"/>
+      <point x="144" y="-240"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

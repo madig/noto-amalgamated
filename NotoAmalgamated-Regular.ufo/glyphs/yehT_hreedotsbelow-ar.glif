@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehThreedotsbelow-ar" format="2">
+  <advance width="839"/>
+  <unicode hex="06D1"/>
+  <note>
+uni06D1
+</note>
+  <anchor x="401" y="-532" name="bottom"/>
+  <anchor x="225" y="322" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar"/>
+    <component base="threedots.small.below" xOffset="404" yOffset="-189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>alefMaksura-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.small.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

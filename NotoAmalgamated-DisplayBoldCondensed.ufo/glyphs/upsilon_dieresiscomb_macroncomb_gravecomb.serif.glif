@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilon_dieresiscomb_macroncomb_gravecomb.serif" format="2">
+  <advance width="552"/>
+  <anchor x="276" y="0" name="bottom"/>
+  <anchor x="276" y="954" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="gravecomb_macroncomb_dieresiscomb" xOffset="49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>upsilon</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

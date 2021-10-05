@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestrokehook-cy.display" format="2">
+  <advance width="446"/>
+  <unicode hex="04FA"/>
+  <anchor x="132" y="-197" name="bottom"/>
+  <anchor x="321" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="138" y="-197" type="curve" smooth="yes"/>
+      <point x="184" y="-197"/>
+      <point x="210" y="-161"/>
+      <point x="234" y="-55" type="curve" smooth="yes"/>
+      <point x="248" y="10" type="line"/>
+      <point x="239" y="10" type="line"/>
+      <point x="226" y="-52" type="line" smooth="yes"/>
+      <point x="210" y="-123"/>
+      <point x="186" y="-146"/>
+      <point x="147" y="-146" type="curve" smooth="yes"/>
+      <point x="124" y="-146"/>
+      <point x="108" y="-137"/>
+      <point x="96" y="-109" type="curve"/>
+      <point x="84" y="-117"/>
+      <point x="77" y="-131"/>
+      <point x="77" y="-149" type="curve" smooth="yes"/>
+      <point x="77" y="-176"/>
+      <point x="100" y="-197"/>
+    </contour>
+    <component base="Ghestroke-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

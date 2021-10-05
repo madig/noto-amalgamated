@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotaserifedstroke.display" format="2">
+  <advance width="266"/>
+  <unicode hex="1D7B"/>
+  <outline>
+    <contour>
+      <point x="32" y="280" type="line"/>
+      <point x="256" y="280" type="line"/>
+      <point x="258" y="290" type="line"/>
+      <point x="34" y="290" type="line"/>
+    </contour>
+    <component base="iotaserifed"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

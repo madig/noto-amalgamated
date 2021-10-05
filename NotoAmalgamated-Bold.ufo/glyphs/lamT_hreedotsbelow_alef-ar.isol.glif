@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamThreedotsbelow_alef-ar.isol" format="2">
+  <advance width="714"/>
+  <note>
+uni06B80627.isol
+</note>
+  <anchor x="603" y="-85" name="bottom_1"/>
+  <anchor x="216" y="-366" name="bottom_2"/>
+  <anchor x="357" y="0" name="caret_1"/>
+  <anchor x="521" y="825" name="top_1"/>
+  <anchor x="152" y="712" name="top_2"/>
+  <outline>
+    <component base="lam_alef-ar.isol"/>
+    <component base="threedots.below" xOffset="318"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>lam_alef-ar.isol</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

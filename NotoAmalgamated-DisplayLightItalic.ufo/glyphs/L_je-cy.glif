@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lje-cy" format="2">
+  <advance width="853"/>
+  <unicode hex="0409"/>
+  <anchor x="374" y="0" name="bottom"/>
+  <anchor x="526" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="7" y="-11" type="curve" smooth="yes"/>
+      <point x="99" y="-11"/>
+      <point x="142" y="91"/>
+      <point x="194" y="231" type="curve" smooth="yes"/>
+      <point x="251" y="385"/>
+      <point x="302" y="562"/>
+      <point x="340" y="689" type="curve"/>
+      <point x="541" y="689" type="line"/>
+      <point x="395" y="0" type="line"/>
+      <point x="544" y="0" type="line" smooth="yes"/>
+      <point x="695" y="0"/>
+      <point x="797" y="71"/>
+      <point x="797" y="230" type="curve" smooth="yes"/>
+      <point x="797" y="338"/>
+      <point x="731" y="393"/>
+      <point x="610" y="393" type="curve" smooth="yes"/>
+      <point x="505" y="393" type="line"/>
+      <point x="573" y="714" type="line"/>
+      <point x="319" y="714" type="line"/>
+      <point x="287" y="608"/>
+      <point x="235" y="429"/>
+      <point x="167" y="239" type="curve" smooth="yes"/>
+      <point x="118" y="103"/>
+      <point x="72" y="14"/>
+      <point x="7" y="14" type="curve" smooth="yes"/>
+      <point x="-10" y="14"/>
+      <point x="-27" y="18"/>
+      <point x="-40" y="24" type="curve"/>
+      <point x="-40" y="-2" type="line"/>
+      <point x="-29" y="-8"/>
+      <point x="-13" y="-11"/>
+    </contour>
+    <contour>
+      <point x="544" y="25" type="curve" smooth="yes"/>
+      <point x="428" y="25" type="line"/>
+      <point x="500" y="368" type="line"/>
+      <point x="606" y="368" type="line" smooth="yes"/>
+      <point x="704" y="368"/>
+      <point x="770" y="326"/>
+      <point x="770" y="229" type="curve" smooth="yes"/>
+      <point x="770" y="78"/>
+      <point x="671" y="25"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

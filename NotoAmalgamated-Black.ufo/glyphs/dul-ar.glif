@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dul-ar" format="2">
+  <advance width="652"/>
+  <unicode hex="068E"/>
+  <note>
+uni068E
+</note>
+  <anchor x="275" y="-78" name="bottom"/>
+  <anchor x="207" y="1025" name="top"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="threedots.above" xOffset="197" yOffset="93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dal-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

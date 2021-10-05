@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsilivariaprosgegrammeni.serif" format="2">
+  <advance width="1095"/>
+  <unicode hex="1F9A"/>
+  <anchor x="957" y="0" name="bottom"/>
+  <anchor x="957" y="536" name="top"/>
+  <outline>
+    <component base="H" xOffset="182"/>
+    <component base="psilivaria" xOffset="-74"/>
+    <component base="iota" xOffset="818"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

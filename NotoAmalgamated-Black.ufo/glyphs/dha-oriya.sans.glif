@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dha-oriya.sans" format="2">
+  <advance width="775"/>
+  <unicode hex="0B27"/>
+  <note>
+dhaorya
+</note>
+  <anchor x="559" y="93" name="bottom"/>
+  <anchor x="729" y="93" name="bottom_ra"/>
+  <anchor x="343" y="751" name="top"/>
+  <anchor x="644" y="751" name="topright"/>
+  <outline>
+    <contour>
+      <point x="54" y="641" type="line"/>
+      <point x="394" y="327" type="line"/>
+      <point x="505" y="444" type="line"/>
+      <point x="164" y="759" type="line"/>
+    </contour>
+    <contour>
+      <point x="578" y="212" type="line"/>
+      <point x="559" y="93" type="line"/>
+      <point x="729" y="93" type="line"/>
+      <point x="729" y="751" type="line"/>
+      <point x="559" y="751" type="line"/>
+      <point x="558" y="254" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="318" type="curve"/>
+      <point x="22" y="318" type="line"/>
+      <point x="22" y="153"/>
+      <point x="150" y="85"/>
+      <point x="303" y="85" type="curve"/>
+      <point x="439" y="85"/>
+      <point x="570" y="149"/>
+      <point x="646" y="257" type="curve"/>
+      <point x="576" y="386" type="line"/>
+      <point x="490" y="287"/>
+      <point x="382" y="245"/>
+      <point x="303" y="245" type="curve"/>
+      <point x="240" y="245"/>
+      <point x="196" y="271"/>
+      <point x="196" y="322" type="curve"/>
+      <point x="196" y="378"/>
+      <point x="250" y="427"/>
+      <point x="345" y="443" type="curve"/>
+      <point x="345" y="591" type="line"/>
+      <point x="139" y="564"/>
+      <point x="22" y="449"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaMatra-oriya</string>
+    </dict>
+  </lib>
+</glyph>

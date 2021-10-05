@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="betasubscript.serif" format="2">
+  <advance width="354"/>
+  <unicode hex="1D66"/>
+  <anchor x="177" y="-234" name="bottom"/>
+  <anchor x="177" y="365" name="top"/>
+  <outline>
+    <component base="beta" xScale="0.65" yScale="0.6" yOffset="-96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

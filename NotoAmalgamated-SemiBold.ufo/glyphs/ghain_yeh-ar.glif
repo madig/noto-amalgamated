@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghain_yeh-ar" format="2">
+  <advance width="1357"/>
+  <unicode hex="FCFA"/>
+  <anchor x="800" y="0" name="caret_1"/>
+  <outline>
+    <component base="ghain-ar.init" xOffset="800"/>
+    <component base="yeh-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ghain-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yeh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

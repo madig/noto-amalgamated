@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hcaron.serif" format="2">
+  <advance width="670"/>
+  <unicode hex="021E"/>
+  <anchor x="335" y="0" name="bottom"/>
+  <anchor x="335" y="935" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="caron" xOffset="148" yOffset="169"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehVinvertedabove-ar" format="2">
+  <advance width="513"/>
+  <unicode hex="06EF"/>
+  <note>
+uni06EF
+</note>
+  <anchor x="171" y="-323" name="bottom"/>
+  <anchor x="329" y="799" name="top"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="circumflex.arabic" xOffset="326" yOffset="-69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>reh-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflex.arabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

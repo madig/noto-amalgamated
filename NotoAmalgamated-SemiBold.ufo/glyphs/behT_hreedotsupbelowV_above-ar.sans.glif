@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behThreedotsupbelowVabove-ar.sans" format="2">
+  <advance width="1024"/>
+  <unicode hex="08BE"/>
+  <outline>
+    <component base="dotlessbeh-ar"/>
+    <component base="threedotsdownbelow-ar" xOffset="352" yOffset="-15"/>
+    <component base="vabove-ar" xOffset="377" yOffset="-183"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>vabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

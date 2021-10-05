@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fhook" format="2">
+  <advance width="318"/>
+  <unicode hex="0192"/>
+  <anchor x="69" y="0" name="bottom"/>
+  <anchor x="393" y="765" name="top"/>
+  <anchor x="425" y="765" name="topright"/>
+  <outline>
+    <contour>
+      <point x="26" y="-241" type="curve" smooth="yes"/>
+      <point x="97" y="-241"/>
+      <point x="133" y="-198"/>
+      <point x="151" y="-110" type="curve" smooth="yes"/>
+      <point x="279" y="501" type="line"/>
+      <point x="348" y="501" type="line"/>
+      <point x="353" y="526" type="line"/>
+      <point x="284" y="526" type="line"/>
+      <point x="306" y="627" type="line" smooth="yes"/>
+      <point x="322" y="699"/>
+      <point x="339" y="740"/>
+      <point x="386" y="740" type="curve" smooth="yes"/>
+      <point x="401" y="740"/>
+      <point x="416" y="736"/>
+      <point x="426" y="731" type="curve"/>
+      <point x="436" y="755" type="line"/>
+      <point x="427" y="759"/>
+      <point x="406" y="765"/>
+      <point x="390" y="765" type="curve" smooth="yes"/>
+      <point x="328" y="765"/>
+      <point x="302" y="723"/>
+      <point x="282" y="635" type="curve" smooth="yes"/>
+      <point x="258" y="527" type="line"/>
+      <point x="197" y="521" type="line"/>
+      <point x="193" y="501" type="line"/>
+      <point x="253" y="501" type="line"/>
+      <point x="125" y="-108" type="line" smooth="yes"/>
+      <point x="110" y="-178"/>
+      <point x="82" y="-216"/>
+      <point x="26" y="-216" type="curve" smooth="yes"/>
+      <point x="-30" y="-216"/>
+      <point x="-61" y="-177"/>
+      <point x="-61" y="-120" type="curve" smooth="yes"/>
+      <point x="-61" y="-107"/>
+      <point x="-59" y="-95"/>
+      <point x="-57" y="-83" type="curve"/>
+      <point x="-80" y="-76" type="line"/>
+      <point x="-84" y="-91"/>
+      <point x="-86" y="-104"/>
+      <point x="-86" y="-120" type="curve" smooth="yes"/>
+      <point x="-86" y="-188"/>
+      <point x="-51" y="-241"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh_hah_yeh-ar.fina.sans" format="2">
+  <advance width="2054"/>
+  <unicode hex="FDAE"/>
+  <anchor x="1545" y="0" name="caret_1"/>
+  <anchor x="817" y="0" name="caret_2"/>
+  <outline>
+    <component base="yeh-ar.medi" xOffset="1609"/>
+    <component base="hah-ar.medi" xOffset="881"/>
+    <component base="yeh-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yeh-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yeh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

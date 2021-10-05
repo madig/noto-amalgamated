@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tse-cy.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="0426"/>
+  <anchor x="300" y="-216" name="bottom"/>
+  <anchor x="300" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="560" y="714" type="line"/>
+      <point x="383" y="714" type="line"/>
+      <point x="383" y="146" type="line"/>
+      <point x="217" y="146" type="line"/>
+      <point x="217" y="714" type="line"/>
+      <point x="40" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="-217" type="line"/>
+      <point x="600" y="-217" type="line"/>
+      <point x="600" y="143" type="line"/>
+      <point x="413" y="143" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

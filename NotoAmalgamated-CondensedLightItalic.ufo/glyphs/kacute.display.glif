@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kacute.display" format="2">
+  <advance width="415"/>
+  <unicode hex="1E31"/>
+  <anchor x="172" y="0" name="bottom"/>
+  <anchor x="377" y="960" name="top"/>
+  <outline>
+    <component base="k"/>
+    <component base="acute" xOffset="180" yOffset="194"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

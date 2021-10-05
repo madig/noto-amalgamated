@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fractionOneEighth-cinf" format="2">
+  <advance width="582"/>
+  <unicode hex="A834"/>
+  <note>
+uniA834
+</note>
+  <outline>
+    <component base="fractionOneSixteenth-cinf"/>
+    <component base="fractionOneSixteenth-cinf" yOffset="-210"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cinf</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beta" format="2">
+  <advance width="581"/>
+  <unicode hex="03B2"/>
+  <outline>
+    <contour>
+      <point x="-41" y="-240" type="line"/>
+      <point x="146" y="-240" type="line"/>
+      <point x="200" y="21" type="line"/>
+      <point x="223" y="3"/>
+      <point x="262" y="-10"/>
+      <point x="304" y="-10" type="curve" smooth="yes"/>
+      <point x="459" y="-10"/>
+      <point x="523" y="107"/>
+      <point x="526" y="237" type="curve" smooth="yes"/>
+      <point x="527" y="328"/>
+      <point x="478" y="383"/>
+      <point x="407" y="395" type="curve"/>
+      <point x="500" y="404"/>
+      <point x="565" y="477"/>
+      <point x="567" y="585" type="curve" smooth="yes"/>
+      <point x="569" y="701"/>
+      <point x="505" y="765"/>
+      <point x="372" y="765" type="curve" smooth="yes"/>
+      <point x="238" y="765"/>
+      <point x="154" y="690"/>
+      <point x="116" y="507" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="278" y="142" type="curve" smooth="yes"/>
+      <point x="253" y="142"/>
+      <point x="243" y="154"/>
+      <point x="232" y="166" type="curve"/>
+      <point x="306" y="514" type="line" smooth="yes"/>
+      <point x="325" y="602"/>
+      <point x="338" y="617"/>
+      <point x="360" y="617" type="curve" smooth="yes"/>
+      <point x="381" y="617"/>
+      <point x="385" y="600"/>
+      <point x="385" y="579" type="curve" smooth="yes"/>
+      <point x="385" y="528"/>
+      <point x="368" y="465"/>
+      <point x="336" y="465" type="curve" smooth="yes"/>
+      <point x="326" y="465" type="line"/>
+      <point x="296" y="323" type="line"/>
+      <point x="307" y="323" type="line" smooth="yes"/>
+      <point x="330" y="323"/>
+      <point x="343" y="306"/>
+      <point x="343" y="271" type="curve" smooth="yes"/>
+      <point x="342" y="202"/>
+      <point x="317" y="142"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=p</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=p</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

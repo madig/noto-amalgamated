@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tha_kannada.base" format="2">
+  <advance width="749"/>
+  <anchor x="375" y="0" name="bottom"/>
+  <anchor x="376" y="561" name="top"/>
+  <anchor x="550" y="433" name="topright"/>
+  <outline>
+    <contour>
+      <point x="375" y="268" type="curve" smooth="yes"/>
+      <point x="415" y="268"/>
+      <point x="439" y="294"/>
+      <point x="439" y="328" type="curve" smooth="yes"/>
+      <point x="439" y="363"/>
+      <point x="414" y="389"/>
+      <point x="375" y="389" type="curve" smooth="yes"/>
+      <point x="337" y="389"/>
+      <point x="312" y="363"/>
+      <point x="312" y="328" type="curve" smooth="yes"/>
+      <point x="312" y="294"/>
+      <point x="337" y="268"/>
+    </contour>
+    <component base="dha_kannada.base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>kannada</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

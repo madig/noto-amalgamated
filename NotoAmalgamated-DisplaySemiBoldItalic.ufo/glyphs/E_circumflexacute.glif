@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflexacute" format="2">
+  <advance width="519"/>
+  <unicode hex="1EBE"/>
+  <anchor x="227" y="0" name="bottom"/>
+  <anchor x="420" y="980" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflexacutecomb" xOffset="519"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bidentalpercussive.serif" format="2">
+  <advance width="423"/>
+  <unicode hex="02AD"/>
+  <anchor x="155" y="0" name="bottom"/>
+  <anchor x="307" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="90" y="486" type="line"/>
+      <point x="144" y="486" type="line"/>
+      <point x="156" y="541" type="line" smooth="yes"/>
+      <point x="165" y="582"/>
+      <point x="190" y="620"/>
+      <point x="245" y="620" type="curve" smooth="yes"/>
+      <point x="357" y="620" type="line" smooth="yes"/>
+      <point x="412" y="620"/>
+      <point x="426" y="589"/>
+      <point x="417" y="538" type="curve" smooth="yes"/>
+      <point x="408" y="486" type="line"/>
+      <point x="462" y="486" type="line"/>
+      <point x="511" y="714" type="line"/>
+      <point x="139" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="54" y="55" type="line" smooth="yes"/>
+      <point x="63" y="96"/>
+      <point x="88" y="134"/>
+      <point x="143" y="134" type="curve" smooth="yes"/>
+      <point x="256" y="134" type="line" smooth="yes"/>
+      <point x="311" y="134"/>
+      <point x="324" y="100"/>
+      <point x="315" y="52" type="curve" smooth="yes"/>
+      <point x="306" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="409" y="228" type="line"/>
+      <point x="38" y="228" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

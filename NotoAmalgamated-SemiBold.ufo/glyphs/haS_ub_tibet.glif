@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="haSub_tibet" format="2">
+  <unicode hex="0FB7"/>
+  <anchor x="525.587" y="245" name="_bottomright"/>
+  <anchor x="263.505" y="-496.402" name="bottom"/>
+  <anchor x="525.587" y="-444.42" name="bottomright"/>
+  <anchor x="506.505" y="245" name="flag"/>
+  <outline>
+    <contour>
+      <point x="238" y="-509" type="line"/>
+      <point x="475" y="-315"/>
+      <point x="531" y="-219"/>
+      <point x="531" y="-109" type="curve" smooth="yes"/>
+      <point x="531" y="-8"/>
+      <point x="464" y="56"/>
+      <point x="356" y="56" type="curve" smooth="yes"/>
+      <point x="274" y="56"/>
+      <point x="215" y="25"/>
+      <point x="166" y="-43" type="curve"/>
+      <point x="202" y="-94" type="line"/>
+      <point x="226" y="-74"/>
+      <point x="261" y="-63"/>
+      <point x="306" y="-63" type="curve" smooth="yes"/>
+      <point x="366" y="-63"/>
+      <point x="399" y="-90"/>
+      <point x="399" y="-143" type="curve" smooth="yes"/>
+      <point x="399" y="-207"/>
+      <point x="369" y="-271"/>
+      <point x="211" y="-444" type="curve"/>
+    </contour>
+    <contour>
+      <point x="213" y="-180" type="curve"/>
+      <point x="277" y="-160" type="line"/>
+      <point x="217" y="-43"/>
+      <point x="161" y="3"/>
+      <point x="62" y="18" type="curve"/>
+      <point x="90" y="-37" type="line"/>
+      <point x="121" y="23"/>
+      <point x="178" y="96"/>
+      <point x="246" y="154" type="curve"/>
+      <point x="130" y="167" type="line"/>
+      <point x="87" y="110"/>
+      <point x="47" y="36"/>
+      <point x="19" y="-42" type="curve"/>
+      <point x="44" y="-104" type="line"/>
+      <point x="122" y="-113"/>
+      <point x="162" y="-133"/>
+    </contour>
+    <contour>
+      <point x="43" y="112" type="line"/>
+      <point x="475" y="112" type="line"/>
+      <point x="507" y="245" type="line"/>
+      <point x="75" y="245" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>561</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

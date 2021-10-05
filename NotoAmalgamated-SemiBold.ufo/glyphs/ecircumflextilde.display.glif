@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflextilde.display" format="2">
+  <advance width="568"/>
+  <unicode hex="1EC5"/>
+  <anchor x="296" y="0" name="bottom"/>
+  <anchor x="284" y="889" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflextildecomb" xOffset="587"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

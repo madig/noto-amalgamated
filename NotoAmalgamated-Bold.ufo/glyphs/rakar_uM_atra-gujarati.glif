@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rakar_uMatra-gujarati" format="2">
+  <anchor x="0" y="0" name="_bottomround"/>
+  <anchor x="0" y="-604" name="bottomleft"/>
+  <outline>
+    <contour>
+      <point x="63" y="-511" type="curve" smooth="yes"/>
+      <point x="146" y="-511"/>
+      <point x="200" y="-467"/>
+      <point x="200" y="-403" type="curve" smooth="yes"/>
+      <point x="200" y="-368"/>
+      <point x="182" y="-334"/>
+      <point x="157" y="-304" type="curve" smooth="yes"/>
+      <point x="127" y="-269"/>
+      <point x="89" y="-243"/>
+      <point x="48" y="-243" type="curve" smooth="yes"/>
+      <point x="9" y="-243"/>
+      <point x="-21" y="-257"/>
+      <point x="-54" y="-282" type="curve"/>
+      <point x="13" y="-377" type="line"/>
+      <point x="39" y="-357"/>
+      <point x="63" y="-343"/>
+      <point x="85" y="-343" type="curve" smooth="yes"/>
+      <point x="100" y="-343"/>
+      <point x="107" y="-353"/>
+      <point x="107" y="-365" type="curve" smooth="yes"/>
+      <point x="107" y="-390"/>
+      <point x="73" y="-417"/>
+      <point x="21" y="-417" type="curve" smooth="yes"/>
+      <point x="-45" y="-417"/>
+      <point x="-87" y="-373"/>
+      <point x="-125" y="-313" type="curve"/>
+      <point x="-208" y="-381" type="line"/>
+      <point x="-118" y="-470"/>
+      <point x="-13" y="-511"/>
+    </contour>
+    <contour>
+      <point x="204" y="-281" type="line"/>
+      <point x="250" y="-225" type="line"/>
+      <point x="0" y="-49" type="line"/>
+      <point x="-237" y="-184" type="line"/>
+      <point x="-147" y="-286" type="line"/>
+      <point x="70" y="-154" type="line"/>
+      <point x="19" y="-150" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

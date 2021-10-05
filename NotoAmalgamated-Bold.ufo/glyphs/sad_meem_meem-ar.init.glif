@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad_meem_meem-ar.init" format="2">
+  <advance width="2419"/>
+  <unicode hex="FDC5"/>
+  <anchor x="1384" y="0" name="caret_1"/>
+  <anchor x="692" y="0" name="caret_2"/>
+  <outline>
+    <component base="sad-ar.init" xOffset="1384"/>
+    <component base="meem-ar.medi" xOffset="692"/>
+    <component base="meem-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>sad-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>meem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

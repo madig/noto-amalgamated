@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalstopcased" format="2">
+  <advance width="479"/>
+  <unicode hex="0242"/>
+  <anchor x="182" y="0" name="bottom"/>
+  <anchor x="298" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="96" y="158" type="curve"/>
+      <point x="63" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="227" y="86" type="line"/>
+      <point x="375" y="147"/>
+      <point x="457" y="237"/>
+      <point x="457" y="377" type="curve" smooth="yes"/>
+      <point x="457" y="476"/>
+      <point x="390" y="556"/>
+      <point x="252" y="556" type="curve" smooth="yes"/>
+      <point x="163" y="556"/>
+      <point x="102" y="531"/>
+      <point x="33" y="495" type="curve"/>
+      <point x="81" y="388" type="line"/>
+      <point x="114" y="406"/>
+      <point x="168" y="436"/>
+      <point x="227" y="436" type="curve" smooth="yes"/>
+      <point x="274" y="436"/>
+      <point x="308" y="407"/>
+      <point x="308" y="362" type="curve" smooth="yes"/>
+      <point x="308" y="252"/>
+      <point x="196" y="194"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

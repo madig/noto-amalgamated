@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehDoachashmee-ar" format="2">
+  <advance width="923"/>
+  <unicode hex="06BE"/>
+  <note>
+uni06BE
+</note>
+  <anchor x="342" y="-78" name="bottom"/>
+  <anchor x="371" y="781" name="top"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="848" y="0" type="line"/>
+      <point x="848" y="318" type="line" smooth="yes"/>
+      <point x="848" y="558"/>
+      <point x="717" y="688"/>
+      <point x="454" y="688" type="curve" smooth="yes"/>
+      <point x="353" y="688"/>
+      <point x="269" y="676"/>
+      <point x="177" y="644" type="curve"/>
+      <point x="211" y="530" type="line"/>
+      <point x="283" y="557"/>
+      <point x="354" y="568"/>
+      <point x="454" y="568" type="curve" smooth="yes"/>
+      <point x="613" y="568"/>
+      <point x="699" y="476"/>
+      <point x="699" y="305" type="curve" smooth="yes"/>
+      <point x="699" y="120" type="line"/>
+      <point x="560" y="120" type="line"/>
+      <point x="560" y="262" type="line" smooth="yes"/>
+      <point x="560" y="389"/>
+      <point x="469" y="480"/>
+      <point x="334" y="480" type="curve" smooth="yes"/>
+      <point x="253" y="480"/>
+      <point x="177" y="438"/>
+      <point x="136" y="370" type="curve" smooth="yes"/>
+      <point x="115" y="335"/>
+      <point x="105" y="299"/>
+      <point x="105" y="260" type="curve" smooth="yes"/>
+      <point x="105" y="191"/>
+      <point x="125" y="145"/>
+      <point x="153" y="120" type="curve"/>
+      <point x="65" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="120" type="line" smooth="yes"/>
+      <point x="298" y="120"/>
+      <point x="258" y="165"/>
+      <point x="258" y="254" type="curve" smooth="yes"/>
+      <point x="258" y="313"/>
+      <point x="290" y="355"/>
+      <point x="335" y="355" type="curve" smooth="yes"/>
+      <point x="388" y="355"/>
+      <point x="411" y="325"/>
+      <point x="411" y="256" type="curve" smooth="yes"/>
+      <point x="411" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 37 values pushed */
+25 38 22 1 7 14 10 14 32 1 38 5 42 41 18 4 71 89 18 18 40 35 23 9 10 40 10 70 89 40 18 35 28 70 89 35 7 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+RTG[ ]	/* RoundToGrid */
+MIAP[1]	/* MoveIndirectAbsPt */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+SHP[1]	/* ShiftPointByLastPoint */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+RTG[ ]	/* RoundToGrid */
+MDAP[1]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

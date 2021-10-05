@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pataUIorya" format="2">
+  <advance width="702"/>
+  <anchor x="646" y="0" name="b.uvowelsignorya"/>
+  <anchor x="349" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="526" y="34" type="line"/>
+      <point x="646" y="34" type="line"/>
+      <point x="646" y="657" type="line"/>
+      <point x="639" y="664" type="line"/>
+      <point x="526" y="637" type="line"/>
+    </contour>
+    <component base="_part.pahalf" xOffset="-5"/>
+    <component base="tasubscriptorya" xOffset="703" yOffset="116"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

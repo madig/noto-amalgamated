@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kastroke-cy.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="049F"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="186" y="280" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="490" y="0" type="line"/>
+      <point x="311" y="286" type="line"/>
+      <point x="478" y="547" type="line"/>
+      <point x="348" y="547" type="line"/>
+      <point x="186" y="284" type="line"/>
+      <point x="186" y="593" type="line"/>
+      <point x="314" y="593" type="line"/>
+      <point x="314" y="687" type="line"/>
+      <point x="186" y="687" type="line"/>
+      <point x="186" y="760" type="line"/>
+      <point x="63" y="760" type="line"/>
+      <point x="63" y="687" type="line"/>
+      <point x="4" y="687" type="line"/>
+      <point x="4" y="593" type="line"/>
+      <point x="63" y="593" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

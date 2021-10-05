@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gmacron.display" format="2">
+  <advance width="530"/>
+  <unicode hex="1E20"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="299" y="853" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="macroncomb" xOffset="298" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

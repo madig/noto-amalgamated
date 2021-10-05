@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yogh" format="2">
+  <advance width="328"/>
+  <unicode hex="021C"/>
+  <anchor x="97" y="-123" name="bottom"/>
+  <anchor x="261" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="-80" y="-152" type="curve"/>
+      <point x="-86" y="-180" type="line"/>
+      <point x="120" y="-112"/>
+      <point x="276" y="-12"/>
+      <point x="276" y="194" type="curve" smooth="yes"/>
+      <point x="276" y="267"/>
+      <point x="244" y="315"/>
+      <point x="205" y="345" type="curve"/>
+      <point x="305" y="398"/>
+      <point x="348" y="479"/>
+      <point x="348" y="584" type="curve" smooth="yes"/>
+      <point x="348" y="681"/>
+      <point x="300" y="724"/>
+      <point x="236" y="724" type="curve" smooth="yes"/>
+      <point x="184" y="724"/>
+      <point x="142" y="695"/>
+      <point x="95" y="648" type="curve"/>
+      <point x="110" y="629" type="line"/>
+      <point x="149" y="670"/>
+      <point x="187" y="699"/>
+      <point x="233" y="699" type="curve" smooth="yes"/>
+      <point x="278" y="699"/>
+      <point x="321" y="673"/>
+      <point x="321" y="584" type="curve" smooth="yes"/>
+      <point x="321" y="463"/>
+      <point x="258" y="369"/>
+      <point x="94" y="329" type="curve"/>
+      <point x="95" y="305" type="line"/>
+      <point x="127" y="313"/>
+      <point x="156" y="323"/>
+      <point x="181" y="333" type="curve"/>
+      <point x="225" y="299"/>
+      <point x="249" y="256"/>
+      <point x="249" y="194" type="curve" smooth="yes"/>
+      <point x="249" y="10"/>
+      <point x="111" y="-86"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

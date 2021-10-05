@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hwair.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="01F6"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="357" name="center"/>
+  <anchor x="300" y="714" name="top"/>
+  <anchor x="20" y="714" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="431" y="-10" type="curve" smooth="yes"/>
+      <point x="510" y="-10"/>
+      <point x="548" y="42"/>
+      <point x="548" y="123" type="curve" smooth="yes"/>
+      <point x="548" y="527" type="line"/>
+      <point x="522" y="527" type="line"/>
+      <point x="522" y="133" type="line" smooth="yes"/>
+      <point x="522" y="58"/>
+      <point x="494" y="15"/>
+      <point x="431" y="15" type="curve" smooth="yes"/>
+      <point x="365" y="15"/>
+      <point x="338" y="60"/>
+      <point x="338" y="133" type="curve" smooth="yes"/>
+      <point x="338" y="714" type="line"/>
+      <point x="312" y="714" type="line"/>
+      <point x="312" y="388" type="line"/>
+      <point x="94" y="388" type="line"/>
+      <point x="94" y="714" type="line"/>
+      <point x="68" y="714" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="94" y="363" type="line"/>
+      <point x="312" y="363" type="line"/>
+      <point x="312" y="123" type="line" smooth="yes"/>
+      <point x="312" y="62"/>
+      <point x="338" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

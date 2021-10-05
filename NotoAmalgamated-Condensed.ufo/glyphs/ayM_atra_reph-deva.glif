@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ayMatra_reph-deva" format="2">
+  <anchor x="0" y="623" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-89" y="615" type="curve"/>
+      <point x="-57" y="615" type="line"/>
+      <point x="-56" y="622"/>
+      <point x="-56" y="631"/>
+      <point x="-56" y="639" type="curve" smooth="yes"/>
+      <point x="-56" y="710"/>
+      <point x="-91" y="753"/>
+      <point x="-154" y="753" type="curve" smooth="yes"/>
+      <point x="-184" y="753"/>
+      <point x="-215" y="748"/>
+      <point x="-243" y="748" type="curve" smooth="yes"/>
+      <point x="-279" y="748"/>
+      <point x="-302" y="762"/>
+      <point x="-306" y="800" type="curve"/>
+      <point x="-340" y="797" type="line"/>
+      <point x="-334" y="722"/>
+      <point x="-298" y="677"/>
+      <point x="-234" y="677" type="curve" smooth="yes"/>
+      <point x="-203" y="677"/>
+      <point x="-178" y="683"/>
+      <point x="-147" y="683" type="curve" smooth="yes"/>
+      <point x="-112" y="683"/>
+      <point x="-88" y="662"/>
+      <point x="-88" y="623" type="curve" smooth="yes"/>
+      <point x="-88" y="620"/>
+      <point x="-88" y="617"/>
+    </contour>
+    <contour>
+      <point x="-51" y="736" type="curve"/>
+      <point x="-8" y="793" type="line"/>
+      <point x="-20" y="818"/>
+      <point x="-39" y="839"/>
+      <point x="-69" y="850" type="curve" smooth="yes"/>
+      <point x="-106" y="864"/>
+      <point x="-141" y="876"/>
+      <point x="-141" y="917" type="curve" smooth="yes"/>
+      <point x="-141" y="920"/>
+      <point x="-141" y="923"/>
+      <point x="-140" y="927" type="curve"/>
+      <point x="-176" y="930" type="line"/>
+      <point x="-181" y="914"/>
+      <point x="-183" y="897"/>
+      <point x="-183" y="875" type="curve" smooth="yes"/>
+      <point x="-183" y="815"/>
+      <point x="-132" y="794"/>
+      <point x="-100" y="781" type="curve" smooth="yes"/>
+      <point x="-77" y="772"/>
+      <point x="-61" y="756"/>
+    </contour>
+    <component base="reph-deva" xOffset="97"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

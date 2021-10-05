@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dddh-deva" format="2">
+  <advance width="506"/>
+  <anchor x="305" y="-140" name="bottom"/>
+  <anchor x="275" y="-100" name="bottom_right"/>
+  <anchor x="373" y="622" name="candra"/>
+  <anchor x="277" y="-190" name="nukta"/>
+  <anchor x="373" y="622" name="top"/>
+  <outline>
+    <component base="dddha-deva"/>
+    <component base="halant-deva" xOffset="305" yOffset="-140"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>halant-deva</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Halfform</string>
+    </dict>
+  </lib>
+</glyph>

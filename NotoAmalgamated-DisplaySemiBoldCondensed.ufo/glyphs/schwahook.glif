@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwahook" format="2">
+  <advance width="635"/>
+  <unicode hex="025A"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="218" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="219" y="-10" type="curve" smooth="yes"/>
+      <point x="350" y="-10"/>
+      <point x="409" y="100"/>
+      <point x="412" y="276" type="curve"/>
+      <point x="441" y="286" type="line"/>
+      <point x="460" y="207"/>
+      <point x="492" y="170"/>
+      <point x="546" y="170" type="curve" smooth="yes"/>
+      <point x="582" y="170"/>
+      <point x="612" y="186"/>
+      <point x="635" y="208" type="curve"/>
+      <point x="600" y="279" type="line"/>
+      <point x="587" y="268"/>
+      <point x="575" y="262"/>
+      <point x="555" y="262" type="curve" smooth="yes"/>
+      <point x="532" y="262"/>
+      <point x="523" y="283"/>
+      <point x="509" y="351" type="curve" smooth="yes"/>
+      <point x="499" y="401" type="line"/>
+      <point x="406" y="367" type="line"/>
+      <point x="388" y="486"/>
+      <point x="323" y="556"/>
+      <point x="204" y="556" type="curve" smooth="yes"/>
+      <point x="147" y="556"/>
+      <point x="99" y="544"/>
+      <point x="56" y="518" type="curve"/>
+      <point x="56" y="410" type="line"/>
+      <point x="102" y="439"/>
+      <point x="140" y="450"/>
+      <point x="185" y="450" type="curve" smooth="yes"/>
+      <point x="249" y="450"/>
+      <point x="281" y="412"/>
+      <point x="283" y="329" type="curve"/>
+      <point x="31" y="238" type="line"/>
+      <point x="31" y="77"/>
+      <point x="100" y="-10"/>
+    </contour>
+    <contour>
+      <point x="216" y="92" type="curve" smooth="yes"/>
+      <point x="181" y="92"/>
+      <point x="160" y="131"/>
+      <point x="155" y="187" type="curve"/>
+      <point x="283" y="236" type="line"/>
+      <point x="283" y="154"/>
+      <point x="264" y="92"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>rhotichookmod</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

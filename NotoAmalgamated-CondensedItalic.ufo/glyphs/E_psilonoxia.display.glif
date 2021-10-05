@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonoxia.display" format="2">
+  <advance width="637"/>
+  <unicode hex="1FC9"/>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="450" y="714" name="top"/>
+  <outline>
+    <component base="oxia" yOffset="10"/>
+    <component base="E" xOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF2A" format="2">
+  <advance height="976" width="1000"/>
+  <unicode hex="FF2A"/>
+  <note>
+uniFF2A
+</note>
+  <outline>
+    <contour>
+      <point x="817" y="710" type="line"/>
+      <point x="817" y="748" type="line"/>
+      <point x="456" y="748" type="line"/>
+      <point x="456" y="710" type="line"/>
+      <point x="604" y="702" type="line"/>
+      <point x="605.32" y="551.22"/>
+      <point x="605.99" y="395.89"/>
+      <point x="606" y="236" type="curve" smooth="yes"/>
+      <point x="605.36" y="94.71"/>
+      <point x="539.7" y="23.38"/>
+      <point x="409" y="22" type="curve" smooth="yes"/>
+      <point x="368.73" y="22.1"/>
+      <point x="334.73" y="28.43"/>
+      <point x="307" y="41" type="curve"/>
+      <point x="283" y="108" type="line" smooth="yes"/>
+      <point x="282.12" y="111.33"/>
+      <point x="281.12" y="114.8"/>
+      <point x="279.98" y="118.4" type="curve" smooth="yes"/>
+      <point x="271.97" y="142.8"/>
+      <point x="257.98" y="155"/>
+      <point x="238" y="155" type="curve" smooth="yes"/>
+      <point x="218.62" y="154.37"/>
+      <point x="205.95" y="144.04"/>
+      <point x="200" y="124" type="curve"/>
+      <point x="221.56" y="30.18"/>
+      <point x="295.56" y="-17.16"/>
+      <point x="422" y="-18" type="curve" smooth="yes"/>
+      <point x="458.53" y="-17.92"/>
+      <point x="492.04" y="-13.86"/>
+      <point x="522.51" y="-5.83" type="curve" smooth="yes"/>
+      <point x="605.7" y="16.65"/>
+      <point x="657.19" y="66.26"/>
+      <point x="677" y="143" type="curve" smooth="yes"/>
+      <point x="688.18" y="186.04"/>
+      <point x="693.84" y="236.37"/>
+      <point x="694" y="294" type="curve" smooth="yes"/>
+      <point x="694" y="402" type="line" smooth="yes"/>
+      <point x="694" y="535.33"/>
+      <point x="694.33" y="635.33"/>
+      <point x="695" y="702" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-18</integer>
+            <integer>40</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>706</integer>
+            <integer>42</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>606</integer>
+            <integer>88</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>836</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nnattaUIorya" format="2">
+  <advance width="712"/>
+  <anchor x="400" y="0" name="b.tasubscriptorya"/>
+  <anchor x="586" y="0" name="b.uvowelsignorya"/>
+  <anchor x="519" y="657" name="t.candrabinduorya"/>
+  <anchor x="320" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="526" y="163" type="line"/>
+      <point x="586" y="177" type="line"/>
+      <point x="586" y="657" type="line"/>
+      <point x="579" y="664" type="line"/>
+      <point x="519" y="650" type="line"/>
+      <point x="519" y="170" type="line"/>
+    </contour>
+    <component base="_part.nnahalf" xOffset="3"/>
+    <component base="ttasubscriptorya" xOffset="654" yOffset="203"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

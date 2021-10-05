@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeh_jeem-ar" format="2">
+  <advance width="1174"/>
+  <unicode hex="FC55"/>
+  <anchor x="751" y="0" name="caret_1"/>
+  <outline>
+    <component base="yeh-ar.init" xOffset="771"/>
+    <component base="jeem-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yeh-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>jeem-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

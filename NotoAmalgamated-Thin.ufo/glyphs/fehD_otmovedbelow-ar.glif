@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehDotmovedbelow-ar" format="2">
+  <advance width="949"/>
+  <unicode hex="06A2"/>
+  <note>
+uni06A2
+</note>
+  <anchor x="740" y="-200" name="bottom"/>
+  <anchor x="743" y="553" name="top"/>
+  <outline>
+    <component base="feh_dotless.isol"/>
+    <component base="onedot.below" xOffset="740"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>feh_dotless.isol</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eldescender-cy" format="2">
+  <advance width="356"/>
+  <unicode hex="052F"/>
+  <anchor x="68" y="-172" name="bottom"/>
+  <anchor x="217" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="209" y="-172" type="line"/>
+      <point x="235" y="-172" type="line"/>
+      <point x="277" y="25" type="line"/>
+      <point x="215" y="25" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="246" y="0" type="line"/>
+    </contour>
+    <component base="el-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

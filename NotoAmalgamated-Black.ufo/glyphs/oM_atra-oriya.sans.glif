@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oMatra-oriya.sans" format="2">
+  <advance width="1328"/>
+  <unicode hex="0B4B"/>
+  <note>
+ovowelsignorya
+</note>
+  <outline>
+    <component base="eMatra-oriya"/>
+    <component base="aaMatra-oriya" xOffset="1066"/>
+    <component base="dottedCircle" xOffset="430"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>eMatra-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaMatra-oriya</string>
+    </dict>
+  </lib>
+</glyph>

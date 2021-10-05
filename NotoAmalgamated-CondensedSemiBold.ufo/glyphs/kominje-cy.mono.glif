@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kominje-cy.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="050B"/>
+  <anchor x="257" y="0" name="bottom"/>
+  <anchor x="176" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="334" y="-10" type="curve" smooth="yes"/>
+      <point x="423" y="-10"/>
+      <point x="466" y="48"/>
+      <point x="466" y="138" type="curve" smooth="yes"/>
+      <point x="466" y="342" type="line"/>
+      <point x="364" y="342" type="line"/>
+      <point x="364" y="130" type="line" smooth="yes"/>
+      <point x="364" y="105"/>
+      <point x="355" y="92"/>
+      <point x="336" y="92" type="curve" smooth="yes"/>
+      <point x="317" y="92"/>
+      <point x="308" y="104"/>
+      <point x="308" y="131" type="curve" smooth="yes"/>
+      <point x="308" y="547" type="line"/>
+      <point x="205" y="547" type="line"/>
+      <point x="205" y="333" type="line"/>
+      <point x="138" y="333" type="line"/>
+      <point x="138" y="547" type="line"/>
+      <point x="36" y="547" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="138" y="235" type="line"/>
+      <point x="205" y="235" type="line"/>
+      <point x="205" y="138" type="line" smooth="yes"/>
+      <point x="205" y="43"/>
+      <point x="244" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

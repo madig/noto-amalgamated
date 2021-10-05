@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ss-deva" format="2">
+  <advance width="325"/>
+  <anchor x="97" y="85" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="242" y="183" type="curve" smooth="yes"/>
+      <point x="294" y="183"/>
+      <point x="339" y="203"/>
+      <point x="380" y="246" type="curve"/>
+      <point x="310" y="338" type="line"/>
+      <point x="273" y="295"/>
+      <point x="237" y="274"/>
+      <point x="202" y="274" type="curve" smooth="yes"/>
+      <point x="172" y="274"/>
+      <point x="153" y="294"/>
+      <point x="153" y="332" type="curve" smooth="yes"/>
+      <point x="153" y="570" type="line"/>
+      <point x="45" y="570" type="line"/>
+      <point x="45" y="388" type="line" smooth="yes"/>
+      <point x="45" y="335"/>
+      <point x="69" y="286"/>
+      <point x="109" y="246" type="curve" smooth="yes"/>
+      <point x="145" y="209"/>
+      <point x="194" y="183"/>
+    </contour>
+    <contour>
+      <point x="302" y="248" type="line"/>
+      <point x="340" y="284" type="line"/>
+      <point x="139" y="550" type="line"/>
+      <point x="96" y="540" type="line"/>
+      <point x="120" y="495"/>
+      <point x="158" y="440"/>
+      <point x="188" y="400" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-12" y="533" type="line"/>
+      <point x="338" y="533" type="line"/>
+      <point x="338" y="545" type="line"/>
+      <point x="295" y="625" type="line"/>
+      <point x="-55" y="625" type="line"/>
+      <point x="-55" y="613" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ssa-deva</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Halfform</string>
+    </dict>
+  </lib>
+</glyph>

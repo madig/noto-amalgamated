@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thanuktaguru" format="2">
+  <advance width="598"/>
+  <note>
+thanuktaguru
+</note>
+  <anchor x="510" y="0" name="bottom"/>
+  <anchor x="474" y="622" name="top"/>
+  <outline>
+    <component base="thaguru"/>
+    <component base="nuktaguru" xOffset="153" yOffset="72"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>thaguru</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>nuktaguru</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>thaguru</string>
+    </dict>
+  </lib>
+</glyph>

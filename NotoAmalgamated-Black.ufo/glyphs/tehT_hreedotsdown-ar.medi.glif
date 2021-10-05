@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehThreedotsdown-ar.medi" format="2">
+  <advance width="479"/>
+  <note>
+uni067D.medi
+</note>
+  <anchor x="239" y="-78" name="bottom"/>
+  <anchor x="229" y="927" name="top"/>
+  <outline>
+    <component base="beh_dotless_alt.medi"/>
+    <component base="threedots.rev.above" xOffset="219"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>beh_dotless_alt.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.rev.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wdotbelow.display" format="2">
+  <advance width="671"/>
+  <unicode hex="1E89"/>
+  <anchor x="246" y="-191" name="bottom"/>
+  <anchor x="390" y="536" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="dotaccent" xOffset="69" yOffset="-839"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

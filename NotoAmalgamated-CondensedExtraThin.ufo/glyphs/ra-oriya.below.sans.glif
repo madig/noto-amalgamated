@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra-oriya.below.sans" format="2">
+  <note>
+rasubscriptorya
+</note>
+  <anchor x="330" y="93" name="_bottom_ra"/>
+  <outline>
+    <component base="_part.ra.below" xOffset="-81"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=pa-oriya-20</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>362</integer>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+      <key>com.schriftgestaltung.componentsSmartComponentValues</key>
+      <array>
+        <dict>
+          <key>Overlap</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

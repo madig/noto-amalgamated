@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alpharetroflexhook.serif" format="2">
+  <advance width="532"/>
+  <unicode hex="1D90"/>
+  <outline>
+    <contour>
+      <point x="560" y="-202" type="curve" smooth="yes"/>
+      <point x="599" y="-202"/>
+      <point x="623" y="-181"/>
+      <point x="623" y="-141" type="curve" smooth="yes"/>
+      <point x="623" y="-125"/>
+      <point x="619" y="-112"/>
+      <point x="612" y="-104" type="curve"/>
+      <point x="601" y="-113"/>
+      <point x="590" y="-120"/>
+      <point x="572" y="-120" type="curve" smooth="yes"/>
+      <point x="539" y="-120"/>
+      <point x="521" y="-97"/>
+      <point x="521" y="-41" type="curve" smooth="yes"/>
+      <point x="521" y="49" type="line"/>
+      <point x="467" y="49" type="line"/>
+      <point x="467" y="-37" type="line" smooth="yes"/>
+      <point x="467" y="-142"/>
+      <point x="498" y="-202"/>
+    </contour>
+    <component base="alpha-latin"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

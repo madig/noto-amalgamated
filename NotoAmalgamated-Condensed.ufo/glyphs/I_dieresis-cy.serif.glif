@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis-cy.serif" format="2">
+  <advance width="638"/>
+  <unicode hex="04E4"/>
+  <anchor x="319" y="0" name="bottom"/>
+  <anchor x="319" y="910" name="top"/>
+  <outline>
+    <component base="dieresis" xOffset="91" yOffset="165"/>
+    <component base="Ii-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

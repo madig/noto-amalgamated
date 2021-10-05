@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhook.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="0224"/>
+  <anchor x="266" y="-240" name="bottom"/>
+  <anchor x="250" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="319" y="-221" type="curve" smooth="yes"/>
+      <point x="409" y="-221"/>
+      <point x="466" y="-162"/>
+      <point x="466" y="-44" type="curve" smooth="yes"/>
+      <point x="466" y="119" type="line"/>
+      <point x="335" y="119" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="344" y="-42" type="line" smooth="yes"/>
+      <point x="344" y="-90"/>
+      <point x="327" y="-110"/>
+      <point x="281" y="-110" type="curve" smooth="yes"/>
+      <point x="266" y="-110"/>
+      <point x="252" y="-107"/>
+      <point x="236" y="-101" type="curve"/>
+      <point x="236" y="-211" type="line"/>
+      <point x="255" y="-218"/>
+      <point x="283" y="-221"/>
+    </contour>
+    <component base="Z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Z</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

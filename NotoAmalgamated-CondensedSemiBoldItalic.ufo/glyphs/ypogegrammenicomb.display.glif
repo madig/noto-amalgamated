@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ypogegrammenicomb.display" format="2">
+  <unicode hex="0345"/>
+  <anchor x="-28" y="0" name="_bottom"/>
+  <anchor x="-63" y="-233" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-61" y="-233" type="curve" smooth="yes"/>
+      <point x="-36" y="-233"/>
+      <point x="-11" y="-227"/>
+      <point x="5" y="-221" type="curve"/>
+      <point x="20" y="-146" type="line"/>
+      <point x="12" y="-149"/>
+      <point x="0" y="-151"/>
+      <point x="-12" y="-151" type="curve" smooth="yes"/>
+      <point x="-26" y="-151"/>
+      <point x="-36" y="-145"/>
+      <point x="-36" y="-127" type="curve" smooth="yes"/>
+      <point x="-36" y="-123"/>
+      <point x="-35" y="-117"/>
+      <point x="-33" y="-111" type="curve" smooth="yes"/>
+      <point x="-21" y="-56" type="line"/>
+      <point x="-117" y="-56" type="line"/>
+      <point x="-134" y="-133" type="line" smooth="yes"/>
+      <point x="-137" y="-145"/>
+      <point x="-138" y="-155"/>
+      <point x="-138" y="-165" type="curve" smooth="yes"/>
+      <point x="-138" y="-210"/>
+      <point x="-110" y="-233"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

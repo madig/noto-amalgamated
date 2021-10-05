@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clicklateral.serif" format="2">
+  <advance width="559"/>
+  <unicode hex="01C1"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="280" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="332" y="0" type="line"/>
+      <point x="425" y="0" type="line"/>
+      <point x="425" y="760" type="line"/>
+      <point x="332" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="135" y="0" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="228" y="760" type="line"/>
+      <point x="135" y="760" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase.serif" format="2">
+  <advance width="432"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="228" y="-100" type="curve"/>
+      <point x="228" y="-154" type="line"/>
+      <point x="343" y="-119"/>
+      <point x="387" y="-43"/>
+      <point x="387" y="42" type="curve" smooth="yes"/>
+      <point x="387" y="113"/>
+      <point x="356" y="158"/>
+      <point x="301" y="158" type="curve" smooth="yes"/>
+      <point x="264" y="158"/>
+      <point x="236" y="133"/>
+      <point x="236" y="87" type="curve" smooth="yes"/>
+      <point x="236" y="2"/>
+      <point x="297" y="13"/>
+      <point x="297" y="-24" type="curve"/>
+      <point x="297" y="-63"/>
+      <point x="272" y="-79"/>
+    </contour>
+    <contour>
+      <point x="46" y="-100" type="curve"/>
+      <point x="46" y="-154" type="line"/>
+      <point x="162" y="-119"/>
+      <point x="205" y="-43"/>
+      <point x="205" y="42" type="curve" smooth="yes"/>
+      <point x="205" y="113"/>
+      <point x="175" y="158"/>
+      <point x="119" y="158" type="curve" smooth="yes"/>
+      <point x="82" y="158"/>
+      <point x="55" y="133"/>
+      <point x="55" y="87" type="curve" smooth="yes"/>
+      <point x="55" y="2"/>
+      <point x="116" y="13"/>
+      <point x="116" y="-24" type="curve" smooth="yes"/>
+      <point x="116" y="-63"/>
+      <point x="91" y="-79"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Quote</string>
+    </dict>
+  </lib>
+</glyph>

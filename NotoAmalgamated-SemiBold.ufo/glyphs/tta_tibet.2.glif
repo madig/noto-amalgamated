@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tta_tibet.2" format="2">
+  <advance width="638"/>
+  <anchor x="294" y="156" name="bottom"/>
+  <anchor x="565" y="202.703" name="bottomright"/>
+  <anchor x="585" y="678" name="flag"/>
+  <anchor x="325" y="678" name="top"/>
+  <anchor x="85.26" y="678" name="topleft"/>
+  <anchor x="585" y="678" name="topright"/>
+  <outline>
+    <contour>
+      <point x="340" y="172" type="curve"/>
+      <point x="361" y="201" type="line"/>
+      <point x="255" y="255"/>
+      <point x="214" y="285"/>
+      <point x="214" y="326" type="curve" smooth="yes"/>
+      <point x="214" y="360"/>
+      <point x="241" y="382"/>
+      <point x="315" y="382" type="curve" smooth="yes"/>
+      <point x="384" y="382"/>
+      <point x="438" y="368"/>
+      <point x="483" y="338" type="curve"/>
+      <point x="484" y="413" type="line"/>
+      <point x="441" y="471"/>
+      <point x="366" y="500"/>
+      <point x="273" y="500" type="curve" smooth="yes"/>
+      <point x="151" y="500"/>
+      <point x="68" y="446"/>
+      <point x="68" y="361" type="curve" smooth="yes"/>
+      <point x="68" y="276"/>
+      <point x="154" y="222"/>
+    </contour>
+    <contour>
+      <point x="470" y="312" type="curve"/>
+      <point x="547" y="279" type="line"/>
+      <point x="555" y="403"/>
+      <point x="569" y="555"/>
+      <point x="585" y="678" type="curve"/>
+      <point x="462" y="615" type="line"/>
+      <point x="466" y="532"/>
+      <point x="470" y="425"/>
+    </contour>
+    <contour>
+      <point x="549" y="546" type="line"/>
+      <point x="585" y="678" type="line"/>
+      <point x="85" y="678" type="line"/>
+      <point x="54" y="546" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tta_tibet</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

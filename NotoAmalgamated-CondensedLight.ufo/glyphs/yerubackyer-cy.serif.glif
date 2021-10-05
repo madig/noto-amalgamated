@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yerubackyer-cy.serif" format="2">
+  <advance width="661"/>
+  <unicode hex="A651"/>
+  <outline>
+    <contour>
+      <point x="462" y="0" type="line"/>
+      <point x="627" y="0" type="line"/>
+      <point x="627" y="20" type="line"/>
+      <point x="623" y="20" type="line" smooth="yes"/>
+      <point x="563" y="20"/>
+      <point x="557" y="26"/>
+      <point x="557" y="96" type="curve" smooth="yes"/>
+      <point x="557" y="440" type="line" smooth="yes"/>
+      <point x="557" y="509"/>
+      <point x="563" y="516"/>
+      <point x="623" y="516" type="curve" smooth="yes"/>
+      <point x="627" y="516" type="line"/>
+      <point x="627" y="536" type="line"/>
+      <point x="462" y="536" type="line"/>
+      <point x="462" y="516" type="line"/>
+      <point x="467" y="516" type="line" smooth="yes"/>
+      <point x="523" y="516"/>
+      <point x="529" y="509"/>
+      <point x="529" y="440" type="curve" smooth="yes"/>
+      <point x="529" y="96" type="line" smooth="yes"/>
+      <point x="529" y="26"/>
+      <point x="523" y="20"/>
+      <point x="463" y="20" type="curve" smooth="yes"/>
+      <point x="462" y="20" type="line"/>
+    </contour>
+    <component base="hardsign-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

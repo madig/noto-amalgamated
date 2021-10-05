@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kstrokediagonalstroke.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="A745"/>
+  <outline>
+    <contour>
+      <point x="251" y="21" type="line"/>
+      <point x="464" y="141" type="line"/>
+      <point x="413" y="230" type="line"/>
+      <point x="203" y="110" type="line"/>
+    </contour>
+    <component base="kstroke"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>kstroke</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

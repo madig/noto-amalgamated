@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lambda" format="2">
+  <advance width="500"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="-48" y="0" type="line"/>
+      <point x="-18" y="0" type="line"/>
+      <point x="305" y="594" type="line" smooth="yes"/>
+      <point x="320" y="622"/>
+      <point x="335" y="652"/>
+      <point x="350" y="682" type="curve"/>
+      <point x="352" y="682" type="line"/>
+      <point x="354" y="651"/>
+      <point x="357" y="620"/>
+      <point x="360" y="594" type="curve"/>
+      <point x="428" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="370" y="716" type="line"/>
+      <point x="346" y="716" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=A</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

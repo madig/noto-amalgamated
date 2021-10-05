@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildemacron.serif" format="2">
+  <advance width="503"/>
+  <unicode hex="022D"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="252" y="849" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildemacron" xOffset="48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

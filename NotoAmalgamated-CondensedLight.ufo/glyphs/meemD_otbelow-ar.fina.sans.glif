@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meemDotbelow-ar.fina.sans" format="2">
+  <advance width="457"/>
+  <outline>
+    <component base="meem-ar.fina"/>
+    <component base="dotbelow-ar.restricted" xOffset="171"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelow-ar.restricted</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

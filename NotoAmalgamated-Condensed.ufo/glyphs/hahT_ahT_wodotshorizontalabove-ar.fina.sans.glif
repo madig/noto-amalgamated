@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahTahTwodotshorizontalabove-ar.fina.sans" format="2">
+  <advance width="600"/>
+  <anchor x="314" y="496" name="top"/>
+  <outline>
+    <component base="hah-ar.fina.wide"/>
+    <component base="TahSmallTwoDots.restricted" xOffset="144" yOffset="-196"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>TahSmallTwoDots.restricted</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hah-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hah-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

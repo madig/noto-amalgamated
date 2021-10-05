@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mhook" format="2">
+  <advance width="841"/>
+  <unicode hex="2C6E"/>
+  <anchor x="317" y="-212" name="bottom"/>
+  <anchor x="515" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="494" y="-212" type="curve" smooth="yes"/>
+      <point x="611" y="-212"/>
+      <point x="673" y="-143"/>
+      <point x="707" y="20" type="curve" smooth="yes"/>
+      <point x="853" y="714" type="line"/>
+      <point x="648" y="714" type="line"/>
+      <point x="394" y="180" type="line"/>
+      <point x="390" y="180" type="line"/>
+      <point x="371" y="714" type="line"/>
+      <point x="174" y="714" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="224" y="332" type="line" smooth="yes"/>
+      <point x="241" y="414"/>
+      <point x="256" y="510"/>
+      <point x="263" y="553" type="curve"/>
+      <point x="267" y="553" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="685" y="553" type="line"/>
+      <point x="688" y="553" type="line"/>
+      <point x="674" y="494"/>
+      <point x="651" y="406"/>
+      <point x="637" y="338" type="curve" smooth="yes"/>
+      <point x="576" y="40" type="line" smooth="yes"/>
+      <point x="558" y="-50"/>
+      <point x="530" y="-84"/>
+      <point x="482" y="-84" type="curve" smooth="yes"/>
+      <point x="456" y="-84"/>
+      <point x="436" y="-79"/>
+      <point x="420" y="-74" type="curve"/>
+      <point x="419" y="-199" type="line"/>
+      <point x="439" y="-206"/>
+      <point x="459" y="-212"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

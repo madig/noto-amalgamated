@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oopenstroke-blackletter.display" format="2">
+  <advance width="380"/>
+  <unicode hex="AB3F"/>
+  <anchor x="119" y="-66" name="bottom"/>
+  <anchor x="252" y="562" name="top"/>
+  <anchor x="397" y="562" name="topright"/>
+  <outline>
+    <contour>
+      <point x="23" y="-66" type="line"/>
+      <point x="34" y="-66" type="line"/>
+      <point x="361" y="562" type="line"/>
+      <point x="350" y="562" type="line"/>
+    </contour>
+    <component base="c" xScale="-1" yScale="-1" xOffset="374" yOffset="536"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

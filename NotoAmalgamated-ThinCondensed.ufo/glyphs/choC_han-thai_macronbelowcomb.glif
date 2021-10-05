@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="choChan-thai_macronbelowcomb" format="2">
+  <advance width="385"/>
+  <anchor x="225" y="-97" name="bottom"/>
+  <anchor x="347" y="-97" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="347" y="-77" type="line"/>
+      <point x="102" y="-77" type="line"/>
+      <point x="102" y="-97" type="line"/>
+      <point x="347" y="-97" type="line"/>
+    </contour>
+    <component base="choChan-thai"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

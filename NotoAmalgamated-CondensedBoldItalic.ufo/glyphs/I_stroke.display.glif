@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Istroke.display" format="2">
+  <advance width="394"/>
+  <unicode hex="0197"/>
+  <anchor x="132" y="0" name="bottom"/>
+  <anchor x="284" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="39" y="370" type="line"/>
+      <point x="378" y="370" type="line"/>
+      <point x="380" y="380" type="line"/>
+      <point x="41" y="380" type="line"/>
+    </contour>
+    <component base="I" xOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

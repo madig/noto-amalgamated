@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aa-gujarati" format="2">
+  <advance width="1294"/>
+  <unicode hex="0A86"/>
+  <anchor x="1085" y="592" name="top"/>
+  <anchor x="1085" y="592" name="topright"/>
+  <outline>
+    <component base="a-gujarati"/>
+    <component base="aaMatra-gujarati" xOffset="958"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

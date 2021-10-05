@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rmiddletilde.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="1D72"/>
+  <outline>
+    <contour>
+      <point x="78" y="182" type="curve"/>
+      <point x="150" y="182" type="line"/>
+      <point x="156" y="218"/>
+      <point x="166" y="234"/>
+      <point x="190" y="234" type="curve" smooth="yes"/>
+      <point x="234" y="234"/>
+      <point x="292" y="183"/>
+      <point x="348" y="183" type="curve" smooth="yes"/>
+      <point x="406" y="183"/>
+      <point x="453" y="233"/>
+      <point x="458" y="333" type="curve"/>
+      <point x="386" y="333" type="line"/>
+      <point x="379" y="299"/>
+      <point x="369" y="281"/>
+      <point x="346" y="281" type="curve" smooth="yes"/>
+      <point x="298" y="281"/>
+      <point x="246" y="332"/>
+      <point x="188" y="332" type="curve" smooth="yes"/>
+      <point x="118" y="332"/>
+      <point x="83" y="265"/>
+    </contour>
+    <component base="r" xOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>r</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

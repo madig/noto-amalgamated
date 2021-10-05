@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashsideways.serif" format="2">
+  <advance width="663"/>
+  <unicode hex="1D13"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="389" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="609" y="6" type="line"/>
+      <point x="609" y="103" type="line"/>
+      <point x="29" y="536" type="line"/>
+      <point x="29" y="448" type="line"/>
+    </contour>
+    <component base="osideways" xOffset="-13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>osideways</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

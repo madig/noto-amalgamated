@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddhanuktaprehalfguru" format="2">
+  <advance width="661"/>
+  <note>
+ddhanuktaprehalfguru
+</note>
+  <outline>
+    <component base="ddhanuktaguru"/>
+    <component base="halantguru" xOffset="611" yOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>halantguru</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

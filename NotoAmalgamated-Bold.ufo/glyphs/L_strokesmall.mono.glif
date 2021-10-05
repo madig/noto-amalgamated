@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lstrokesmall.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="1D0C"/>
+  <anchor x="325" y="0" name="bottom"/>
+  <anchor x="202" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="82" y="161" type="line"/>
+      <point x="377" y="338" type="line"/>
+      <point x="325" y="421" type="line"/>
+      <point x="33" y="247" type="line"/>
+    </contour>
+    <component base="Lsmall"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Lsmall</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

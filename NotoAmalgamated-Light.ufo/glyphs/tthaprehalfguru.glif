@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tthaprehalfguru" format="2">
+  <advance width="555"/>
+  <note>
+tthaprehalfguru
+</note>
+  <outline>
+    <component base="tthaguru"/>
+    <component base="halantguru" xOffset="422"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>halantguru</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>tthaguru</string>
+    </dict>
+  </lib>
+</glyph>

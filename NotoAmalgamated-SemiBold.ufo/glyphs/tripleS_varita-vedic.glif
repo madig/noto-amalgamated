@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tripleSvarita-vedic" format="2">
+  <unicode hex="1CDB"/>
+  <note>
+uni1CDB
+</note>
+  <anchor x="-65" y="626" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-311" y="673" type="line"/>
+      <point x="-223" y="673" type="line"/>
+      <point x="-223" y="875" type="line"/>
+      <point x="-311" y="875" type="line"/>
+    </contour>
+    <contour>
+      <point x="-179" y="673" type="line"/>
+      <point x="-91" y="673" type="line"/>
+      <point x="-91" y="875" type="line"/>
+      <point x="-179" y="875" type="line"/>
+    </contour>
+    <contour>
+      <point x="-47" y="673" type="line"/>
+      <point x="41" y="673" type="line"/>
+      <point x="41" y="875" type="line"/>
+      <point x="-47" y="875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>vedic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

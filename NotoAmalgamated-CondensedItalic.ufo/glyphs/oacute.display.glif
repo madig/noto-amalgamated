@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oacute.display" format="2">
+  <advance width="400"/>
+  <unicode hex="00F3"/>
+  <anchor x="143" y="0" name="bottom"/>
+  <anchor x="307" y="772" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="acute" xOffset="99" yOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

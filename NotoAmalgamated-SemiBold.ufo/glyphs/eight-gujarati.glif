@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight-gujarati" format="2">
+  <advance width="486"/>
+  <unicode hex="0AEE"/>
+  <outline>
+    <contour>
+      <point x="257" y="-6" type="curve" smooth="yes"/>
+      <point x="338" y="-6"/>
+      <point x="391" y="29"/>
+      <point x="445" y="86" type="curve"/>
+      <point x="357" y="175" type="line"/>
+      <point x="300" y="117"/>
+      <point x="258" y="85"/>
+      <point x="204" y="85" type="curve" smooth="yes"/>
+      <point x="161" y="85"/>
+      <point x="126" y="113"/>
+      <point x="126" y="162" type="curve" smooth="yes"/>
+      <point x="126" y="238"/>
+      <point x="200" y="337"/>
+      <point x="452" y="501" type="curve"/>
+      <point x="370" y="599" type="line"/>
+      <point x="106" y="425"/>
+      <point x="30" y="312"/>
+      <point x="30" y="208" type="curve" smooth="yes"/>
+      <point x="30" y="153"/>
+      <point x="57" y="104"/>
+      <point x="96" y="65" type="curve" smooth="yes"/>
+      <point x="138" y="24"/>
+      <point x="194" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

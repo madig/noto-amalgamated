@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yabBerber-tifi" format="2">
+  <advance width="779"/>
+  <note>
+uni2D40
+</note>
+  <anchor x="389" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="345" y="18" type="line"/>
+      <point x="434" y="18" type="line"/>
+      <point x="434" y="683" type="line"/>
+      <point x="345" y="683" type="line"/>
+    </contour>
+    <component base="yar-tifi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

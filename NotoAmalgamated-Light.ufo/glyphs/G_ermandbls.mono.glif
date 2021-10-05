@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Germandbls.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="1E9E"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="331" y="-7" type="curve" smooth="yes"/>
+      <point x="468" y="-7"/>
+      <point x="545" y="81"/>
+      <point x="545" y="207" type="curve" smooth="yes"/>
+      <point x="545" y="339"/>
+      <point x="460" y="405"/>
+      <point x="333" y="405" type="curve"/>
+      <point x="487" y="584" type="line"/>
+      <point x="460" y="660"/>
+      <point x="410" y="722"/>
+      <point x="297" y="722" type="curve" smooth="yes"/>
+      <point x="167" y="722"/>
+      <point x="97" y="639"/>
+      <point x="97" y="480" type="curve" smooth="yes"/>
+      <point x="97" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="476" type="line" smooth="yes"/>
+      <point x="123" y="623"/>
+      <point x="180" y="697"/>
+      <point x="295" y="697" type="curve" smooth="yes"/>
+      <point x="398" y="697"/>
+      <point x="439" y="638"/>
+      <point x="457" y="586" type="curve"/>
+      <point x="303" y="406" type="line"/>
+      <point x="303" y="380" type="line"/>
+      <point x="329" y="380" type="line" smooth="yes"/>
+      <point x="446" y="380"/>
+      <point x="518" y="328"/>
+      <point x="518" y="207" type="curve" smooth="yes"/>
+      <point x="518" y="92"/>
+      <point x="453" y="18"/>
+      <point x="334" y="18" type="curve" smooth="yes"/>
+      <point x="276" y="18"/>
+      <point x="238" y="36"/>
+      <point x="217" y="49" type="curve"/>
+      <point x="217" y="19" type="line"/>
+      <point x="233" y="10"/>
+      <point x="271" y="-7"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

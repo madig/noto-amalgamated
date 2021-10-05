@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Turnede" format="2">
+  <advance width="331"/>
+  <unicode hex="2C7B"/>
+  <anchor x="111" y="0" name="bottom"/>
+  <anchor x="217" y="549" name="top"/>
+  <outline>
+    <contour>
+      <point x="-19" y="0" type="line"/>
+      <point x="223" y="0" type="line"/>
+      <point x="342" y="549" type="line"/>
+      <point x="99" y="549" type="line"/>
+      <point x="77" y="447" type="line"/>
+      <point x="200" y="447" type="line"/>
+      <point x="175" y="335" type="line"/>
+      <point x="62" y="335" type="line"/>
+      <point x="39" y="234" type="line"/>
+      <point x="154" y="234" type="line"/>
+      <point x="125" y="102" type="line"/>
+      <point x="1" y="102" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

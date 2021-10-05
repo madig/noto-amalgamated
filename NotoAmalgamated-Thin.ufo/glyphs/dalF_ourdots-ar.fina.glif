@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalFourdots-ar.fina" format="2">
+  <advance width="483"/>
+  <note>
+uni0690.fina
+</note>
+  <anchor x="212" y="-78" name="bottom"/>
+  <anchor x="184" y="789" name="top"/>
+  <outline>
+    <component base="dal-ar.fina"/>
+    <component base="fourdots.above" xOffset="179" yOffset="-70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dal-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fourdots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

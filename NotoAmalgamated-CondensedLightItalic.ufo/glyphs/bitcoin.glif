@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bitcoin" format="2">
+  <advance width="343"/>
+  <unicode hex="20BF"/>
+  <outline>
+    <contour>
+      <point x="4" y="0" type="line"/>
+      <point x="88" y="0" type="line" smooth="yes"/>
+      <point x="231" y="0"/>
+      <point x="296" y="109"/>
+      <point x="296" y="242" type="curve" smooth="yes"/>
+      <point x="296" y="316"/>
+      <point x="262" y="361"/>
+      <point x="214" y="372" type="curve"/>
+      <point x="214" y="374" type="line"/>
+      <point x="310" y="395"/>
+      <point x="353" y="491"/>
+      <point x="353" y="584" type="curve" smooth="yes"/>
+      <point x="353" y="662"/>
+      <point x="314" y="714"/>
+      <point x="225" y="714" type="curve" smooth="yes"/>
+      <point x="154" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="89" y="25" type="curve" smooth="yes"/>
+      <point x="35" y="25" type="line"/>
+      <point x="107" y="363" type="line"/>
+      <point x="149" y="363" type="line" smooth="yes"/>
+      <point x="220" y="363"/>
+      <point x="269" y="331"/>
+      <point x="269" y="239" type="curve" smooth="yes"/>
+      <point x="269" y="135"/>
+      <point x="224" y="25"/>
+    </contour>
+    <contour>
+      <point x="158" y="388" type="curve" smooth="yes"/>
+      <point x="112" y="388" type="line"/>
+      <point x="175" y="689" type="line"/>
+      <point x="220" y="689" type="line" smooth="yes"/>
+      <point x="293" y="689"/>
+      <point x="326" y="651"/>
+      <point x="326" y="582" type="curve" smooth="yes"/>
+      <point x="326" y="491"/>
+      <point x="281" y="388"/>
+    </contour>
+    <contour>
+      <point x="203" y="694" type="line"/>
+      <point x="229" y="694" type="line"/>
+      <point x="255" y="815" type="line"/>
+      <point x="229" y="815" type="line"/>
+    </contour>
+    <contour>
+      <point x="283" y="685" type="line"/>
+      <point x="309" y="685" type="line"/>
+      <point x="337" y="815" type="line"/>
+      <point x="311" y="815" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="-98" type="line"/>
+      <point x="60" y="-98" type="line"/>
+      <point x="86" y="23" type="line"/>
+      <point x="60" y="23" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="-98" type="line"/>
+      <point x="142" y="-98" type="line"/>
+      <point x="168" y="23" type="line"/>
+      <point x="142" y="23" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>zero</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

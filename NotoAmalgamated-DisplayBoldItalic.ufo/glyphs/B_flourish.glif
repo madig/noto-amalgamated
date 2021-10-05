@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bflourish" format="2">
+  <advance width="781"/>
+  <unicode hex="A796"/>
+  <outline>
+    <contour>
+      <point x="22" y="190" type="curve"/>
+      <point x="148" y="190" type="line"/>
+      <point x="148" y="197"/>
+      <point x="147" y="210"/>
+      <point x="147" y="223" type="curve" smooth="yes"/>
+      <point x="147" y="271"/>
+      <point x="170" y="299"/>
+      <point x="248" y="299" type="curve" smooth="yes"/>
+      <point x="355" y="299" type="line"/>
+      <point x="384" y="440" type="line"/>
+      <point x="258" y="440" type="line" smooth="yes"/>
+      <point x="106" y="440"/>
+      <point x="18" y="387"/>
+      <point x="18" y="241" type="curve" smooth="yes"/>
+      <point x="18" y="225"/>
+      <point x="19" y="204"/>
+    </contour>
+    <component base="B" xOffset="176"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>B</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

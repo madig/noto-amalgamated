@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphaypogegrammeni.display" format="2">
+  <advance width="702"/>
+  <unicode hex="1FB3"/>
+  <anchor x="246" y="-227" name="bottom"/>
+  <anchor x="408" y="536" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="prosgegrammeni" xOffset="143" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>alpha</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

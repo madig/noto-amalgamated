@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kasraDotbelow-ar" format="2">
+  <unicode hex="08F6"/>
+  <anchor x="152" y="0" name="_bottom"/>
+  <anchor x="162" y="-283" name="bottom"/>
+  <outline>
+    <component base="kasra-ar" xOffset="11"/>
+    <component base="toneonedotbelow-ar" xOffset="101" yOffset="-104"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>kasra-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>toneonedotbelow-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=fatha-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=fatha-ar</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>284</integer>
+      <key>com.schriftgestaltung.componentsLocked</key>
+      <array>
+        <true/>
+        <false/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

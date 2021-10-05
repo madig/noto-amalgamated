@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="da_rVocalicMatra-deva" format="2">
+  <advance width="348"/>
+  <anchor x="189" y="-260" name="bottom_right"/>
+  <anchor x="261" y="622" name="candra"/>
+  <anchor x="194" y="-31" name="nukta"/>
+  <anchor x="261" y="622" name="top"/>
+  <outline>
+    <contour>
+      <point x="374" y="-251" type="curve" smooth="yes"/>
+      <point x="408" y="-251"/>
+      <point x="436" y="-237"/>
+      <point x="463" y="-210" type="curve"/>
+      <point x="444" y="-189" type="line"/>
+      <point x="420" y="-214"/>
+      <point x="399" y="-227"/>
+      <point x="368" y="-227" type="curve" smooth="yes"/>
+      <point x="321" y="-227"/>
+      <point x="291" y="-195"/>
+      <point x="291" y="-144" type="curve" smooth="yes"/>
+      <point x="291" y="-103"/>
+      <point x="308" y="-69"/>
+      <point x="350" y="-43" type="curve"/>
+      <point x="323" y="-8"/>
+      <point x="293" y="36"/>
+      <point x="270" y="82" type="curve"/>
+      <point x="269" y="72" type="line"/>
+      <point x="299" y="83"/>
+      <point x="315" y="103"/>
+      <point x="315" y="129" type="curve" smooth="yes"/>
+      <point x="315" y="156"/>
+      <point x="296" y="188"/>
+      <point x="267" y="188" type="curve" smooth="yes"/>
+      <point x="244" y="188"/>
+      <point x="230" y="170"/>
+      <point x="230" y="143" type="curve" smooth="yes"/>
+      <point x="230" y="128"/>
+      <point x="234" y="109"/>
+      <point x="243" y="88" type="curve"/>
+      <point x="251" y="98" type="line"/>
+      <point x="241" y="94"/>
+      <point x="229" y="92"/>
+      <point x="217" y="92" type="curve" smooth="yes"/>
+      <point x="129" y="92"/>
+      <point x="68" y="159"/>
+      <point x="68" y="253" type="curve" smooth="yes"/>
+      <point x="68" y="352"/>
+      <point x="136" y="416"/>
+      <point x="237" y="416" type="curve" smooth="yes"/>
+      <point x="247" y="416"/>
+      <point x="258" y="416"/>
+      <point x="265" y="415" type="curve"/>
+      <point x="265" y="608" type="line"/>
+      <point x="237" y="608" type="line"/>
+      <point x="237" y="429" type="line"/>
+      <point x="252" y="439" type="line"/>
+      <point x="246" y="440"/>
+      <point x="238" y="440"/>
+      <point x="232" y="440" type="curve" smooth="yes"/>
+      <point x="121" y="440"/>
+      <point x="40" y="367"/>
+      <point x="40" y="258" type="curve" smooth="yes"/>
+      <point x="40" y="203"/>
+      <point x="60" y="154"/>
+      <point x="94" y="119" type="curve" smooth="yes"/>
+      <point x="125" y="86"/>
+      <point x="169" y="65"/>
+      <point x="222" y="65" type="curve" smooth="yes"/>
+      <point x="234" y="65"/>
+      <point x="246" y="66"/>
+      <point x="255" y="69" type="curve"/>
+      <point x="249" y="73" type="line"/>
+      <point x="263" y="41"/>
+      <point x="286" y="0"/>
+      <point x="317" y="-48" type="curve"/>
+      <point x="322" y="-30" type="line"/>
+      <point x="283" y="-57"/>
+      <point x="263" y="-97"/>
+      <point x="263" y="-139" type="curve" smooth="yes"/>
+      <point x="263" y="-172"/>
+      <point x="276" y="-202"/>
+      <point x="299" y="-223" type="curve" smooth="yes"/>
+      <point x="318" y="-241"/>
+      <point x="345" y="-251"/>
+    </contour>
+    <contour>
+      <point x="-9" y="598" type="line"/>
+      <point x="367" y="598" type="line"/>
+      <point x="367" y="603" type="line"/>
+      <point x="357" y="622" type="line"/>
+      <point x="-19" y="622" type="line"/>
+      <point x="-19" y="617" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

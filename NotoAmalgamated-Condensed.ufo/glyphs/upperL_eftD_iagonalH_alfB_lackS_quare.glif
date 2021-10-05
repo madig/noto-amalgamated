@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upperLeftDiagonalHalfBlackSquare" format="2">
+  <advance width="1000"/>
+  <unicode hex="25E9"/>
+  <outline>
+    <contour>
+      <point x="252" y="60" type="line"/>
+      <point x="749" y="60" type="line"/>
+      <point x="749" y="557" type="line"/>
+      <point x="252" y="557" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="96" type="line"/>
+      <point x="714" y="517" type="line"/>
+      <point x="714" y="96" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+    </dict>
+  </lib>
+</glyph>

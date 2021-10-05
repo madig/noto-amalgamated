@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowernumeral-greek.serif" format="2">
+  <advance width="188"/>
+  <unicode hex="0375"/>
+  <outline>
+    <contour>
+      <point x="24" y="-229" type="curve"/>
+      <point x="24" y="-240" type="line"/>
+      <point x="114" y="-240" type="line"/>
+      <point x="119" y="-198"/>
+      <point x="143" y="-105"/>
+      <point x="163" y="-53" type="curve"/>
+      <point x="163" y="-38" type="line"/>
+      <point x="148" y="-38" type="line"/>
+      <point x="106" y="-88"/>
+      <point x="45" y="-182"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

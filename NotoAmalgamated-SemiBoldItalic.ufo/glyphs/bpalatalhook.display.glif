@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bpalatalhook.display" format="2">
+  <advance width="630"/>
+  <unicode hex="1D80"/>
+  <outline>
+    <contour>
+      <point x="322" y="-197" type="curve" smooth="yes"/>
+      <point x="390" y="-197"/>
+      <point x="418" y="-149"/>
+      <point x="438" y="-55" type="curve" smooth="yes"/>
+      <point x="474" y="114" type="line"/>
+      <point x="463" y="114" type="line"/>
+      <point x="431" y="-38" type="line" smooth="yes"/>
+      <point x="417" y="-103"/>
+      <point x="381" y="-134"/>
+      <point x="335" y="-134" type="curve" smooth="yes"/>
+      <point x="301" y="-134"/>
+      <point x="287" y="-116"/>
+      <point x="281" y="-100" type="curve"/>
+      <point x="267" y="-110"/>
+      <point x="260" y="-124"/>
+      <point x="260" y="-143" type="curve" smooth="yes"/>
+      <point x="260" y="-172"/>
+      <point x="281" y="-197"/>
+    </contour>
+    <component base="b"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

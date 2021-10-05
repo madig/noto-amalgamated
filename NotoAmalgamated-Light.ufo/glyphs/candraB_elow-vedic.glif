@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="candraBelow-vedic" format="2">
+  <unicode hex="1CD8"/>
+  <note>
+uni1CD8
+</note>
+  <anchor x="-121" y="0" name="_bottom_right"/>
+  <outline>
+    <contour>
+      <point x="-116" y="-263" type="curve" smooth="yes"/>
+      <point x="-18" y="-263"/>
+      <point x="42" y="-192"/>
+      <point x="57" y="-89" type="curve"/>
+      <point x="28" y="-84" type="line"/>
+      <point x="18" y="-178"/>
+      <point x="-37" y="-239"/>
+      <point x="-122" y="-239" type="curve" smooth="yes"/>
+      <point x="-211" y="-239"/>
+      <point x="-261" y="-180"/>
+      <point x="-277" y="-84" type="curve"/>
+      <point x="-299" y="-89" type="line"/>
+      <point x="-280" y="-189"/>
+      <point x="-226" y="-263"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>vedic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

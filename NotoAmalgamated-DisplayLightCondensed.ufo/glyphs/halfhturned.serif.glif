@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="halfhturned.serif" format="2">
+  <advance width="369"/>
+  <unicode hex="A7F6"/>
+  <anchor x="184" y="0" name="bottom"/>
+  <anchor x="184" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="348" y="0" type="line"/>
+      <point x="348" y="10" type="line"/>
+      <point x="333" y="10" type="line" smooth="yes"/>
+      <point x="272" y="10"/>
+      <point x="266" y="15"/>
+      <point x="266" y="86" type="curve" smooth="yes"/>
+      <point x="266" y="450" type="line" smooth="yes"/>
+      <point x="266" y="520"/>
+      <point x="272" y="526"/>
+      <point x="333" y="526" type="curve" smooth="yes"/>
+      <point x="348" y="526" type="line"/>
+      <point x="348" y="536" type="line"/>
+      <point x="161" y="536" type="line"/>
+      <point x="161" y="526" type="line"/>
+      <point x="172" y="526" type="line" smooth="yes"/>
+      <point x="232" y="526"/>
+      <point x="238" y="520"/>
+      <point x="238" y="450" type="curve" smooth="yes"/>
+      <point x="238" y="280" type="line"/>
+      <point x="34" y="280" type="line"/>
+      <point x="34" y="270" type="line"/>
+      <point x="238" y="270" type="line"/>
+      <point x="238" y="86" type="line" smooth="yes"/>
+      <point x="238" y="15"/>
+      <point x="233" y="10"/>
+      <point x="167" y="10" type="curve" smooth="yes"/>
+      <point x="161" y="10" type="line"/>
+      <point x="161" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|uni2C76</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|uni2C76</string>
+    </dict>
+  </lib>
+</glyph>

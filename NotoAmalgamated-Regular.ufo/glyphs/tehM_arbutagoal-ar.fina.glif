@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehMarbutagoal-ar.fina" format="2">
+  <advance width="652"/>
+  <note>
+uni06C3.fina
+</note>
+  <anchor x="326" y="-78" name="bottom"/>
+  <anchor x="402" y="647" name="top"/>
+  <outline>
+    <component base="hehgoal-ar.fina"/>
+    <component base="twodots.above" xOffset="398" yOffset="-96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hehgoal-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

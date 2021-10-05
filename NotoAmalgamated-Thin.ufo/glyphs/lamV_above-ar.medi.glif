@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamVabove-ar.medi" format="2">
+  <advance width="308"/>
+  <note>
+uni06B5.medi
+</note>
+  <anchor x="145" y="-78" name="bottom"/>
+  <anchor x="135" y="1030" name="top"/>
+  <outline>
+    <component base="lam-ar.medi"/>
+    <component base="smallv.arabic" xOffset="133" yOffset="187"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>lam-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>smallv.arabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B49.td" format="2">
+  <advance width="1328"/>
+  <outline>
+    <contour>
+      <point x="49" y="337" type="curve"/>
+      <point x="106" y="332" type="line"/>
+      <point x="120" y="422"/>
+      <point x="147" y="476"/>
+      <point x="194" y="476" type="curve" smooth="yes"/>
+      <point x="205" y="476"/>
+      <point x="216" y="474"/>
+      <point x="229" y="468" type="curve"/>
+      <point x="218" y="503" type="line"/>
+      <point x="164" y="395"/>
+      <point x="138" y="265"/>
+      <point x="138" y="188" type="curve" smooth="yes"/>
+      <point x="138" y="43"/>
+      <point x="240" y="-10"/>
+      <point x="392" y="-10" type="curve" smooth="yes"/>
+      <point x="604" y="-10"/>
+      <point x="653" y="94"/>
+      <point x="653" y="184" type="curve" smooth="yes"/>
+      <point x="653" y="313"/>
+      <point x="547" y="406"/>
+      <point x="406" y="408" type="curve"/>
+      <point x="401" y="389" type="line"/>
+      <point x="455" y="441"/>
+      <point x="516" y="474"/>
+      <point x="582" y="474" type="curve"/>
+      <point x="594" y="515" type="line"/>
+      <point x="588" y="546" type="line"/>
+      <point x="476" y="546"/>
+      <point x="380" y="479"/>
+      <point x="322" y="406" type="curve"/>
+      <point x="319" y="358" type="line"/>
+      <point x="518" y="348"/>
+      <point x="571" y="268"/>
+      <point x="571" y="182" type="curve" smooth="yes"/>
+      <point x="571" y="131"/>
+      <point x="552" y="62"/>
+      <point x="398" y="62" type="curve" smooth="yes"/>
+      <point x="294" y="62"/>
+      <point x="220" y="93"/>
+      <point x="220" y="201" type="curve" smooth="yes"/>
+      <point x="220" y="264"/>
+      <point x="245" y="383"/>
+      <point x="296" y="504" type="curve"/>
+      <point x="283" y="529"/>
+      <point x="245" y="546"/>
+      <point x="197" y="546" type="curve" smooth="yes"/>
+      <point x="107" y="546"/>
+      <point x="49" y="480"/>
+    </contour>
+    <component base="cereg4" xOffset="-96"/>
+    <component base="uni1B18.01.part" xOffset="-123"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>cereg4</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1B18.01.part</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

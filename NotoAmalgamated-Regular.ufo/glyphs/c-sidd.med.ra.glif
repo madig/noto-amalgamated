@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c-sidd.med.ra" format="2">
+  <anchor x="380" y="435.333" name="_bottom"/>
+  <anchor x="380" y="36" name="bottom"/>
+  <anchor x="242" y="480" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="415" y="6" type="curve" smooth="yes"/>
+      <point x="421" y="6"/>
+      <point x="425" y="10"/>
+      <point x="425" y="19" type="curve" smooth="yes"/>
+      <point x="425" y="323" type="line"/>
+      <point x="335" y="323" type="line"/>
+      <point x="335" y="53" type="line" smooth="yes"/>
+      <point x="335" y="35"/>
+      <point x="392" y="6"/>
+    </contour>
+    <contour>
+      <point x="175" y="444" type="curve" smooth="yes"/>
+      <point x="175" y="416"/>
+      <point x="205" y="381"/>
+      <point x="377" y="273" type="curve"/>
+      <point x="378" y="369" type="line"/>
+      <point x="263" y="308"/>
+      <point x="153" y="264"/>
+      <point x="20" y="221" type="curve"/>
+      <point x="20" y="195" type="line"/>
+      <point x="107" y="170"/>
+      <point x="244" y="108"/>
+      <point x="346" y="46" type="curve"/>
+      <point x="346" y="83" type="line"/>
+      <point x="304" y="118"/>
+      <point x="212" y="172"/>
+      <point x="135" y="209" type="curve"/>
+      <point x="136" y="175" type="line"/>
+      <point x="303" y="227"/>
+      <point x="518" y="339"/>
+      <point x="620" y="420" type="curve"/>
+      <point x="530" y="483" type="line"/>
+      <point x="496" y="462"/>
+      <point x="451" y="451"/>
+      <point x="407" y="451" type="curve" smooth="yes"/>
+      <point x="357" y="451"/>
+      <point x="326" y="472"/>
+      <point x="285" y="472" type="curve" smooth="yes"/>
+      <point x="261" y="472"/>
+      <point x="243" y="461"/>
+      <point x="232" y="443" type="curve"/>
+      <point x="216" y="449"/>
+      <point x="200" y="457"/>
+      <point x="187" y="465" type="curve"/>
+      <point x="180" y="461"/>
+      <point x="175" y="454"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ca-sidd</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ca-sidd</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>640</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>siddham</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

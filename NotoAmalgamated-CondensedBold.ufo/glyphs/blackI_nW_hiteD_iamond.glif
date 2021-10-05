@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackInWhiteDiamond" format="2">
+  <advance width="1000"/>
+  <unicode hex="25C8"/>
+  <outline>
+    <contour>
+      <point x="502" y="52" type="line"/>
+      <point x="762" y="311" type="line"/>
+      <point x="502" y="571" type="line"/>
+      <point x="239" y="311" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="149" type="line"/>
+      <point x="336" y="311" type="line"/>
+      <point x="501" y="474" type="line"/>
+      <point x="664" y="311" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="213" type="line"/>
+      <point x="599" y="311" type="line"/>
+      <point x="501" y="408" type="line"/>
+      <point x="402" y="311" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+    </dict>
+  </lib>
+</glyph>

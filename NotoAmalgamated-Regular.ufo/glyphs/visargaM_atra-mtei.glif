@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="visargaMatra-mtei" format="2">
+  <advance width="303"/>
+  <unicode hex="AAF5"/>
+  <outline>
+    <contour>
+      <point x="111" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="193" y="458" type="line"/>
+      <point x="111" y="458" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="413" type="curve" smooth="yes"/>
+      <point x="224" y="413"/>
+      <point x="286" y="463"/>
+      <point x="286" y="536" type="curve" smooth="yes"/>
+      <point x="286" y="609"/>
+      <point x="223" y="662"/>
+      <point x="150" y="662" type="curve" smooth="yes"/>
+      <point x="77" y="662"/>
+      <point x="16" y="609"/>
+      <point x="16" y="536" type="curve" smooth="yes"/>
+      <point x="16" y="463"/>
+      <point x="76" y="413"/>
+    </contour>
+    <contour>
+      <point x="151" y="477" type="curve" smooth="yes"/>
+      <point x="117" y="477"/>
+      <point x="91" y="502"/>
+      <point x="91" y="537" type="curve" smooth="yes"/>
+      <point x="91" y="572"/>
+      <point x="116" y="599"/>
+      <point x="151" y="599" type="curve" smooth="yes"/>
+      <point x="186" y="599"/>
+      <point x="212" y="572"/>
+      <point x="212" y="537" type="curve" smooth="yes"/>
+      <point x="212" y="502"/>
+      <point x="185" y="477"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>mtei</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

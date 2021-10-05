@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hdescender.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="2C68"/>
+  <anchor x="250" y="-189" name="bottom"/>
+  <anchor x="250" y="273" name="center"/>
+  <anchor x="112" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="381" y="-197" type="line"/>
+      <point x="508" y="-197" type="line"/>
+      <point x="508" y="114" type="line"/>
+      <point x="426" y="114" type="line"/>
+      <point x="333" y="0" type="line"/>
+      <point x="381" y="0" type="line"/>
+    </contour>
+    <component base="h"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>h</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine-gujarati" format="2">
+  <advance width="554"/>
+  <unicode hex="0AEF"/>
+  <outline>
+    <contour>
+      <point x="373" y="-6" type="curve" smooth="yes"/>
+      <point x="426" y="-6"/>
+      <point x="480" y="4"/>
+      <point x="526" y="33" type="curve"/>
+      <point x="457" y="145" type="line"/>
+      <point x="406" y="113"/>
+      <point x="360" y="96"/>
+      <point x="304" y="96" type="curve" smooth="yes"/>
+      <point x="205" y="96"/>
+      <point x="141" y="168"/>
+      <point x="141" y="251" type="curve" smooth="yes"/>
+      <point x="141" y="364"/>
+      <point x="217" y="439"/>
+      <point x="327" y="487" type="curve"/>
+      <point x="266" y="596" type="line"/>
+      <point x="156" y="557"/>
+      <point x="48" y="465"/>
+      <point x="48" y="312" type="curve" smooth="yes"/>
+      <point x="48" y="235"/>
+      <point x="78" y="166"/>
+      <point x="125" y="111" type="curve" smooth="yes"/>
+      <point x="187" y="38"/>
+      <point x="270" y="-6"/>
+    </contour>
+    <contour>
+      <point x="285" y="199" type="line"/>
+      <point x="517" y="316" type="line"/>
+      <point x="470" y="411" type="line"/>
+      <point x="234" y="294" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

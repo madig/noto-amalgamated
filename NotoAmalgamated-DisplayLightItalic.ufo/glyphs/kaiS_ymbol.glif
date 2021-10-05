@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaiSymbol" format="2">
+  <advance width="433"/>
+  <unicode hex="03D7"/>
+  <outline>
+    <contour>
+      <point x="-29" y="-145" type="line"/>
+      <point x="-7" y="-158"/>
+      <point x="35" y="-180"/>
+      <point x="115" y="-180" type="curve" smooth="yes"/>
+      <point x="237" y="-180"/>
+      <point x="306" y="-110"/>
+      <point x="352" y="0" type="curve"/>
+      <point x="210" y="298" type="line"/>
+      <point x="446" y="528" type="line"/>
+      <point x="413" y="528" type="line"/>
+      <point x="83" y="204" type="line"/>
+      <point x="82" y="204" type="line"/>
+      <point x="97" y="262"/>
+      <point x="109" y="319"/>
+      <point x="123" y="384" type="curve" smooth="yes"/>
+      <point x="154" y="528" type="line"/>
+      <point x="128" y="528" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="78" y="172" type="line"/>
+      <point x="191" y="281" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="277" y="-106"/>
+      <point x="225" y="-154"/>
+      <point x="120" y="-154" type="curve" smooth="yes"/>
+      <point x="46" y="-154"/>
+      <point x="6" y="-131"/>
+      <point x="-23" y="-116" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=kappa</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=kappa</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

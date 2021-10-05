@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotapsilioxia.serif" format="2">
+  <advance width="276"/>
+  <unicode hex="1F34"/>
+  <anchor x="138" y="0" name="bottom"/>
+  <anchor x="138" y="761" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="psilioxia" xOffset="-33" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_meem_yeh-ar.fina.sans" format="2">
+  <advance width="1925"/>
+  <unicode hex="FDAD"/>
+  <anchor x="1509" y="0" name="caret_1"/>
+  <anchor x="817" y="0" name="caret_2"/>
+  <outline>
+    <component base="lam-ar.medi" xOffset="1573"/>
+    <component base="meem-ar.medi" xOffset="881"/>
+    <component base="yeh-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lam-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yeh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

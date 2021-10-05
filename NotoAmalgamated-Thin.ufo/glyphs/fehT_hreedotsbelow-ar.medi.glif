@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehThreedotsbelow-ar.medi" format="2">
+  <advance width="522"/>
+  <note>
+uni06A5.medi
+</note>
+  <anchor x="303" y="-291" name="bottom"/>
+  <anchor x="305" y="595" name="top"/>
+  <outline>
+    <component base="qafDotless-ar.medi"/>
+    <component base="threedots.below" xOffset="300" yOffset="57"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>qafDotless-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

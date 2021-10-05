@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehTwodotshorizontalaboveTahabove-ar.fina.sans" format="2">
+  <advance width="450"/>
+  <outline>
+    <component base="reh-ar.fina"/>
+    <component base="twodotshorizontalabove-ar" xOffset="36" yOffset="-59"/>
+    <component base="uniFBC0" xOffset="52" yOffset="113"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uniFBC0</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>reh-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>reh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ha-khoj" format="2">
+  <advance width="577"/>
+  <unicode hex="1122A"/>
+  <note>
+kj_HA
+</note>
+  <anchor x="437" y="-94" name="bottom"/>
+  <anchor x="226" y="600" name="nukta"/>
+  <anchor x="448" y="600" name="top"/>
+  <outline>
+    <contour>
+      <point x="272" y="156" type="curve"/>
+      <point x="291" y="201" type="line"/>
+      <point x="229" y="231"/>
+      <point x="185" y="263"/>
+      <point x="185" y="296" type="curve" smooth="yes"/>
+      <point x="185" y="322"/>
+      <point x="213" y="342"/>
+      <point x="237" y="356" type="curve" smooth="yes"/>
+      <point x="447" y="483" type="line"/>
+      <point x="449" y="495" type="line"/>
+      <point x="355" y="600" type="line"/>
+      <point x="-10" y="600" type="line"/>
+      <point x="34" y="524" type="line"/>
+      <point x="373" y="524" type="line"/>
+      <point x="367" y="541" type="line"/>
+      <point x="185" y="433" type="line" smooth="yes"/>
+      <point x="143" y="408"/>
+      <point x="101" y="379"/>
+      <point x="101" y="331" type="curve" smooth="yes"/>
+      <point x="101" y="266"/>
+      <point x="183" y="206"/>
+    </contour>
+    <contour>
+      <point x="442" y="-146" type="curve"/>
+      <point x="465" y="-142" type="line"/>
+      <point x="496" y="-107"/>
+      <point x="547" y="-10"/>
+      <point x="547" y="56" type="curve" smooth="yes"/>
+      <point x="547" y="144"/>
+      <point x="467" y="243"/>
+      <point x="366" y="243" type="curve" smooth="yes"/>
+      <point x="273" y="243"/>
+      <point x="144" y="159"/>
+      <point x="144" y="95" type="curve" smooth="yes"/>
+      <point x="144" y="52"/>
+      <point x="201" y="18"/>
+      <point x="236" y="18" type="curve" smooth="yes"/>
+      <point x="285" y="18"/>
+      <point x="309" y="86"/>
+      <point x="309" y="149" type="curve" smooth="yes"/>
+      <point x="309" y="156"/>
+      <point x="309" y="163"/>
+      <point x="308" y="170" type="curve"/>
+      <point x="287" y="121" type="line"/>
+      <point x="311" y="149"/>
+      <point x="364" y="176"/>
+      <point x="404" y="176" type="curve" smooth="yes"/>
+      <point x="451" y="176"/>
+      <point x="476" y="140"/>
+      <point x="476" y="100" type="curve" smooth="yes"/>
+      <point x="476" y="38"/>
+      <point x="415" y="-36"/>
+      <point x="381" y="-69" type="curve"/>
+      <point x="392" y="-95"/>
+      <point x="424" y="-132"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

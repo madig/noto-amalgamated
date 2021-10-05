@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fathaHorizont-ar" format="2">
+  <unicode hex="0659"/>
+  <note>
+uni0659
+</note>
+  <anchor x="7" y="604" name="_top"/>
+  <anchor x="6" y="605" name="_top2"/>
+  <anchor x="14" y="769" name="top"/>
+  <outline>
+    <contour>
+      <point x="149" y="749" type="line"/>
+      <point x="-76" y="749" type="line"/>
+      <point x="-131" y="630" type="line"/>
+      <point x="89" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 2 values pushed */
+3 1 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MDRP[01101]	/* MoveDirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upperRightArc" format="2">
+  <advance width="500"/>
+  <unicode hex="25DD"/>
+  <outline>
+    <contour>
+      <point x="368" y="311" type="curve"/>
+      <point x="441" y="311" type="line"/>
+      <point x="441" y="413"/>
+      <point x="353" y="502"/>
+      <point x="250" y="502" type="curve"/>
+      <point x="250" y="430" type="line"/>
+      <point x="313" y="430"/>
+      <point x="368" y="375"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonTahabove-ar" format="2">
+  <advance width="583"/>
+  <unicode hex="0768"/>
+  <note>
+uni0768
+</note>
+  <anchor x="263" y="-344" name="bottom"/>
+  <anchor x="311" y="890" name="top"/>
+  <outline>
+    <component base="noonghunna-ar"/>
+    <component base="tahabove-ar" xOffset="317" yOffset="66"/>
+    <component base="onedot.above" xOffset="297" yOffset="-105"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>noonghunna-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tahabove-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ja.MGondi" format="2">
+  <advance width="897"/>
+  <unicode hex="11D13"/>
+  <anchor x="337" y="-78" name="bottom1"/>
+  <anchor x="337" y="698" name="top1"/>
+  <outline>
+    <contour>
+      <point x="75" y="314" type="curve" smooth="yes"/>
+      <point x="75" y="125"/>
+      <point x="172" y="-10"/>
+      <point x="336" y="-10" type="curve" smooth="yes"/>
+      <point x="496" y="-10"/>
+      <point x="593" y="109"/>
+      <point x="603" y="281" type="curve"/>
+      <point x="887" y="281" type="line"/>
+      <point x="887" y="357" type="line"/>
+      <point x="602" y="357" type="line"/>
+      <point x="588" y="523"/>
+      <point x="493" y="635"/>
+      <point x="336" y="635" type="curve" smooth="yes"/>
+      <point x="172" y="635"/>
+      <point x="75" y="501"/>
+    </contour>
+    <contour>
+      <point x="170" y="313" type="curve" smooth="yes"/>
+      <point x="170" y="436"/>
+      <point x="209" y="522"/>
+      <point x="285" y="548" type="curve"/>
+      <point x="281" y="528"/>
+      <point x="278" y="508"/>
+      <point x="279" y="489" type="curve" smooth="yes"/>
+      <point x="283" y="335"/>
+      <point x="383" y="282"/>
+      <point x="503" y="282" type="curve" smooth="yes"/>
+      <point x="508" y="282" type="line"/>
+      <point x="501" y="152"/>
+      <point x="444" y="68"/>
+      <point x="336" y="68" type="curve" smooth="yes"/>
+      <point x="227" y="68"/>
+      <point x="170" y="165"/>
+    </contour>
+    <contour>
+      <point x="369" y="499" type="curve" smooth="yes"/>
+      <point x="369" y="518"/>
+      <point x="372" y="537"/>
+      <point x="376" y="552" type="curve"/>
+      <point x="455" y="534"/>
+      <point x="498" y="463"/>
+      <point x="507" y="357" type="curve"/>
+      <point x="492" y="357" type="line" smooth="yes"/>
+      <point x="419" y="357"/>
+      <point x="369" y="406"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Ka.MGondi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.MGondi</string>
+    </dict>
+  </lib>
+</glyph>

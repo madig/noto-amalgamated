@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedots.rev_alt2.below" format="2">
+  <advance width="683"/>
+  <note>
+threedots.rev_alt2.below
+</note>
+  <outline>
+    <contour>
+      <point x="555" y="-208" type="curve" smooth="yes"/>
+      <point x="591" y="-208"/>
+      <point x="621" y="-172"/>
+      <point x="621" y="-140" type="curve" smooth="yes"/>
+      <point x="621" y="-104"/>
+      <point x="580" y="-64"/>
+      <point x="544" y="-64" type="curve" smooth="yes"/>
+      <point x="512" y="-64"/>
+      <point x="477" y="-97"/>
+      <point x="477" y="-130" type="curve" smooth="yes"/>
+      <point x="477" y="-167"/>
+      <point x="516" y="-208"/>
+    </contour>
+    <contour>
+      <point x="396" y="-161" type="curve" smooth="yes"/>
+      <point x="425" y="-161"/>
+      <point x="453" y="-132"/>
+      <point x="453" y="-103" type="curve" smooth="yes"/>
+      <point x="453" y="-70"/>
+      <point x="420" y="-39"/>
+      <point x="388" y="-39" type="curve" smooth="yes"/>
+      <point x="359" y="-39"/>
+      <point x="331" y="-68"/>
+      <point x="331" y="-96" type="curve" smooth="yes"/>
+      <point x="331" y="-128"/>
+      <point x="364" y="-161"/>
+    </contour>
+    <contour>
+      <point x="435" y="-329" type="curve" smooth="yes"/>
+      <point x="470" y="-329"/>
+      <point x="501" y="-294"/>
+      <point x="501" y="-261" type="curve" smooth="yes"/>
+      <point x="501" y="-225"/>
+      <point x="460" y="-185"/>
+      <point x="424" y="-185" type="curve" smooth="yes"/>
+      <point x="392" y="-185"/>
+      <point x="357" y="-219"/>
+      <point x="357" y="-251" type="curve" smooth="yes"/>
+      <point x="357" y="-288"/>
+      <point x="396" y="-329"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 20 values pushed */
+3 9 33 27 21 15 15 27 9 3 37 36 12 30 24 18 0 6 6 18 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+SHP[1]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP0[ ]	/* SetRefPoint0 */
+MDRP[01100]	/* MoveDirectRelPt */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzaltone.display" format="2">
+  <advance width="965"/>
+  <unicode hex="02A3"/>
+  <anchor x="723" y="0" name="bottom"/>
+  <anchor x="723" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="230" y="-10" type="curve" smooth="yes"/>
+      <point x="303" y="-10"/>
+      <point x="346" y="26"/>
+      <point x="372" y="71" type="curve"/>
+      <point x="378" y="71" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="939" y="0" type="line"/>
+      <point x="939" y="114" type="line"/>
+      <point x="711" y="114" type="line"/>
+      <point x="930" y="449" type="line"/>
+      <point x="930" y="546" type="line"/>
+      <point x="532" y="546" type="line"/>
+      <point x="532" y="760" type="line"/>
+      <point x="372" y="760" type="line"/>
+      <point x="372" y="585" type="line" smooth="yes"/>
+      <point x="372" y="542"/>
+      <point x="375" y="500"/>
+      <point x="381" y="476" type="curve"/>
+      <point x="377" y="476" type="line"/>
+      <point x="349" y="521"/>
+      <point x="307" y="556"/>
+      <point x="235" y="556" type="curve" smooth="yes"/>
+      <point x="120" y="556"/>
+      <point x="41" y="459"/>
+      <point x="41" y="272" type="curve" smooth="yes"/>
+      <point x="41" y="87"/>
+      <point x="119" y="-10"/>
+    </contour>
+    <contour>
+      <point x="291" y="109" type="curve" smooth="yes"/>
+      <point x="236" y="109"/>
+      <point x="203" y="163"/>
+      <point x="203" y="270" type="curve" smooth="yes"/>
+      <point x="203" y="377"/>
+      <point x="236" y="435"/>
+      <point x="289" y="435" type="curve" smooth="yes"/>
+      <point x="362" y="435"/>
+      <point x="384" y="377"/>
+      <point x="384" y="271" type="curve" smooth="yes"/>
+      <point x="384" y="255" type="line" smooth="yes"/>
+      <point x="384" y="157"/>
+      <point x="358" y="109"/>
+    </contour>
+    <contour>
+      <point x="532" y="101" type="line"/>
+      <point x="532" y="432" type="line"/>
+      <point x="748" y="432" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

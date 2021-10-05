@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflex.display" format="2">
+  <advance width="479"/>
+  <unicode hex="00E2"/>
+  <anchor x="153" y="0" name="bottom"/>
+  <anchor x="348" y="772" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflex" xOffset="47" yOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

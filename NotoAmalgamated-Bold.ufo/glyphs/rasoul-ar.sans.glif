@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rasoul-ar.sans" format="2">
+  <advance width="2795"/>
+  <unicode hex="FDF6"/>
+  <outline>
+    <component base="reh-ar" xOffset="2360"/>
+    <component base="seen-ar.init" xOffset="1310"/>
+    <component base="waw-ar.fina" xOffset="780"/>
+    <component base="lam-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>reh-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>lam-ar</string>
+    </dict>
+  </lib>
+</glyph>

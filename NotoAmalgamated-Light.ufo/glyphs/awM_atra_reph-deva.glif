@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="awMatra_reph-deva" format="2">
+  <advance width="230"/>
+  <anchor x="195" y="622" name="_top"/>
+  <outline>
+    <contour>
+      <point x="70" y="619" type="curve"/>
+      <point x="90" y="619" type="line"/>
+      <point x="90" y="622"/>
+      <point x="90" y="625"/>
+      <point x="90" y="627" type="curve" smooth="yes"/>
+      <point x="90" y="704"/>
+      <point x="46" y="739"/>
+      <point x="-16" y="739" type="curve" smooth="yes"/>
+      <point x="-58" y="739"/>
+      <point x="-87" y="723"/>
+      <point x="-136" y="723" type="curve" smooth="yes"/>
+      <point x="-194" y="723"/>
+      <point x="-221" y="751"/>
+      <point x="-234" y="807" type="curve"/>
+      <point x="-255" y="802" type="line"/>
+      <point x="-239" y="733"/>
+      <point x="-205" y="698"/>
+      <point x="-131" y="698" type="curve" smooth="yes"/>
+      <point x="-85" y="698"/>
+      <point x="-58" y="715"/>
+      <point x="-11" y="715" type="curve" smooth="yes"/>
+      <point x="40" y="715"/>
+      <point x="70" y="682"/>
+      <point x="70" y="623" type="curve" smooth="yes"/>
+      <point x="70" y="621"/>
+      <point x="70" y="620"/>
+    </contour>
+    <contour>
+      <point x="125" y="-5" type="line"/>
+      <point x="130" y="-5" type="line"/>
+      <point x="130" y="608" type="line"/>
+      <point x="103" y="608" type="line"/>
+      <point x="103" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="-11" y="598" type="line"/>
+      <point x="254" y="598" type="line"/>
+      <point x="254" y="603" type="line"/>
+      <point x="241" y="622" type="line"/>
+      <point x="-24" y="622" type="line"/>
+      <point x="-24" y="617" type="line"/>
+    </contour>
+    <contour>
+      <point x="107" y="743" type="curve"/>
+      <point x="117" y="778" type="line"/>
+      <point x="103" y="801"/>
+      <point x="80" y="820"/>
+      <point x="44" y="831" type="curve" smooth="yes"/>
+      <point x="-14" y="849"/>
+      <point x="-40" y="860"/>
+      <point x="-40" y="894" type="curve" smooth="yes"/>
+      <point x="-40" y="906"/>
+      <point x="-38" y="917"/>
+      <point x="-36" y="926" type="curve"/>
+      <point x="-57" y="930" type="line"/>
+      <point x="-62" y="913"/>
+      <point x="-64" y="901"/>
+      <point x="-64" y="886" type="curve" smooth="yes"/>
+      <point x="-64" y="844"/>
+      <point x="-24" y="828"/>
+      <point x="31" y="811" type="curve" smooth="yes"/>
+      <point x="76" y="797"/>
+      <point x="98" y="772"/>
+    </contour>
+    <component base="reph-deva" xOffset="295"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>aaMatra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

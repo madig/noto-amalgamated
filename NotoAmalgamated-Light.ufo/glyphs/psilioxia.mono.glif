@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilioxia.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="1FCE"/>
+  <outline>
+    <contour>
+      <point x="315" y="647" type="curve"/>
+      <point x="315" y="635" type="line"/>
+      <point x="330" y="635" type="line"/>
+      <point x="360" y="676"/>
+      <point x="384" y="720"/>
+      <point x="394" y="752" type="curve"/>
+      <point x="394" y="764" type="line"/>
+      <point x="361" y="764" type="line"/>
+      <point x="354" y="730"/>
+      <point x="333" y="677"/>
+    </contour>
+    <contour>
+      <point x="205" y="656" type="curve"/>
+      <point x="205" y="635" type="line"/>
+      <point x="240" y="645"/>
+      <point x="275" y="673"/>
+      <point x="275" y="717" type="curve" smooth="yes"/>
+      <point x="275" y="751"/>
+      <point x="257" y="763"/>
+      <point x="238" y="763" type="curve" smooth="yes"/>
+      <point x="221" y="763"/>
+      <point x="211" y="752"/>
+      <point x="211" y="735" type="curve" smooth="yes"/>
+      <point x="211" y="718"/>
+      <point x="227" y="705"/>
+      <point x="251" y="705" type="curve"/>
+      <point x="250" y="683"/>
+      <point x="227" y="662"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

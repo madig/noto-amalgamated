@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildedotabove.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="2E1E"/>
+  <outline>
+    <contour>
+      <point x="307" y="489" type="curve" smooth="yes"/>
+      <point x="347" y="489"/>
+      <point x="384" y="514"/>
+      <point x="384" y="572" type="curve" smooth="yes"/>
+      <point x="384" y="634"/>
+      <point x="347" y="655"/>
+      <point x="307" y="655" type="curve" smooth="yes"/>
+      <point x="266" y="655"/>
+      <point x="231" y="634"/>
+      <point x="231" y="572" type="curve" smooth="yes"/>
+      <point x="231" y="514"/>
+      <point x="266" y="489"/>
+    </contour>
+    <component base="asciitilde"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>asciitilde</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

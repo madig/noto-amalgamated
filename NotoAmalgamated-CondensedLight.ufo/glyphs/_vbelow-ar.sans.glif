@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_vbelow-ar.sans" format="2">
+  <advance width="144"/>
+  <anchor x="68" y="0" name="_bottom"/>
+  <anchor x="72" y="-253" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="60" y="-253" type="curve"/>
+      <point x="84" y="-251" type="line"/>
+      <point x="77" y="-238" type="line"/>
+      <point x="64" y="-200"/>
+      <point x="30" y="-93"/>
+      <point x="19" y="-66" type="curve"/>
+      <point x="-4" y="-74" type="line"/>
+      <point x="13" y="-116"/>
+      <point x="45" y="-213"/>
+    </contour>
+    <contour>
+      <point x="84" y="-251" type="line"/>
+      <point x="97" y="-209"/>
+      <point x="128" y="-98"/>
+      <point x="136" y="-71" type="curve"/>
+      <point x="115" y="-63" type="line"/>
+      <point x="109" y="-84"/>
+      <point x="78" y="-199"/>
+      <point x="64" y="-245" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=vabove-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=vabove-ar</string>
+    </dict>
+  </lib>
+</glyph>

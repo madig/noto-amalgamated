@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.display" format="2">
+  <advance width="529"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="220" y="-10" type="curve" smooth="yes"/>
+      <point x="433" y="-10"/>
+      <point x="525" y="246"/>
+      <point x="525" y="499" type="curve" smooth="yes"/>
+      <point x="525" y="656"/>
+      <point x="459" y="725"/>
+      <point x="340" y="725" type="curve" smooth="yes"/>
+      <point x="137" y="725"/>
+      <point x="33" y="484"/>
+      <point x="33" y="223" type="curve" smooth="yes"/>
+      <point x="33" y="74"/>
+      <point x="94" y="-10"/>
+    </contour>
+    <contour>
+      <point x="234" y="112" type="curve" smooth="yes"/>
+      <point x="195" y="112"/>
+      <point x="181" y="149"/>
+      <point x="181" y="220" type="curve" smooth="yes"/>
+      <point x="181" y="344"/>
+      <point x="235" y="603"/>
+      <point x="324" y="603" type="curve" smooth="yes"/>
+      <point x="360" y="603"/>
+      <point x="377" y="572"/>
+      <point x="377" y="503" type="curve" smooth="yes"/>
+      <point x="377" y="346"/>
+      <point x="320" y="112"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

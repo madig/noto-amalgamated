@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahTwodotsverticalabove-ar.medi" format="2">
+  <advance width="540"/>
+  <note>
+uni0682.medi
+</note>
+  <anchor x="270" y="-78" name="bottom"/>
+  <anchor x="225" y="840" name="top"/>
+  <outline>
+    <component base="hah-ar.medi"/>
+    <component base="twodots.vert.above" xOffset="226" yOffset="-60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hah-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.vert.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

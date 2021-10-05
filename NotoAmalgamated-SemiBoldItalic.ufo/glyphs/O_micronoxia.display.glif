@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronoxia.display" format="2">
+  <advance width="865"/>
+  <unicode hex="1FF9"/>
+  <anchor x="401" y="0" name="bottom"/>
+  <anchor x="553" y="714" name="top"/>
+  <outline>
+    <component base="oxia" xOffset="-50"/>
+    <component base="O" xOffset="73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

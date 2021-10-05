@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koppaArchaic.display" format="2">
+  <advance width="425"/>
+  <unicode hex="03D9"/>
+  <anchor x="107" y="-240" name="bottom"/>
+  <anchor x="272" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="127" y="-240" type="curve"/>
+      <point x="154" y="-240" type="line"/>
+      <point x="151" y="-227"/>
+      <point x="150" y="-212"/>
+      <point x="150" y="-194" type="curve" smooth="yes"/>
+      <point x="150" y="-152"/>
+      <point x="156" y="-117"/>
+      <point x="166" y="-70" type="curve" smooth="yes"/>
+      <point x="179" y="-9" type="line"/>
+      <point x="319" y="6"/>
+      <point x="388" y="224"/>
+      <point x="388" y="362" type="curve" smooth="yes"/>
+      <point x="388" y="493"/>
+      <point x="335" y="546"/>
+      <point x="264" y="546" type="curve" smooth="yes"/>
+      <point x="119" y="546"/>
+      <point x="42" y="315"/>
+      <point x="42" y="172" type="curve" smooth="yes"/>
+      <point x="42" y="54"/>
+      <point x="87" y="-4"/>
+      <point x="154" y="-10" type="curve"/>
+      <point x="143" y="-58" type="line" smooth="yes"/>
+      <point x="132" y="-109"/>
+      <point x="123" y="-161"/>
+      <point x="123" y="-202" type="curve" smooth="yes"/>
+      <point x="123" y="-216"/>
+      <point x="124" y="-229"/>
+    </contour>
+    <contour>
+      <point x="166" y="0" type="curve" smooth="yes"/>
+      <point x="107" y="0"/>
+      <point x="70" y="45"/>
+      <point x="70" y="166" type="curve" smooth="yes"/>
+      <point x="70" y="328"/>
+      <point x="140" y="536"/>
+      <point x="262" y="536" type="curve" smooth="yes"/>
+      <point x="324" y="536"/>
+      <point x="360" y="484"/>
+      <point x="360" y="368" type="curve" smooth="yes"/>
+      <point x="360" y="214"/>
+      <point x="293" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seen_jeem-ar.medi.sans" format="2">
+  <advance width="1844"/>
+  <unicode hex="FD34"/>
+  <anchor x="728" y="0" name="caret_1"/>
+  <outline>
+    <component base="seen-ar.medi" xOffset="728"/>
+    <component base="jeem-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>seen-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>jeem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

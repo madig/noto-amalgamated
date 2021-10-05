@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhoStrokeSymbol.display" format="2">
+  <advance width="504"/>
+  <unicode hex="03FC"/>
+  <anchor x="139" y="-240" name="bottom"/>
+  <anchor x="304" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="-85" y="-110" type="line"/>
+      <point x="275" y="-110" type="line"/>
+      <point x="277" y="-100" type="line"/>
+      <point x="-83" y="-100" type="line"/>
+    </contour>
+    <component base="rho" xOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

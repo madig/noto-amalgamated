@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tau.display" format="2">
+  <advance width="410"/>
+  <unicode hex="03C4"/>
+  <anchor x="151" y="0" name="bottom"/>
+  <anchor x="265" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="237" y="-10" type="curve" smooth="yes"/>
+      <point x="266" y="-10"/>
+      <point x="305" y="0"/>
+      <point x="321" y="8" type="curve"/>
+      <point x="322" y="75" type="line"/>
+      <point x="296" y="67"/>
+      <point x="276" y="62"/>
+      <point x="254" y="62" type="curve" smooth="yes"/>
+      <point x="219" y="62"/>
+      <point x="205" y="86"/>
+      <point x="205" y="116" type="curve" smooth="yes"/>
+      <point x="205" y="137"/>
+      <point x="209" y="164"/>
+      <point x="215" y="196" type="curve" smooth="yes"/>
+      <point x="271" y="461" type="line"/>
+      <point x="426" y="461" type="line"/>
+      <point x="443" y="536" type="line"/>
+      <point x="140" y="536" type="line"/>
+      <point x="50" y="497" type="line"/>
+      <point x="42" y="461" type="line"/>
+      <point x="184" y="461" type="line"/>
+      <point x="128" y="198" type="line" smooth="yes"/>
+      <point x="121" y="165"/>
+      <point x="116" y="129"/>
+      <point x="116" y="105" type="curve" smooth="yes"/>
+      <point x="116" y="20"/>
+      <point x="168" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

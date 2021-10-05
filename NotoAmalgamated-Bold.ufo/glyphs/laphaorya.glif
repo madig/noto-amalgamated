@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="laphaorya" format="2">
+  <advance width="797"/>
+  <anchor x="505" y="-49" name="b.rrvocalicvowelsignleftorya"/>
+  <anchor x="355" y="0" name="b.tasubscriptorya"/>
+  <anchor x="542" y="0" name="b.uvowelsignorya"/>
+  <anchor x="539" y="657" name="t.candrabinduorya"/>
+  <anchor x="355" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="27" y="407" type="curve" smooth="yes"/>
+      <point x="27" y="334"/>
+      <point x="66" y="259"/>
+      <point x="135" y="211" type="curve"/>
+      <point x="196" y="356" type="line"/>
+      <point x="156" y="368"/>
+      <point x="127" y="397"/>
+      <point x="127" y="436" type="curve" smooth="yes"/>
+      <point x="127" y="518"/>
+      <point x="236" y="548"/>
+      <point x="333" y="548" type="curve" smooth="yes"/>
+      <point x="462" y="548"/>
+      <point x="603" y="488"/>
+      <point x="603" y="362" type="curve" smooth="yes"/>
+      <point x="603" y="325"/>
+      <point x="593" y="299"/>
+      <point x="580" y="275" type="curve"/>
+      <point x="580" y="250" type="line"/>
+      <point x="686" y="115" type="line"/>
+      <point x="700" y="115" type="line"/>
+      <point x="792" y="198" type="line"/>
+      <point x="637" y="344" type="line"/>
+      <point x="659" y="266" type="line"/>
+      <point x="700" y="313"/>
+      <point x="719" y="361"/>
+      <point x="719" y="416" type="curve" smooth="yes"/>
+      <point x="719" y="547"/>
+      <point x="581" y="667"/>
+      <point x="366" y="667" type="curve" smooth="yes"/>
+      <point x="162" y="667"/>
+      <point x="27" y="565"/>
+    </contour>
+    <contour>
+      <point x="490" y="45" type="curve" smooth="yes"/>
+      <point x="490" y="-6"/>
+      <point x="525" y="-46"/>
+      <point x="573" y="-46" type="curve" smooth="yes"/>
+      <point x="635" y="-46"/>
+      <point x="667" y="6"/>
+      <point x="667" y="49" type="curve" smooth="yes"/>
+      <point x="667" y="97"/>
+      <point x="631" y="139"/>
+      <point x="578" y="139" type="curve" smooth="yes"/>
+      <point x="524" y="139"/>
+      <point x="490" y="91"/>
+    </contour>
+    <contour>
+      <point x="545" y="54" type="curve" smooth="yes"/>
+      <point x="545" y="69"/>
+      <point x="555" y="76"/>
+      <point x="568" y="76" type="curve" smooth="yes"/>
+      <point x="588" y="76"/>
+      <point x="604" y="59"/>
+      <point x="604" y="41" type="curve" smooth="yes"/>
+      <point x="604" y="26"/>
+      <point x="593" y="19"/>
+      <point x="580" y="19" type="curve" smooth="yes"/>
+      <point x="560" y="19"/>
+      <point x="545" y="36"/>
+    </contour>
+    <component base="pasubscriptloworya" xOffset="499" yOffset="259"/>
+    <component base="_part.lahalf" xOffset="-8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>caorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

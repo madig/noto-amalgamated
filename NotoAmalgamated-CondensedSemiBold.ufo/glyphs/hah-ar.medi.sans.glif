@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hah-ar.medi.sans" format="2">
+  <advance width="532"/>
+  <unicode hex="FEA4"/>
+  <anchor x="271" y="0" name="bottom"/>
+  <anchor x="167" y="431" name="top"/>
+  <outline>
+    <contour>
+      <point x="533" y="-5" type="curve" smooth="yes"/>
+      <point x="579" y="-5"/>
+      <point x="604" y="21"/>
+      <point x="604" y="61" type="curve" smooth="yes"/>
+      <point x="604" y="95"/>
+      <point x="584" y="123"/>
+      <point x="543" y="123" type="curve" smooth="yes"/>
+      <point x="496" y="123"/>
+      <point x="454" y="138"/>
+      <point x="428" y="208" type="curve"/>
+      <point x="352" y="153" type="line"/>
+      <point x="387" y="29"/>
+      <point x="461" y="-5"/>
+    </contour>
+    <component base="hah-ar.init"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_part.instroke</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rai-mtei" format="2">
+  <advance width="818"/>
+  <unicode hex="ABD4"/>
+  <anchor x="551" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="bottom_left"/>
+  <anchor x="818" y="0" name="bottom_right"/>
+  <anchor x="469" y="713" name="top"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="551" y="462" type="line" smooth="yes"/>
+      <point x="551" y="557"/>
+      <point x="568" y="605"/>
+      <point x="627" y="605" type="curve" smooth="yes"/>
+      <point x="688" y="605"/>
+      <point x="701" y="554"/>
+      <point x="709" y="450" type="curve"/>
+      <point x="788" y="460" type="line"/>
+      <point x="782" y="583"/>
+      <point x="744" y="678"/>
+      <point x="631" y="678" type="curve" smooth="yes"/>
+      <point x="546" y="678"/>
+      <point x="500" y="625"/>
+      <point x="493" y="555" type="curve"/>
+      <point x="511" y="550" type="line"/>
+      <point x="467" y="633"/>
+      <point x="409" y="665"/>
+      <point x="316" y="665" type="curve" smooth="yes"/>
+      <point x="135" y="665"/>
+      <point x="80" y="542"/>
+      <point x="80" y="418" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="485" y="282" type="line"/>
+      <point x="485" y="354" type="line"/>
+      <point x="147" y="354" type="line"/>
+      <point x="147" y="282" type="line"/>
+    </contour>
+    <contour>
+      <point x="469" y="440" type="curve" smooth="yes"/>
+      <point x="469" y="33" type="line"/>
+      <point x="507" y="71" type="line"/>
+      <point x="125" y="71" type="line"/>
+      <point x="162" y="33" type="line"/>
+      <point x="162" y="431" type="line" smooth="yes"/>
+      <point x="162" y="513"/>
+      <point x="199" y="592"/>
+      <point x="315" y="592" type="curve" smooth="yes"/>
+      <point x="431" y="592"/>
+      <point x="469" y="515"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>mtei</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

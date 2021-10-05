@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteVerticalRect" format="2">
+  <advance width="500"/>
+  <unicode hex="25AF"/>
+  <outline>
+    <contour>
+      <point x="124" y="-235" type="line"/>
+      <point x="377" y="-235" type="line"/>
+      <point x="377" y="713" type="line"/>
+      <point x="124" y="713" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="-199" type="line"/>
+      <point x="160" y="677" type="line"/>
+      <point x="341" y="677" type="line"/>
+      <point x="341" y="-199" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+    </dict>
+  </lib>
+</glyph>

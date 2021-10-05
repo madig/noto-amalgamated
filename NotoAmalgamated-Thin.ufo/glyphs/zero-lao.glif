@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero-lao" format="2">
+  <advance width="610"/>
+  <unicode hex="0ED0"/>
+  <outline>
+    <contour>
+      <point x="305" y="-8" type="curve" smooth="yes"/>
+      <point x="448" y="-8"/>
+      <point x="532" y="89"/>
+      <point x="532" y="255" type="curve" smooth="yes"/>
+      <point x="532" y="421"/>
+      <point x="448" y="518"/>
+      <point x="305" y="518" type="curve" smooth="yes"/>
+      <point x="162" y="518"/>
+      <point x="78" y="421"/>
+      <point x="78" y="255" type="curve" smooth="yes"/>
+      <point x="78" y="89"/>
+      <point x="162" y="-8"/>
+    </contour>
+    <contour>
+      <point x="305" y="17" type="curve" smooth="yes"/>
+      <point x="176" y="17"/>
+      <point x="105" y="102"/>
+      <point x="105" y="255" type="curve" smooth="yes"/>
+      <point x="105" y="408"/>
+      <point x="176" y="493"/>
+      <point x="305" y="493" type="curve" smooth="yes"/>
+      <point x="434" y="493"/>
+      <point x="505" y="408"/>
+      <point x="505" y="255" type="curve" smooth="yes"/>
+      <point x="505" y="102"/>
+      <point x="434" y="17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasia.serif" format="2">
+  <advance width="618"/>
+  <unicode hex="1F09"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="310" y="714" name="top"/>
+  <outline>
+    <component base="dasia" xOffset="-67"/>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

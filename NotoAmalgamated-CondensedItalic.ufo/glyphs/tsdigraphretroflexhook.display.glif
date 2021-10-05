@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsdigraphretroflexhook.display" format="2">
+  <advance width="639"/>
+  <unicode hex="AB67"/>
+  <outline>
+    <contour>
+      <point x="285" y="0" type="curve" smooth="yes"/>
+      <point x="303" y="76" type="line"/>
+      <point x="294" y="76" type="line"/>
+      <point x="275" y="0" type="line" smooth="yes"/>
+      <point x="241" y="-139"/>
+      <point x="292" y="-206"/>
+      <point x="376" y="-206" type="curve" smooth="yes"/>
+      <point x="433" y="-206"/>
+      <point x="468" y="-184"/>
+      <point x="468" y="-141" type="curve" smooth="yes"/>
+      <point x="468" y="-110"/>
+      <point x="449" y="-86"/>
+      <point x="414" y="-86" type="curve" smooth="yes"/>
+      <point x="363" y="-86"/>
+      <point x="375" y="-149"/>
+      <point x="329" y="-149" type="curve" smooth="yes"/>
+      <point x="290" y="-149"/>
+      <point x="260" y="-105"/>
+    </contour>
+    <component base="ts" xOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>s</string>
+    </dict>
+  </lib>
+</glyph>

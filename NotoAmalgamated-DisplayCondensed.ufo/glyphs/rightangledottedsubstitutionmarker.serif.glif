@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightangledottedsubstitutionmarker.serif" format="2">
+  <advance width="270"/>
+  <unicode hex="2E01"/>
+  <outline>
+    <contour>
+      <point x="56" y="246" type="line"/>
+      <point x="76" y="246" type="line"/>
+      <point x="76" y="694" type="line"/>
+      <point x="221" y="694" type="line"/>
+      <point x="221" y="714" type="line"/>
+      <point x="56" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="465" type="curve" smooth="yes"/>
+      <point x="202" y="465"/>
+      <point x="218" y="479"/>
+      <point x="218" y="515" type="curve" smooth="yes"/>
+      <point x="218" y="548"/>
+      <point x="205" y="565"/>
+      <point x="183" y="565" type="curve" smooth="yes"/>
+      <point x="159" y="565"/>
+      <point x="148" y="547"/>
+      <point x="148" y="515" type="curve" smooth="yes"/>
+      <point x="148" y="479"/>
+      <point x="164" y="465"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

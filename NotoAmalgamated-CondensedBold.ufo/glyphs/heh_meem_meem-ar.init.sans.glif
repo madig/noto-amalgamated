@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heh_meem_meem-ar.init.sans" format="2">
+  <advance width="1812"/>
+  <unicode hex="FD94"/>
+  <anchor x="1210" y="0" name="caret_1"/>
+  <anchor x="605" y="0" name="caret_2"/>
+  <outline>
+    <component base="heh-ar.init" xOffset="1210"/>
+    <component base="meem-ar.medi" xOffset="605"/>
+    <component base="meem-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>heh-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>meem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

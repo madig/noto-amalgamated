@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen_jeem-ar.medi.sans" format="2">
+  <advance width="1381"/>
+  <unicode hex="FD37"/>
+  <anchor x="532" y="0" name="caret_1"/>
+  <outline>
+    <component base="sheen-ar.medi" xOffset="532"/>
+    <component base="jeem-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>sheen-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>jeem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wturnedmod.serif" format="2">
+  <advance width="557"/>
+  <unicode hex="AB69"/>
+  <anchor x="277" y="287" name="bottom"/>
+  <anchor x="-6" y="287" name="bottomleft"/>
+  <anchor x="277" y="609" name="top"/>
+  <outline>
+    <component base="wturned" xScale="0.65" yScale="0.6" xOffset="-1" yOffset="287"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>wturned</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|w*.25</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|w*.25</string>
+    </dict>
+  </lib>
+</glyph>

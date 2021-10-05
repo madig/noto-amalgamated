@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dhaorya" format="2">
+  <advance width="582"/>
+  <unicode hex="0B27"/>
+  <anchor x="296" y="0" name="b.tasubscriptorya"/>
+  <anchor x="521" y="0" name="b.uvowelsignorya"/>
+  <anchor x="292" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="36" y="196" type="curve" smooth="yes"/>
+      <point x="36" y="84"/>
+      <point x="123" y="-10"/>
+      <point x="255" y="-10" type="curve" smooth="yes"/>
+      <point x="387" y="-10"/>
+      <point x="503" y="80"/>
+      <point x="503" y="267" type="curve"/>
+      <point x="454" y="248" type="line"/>
+      <point x="454" y="113"/>
+      <point x="353" y="55"/>
+      <point x="265" y="55" type="curve" smooth="yes"/>
+      <point x="170" y="55"/>
+      <point x="104" y="123"/>
+      <point x="104" y="204" type="curve" smooth="yes"/>
+      <point x="104" y="268"/>
+      <point x="144" y="347"/>
+      <point x="275" y="373" type="curve"/>
+      <point x="234" y="433" type="line"/>
+      <point x="98" y="379"/>
+      <point x="36" y="291"/>
+    </contour>
+    <contour>
+      <point x="42" y="618" type="line"/>
+      <point x="128" y="519"/>
+      <point x="228" y="411"/>
+      <point x="332" y="304" type="curve"/>
+      <point x="342" y="304" type="line"/>
+      <point x="377" y="334" type="line"/>
+      <point x="277" y="453"/>
+      <point x="180" y="567"/>
+      <point x="102" y="665" type="curve"/>
+      <point x="92" y="665" type="line"/>
+    </contour>
+    <component base="_part.a" xOffset="-62"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aorya</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf_meem-ar.init.sans" format="2">
+  <advance width="1025"/>
+  <unicode hex="FCC3"/>
+  <anchor x="578" y="0" name="caret_1"/>
+  <outline>
+    <component base="qaf-ar.init" xOffset="578"/>
+    <component base="meem-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>qaf-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>meem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

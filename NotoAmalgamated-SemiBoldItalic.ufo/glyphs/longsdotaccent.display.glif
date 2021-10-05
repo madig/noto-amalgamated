@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longsdotaccent.display" format="2">
+  <advance width="405"/>
+  <unicode hex="1E9B"/>
+  <anchor x="95" y="-240" name="bottom"/>
+  <anchor x="463" y="960" name="top"/>
+  <outline>
+    <component base="longs"/>
+    <component base="dotaccent" xOffset="250" yOffset="192"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

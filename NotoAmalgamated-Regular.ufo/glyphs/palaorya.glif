@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palaorya" format="2">
+  <advance width="649"/>
+  <anchor x="392" y="0" name="b.tasubscriptorya"/>
+  <anchor x="623" y="0" name="b.uvowelsignorya"/>
+  <anchor x="309" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <component base="_part.pahalf1" xOffset="-2"/>
+    <component base="_part.lasub" xOffset="61" yOffset="73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters-oriya" format="2">
+  <advance width="423"/>
+  <unicode hex="0B74"/>
+  <note>
+uni0B74
+</note>
+  <outline>
+    <contour>
+      <point x="40" y="400" type="curve"/>
+      <point x="40" y="400" type="line"/>
+      <point x="40" y="319"/>
+      <point x="64" y="260"/>
+      <point x="131" y="260" type="curve"/>
+      <point x="171" y="260"/>
+      <point x="204" y="281"/>
+      <point x="217" y="320" type="curve"/>
+      <point x="211" y="320" type="line"/>
+      <point x="223" y="279"/>
+      <point x="255" y="260"/>
+      <point x="291" y="260" type="curve"/>
+      <point x="316" y="260"/>
+      <point x="347" y="268"/>
+      <point x="368" y="293" type="curve"/>
+      <point x="363" y="319" type="line"/>
+      <point x="342" y="293"/>
+      <point x="315" y="285"/>
+      <point x="295" y="285" type="curve"/>
+      <point x="255" y="285"/>
+      <point x="227" y="319"/>
+      <point x="227" y="377" type="curve"/>
+      <point x="227" y="558" type="line"/>
+      <point x="201" y="558" type="line"/>
+      <point x="201" y="377" type="line" smooth="yes"/>
+      <point x="201" y="320"/>
+      <point x="177" y="285"/>
+      <point x="134" y="285" type="curve"/>
+      <point x="85" y="285"/>
+      <point x="66" y="332"/>
+      <point x="66" y="399" type="curve"/>
+      <point x="66" y="447"/>
+      <point x="77" y="500"/>
+      <point x="91" y="557" type="curve"/>
+      <point x="65" y="564" type="line"/>
+      <point x="50" y="506"/>
+      <point x="40" y="451"/>
+    </contour>
+    <contour>
+      <point x="381" y="558" type="line"/>
+      <point x="355" y="558" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="381" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>onehalf-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>onequarter-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Fraction</string>
+    </dict>
+  </lib>
+</glyph>

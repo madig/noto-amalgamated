@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilondialytikaoxia.display" format="2">
+  <advance width="489"/>
+  <unicode hex="1FE3"/>
+  <anchor x="184" y="0" name="bottom"/>
+  <anchor x="349" y="778" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="dialytikaoxia" xOffset="-8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

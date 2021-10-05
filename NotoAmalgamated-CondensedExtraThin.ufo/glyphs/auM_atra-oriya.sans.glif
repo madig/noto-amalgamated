@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="auMatra-oriya.sans" format="2">
+  <advance width="1005"/>
+  <unicode hex="0B4C"/>
+  <note>
+auvowelsignorya
+</note>
+  <outline>
+    <component base="eMatra-oriya"/>
+    <component base="auLength-oriya" xOffset="875"/>
+    <component base="dottedCircle" xOffset="312"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>eMatra-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>auLength-oriya</string>
+    </dict>
+  </lib>
+</glyph>

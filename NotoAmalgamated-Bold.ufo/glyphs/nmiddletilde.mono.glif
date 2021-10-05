@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nmiddletilde.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="1D70"/>
+  <outline>
+    <contour>
+      <point x="-38" y="163" type="curve"/>
+      <point x="28" y="163" type="line"/>
+      <point x="28" y="220"/>
+      <point x="45" y="237"/>
+      <point x="90" y="237" type="curve"/>
+      <point x="213" y="237"/>
+      <point x="378" y="164"/>
+      <point x="519" y="164" type="curve"/>
+      <point x="602" y="164"/>
+      <point x="642" y="219"/>
+      <point x="644" y="325" type="curve"/>
+      <point x="578" y="325" type="line"/>
+      <point x="577" y="271"/>
+      <point x="560" y="258"/>
+      <point x="512" y="258" type="curve"/>
+      <point x="409" y="258"/>
+      <point x="191" y="341"/>
+      <point x="88" y="341" type="curve"/>
+      <point x="6" y="341"/>
+      <point x="-38" y="278"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>n</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

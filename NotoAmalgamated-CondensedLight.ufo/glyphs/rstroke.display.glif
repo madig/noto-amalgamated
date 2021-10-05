@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rstroke.display" format="2">
+  <advance width="256"/>
+  <unicode hex="024D"/>
+  <anchor x="82" y="0" name="bottom"/>
+  <anchor x="150" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="214" y="301" type="line"/>
+      <point x="5" y="301" type="line"/>
+      <point x="5" y="276" type="line"/>
+      <point x="214" y="276" type="line"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=r</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

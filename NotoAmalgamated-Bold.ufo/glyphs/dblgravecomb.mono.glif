@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.mono" format="2">
+  <unicode hex="030F"/>
+  <anchor x="0" y="553" name="_top"/>
+  <anchor x="0" y="766" name="top"/>
+  <outline>
+    <contour>
+      <point x="110" y="606" type="curve"/>
+      <point x="209" y="606" type="line"/>
+      <point x="209" y="620" type="line"/>
+      <point x="181" y="658"/>
+      <point x="145" y="721"/>
+      <point x="124" y="766" type="curve"/>
+      <point x="-43" y="766" type="line"/>
+      <point x="-43" y="756" type="line"/>
+      <point x="-22" y="721"/>
+      <point x="65" y="641"/>
+    </contour>
+    <contour>
+      <point x="-97" y="606" type="curve"/>
+      <point x="2" y="606" type="line"/>
+      <point x="2" y="620" type="line"/>
+      <point x="-26" y="658"/>
+      <point x="-61" y="721"/>
+      <point x="-82" y="766" type="curve"/>
+      <point x="-249" y="766" type="line"/>
+      <point x="-249" y="756" type="line"/>
+      <point x="-228" y="721"/>
+      <point x="-142" y="641"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

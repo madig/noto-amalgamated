@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seenFourdotsabove-ar.fina" format="2">
+  <advance width="1561"/>
+  <note>
+uni075C.fina
+</note>
+  <anchor x="988" y="-78" name="bottom"/>
+  <anchor x="983" y="885" name="top"/>
+  <outline>
+    <component base="seen-ar.fina"/>
+    <component base="fourdots.above" xOffset="985" yOffset="-40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>seen-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fourdots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dhanuktaguru" format="2">
+  <advance width="641"/>
+  <note>
+dhanuktaguru
+</note>
+  <anchor x="571" y="0" name="bottom"/>
+  <anchor x="471" y="622" name="top"/>
+  <outline>
+    <component base="dhaguru"/>
+    <component base="nuktaguru" xOffset="143" yOffset="122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>dhaguru</string>
+    </dict>
+  </lib>
+</glyph>

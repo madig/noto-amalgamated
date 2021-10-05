@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tanuktaguru" format="2">
+  <advance width="565"/>
+  <note>
+tanuktaguru
+</note>
+  <anchor x="407" y="0" name="bottom"/>
+  <anchor x="423" y="622" name="top"/>
+  <outline>
+    <component base="taguru"/>
+    <component base="nuktaguru" xOffset="92" yOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>taguru</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehThreedotsupbelow-ar.sans" format="2">
+  <advance width="726"/>
+  <unicode hex="0753"/>
+  <outline>
+    <component base="dotlessbeh-ar"/>
+    <component base="threedotsupbelow-ar.restricted" xOffset="189" yOffset="-25"/>
+    <component base="twodotshorizontalabove-ar" xOffset="219" yOffset="-165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedotsupbelow-ar.restricted</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>twodotshorizontalabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

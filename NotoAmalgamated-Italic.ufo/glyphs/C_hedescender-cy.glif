@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chedescender-cy" format="2">
+  <advance width="646"/>
+  <unicode hex="04B6"/>
+  <anchor x="226" y="-187" name="bottom"/>
+  <anchor x="418" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="452" y="-187" type="line"/>
+      <point x="537" y="-187" type="line"/>
+      <point x="595" y="80" type="line"/>
+      <point x="513" y="80" type="line"/>
+      <point x="647" y="714" type="line"/>
+      <point x="557" y="714" type="line"/>
+      <point x="485" y="366" type="line"/>
+      <point x="420" y="342"/>
+      <point x="364" y="327"/>
+      <point x="295" y="327" type="curve" smooth="yes"/>
+      <point x="234" y="327"/>
+      <point x="209" y="351"/>
+      <point x="209" y="397" type="curve" smooth="yes"/>
+      <point x="209" y="409"/>
+      <point x="211" y="425"/>
+      <point x="217" y="451" type="curve" smooth="yes"/>
+      <point x="272" y="714" type="line"/>
+      <point x="183" y="714" type="line"/>
+      <point x="126" y="450" type="line"/>
+      <point x="120" y="420"/>
+      <point x="118" y="401"/>
+      <point x="118" y="384" type="curve" smooth="yes"/>
+      <point x="118" y="298"/>
+      <point x="173" y="248"/>
+      <point x="280" y="248" type="curve" smooth="yes"/>
+      <point x="353" y="248"/>
+      <point x="420" y="272"/>
+      <point x="468" y="291" type="curve"/>
+      <point x="406" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

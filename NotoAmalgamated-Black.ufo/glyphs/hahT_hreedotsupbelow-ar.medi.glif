@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahThreedotsupbelow-ar.medi" format="2">
+  <advance width="631"/>
+  <note>
+uni0758.medi
+</note>
+  <anchor x="248" y="-377" name="bottom"/>
+  <anchor x="186" y="560" name="top"/>
+  <outline>
+    <component base="hah-ar.medi"/>
+    <component base="threedots.rev.below" xOffset="230" yOffset="-40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hah-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.rev.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

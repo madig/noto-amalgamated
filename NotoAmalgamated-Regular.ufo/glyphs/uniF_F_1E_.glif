@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFF1E" format="2">
+  <advance height="976" width="1000"/>
+  <unicode hex="FF1E"/>
+  <note>
+uniFF1E
+</note>
+  <outline>
+    <contour>
+      <point x="786" y="367" type="line"/>
+      <point x="120" y="28" type="line"/>
+      <point x="140" y="-12" type="line"/>
+      <point x="880" y="367" type="line"/>
+      <point x="880" y="369" type="line"/>
+      <point x="140" y="748" type="line"/>
+      <point x="120" y="709" type="line"/>
+      <point x="786" y="369" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>-12</integer>
+            <integer>760</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>120</integer>
+            <integer>760</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>836</integer>
+    </dict>
+  </lib>
+</glyph>

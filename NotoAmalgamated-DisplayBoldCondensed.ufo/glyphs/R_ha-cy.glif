@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rha-cy" format="2">
+  <advance width="745"/>
+  <unicode hex="0516"/>
+  <anchor x="374" y="0" name="bottom"/>
+  <anchor x="374" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="56" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="227" y="237" type="line"/>
+      <point x="258" y="237" type="line" smooth="yes"/>
+      <point x="337" y="237"/>
+      <point x="392" y="262"/>
+      <point x="427" y="313" type="curve"/>
+      <point x="555" y="0" type="line"/>
+      <point x="744" y="0" type="line"/>
+      <point x="587" y="367" type="line"/>
+      <point x="747" y="714" type="line"/>
+      <point x="566" y="714" type="line"/>
+      <point x="476" y="500" type="line"/>
+      <point x="476" y="622"/>
+      <point x="399" y="714"/>
+      <point x="267" y="714" type="curve" smooth="yes"/>
+      <point x="56" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="381" type="curve" smooth="yes"/>
+      <point x="227" y="381" type="line"/>
+      <point x="227" y="570" type="line"/>
+      <point x="251" y="570" type="line" smooth="yes"/>
+      <point x="291" y="570"/>
+      <point x="312" y="542"/>
+      <point x="312" y="486" type="curve" smooth="yes"/>
+      <point x="312" y="410"/>
+      <point x="282" y="381"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>X</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

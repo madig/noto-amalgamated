@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocrossed-cy.serif" format="2">
+  <advance width="677"/>
+  <unicode hex="A69B"/>
+  <outline>
+    <contour>
+      <point x="336" y="-11" type="curve" smooth="yes"/>
+      <point x="527" y="-11"/>
+      <point x="626" y="80"/>
+      <point x="626" y="271" type="curve" smooth="yes"/>
+      <point x="626" y="461"/>
+      <point x="517" y="552"/>
+      <point x="340" y="552" type="curve" smooth="yes"/>
+      <point x="149" y="552"/>
+      <point x="51" y="461"/>
+      <point x="51" y="271" type="curve" smooth="yes"/>
+      <point x="51" y="80"/>
+      <point x="159" y="-11"/>
+    </contour>
+    <contour>
+      <point x="301" y="69" type="line"/>
+      <point x="261" y="90"/>
+      <point x="239" y="150"/>
+      <point x="237" y="246" type="curve"/>
+      <point x="301" y="246" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="69" type="curve"/>
+      <point x="377" y="246" type="line"/>
+      <point x="443" y="246" type="line"/>
+      <point x="441" y="151"/>
+      <point x="420" y="89"/>
+    </contour>
+    <contour>
+      <point x="238" y="312" type="line"/>
+      <point x="240" y="398"/>
+      <point x="261" y="451"/>
+      <point x="301" y="469" type="curve"/>
+      <point x="301" y="312" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="312" type="curve"/>
+      <point x="377" y="312" type="line"/>
+      <point x="377" y="469" type="line"/>
+      <point x="416" y="449"/>
+      <point x="438" y="399"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

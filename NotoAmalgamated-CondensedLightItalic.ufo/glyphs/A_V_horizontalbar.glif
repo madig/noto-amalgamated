@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AVhorizontalbar" format="2">
+  <advance width="470"/>
+  <unicode hex="A73A"/>
+  <outline>
+    <contour>
+      <point x="-72" y="0" type="line"/>
+      <point x="-44" y="0" type="line"/>
+      <point x="200" y="574" type="line" smooth="yes"/>
+      <point x="215" y="610"/>
+      <point x="231" y="649"/>
+      <point x="242" y="680" type="curve"/>
+      <point x="244" y="680" type="line"/>
+      <point x="243" y="652"/>
+      <point x="243" y="628"/>
+      <point x="243" y="591" type="curve" smooth="yes"/>
+      <point x="241" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="581" y="714" type="line"/>
+      <point x="553" y="714" type="line"/>
+      <point x="309" y="140" type="line" smooth="yes"/>
+      <point x="294" y="104"/>
+      <point x="278" y="65"/>
+      <point x="267" y="34" type="curve"/>
+      <point x="265" y="34" type="line"/>
+      <point x="266" y="62"/>
+      <point x="266" y="86"/>
+      <point x="266" y="123" type="curve" smooth="yes"/>
+      <point x="268" y="714" type="line"/>
+      <point x="232" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="344" type="line"/>
+      <point x="414" y="344" type="line"/>
+      <point x="418" y="369" type="line"/>
+      <point x="96" y="369" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

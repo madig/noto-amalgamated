@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iMatra-sidd" format="2">
+  <advance width="214"/>
+  <unicode hex="115B0"/>
+  <outline>
+    <contour>
+      <point x="311" y="-120" type="curve"/>
+      <point x="337" y="-97" type="line"/>
+      <point x="193" y="69"/>
+      <point x="130" y="223"/>
+      <point x="130" y="397" type="curve" smooth="yes"/>
+      <point x="130" y="563"/>
+      <point x="186" y="671"/>
+      <point x="279" y="671" type="curve" smooth="yes"/>
+      <point x="303" y="671"/>
+      <point x="329" y="662"/>
+      <point x="363" y="630" type="curve"/>
+      <point x="368" y="625"/>
+      <point x="374" y="622"/>
+      <point x="379" y="622" type="curve" smooth="yes"/>
+      <point x="388" y="622"/>
+      <point x="396" y="628"/>
+      <point x="396" y="636" type="curve" smooth="yes"/>
+      <point x="396" y="641"/>
+      <point x="394" y="646"/>
+      <point x="389" y="653" type="curve"/>
+      <point x="332" y="744"/>
+      <point x="282" y="778"/>
+      <point x="232" y="778" type="curve" smooth="yes"/>
+      <point x="126" y="778"/>
+      <point x="40" y="659"/>
+      <point x="40" y="466" type="curve" smooth="yes"/>
+      <point x="40" y="220"/>
+      <point x="130" y="54"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>siddham</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dje-cy.display" format="2">
+  <advance width="615"/>
+  <unicode hex="0402"/>
+  <anchor x="308" y="0" name="bottom"/>
+  <anchor x="243" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="413" y="-10" type="curve" smooth="yes"/>
+      <point x="522" y="-10"/>
+      <point x="575" y="64"/>
+      <point x="575" y="201" type="curve" smooth="yes"/>
+      <point x="575" y="266" type="line" smooth="yes"/>
+      <point x="575" y="391"/>
+      <point x="511" y="467"/>
+      <point x="392" y="467" type="curve" smooth="yes"/>
+      <point x="309" y="467" type="line"/>
+      <point x="309" y="567" type="line"/>
+      <point x="429" y="567" type="line"/>
+      <point x="429" y="714" type="line"/>
+      <point x="17" y="714" type="line"/>
+      <point x="17" y="567" type="line"/>
+      <point x="139" y="567" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="309" y="320" type="line"/>
+      <point x="365" y="320" type="line" smooth="yes"/>
+      <point x="392" y="320"/>
+      <point x="406" y="303"/>
+      <point x="406" y="267" type="curve" smooth="yes"/>
+      <point x="406" y="185" type="line" smooth="yes"/>
+      <point x="406" y="147"/>
+      <point x="397" y="134"/>
+      <point x="374" y="134" type="curve" smooth="yes"/>
+      <point x="365" y="134"/>
+      <point x="355" y="138"/>
+      <point x="349" y="142" type="curve"/>
+      <point x="349" y="0" type="line"/>
+      <point x="369" y="-6"/>
+      <point x="390" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

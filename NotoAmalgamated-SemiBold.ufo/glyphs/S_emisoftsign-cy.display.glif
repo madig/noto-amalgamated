@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Semisoftsign-cy.display" format="2">
+  <advance width="592"/>
+  <unicode hex="048C"/>
+  <anchor x="291" y="0" name="bottom"/>
+  <anchor x="291" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="241" y="714" type="line"/>
+      <point x="79" y="714" type="line"/>
+      <point x="79" y="640" type="line"/>
+      <point x="9" y="640" type="line"/>
+      <point x="9" y="516" type="line"/>
+      <point x="79" y="516" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="464" y="0"/>
+      <point x="555" y="82"/>
+      <point x="555" y="223" type="curve" smooth="yes"/>
+      <point x="555" y="349"/>
+      <point x="477" y="440"/>
+      <point x="274" y="440" type="curve"/>
+      <point x="241" y="440" type="line"/>
+      <point x="241" y="516" type="line"/>
+      <point x="388" y="516" type="line"/>
+      <point x="388" y="640" type="line"/>
+      <point x="241" y="640" type="line"/>
+    </contour>
+    <contour>
+      <point x="263" y="316" type="line"/>
+      <point x="348" y="316"/>
+      <point x="392" y="299"/>
+      <point x="392" y="223" type="curve" smooth="yes"/>
+      <point x="392" y="150"/>
+      <point x="350" y="124"/>
+      <point x="269" y="124" type="curve"/>
+      <point x="241" y="124" type="line"/>
+      <point x="241" y="316" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s.sc.display" format="2">
+  <advance width="469"/>
+  <anchor x="235" y="0" name="bottom"/>
+  <anchor x="235" y="591" name="top"/>
+  <anchor x="451" y="591" name="topright"/>
+  <outline>
+    <contour>
+      <point x="451" y="186" type="curve" smooth="yes"/>
+      <point x="451" y="276"/>
+      <point x="415" y="319"/>
+      <point x="335" y="359" type="curve" smooth="yes"/>
+      <point x="248" y="403"/>
+      <point x="235" y="414"/>
+      <point x="235" y="429" type="curve" smooth="yes"/>
+      <point x="235" y="438"/>
+      <point x="234" y="450"/>
+      <point x="259" y="450" type="curve" smooth="yes"/>
+      <point x="296" y="450"/>
+      <point x="349" y="434"/>
+      <point x="397" y="410" type="curve"/>
+      <point x="457" y="554" type="line"/>
+      <point x="415" y="575"/>
+      <point x="351" y="599"/>
+      <point x="265" y="599" type="curve" smooth="yes"/>
+      <point x="125" y="599"/>
+      <point x="34" y="539"/>
+      <point x="34" y="421" type="curve" smooth="yes"/>
+      <point x="34" y="316"/>
+      <point x="78" y="275"/>
+      <point x="163" y="233" type="curve" smooth="yes"/>
+      <point x="235" y="198"/>
+      <point x="246" y="188"/>
+      <point x="246" y="169" type="curve" smooth="yes"/>
+      <point x="246" y="156"/>
+      <point x="245" y="143"/>
+      <point x="218" y="143" type="curve" smooth="yes"/>
+      <point x="173" y="143"/>
+      <point x="101" y="163"/>
+      <point x="33" y="199" type="curve"/>
+      <point x="33" y="32" type="line"/>
+      <point x="94" y="2"/>
+      <point x="128" y="-8"/>
+      <point x="215" y="-8" type="curve" smooth="yes"/>
+      <point x="391" y="-8"/>
+      <point x="451" y="91"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

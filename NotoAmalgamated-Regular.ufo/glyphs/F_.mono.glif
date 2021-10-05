@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="0046"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="317" y="714" name="top"/>
+  <anchor x="580" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="95" y="0" type="line"/>
+      <point x="185" y="0" type="line"/>
+      <point x="185" y="302" type="line"/>
+      <point x="496" y="302" type="line"/>
+      <point x="496" y="382" type="line"/>
+      <point x="185" y="382" type="line"/>
+      <point x="185" y="634" type="line"/>
+      <point x="515" y="634" type="line"/>
+      <point x="515" y="714" type="line"/>
+      <point x="95" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>B</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

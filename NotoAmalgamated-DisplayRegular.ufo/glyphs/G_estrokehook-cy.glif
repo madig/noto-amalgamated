@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestrokehook-cy" format="2">
+  <advance width="500"/>
+  <unicode hex="04FA"/>
+  <anchor x="265" y="-198" name="bottom"/>
+  <anchor x="265" y="714" name="top"/>
+  <outline>
+    <component base="Ghestroke-cy"/>
+    <component base="cyrillicbighookUC" xOffset="76"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

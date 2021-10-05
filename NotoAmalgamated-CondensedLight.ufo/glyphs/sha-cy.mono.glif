@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-cy.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="0448"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="56" y="0" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="444" y="528" type="line"/>
+      <point x="418" y="528" type="line"/>
+      <point x="418" y="25" type="line"/>
+      <point x="263" y="25" type="line"/>
+      <point x="263" y="528" type="line"/>
+      <point x="237" y="528" type="line"/>
+      <point x="237" y="25" type="line"/>
+      <point x="82" y="25" type="line"/>
+      <point x="82" y="528" type="line"/>
+      <point x="56" y="528" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>m</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|m</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iepigraphicsideways.serif" format="2">
+  <advance width="835"/>
+  <unicode hex="A7F7"/>
+  <anchor x="417" y="263" name="bottom"/>
+  <anchor x="464" y="486" name="top"/>
+  <anchor x="844" y="486" name="topright"/>
+  <outline>
+    <contour>
+      <point x="83" y="263" type="line"/>
+      <point x="103" y="263" type="line"/>
+      <point x="102" y="303" type="line" smooth="yes"/>
+      <point x="102" y="353"/>
+      <point x="113" y="359"/>
+      <point x="191" y="359" type="curve" smooth="yes"/>
+      <point x="689" y="359" type="line" smooth="yes"/>
+      <point x="766" y="359"/>
+      <point x="777" y="353"/>
+      <point x="777" y="303" type="curve" smooth="yes"/>
+      <point x="777" y="263" type="line"/>
+      <point x="797" y="263" type="line"/>
+      <point x="797" y="486" type="line"/>
+      <point x="777" y="486" type="line"/>
+      <point x="777" y="443" type="line" smooth="yes"/>
+      <point x="777" y="393"/>
+      <point x="766" y="387"/>
+      <point x="689" y="387" type="curve" smooth="yes"/>
+      <point x="191" y="387" type="line" smooth="yes"/>
+      <point x="113" y="387"/>
+      <point x="102" y="393"/>
+      <point x="102" y="443" type="curve" smooth="yes"/>
+      <point x="102" y="486" type="line"/>
+      <point x="82" y="486" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

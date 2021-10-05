@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eopenreversedhook" format="2">
+  <advance width="734"/>
+  <unicode hex="025D"/>
+  <anchor x="228" y="0" name="bottom"/>
+  <anchor x="228" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="626" y="249" type="curve"/>
+      <point x="674" y="249"/>
+      <point x="705" y="266"/>
+      <point x="734" y="292" type="curve"/>
+      <point x="688" y="394" type="line"/>
+      <point x="674" y="381"/>
+      <point x="662" y="369"/>
+      <point x="635" y="369" type="curve"/>
+      <point x="601" y="369"/>
+      <point x="597" y="394"/>
+      <point x="581" y="457" type="curve"/>
+      <point x="569" y="502" type="line"/>
+      <point x="353" y="439" type="line"/>
+      <point x="384" y="329" type="line"/>
+      <point x="487" y="360" type="line"/>
+      <point x="510" y="284"/>
+      <point x="552" y="249"/>
+    </contour>
+    <component base="ze-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>rhotichookmod</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

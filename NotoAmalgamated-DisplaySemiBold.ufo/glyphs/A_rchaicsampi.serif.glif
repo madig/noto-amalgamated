@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Archaicsampi.serif" format="2">
+  <advance width="653"/>
+  <unicode hex="0372"/>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="327" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="154" y="0" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="499" y="10" type="line"/>
+      <point x="457" y="10" type="line" smooth="yes"/>
+      <point x="428" y="10"/>
+      <point x="406" y="18"/>
+      <point x="406" y="75" type="curve" smooth="yes"/>
+      <point x="406" y="704" type="line"/>
+      <point x="470" y="704" type="line" smooth="yes"/>
+      <point x="578" y="704"/>
+      <point x="621" y="665"/>
+      <point x="625" y="564" type="curve" smooth="yes"/>
+      <point x="633" y="341" type="line"/>
+      <point x="643" y="341" type="line"/>
+      <point x="631" y="714" type="line"/>
+      <point x="22" y="714" type="line"/>
+      <point x="10" y="341" type="line"/>
+      <point x="20" y="341" type="line"/>
+      <point x="28" y="564" type="line" smooth="yes"/>
+      <point x="32" y="665"/>
+      <point x="75" y="704"/>
+      <point x="183" y="704" type="curve" smooth="yes"/>
+      <point x="247" y="704" type="line"/>
+      <point x="247" y="75" type="line" smooth="yes"/>
+      <point x="247" y="18"/>
+      <point x="225" y="10"/>
+      <point x="196" y="10" type="curve" smooth="yes"/>
+      <point x="154" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

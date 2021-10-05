@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFBBC" format="2">
+  <advance width="261"/>
+  <unicode hex="FBBC"/>
+  <anchor x="127" y="0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="163" y="-208" type="line"/>
+      <point x="216" y="-208" type="line"/>
+      <point x="211" y="-37" type="line"/>
+      <point x="158" y="-37" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="-208" type="line"/>
+      <point x="103" y="-208" type="line"/>
+      <point x="98" y="-37" type="line"/>
+      <point x="45" y="-37" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=alefbelow-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=alefbelow-ar</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>arabic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

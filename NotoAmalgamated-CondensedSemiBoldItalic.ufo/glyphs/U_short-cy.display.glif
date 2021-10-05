@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ushort-cy.display" format="2">
+  <advance width="581"/>
+  <unicode hex="040E"/>
+  <anchor x="225" y="0" name="bottom"/>
+  <anchor x="427" y="948" name="top"/>
+  <outline>
+    <component base="U-cy"/>
+    <component base="cyrillicbreve" xOffset="105" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

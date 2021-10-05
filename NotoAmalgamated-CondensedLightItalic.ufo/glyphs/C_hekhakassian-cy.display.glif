@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chekhakassian-cy.display" format="2">
+  <advance width="500"/>
+  <unicode hex="04CB"/>
+  <anchor x="205" y="-210" name="bottom"/>
+  <anchor x="402" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="191" y="-210" type="line"/>
+      <point x="201" y="-210" type="line"/>
+      <point x="244" y="-11"/>
+      <point x="250" y="0"/>
+      <point x="350" y="0" type="curve"/>
+      <point x="249" y="10" type="line"/>
+      <point x="239" y="10" type="line"/>
+    </contour>
+    <component base="Che-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

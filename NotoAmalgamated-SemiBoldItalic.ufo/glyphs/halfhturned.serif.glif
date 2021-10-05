@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="halfhturned.serif" format="2">
+  <advance width="425"/>
+  <unicode hex="A7F6"/>
+  <anchor x="154" y="0" name="bottom"/>
+  <anchor x="268" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="121" y="0" type="line"/>
+      <point x="271" y="0" type="line"/>
+      <point x="356" y="388" type="line" smooth="yes"/>
+      <point x="362" y="415"/>
+      <point x="369" y="439"/>
+      <point x="373" y="449" type="curve" smooth="yes"/>
+      <point x="385" y="477"/>
+      <point x="402" y="483"/>
+      <point x="440" y="483" type="curve" smooth="yes"/>
+      <point x="458" y="483" type="line"/>
+      <point x="470" y="536" type="line"/>
+      <point x="238" y="536" type="line"/>
+      <point x="187" y="304" type="line"/>
+      <point x="27" y="304" type="line"/>
+      <point x="16" y="241" type="line"/>
+      <point x="173" y="241" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|uni2C76</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>halfh</string>
+    </dict>
+  </lib>
+</glyph>

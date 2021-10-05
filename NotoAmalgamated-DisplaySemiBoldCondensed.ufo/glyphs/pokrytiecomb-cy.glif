@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pokrytiecomb-cy" format="2">
+  <unicode hex="0487"/>
+  <anchor x="2" y="700" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-48" y="917" type="curve" smooth="yes"/>
+      <point x="-113" y="917"/>
+      <point x="-149" y="876"/>
+      <point x="-149" y="783" type="curve" smooth="yes"/>
+      <point x="-149" y="762" type="line"/>
+      <point x="-73" y="762" type="line"/>
+      <point x="-73" y="801"/>
+      <point x="-60" y="820"/>
+      <point x="-37" y="820" type="curve" smooth="yes"/>
+      <point x="5" y="820"/>
+      <point x="22" y="766"/>
+      <point x="144" y="766" type="curve" smooth="yes"/>
+      <point x="150" y="766" type="line"/>
+      <point x="150" y="857" type="line"/>
+      <point x="144" y="857" type="line" smooth="yes"/>
+      <point x="68" y="857"/>
+      <point x="19" y="917"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

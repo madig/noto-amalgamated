@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilondasiavaria.serif" format="2">
+  <advance width="812"/>
+  <unicode hex="1F5B"/>
+  <anchor x="526" y="0" name="bottom"/>
+  <anchor x="526" y="714" name="top"/>
+  <outline>
+    <component base="dasiavaria" xOffset="-44"/>
+    <component base="Y" xOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

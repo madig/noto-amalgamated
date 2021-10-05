@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scaron.display" format="2">
+  <advance width="402"/>
+  <unicode hex="0160"/>
+  <anchor x="190" y="0" name="bottom"/>
+  <anchor x="211" y="943" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="caroncomb" xOffset="211" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

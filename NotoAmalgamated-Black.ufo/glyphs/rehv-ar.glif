@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehv-ar" format="2">
+  <advance width="513"/>
+  <unicode hex="0692"/>
+  <note>
+uni0692
+</note>
+  <anchor x="171" y="-323" name="bottom"/>
+  <anchor x="330" y="831" name="top"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="smallv.arabic" xOffset="334" yOffset="-46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>reh-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>smallv.arabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

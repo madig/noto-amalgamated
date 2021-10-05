@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ga_tibet" format="2">
+  <advance width="704"/>
+  <unicode hex="0F42"/>
+  <anchor x="640" y="678" name="_bottomright"/>
+  <anchor x="322" y="100" name="bottom"/>
+  <anchor x="640" y="-440" name="bottomright"/>
+  <anchor x="660" y="678" name="flag"/>
+  <anchor x="362" y="678" name="top"/>
+  <anchor x="74" y="678" name="topleft"/>
+  <anchor x="660" y="678" name="topright"/>
+  <outline>
+    <contour>
+      <point x="640" y="-472" type="line"/>
+      <point x="640" y="592" type="line"/>
+      <point x="660" y="678" type="line"/>
+      <point x="74" y="678" type="line"/>
+      <point x="54" y="592" type="line"/>
+      <point x="322" y="592" type="line"/>
+      <point x="366" y="478"/>
+      <point x="394" y="348"/>
+      <point x="396" y="224" type="curve"/>
+      <point x="401" y="240" type="line"/>
+      <point x="311" y="364"/>
+      <point x="213" y="415"/>
+      <point x="106" y="415" type="curve" smooth="yes"/>
+      <point x="101" y="415"/>
+      <point x="90" y="414"/>
+      <point x="84" y="413" type="curve"/>
+      <point x="88" y="377" type="line"/>
+      <point x="117" y="463"/>
+      <point x="164" y="567"/>
+      <point x="222" y="652" type="curve"/>
+      <point x="135" y="665" type="line"/>
+      <point x="99" y="578"/>
+      <point x="64" y="467"/>
+      <point x="40" y="350" type="curve"/>
+      <point x="63" y="321" type="line"/>
+      <point x="75" y="322"/>
+      <point x="90" y="323"/>
+      <point x="101" y="323" type="curve" smooth="yes"/>
+      <point x="218" y="323"/>
+      <point x="309" y="282"/>
+      <point x="399" y="182" type="curve"/>
+      <point x="439" y="199" type="line"/>
+      <point x="437" y="341"/>
+      <point x="425" y="481"/>
+      <point x="408" y="592" type="curve"/>
+      <point x="554" y="592" type="line"/>
+      <point x="583" y="345"/>
+      <point x="594" y="91"/>
+      <point x="594" y="-440" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

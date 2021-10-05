@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka-cy.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="043A"/>
+  <anchor x="313" y="0" name="bottom"/>
+  <anchor x="580" y="0" name="bottomright"/>
+  <anchor x="320" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="203" y="277" type="line"/>
+      <point x="423" y="0" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="354" y="283" type="line"/>
+      <point x="566" y="546" type="line"/>
+      <point x="409" y="546" type="line"/>
+      <point x="203" y="281" type="line"/>
+      <point x="203" y="546" type="line"/>
+      <point x="60" y="546" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04BE" format="2">
+  <advance width="559"/>
+  <unicode hex="04BE"/>
+  <anchor x="244" y="-191" name="bottom"/>
+  <anchor x="416" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="335" y="10" type="line"/>
+      <point x="257" y="11" type="line"/>
+      <point x="213" y="-191" type="line"/>
+      <point x="291" y="-191" type="line"/>
+    </contour>
+    <component base="uni04BC"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

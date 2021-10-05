@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiaperispomeni.serif" format="2">
+  <advance width="729"/>
+  <unicode hex="1F6F"/>
+  <anchor x="375" y="0" name="bottom"/>
+  <anchor x="375" y="714" name="top"/>
+  <outline>
+    <component base="dasiaperispomeni" xOffset="-162"/>
+    <component base="Omega" xOffset="21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

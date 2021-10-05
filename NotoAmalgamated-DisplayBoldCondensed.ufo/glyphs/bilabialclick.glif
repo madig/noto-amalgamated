@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bilabialclick" format="2">
+  <advance width="607"/>
+  <unicode hex="0298"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="304" y="725" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="periodcentered" xScale="0.724" xOffset="208" yOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2C65" format="2">
+  <advance width="371"/>
+  <unicode hex="2C65"/>
+  <anchor x="78" y="-208" name="bottom"/>
+  <anchor x="294" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="-20" y="-208" type="line"/>
+      <point x="8" y="-208" type="line"/>
+      <point x="404" y="760" type="line"/>
+      <point x="376" y="760" type="line"/>
+    </contour>
+    <component base="a"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

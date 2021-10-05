@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0AFD_auvowelgujr" format="2">
+  <advance width="336"/>
+  <outline>
+    <contour>
+      <point x="229" y="767" type="curve" smooth="yes"/>
+      <point x="195" y="767"/>
+      <point x="167" y="741"/>
+      <point x="167" y="706" type="curve" smooth="yes"/>
+      <point x="167" y="669"/>
+      <point x="194" y="645"/>
+      <point x="230" y="645" type="curve" smooth="yes"/>
+      <point x="267" y="645"/>
+      <point x="293" y="669"/>
+      <point x="293" y="706" type="curve" smooth="yes"/>
+      <point x="293" y="741"/>
+      <point x="267" y="767"/>
+    </contour>
+    <contour>
+      <point x="319" y="883" type="curve" smooth="yes"/>
+      <point x="284" y="883"/>
+      <point x="257" y="858"/>
+      <point x="257" y="822" type="curve" smooth="yes"/>
+      <point x="257" y="786"/>
+      <point x="283" y="761"/>
+      <point x="319" y="761" type="curve" smooth="yes"/>
+      <point x="357" y="761"/>
+      <point x="382" y="786"/>
+      <point x="382" y="822" type="curve" smooth="yes"/>
+      <point x="382" y="858"/>
+      <point x="357" y="883"/>
+    </contour>
+    <contour>
+      <point x="173" y="901" type="curve" smooth="yes"/>
+      <point x="137" y="901"/>
+      <point x="110" y="876"/>
+      <point x="110" y="840" type="curve" smooth="yes"/>
+      <point x="110" y="804"/>
+      <point x="136" y="779"/>
+      <point x="173" y="779" type="curve" smooth="yes"/>
+      <point x="210" y="779"/>
+      <point x="235" y="804"/>
+      <point x="235" y="840" type="curve" smooth="yes"/>
+      <point x="235" y="876"/>
+      <point x="210" y="901"/>
+    </contour>
+    <component base="aaMatra-gujarati"/>
+    <component base="aiMatra-gujarati" xOffset="88"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>aaMatra-gujarati</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>aiMatra-gujarati</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>aaMatra-gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

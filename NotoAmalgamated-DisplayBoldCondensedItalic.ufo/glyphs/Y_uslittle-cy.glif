@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yuslittle-cy" format="2">
+  <advance width="643"/>
+  <unicode hex="0466"/>
+  <anchor x="267" y="0" name="bottom"/>
+  <anchor x="418" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="-60" y="0" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="242" y="271" type="line"/>
+      <point x="243" y="271" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="399" y="269" type="line"/>
+      <point x="400" y="269" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="590" y="0" type="line"/>
+      <point x="529" y="714" type="line"/>
+      <point x="304" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="309" y="406" type="line"/>
+      <point x="366" y="524" type="line" smooth="yes"/>
+      <point x="373" y="539"/>
+      <point x="377" y="555"/>
+      <point x="384" y="570" type="curve"/>
+      <point x="385" y="555"/>
+      <point x="385" y="540"/>
+      <point x="386" y="525" type="curve" smooth="yes"/>
+      <point x="393" y="406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

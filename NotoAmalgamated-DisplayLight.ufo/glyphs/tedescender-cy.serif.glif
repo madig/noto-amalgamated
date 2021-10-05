@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tedescender-cy.serif" format="2">
+  <advance width="483"/>
+  <unicode hex="04AD"/>
+  <anchor x="242" y="-210" name="bottom"/>
+  <anchor x="242" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="345" y="-40" type="curve" smooth="yes"/>
+      <point x="353" y="-210" type="line"/>
+      <point x="363" y="-210" type="line"/>
+      <point x="363" y="15" type="line"/>
+      <point x="301" y="15" type="line" smooth="yes"/>
+      <point x="255" y="15"/>
+      <point x="255" y="21"/>
+      <point x="255" y="84" type="curve" smooth="yes"/>
+      <point x="255" y="521" type="line"/>
+      <point x="392" y="521" type="line" smooth="yes"/>
+      <point x="441" y="521"/>
+      <point x="445" y="515"/>
+      <point x="449" y="455" type="curve" smooth="yes"/>
+      <point x="453" y="388" type="line"/>
+      <point x="463" y="388" type="line"/>
+      <point x="458" y="536" type="line"/>
+      <point x="25" y="536" type="line"/>
+      <point x="20" y="388" type="line"/>
+      <point x="30" y="388" type="line"/>
+      <point x="34" y="454" type="line" smooth="yes"/>
+      <point x="38" y="514"/>
+      <point x="42" y="521"/>
+      <point x="94" y="521" type="curve" smooth="yes"/>
+      <point x="227" y="521" type="line"/>
+      <point x="227" y="84" type="line" smooth="yes"/>
+      <point x="227" y="14"/>
+      <point x="223" y="10"/>
+      <point x="151" y="10" type="curve" smooth="yes"/>
+      <point x="120" y="10" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="315" y="0" type="line" smooth="yes"/>
+      <point x="339" y="0"/>
+      <point x="343" y="-6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneseventh.mono" format="2">
+  <advance width="1000"/>
+  <unicode hex="2150"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="505"/>
+    <component base="seven.dnom" xOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Fraction</string>
+    </dict>
+  </lib>
+</glyph>

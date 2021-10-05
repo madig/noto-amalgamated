@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sakaorya" format="2">
+  <advance width="800"/>
+  <anchor x="430" y="0" name="b.tasubscriptorya"/>
+  <anchor x="641" y="0" name="b.uvowelsignorya"/>
+  <anchor x="521" y="657" name="t.candrabinduorya"/>
+  <anchor x="346" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="521" y="58" type="line"/>
+      <point x="634" y="57" type="line"/>
+      <point x="641" y="66" type="line"/>
+      <point x="641" y="657" type="line"/>
+      <point x="634" y="664" type="line"/>
+      <point x="521" y="637" type="line"/>
+    </contour>
+    <component base="kasubscriptorya" xOffset="798" yOffset="115"/>
+    <component base="_part.sa" xOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+    </dict>
+  </lib>
+</glyph>

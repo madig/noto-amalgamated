@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shadda_kasra_nonspacing-ar" format="2">
+  <anchor x="187" y="658" name="_top"/>
+  <anchor x="163" y="1067" name="top"/>
+  <outline>
+    <component base="fatha-ar" xOffset="25" yOffset="200"/>
+    <component base="shadda-ar" xOffset="3" yOffset="370"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=fatha-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=fatha-ar</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>326</integer>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

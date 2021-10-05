@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen_hah_meem-ar.init" format="2">
+  <advance width="1628"/>
+  <unicode hex="FD68"/>
+  <anchor x="947" y="0" name="caret_1"/>
+  <anchor x="490" y="0" name="caret_2"/>
+  <outline>
+    <component base="sheen-ar.init" xOffset="947"/>
+    <component base="hah-ar.medi" xOffset="490"/>
+    <component base="meem-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>sheen-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>meem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Elhook-cy" format="2">
+  <advance width="739"/>
+  <unicode hex="0512"/>
+  <anchor x="226" y="-242" name="bottom"/>
+  <anchor x="471" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="617" y="0" type="line"/>
+      <point x="655" y="148" type="line"/>
+      <point x="519" y="148" type="line"/>
+      <point x="481" y="0" type="line"/>
+    </contour>
+    <component base="El-cy"/>
+    <component base="cyrillicbighookUC" xOffset="456"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

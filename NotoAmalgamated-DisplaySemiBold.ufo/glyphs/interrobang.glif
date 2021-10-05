@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="interrobang" format="2">
+  <advance width="461"/>
+  <unicode hex="203D"/>
+  <outline>
+    <contour>
+      <point x="104" y="585" type="curve"/>
+      <point x="131" y="237" type="line"/>
+      <point x="262" y="237" type="line"/>
+      <point x="262" y="266" type="line" smooth="yes"/>
+      <point x="262" y="307"/>
+      <point x="277" y="323"/>
+      <point x="332" y="366" type="curve" smooth="yes"/>
+      <point x="406" y="424"/>
+      <point x="441" y="465"/>
+      <point x="441" y="547" type="curve" smooth="yes"/>
+      <point x="441" y="650"/>
+      <point x="364" y="724"/>
+      <point x="229" y="724" type="curve" smooth="yes"/>
+      <point x="140" y="724"/>
+      <point x="66" y="699"/>
+      <point x="1" y="663" type="curve"/>
+      <point x="55" y="556" type="line"/>
+      <point x="70" y="566"/>
+      <point x="85" y="576"/>
+    </contour>
+    <contour>
+      <point x="202" y="-13" type="curve" smooth="yes"/>
+      <point x="249" y="-13"/>
+      <point x="289" y="11"/>
+      <point x="289" y="70" type="curve" smooth="yes"/>
+      <point x="289" y="131"/>
+      <point x="249" y="153"/>
+      <point x="202" y="153" type="curve" smooth="yes"/>
+      <point x="153" y="153"/>
+      <point x="113" y="131"/>
+      <point x="113" y="70" type="curve" smooth="yes"/>
+      <point x="113" y="11"/>
+      <point x="153" y="-13"/>
+    </contour>
+    <contour>
+      <point x="231" y="419" type="curve"/>
+      <point x="243" y="612" type="line"/>
+      <point x="282" y="606"/>
+      <point x="306" y="581"/>
+      <point x="306" y="542" type="curve" smooth="yes"/>
+      <point x="306" y="501"/>
+      <point x="293" y="473"/>
+      <point x="254" y="439" type="curve" smooth="yes"/>
+      <point x="244" y="431"/>
+      <point x="236" y="426"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

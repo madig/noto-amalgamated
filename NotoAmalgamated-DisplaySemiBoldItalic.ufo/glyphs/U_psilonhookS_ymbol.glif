@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="UpsilonhookSymbol" format="2">
+  <advance width="571"/>
+  <unicode hex="03D2"/>
+  <anchor x="356" y="714" name="top"/>
+  <anchor x="53" y="714" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="346" y="276" type="line"/>
+      <point x="534" y="561" type="line" smooth="yes"/>
+      <point x="560" y="600"/>
+      <point x="565" y="601"/>
+      <point x="585" y="601" type="curve" smooth="yes"/>
+      <point x="599" y="601"/>
+      <point x="611" y="597"/>
+      <point x="618" y="595" type="curve"/>
+      <point x="642" y="707" type="line"/>
+      <point x="622" y="716"/>
+      <point x="597" y="720"/>
+      <point x="571" y="720" type="curve" smooth="yes"/>
+      <point x="489" y="720"/>
+      <point x="456" y="689"/>
+      <point x="419" y="628" type="curve" smooth="yes"/>
+      <point x="297" y="424" type="line"/>
+      <point x="244" y="714" type="line"/>
+      <point x="92" y="714" type="line"/>
+      <point x="197" y="273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=Y</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=T</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

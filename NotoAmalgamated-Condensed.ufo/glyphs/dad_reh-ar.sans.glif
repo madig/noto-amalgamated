@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dad_reh-ar.sans" format="2">
+  <advance width="1031"/>
+  <unicode hex="FD10"/>
+  <anchor x="290" y="0" name="caret_1"/>
+  <outline>
+    <component base="dad-ar.init" xOffset="290"/>
+    <component base="reh-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dad-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>reh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

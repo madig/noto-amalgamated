@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzdigraphretroflexhook.display" format="2">
+  <advance width="664"/>
+  <unicode hex="AB66"/>
+  <outline>
+    <contour>
+      <point x="668" y="-203" type="curve" smooth="yes"/>
+      <point x="693" y="-203"/>
+      <point x="713" y="-200"/>
+      <point x="728" y="-194" type="curve"/>
+      <point x="728" y="-131" type="line"/>
+      <point x="714" y="-137"/>
+      <point x="701" y="-140"/>
+      <point x="689" y="-140" type="curve" smooth="yes"/>
+      <point x="658" y="-140"/>
+      <point x="644" y="-120"/>
+      <point x="644" y="-75" type="curve" smooth="yes"/>
+      <point x="644" y="20" type="line"/>
+      <point x="572" y="49" type="line"/>
+      <point x="572" y="-79" type="line" smooth="yes"/>
+      <point x="572" y="-165"/>
+      <point x="604" y="-203"/>
+    </contour>
+    <component base="dzaltone"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>dzaltone</string>
+    </dict>
+  </lib>
+</glyph>

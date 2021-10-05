@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonpsilioxia.display" format="2">
+  <advance width="728"/>
+  <unicode hex="1F1C"/>
+  <anchor x="447" y="0" name="bottom"/>
+  <anchor x="599" y="714" name="top"/>
+  <outline>
+    <component base="psilioxia"/>
+    <component base="E" xOffset="257"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

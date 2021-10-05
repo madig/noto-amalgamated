@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsiliperispomeniprosgegrammeni.serif" format="2">
+  <advance width="1131"/>
+  <unicode hex="1F9E"/>
+  <anchor x="968" y="0" name="bottom"/>
+  <anchor x="968" y="536" name="top"/>
+  <outline>
+    <component base="psiliperispomeni" xOffset="-104"/>
+    <component base="H" xOffset="123"/>
+    <component base="iota" xOffset="805"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

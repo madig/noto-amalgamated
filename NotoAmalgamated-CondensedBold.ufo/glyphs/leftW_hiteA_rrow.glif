@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftWhiteArrow" format="2">
+  <advance width="1000"/>
+  <unicode hex="21E6"/>
+  <outline>
+    <contour>
+      <point x="381" y="-35" type="line"/>
+      <point x="432" y="-35" type="line"/>
+      <point x="432" y="58" type="line"/>
+      <point x="758" y="58" type="line"/>
+      <point x="758" y="274" type="line"/>
+      <point x="432" y="274" type="line"/>
+      <point x="432" y="367" type="line"/>
+      <point x="381" y="367" type="line"/>
+      <point x="242" y="176" type="line"/>
+      <point x="242" y="156" type="line"/>
+    </contour>
+    <contour>
+      <point x="388" y="23" type="line"/>
+      <point x="293" y="166" type="line"/>
+      <point x="388" y="309" type="line"/>
+      <point x="388" y="231" type="line"/>
+      <point x="715" y="231" type="line"/>
+      <point x="715" y="101" type="line"/>
+      <point x="388" y="101" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Arrow</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kdiagonalstroke.display" format="2">
+  <advance width="601"/>
+  <unicode hex="A743"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="159" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="269" y="92" type="line"/>
+      <point x="325" y="21" type="line"/>
+      <point x="584" y="222" type="line"/>
+      <point x="527" y="294" type="line"/>
+    </contour>
+    <component base="k"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=k</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

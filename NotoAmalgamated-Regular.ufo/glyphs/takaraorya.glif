@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="takaraorya" format="2">
+  <advance width="637"/>
+  <anchor x="509" y="-49" name="b.rrvocalicvowelsignleftorya"/>
+  <anchor x="331" y="0" name="b.tasubscriptorya"/>
+  <anchor x="404" y="15" name="b.uvowelsignorya"/>
+  <anchor x="473" y="-179" name="m.rrvocalicvowelsignleftorya"/>
+  <anchor x="331" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <component base="takaorya"/>
+    <component base="rasubscriptshortorya" xOffset="570" yOffset="-130"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>kaorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

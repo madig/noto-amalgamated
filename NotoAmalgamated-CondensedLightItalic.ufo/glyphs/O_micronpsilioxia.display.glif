@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronpsilioxia.display" format="2">
+  <advance width="671"/>
+  <unicode hex="1F4C"/>
+  <anchor x="341" y="0" name="bottom"/>
+  <anchor x="493" y="714" name="top"/>
+  <outline>
+    <component base="psilioxia" xOffset="-50"/>
+    <component base="O" xOffset="134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

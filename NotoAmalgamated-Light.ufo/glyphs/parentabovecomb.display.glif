@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parentabovecomb.display" format="2">
+  <unicode hex="1ABB"/>
+  <anchor x="0" y="528" name="_top"/>
+  <anchor x="1" y="835" name="top"/>
+  <outline>
+    <contour>
+      <point x="-186" y="725" type="curve" smooth="yes"/>
+      <point x="-186" y="683"/>
+      <point x="-166" y="642"/>
+      <point x="-126" y="611" type="curve"/>
+      <point x="-97" y="611" type="line"/>
+      <point x="-135" y="643"/>
+      <point x="-155" y="683"/>
+      <point x="-155" y="725" type="curve" smooth="yes"/>
+      <point x="-155" y="764"/>
+      <point x="-135" y="804"/>
+      <point x="-97" y="835" type="curve"/>
+      <point x="-126" y="835" type="line"/>
+      <point x="-166" y="805"/>
+      <point x="-186" y="767"/>
+    </contour>
+    <contour>
+      <point x="187" y="722" type="curve" smooth="yes"/>
+      <point x="187" y="764"/>
+      <point x="167" y="804"/>
+      <point x="125" y="835" type="curve"/>
+      <point x="97" y="835" type="line"/>
+      <point x="135" y="803"/>
+      <point x="155" y="763"/>
+      <point x="155" y="722" type="curve" smooth="yes"/>
+      <point x="155" y="682"/>
+      <point x="135" y="642"/>
+      <point x="97" y="611" type="curve"/>
+      <point x="125" y="611" type="line"/>
+      <point x="167" y="641"/>
+      <point x="187" y="680"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

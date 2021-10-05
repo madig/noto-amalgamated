@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hhook" format="2">
+  <advance width="489"/>
+  <unicode hex="A7AA"/>
+  <outline>
+    <contour>
+      <point x="52" y="555" type="curve"/>
+      <point x="78" y="555" type="line"/>
+      <point x="78" y="558"/>
+      <point x="78" y="563"/>
+      <point x="78" y="566" type="curve" smooth="yes"/>
+      <point x="78" y="645"/>
+      <point x="114" y="689"/>
+      <point x="192" y="689" type="curve" smooth="yes"/>
+      <point x="217" y="689" type="line"/>
+      <point x="223" y="714" type="line"/>
+      <point x="190" y="714" type="line" smooth="yes"/>
+      <point x="101" y="714"/>
+      <point x="52" y="659"/>
+      <point x="52" y="569" type="curve" smooth="yes"/>
+      <point x="52" y="563"/>
+      <point x="52" y="558"/>
+    </contour>
+    <component base="H" xOffset="49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

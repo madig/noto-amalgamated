@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy.display" format="2">
+  <advance width="459"/>
+  <unicode hex="044A"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="230" y="537" name="top"/>
+  <outline>
+    <contour>
+      <point x="202" y="537" type="line"/>
+      <point x="10" y="537" type="line"/>
+      <point x="10" y="465" type="line"/>
+      <point x="121" y="465" type="line"/>
+      <point x="121" y="0" type="line"/>
+      <point x="259" y="0" type="line" smooth="yes"/>
+      <point x="365" y="0"/>
+      <point x="427" y="55"/>
+      <point x="427" y="159" type="curve" smooth="yes"/>
+      <point x="427" y="262"/>
+      <point x="368" y="315"/>
+      <point x="253" y="315" type="curve" smooth="yes"/>
+      <point x="202" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="250" type="line"/>
+      <point x="316" y="250"/>
+      <point x="345" y="218"/>
+      <point x="345" y="156" type="curve" smooth="yes"/>
+      <point x="345" y="96"/>
+      <point x="315" y="65"/>
+      <point x="255" y="65" type="curve" smooth="yes"/>
+      <point x="202" y="65" type="line"/>
+      <point x="202" y="250" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

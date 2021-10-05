@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmiddletilde.serif" format="2">
+  <advance width="218"/>
+  <unicode hex="026B"/>
+  <anchor x="52" y="0" name="bottom"/>
+  <anchor x="214" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="169" y="343" type="curve" smooth="yes"/>
+      <point x="213" y="343"/>
+      <point x="226" y="369"/>
+      <point x="240" y="422" type="curve"/>
+      <point x="218" y="422" type="line"/>
+      <point x="209" y="389"/>
+      <point x="196" y="369"/>
+      <point x="173" y="369" type="curve" smooth="yes"/>
+      <point x="133" y="369"/>
+      <point x="127" y="434"/>
+      <point x="76" y="434" type="curve" smooth="yes"/>
+      <point x="37" y="434"/>
+      <point x="21" y="409"/>
+      <point x="7" y="354" type="curve"/>
+      <point x="29" y="354" type="line"/>
+      <point x="38" y="387"/>
+      <point x="47" y="408"/>
+      <point x="72" y="408" type="curve" smooth="yes"/>
+      <point x="111" y="408"/>
+      <point x="117" y="343"/>
+    </contour>
+    <component base="l" xOffset="13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

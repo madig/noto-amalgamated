@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ubarshortrightleg.serif" format="2">
+  <advance width="556"/>
+  <unicode hex="AB4F"/>
+  <outline>
+    <contour>
+      <point x="18" y="257" type="line"/>
+      <point x="545" y="257" type="line"/>
+      <point x="557" y="309" type="line"/>
+      <point x="29" y="309" type="line"/>
+    </contour>
+    <component base="ushortrightleg"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ushortrightleg</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

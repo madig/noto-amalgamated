@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="turnedrtail.display" format="2">
+  <advance width="347"/>
+  <unicode hex="2C79"/>
+  <anchor x="113" y="0" name="bottom"/>
+  <anchor x="275" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="-10" y="-10" type="curve" smooth="yes"/>
+      <point x="46" y="-10"/>
+      <point x="79" y="16"/>
+      <point x="114" y="80" type="curve"/>
+      <point x="118" y="80" type="line"/>
+      <point x="117" y="0" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="360" y="561" type="line" smooth="yes"/>
+      <point x="370" y="610"/>
+      <point x="375" y="636"/>
+      <point x="375" y="660" type="curve" smooth="yes"/>
+      <point x="375" y="715"/>
+      <point x="333" y="765"/>
+      <point x="250" y="765" type="curve" smooth="yes"/>
+      <point x="211" y="765"/>
+      <point x="173" y="759"/>
+      <point x="154" y="753" type="curve"/>
+      <point x="154" y="616" type="line"/>
+      <point x="160" y="621"/>
+      <point x="175" y="625"/>
+      <point x="184" y="625" type="curve" smooth="yes"/>
+      <point x="195" y="625"/>
+      <point x="208" y="621"/>
+      <point x="208" y="604" type="curve" smooth="yes"/>
+      <point x="208" y="593"/>
+      <point x="205" y="577"/>
+      <point x="202" y="564" type="curve" smooth="yes"/>
+      <point x="142" y="275" type="line" smooth="yes"/>
+      <point x="129" y="215"/>
+      <point x="99" y="164"/>
+      <point x="45" y="164" type="curve" smooth="yes"/>
+      <point x="27" y="164"/>
+      <point x="12" y="167"/>
+      <point x="-3" y="173" type="curve"/>
+      <point x="-54" y="-3" type="line"/>
+      <point x="-34" y="-9"/>
+      <point x="-22" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|r</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|r</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadialytikaperispomeni.serif" format="2">
+  <advance width="210"/>
+  <unicode hex="1FD7"/>
+  <anchor x="105" y="0" name="bottom"/>
+  <anchor x="105" y="841" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dialytikaperispomeni" xOffset="-63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

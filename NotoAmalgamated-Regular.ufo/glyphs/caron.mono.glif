@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="02C7"/>
+  <anchor x="299" y="528" name="_top"/>
+  <anchor x="299" y="763" name="top"/>
+  <outline>
+    <contour>
+      <point x="254" y="606" type="curve"/>
+      <point x="344" y="606" type="line"/>
+      <point x="368" y="651"/>
+      <point x="431" y="715"/>
+      <point x="469" y="753" type="curve"/>
+      <point x="469" y="766" type="line"/>
+      <point x="407" y="766" type="line"/>
+      <point x="372" y="743"/>
+      <point x="334" y="710"/>
+      <point x="298" y="674" type="curve"/>
+      <point x="265" y="710"/>
+      <point x="226" y="743"/>
+      <point x="191" y="766" type="curve"/>
+      <point x="131" y="766" type="line"/>
+      <point x="131" y="753" type="line"/>
+      <point x="167" y="715"/>
+      <point x="228" y="651"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

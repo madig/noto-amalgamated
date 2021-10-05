@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emtail-cy.serif" format="2">
+  <advance width="551"/>
+  <unicode hex="04CE"/>
+  <anchor x="276" y="0" name="bottom"/>
+  <anchor x="276" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="446" y="-210" type="line"/>
+      <point x="488" y="-210" type="line"/>
+      <point x="536" y="6" type="line"/>
+      <point x="536" y="20" type="line"/>
+      <point x="505" y="20" type="line"/>
+      <point x="512" y="0" type="line"/>
+    </contour>
+    <component base="em-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

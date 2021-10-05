@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcircumflexbelow.display" format="2">
+  <advance width="459"/>
+  <unicode hex="1E12"/>
+  <anchor x="229" y="-207" name="bottom"/>
+  <anchor x="230" y="714" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="circumflexbelowcomb" xOffset="229" yOffset="-7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

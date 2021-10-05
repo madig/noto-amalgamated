@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="elhook-cy.display" format="2">
+  <advance width="650"/>
+  <unicode hex="0513"/>
+  <anchor x="245" y="0" name="bottom"/>
+  <anchor x="359" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="438" y="-197" type="curve" smooth="yes"/>
+      <point x="515" y="-197"/>
+      <point x="543" y="-148"/>
+      <point x="565" y="-38" type="curve" smooth="yes"/>
+      <point x="585" y="64" type="line"/>
+      <point x="574" y="59" type="line"/>
+      <point x="556" y="-32" type="line" smooth="yes"/>
+      <point x="544" y="-94"/>
+      <point x="499" y="-107"/>
+      <point x="458" y="-107" type="curve" smooth="yes"/>
+      <point x="435" y="-107"/>
+      <point x="408" y="-98"/>
+      <point x="393" y="-86" type="curve"/>
+      <point x="375" y="-94"/>
+      <point x="365" y="-114"/>
+      <point x="365" y="-137" type="curve" smooth="yes"/>
+      <point x="365" y="-180"/>
+      <point x="402" y="-197"/>
+    </contour>
+    <component base="el-cy" xOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

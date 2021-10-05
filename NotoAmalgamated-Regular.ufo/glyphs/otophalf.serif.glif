@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otophalf.serif" format="2">
+  <advance width="608"/>
+  <unicode hex="1D16"/>
+  <anchor x="304" y="264" name="bottom"/>
+  <anchor x="304" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="56" y="264" type="curve"/>
+      <point x="156" y="264" type="line"/>
+      <point x="156" y="407"/>
+      <point x="197" y="495"/>
+      <point x="305" y="495" type="curve" smooth="yes"/>
+      <point x="413" y="495"/>
+      <point x="451" y="407"/>
+      <point x="451" y="264" type="curve"/>
+      <point x="551" y="264" type="line"/>
+      <point x="551" y="431"/>
+      <point x="463" y="544"/>
+      <point x="305" y="544" type="curve" smooth="yes"/>
+      <point x="137" y="544"/>
+      <point x="56" y="430"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

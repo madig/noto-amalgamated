@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c-deva" format="2">
+  <advance width="349"/>
+  <anchor x="116" y="27" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="246" y="145" type="curve" smooth="yes"/>
+      <point x="308" y="145"/>
+      <point x="350" y="168"/>
+      <point x="388" y="207" type="curve"/>
+      <point x="368" y="228" type="line"/>
+      <point x="334" y="193"/>
+      <point x="297" y="172"/>
+      <point x="240" y="172" type="curve" smooth="yes"/>
+      <point x="164" y="172"/>
+      <point x="110" y="222"/>
+      <point x="110" y="291" type="curve" smooth="yes"/>
+      <point x="110" y="374"/>
+      <point x="165" y="430"/>
+      <point x="247" y="430" type="curve" smooth="yes"/>
+      <point x="258" y="430" type="line"/>
+      <point x="258" y="435" type="line"/>
+      <point x="249" y="455" type="line"/>
+      <point x="15" y="455" type="line"/>
+      <point x="15" y="450" type="line"/>
+      <point x="24" y="430" type="line"/>
+      <point x="185" y="430" type="line"/>
+      <point x="173" y="439" type="line"/>
+      <point x="120" y="418"/>
+      <point x="83" y="360"/>
+      <point x="83" y="296" type="curve" smooth="yes"/>
+      <point x="83" y="253"/>
+      <point x="103" y="213"/>
+      <point x="136" y="185" type="curve" smooth="yes"/>
+      <point x="164" y="161"/>
+      <point x="202" y="145"/>
+    </contour>
+    <contour>
+      <point x="-9" y="598" type="line"/>
+      <point x="384" y="598" type="line"/>
+      <point x="384" y="603" type="line"/>
+      <point x="375" y="622" type="line"/>
+      <point x="-19" y="622" type="line"/>
+      <point x="-19" y="617" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ca-deva</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Halfform</string>
+    </dict>
+  </lib>
+</glyph>

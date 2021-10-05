@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omega-cy.display" format="2">
+  <advance width="562"/>
+  <unicode hex="0460"/>
+  <anchor x="281" y="0" name="bottom"/>
+  <anchor x="281" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="160" y="0" type="curve"/>
+      <point x="176" y="0" type="line"/>
+      <point x="278" y="368" type="line"/>
+      <point x="301" y="242"/>
+      <point x="330" y="123"/>
+      <point x="379" y="0" type="curve"/>
+      <point x="394" y="0" type="line"/>
+      <point x="496" y="239"/>
+      <point x="534" y="484"/>
+      <point x="550" y="714" type="curve"/>
+      <point x="525" y="714" type="line"/>
+      <point x="509" y="499"/>
+      <point x="472" y="268"/>
+      <point x="388" y="44" type="curve"/>
+      <point x="386" y="44" type="line"/>
+      <point x="313" y="254"/>
+      <point x="278" y="482"/>
+      <point x="272" y="714" type="curve"/>
+      <point x="246" y="714" type="line"/>
+      <point x="249" y="623"/>
+      <point x="256" y="509"/>
+      <point x="268" y="417" type="curve"/>
+      <point x="196" y="158" type="line" smooth="yes"/>
+      <point x="186" y="123"/>
+      <point x="174" y="83"/>
+      <point x="167" y="50" type="curve"/>
+      <point x="165" y="50" type="line"/>
+      <point x="97" y="269"/>
+      <point x="55" y="512"/>
+      <point x="44" y="714" type="curve"/>
+      <point x="17" y="714" type="line"/>
+      <point x="34" y="488"/>
+      <point x="70" y="239"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

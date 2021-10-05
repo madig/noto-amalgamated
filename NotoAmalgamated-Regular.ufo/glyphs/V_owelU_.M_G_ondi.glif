@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VowelU.MGondi" format="2">
+  <advance width="828"/>
+  <unicode hex="11D04"/>
+  <anchor x="580" y="698" name="top1"/>
+  <outline>
+    <contour>
+      <point x="90" y="459" type="line" smooth="yes"/>
+      <point x="89" y="351"/>
+      <point x="161" y="298"/>
+      <point x="256" y="298" type="curve" smooth="yes"/>
+      <point x="299" y="298"/>
+      <point x="331" y="309"/>
+      <point x="355" y="327" type="curve"/>
+      <point x="355" y="0" type="line"/>
+      <point x="798" y="0" type="line"/>
+      <point x="798" y="76" type="line"/>
+      <point x="450" y="76" type="line"/>
+      <point x="450" y="630" type="line"/>
+      <point x="355" y="630" type="line"/>
+      <point x="355" y="460" type="line" smooth="yes"/>
+      <point x="355" y="405"/>
+      <point x="322" y="376"/>
+      <point x="266" y="376" type="curve" smooth="yes"/>
+      <point x="219" y="376"/>
+      <point x="185" y="402"/>
+      <point x="185" y="460" type="curve" smooth="yes"/>
+      <point x="185" y="630" type="line"/>
+      <point x="90" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>VowelA.MGondi</string>
+    </dict>
+  </lib>
+</glyph>

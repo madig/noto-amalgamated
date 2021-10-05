@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tetall-cy.display" format="2">
+  <advance width="460"/>
+  <unicode hex="1C84"/>
+  <anchor x="164" y="0" name="bottom"/>
+  <anchor x="316" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="384" y="10" type="line"/>
+      <point x="380" y="10" type="line" smooth="yes"/>
+      <point x="341" y="10"/>
+      <point x="321" y="14"/>
+      <point x="321" y="41" type="curve" smooth="yes"/>
+      <point x="321" y="48"/>
+      <point x="323" y="61"/>
+      <point x="328" y="83" type="curve" smooth="yes"/>
+      <point x="462" y="714" type="line"/>
+      <point x="107" y="714" type="line"/>
+      <point x="62" y="525" type="line"/>
+      <point x="72" y="525" type="line"/>
+      <point x="83" y="570" type="line" smooth="yes"/>
+      <point x="110" y="676"/>
+      <point x="142" y="704"/>
+      <point x="237" y="704" type="curve" smooth="yes"/>
+      <point x="321" y="704" type="line"/>
+      <point x="191" y="73" type="line" smooth="yes"/>
+      <point x="180" y="19"/>
+      <point x="154" y="10"/>
+      <point x="113" y="10" type="curve" smooth="yes"/>
+      <point x="108" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

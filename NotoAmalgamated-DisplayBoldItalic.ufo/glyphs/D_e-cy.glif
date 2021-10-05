@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy" format="2">
+  <advance width="771"/>
+  <unicode hex="0414"/>
+  <anchor x="282" y="-223" name="bottom"/>
+  <anchor x="504" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="-104" y="-223" type="line"/>
+      <point x="82" y="-223" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="515" y="0" type="line"/>
+      <point x="467" y="-223" type="line"/>
+      <point x="652" y="-223" type="line"/>
+      <point x="735" y="158" type="line"/>
+      <point x="615" y="158" type="line"/>
+      <point x="731" y="714" type="line"/>
+      <point x="299" y="714" type="line"/>
+      <point x="242" y="493"/>
+      <point x="145" y="291"/>
+      <point x="65" y="158" type="curve"/>
+      <point x="-23" y="158" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="158" type="line"/>
+      <point x="344" y="292"/>
+      <point x="394" y="427"/>
+      <point x="432" y="556" type="curve"/>
+      <point x="508" y="556" type="line"/>
+      <point x="425" y="158" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

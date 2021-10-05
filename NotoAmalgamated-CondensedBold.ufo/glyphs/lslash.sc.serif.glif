@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.sc.serif" format="2">
+  <advance width="504"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="252" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="18" y="140" type="line"/>
+      <point x="353" y="339" type="line"/>
+      <point x="353" y="412" type="line"/>
+      <point x="18" y="213" type="line"/>
+    </contour>
+    <component base="l.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>l.sc</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

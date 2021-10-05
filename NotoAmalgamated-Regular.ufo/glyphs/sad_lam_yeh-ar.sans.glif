@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad_lam_yeh-ar.sans" format="2">
+  <advance width="1752"/>
+  <unicode hex="FDF0"/>
+  <anchor x="1036" y="0" name="caret_1"/>
+  <anchor x="0" y="0" name="caret_2"/>
+  <outline>
+    <component base="sad-ar.init" xOffset="849"/>
+    <component base="lam_yehbarree-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>sad-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yeh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

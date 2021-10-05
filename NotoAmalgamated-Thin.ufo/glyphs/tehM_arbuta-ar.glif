@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehMarbuta-ar" format="2">
+  <advance width="563"/>
+  <unicode hex="0629"/>
+  <note>
+uni0629
+</note>
+  <anchor x="268" y="-78" name="bottom"/>
+  <anchor x="275" y="708" name="top"/>
+  <outline>
+    <component base="heh-ar"/>
+    <component base="twodots.above" xOffset="280"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>heh-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

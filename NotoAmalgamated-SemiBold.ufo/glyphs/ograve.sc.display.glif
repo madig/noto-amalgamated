@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ograve.sc.display" format="2">
+  <advance width="633"/>
+  <anchor x="335" y="0" name="bottom"/>
+  <anchor x="335" y="796" name="top"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="gravecomb.sc" xOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

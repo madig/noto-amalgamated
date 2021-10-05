@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="usideways.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="1D1D"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="250" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="31" y="89" type="line"/>
+      <point x="292" y="89" type="line" smooth="yes"/>
+      <point x="414" y="89"/>
+      <point x="468" y="143"/>
+      <point x="468" y="239" type="curve" smooth="yes"/>
+      <point x="468" y="334"/>
+      <point x="407" y="381"/>
+      <point x="347" y="399" type="curve"/>
+      <point x="347" y="401" type="line"/>
+      <point x="459" y="404" type="line"/>
+      <point x="459" y="424" type="line"/>
+      <point x="31" y="424" type="line"/>
+      <point x="31" y="398" type="line"/>
+      <point x="238" y="398" type="line" smooth="yes"/>
+      <point x="377" y="398"/>
+      <point x="443" y="330"/>
+      <point x="443" y="239" type="curve" smooth="yes"/>
+      <point x="443" y="161"/>
+      <point x="398" y="115"/>
+      <point x="286" y="115" type="curve" smooth="yes"/>
+      <point x="31" y="115" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

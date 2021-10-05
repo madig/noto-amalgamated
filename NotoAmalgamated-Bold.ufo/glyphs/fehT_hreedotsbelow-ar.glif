@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehThreedotsbelow-ar" format="2">
+  <advance width="1075"/>
+  <unicode hex="06A5"/>
+  <note>
+uni06A5
+</note>
+  <anchor x="780" y="-406" name="bottom"/>
+  <anchor x="748" y="538" name="top"/>
+  <outline>
+    <component base="feh_dotless.isol"/>
+    <component base="threedots.below" xOffset="761" yOffset="-46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>feh_dotless.isol</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

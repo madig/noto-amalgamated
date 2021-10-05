@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ratio" format="2">
+  <advance width="600"/>
+  <unicode hex="2236"/>
+  <outline>
+    <contour>
+      <point x="300" y="488" type="curve" smooth="yes"/>
+      <point x="319" y="488"/>
+      <point x="335" y="504"/>
+      <point x="335" y="523" type="curve" smooth="yes"/>
+      <point x="335" y="542"/>
+      <point x="319" y="558"/>
+      <point x="300" y="558" type="curve" smooth="yes"/>
+      <point x="281" y="558"/>
+      <point x="265" y="542"/>
+      <point x="265" y="523" type="curve" smooth="yes"/>
+      <point x="265" y="504"/>
+      <point x="281" y="488"/>
+    </contour>
+    <contour>
+      <point x="300" y="147" type="curve" smooth="yes"/>
+      <point x="319" y="147"/>
+      <point x="335" y="163"/>
+      <point x="335" y="182" type="curve" smooth="yes"/>
+      <point x="335" y="201"/>
+      <point x="319" y="217"/>
+      <point x="300" y="217" type="curve" smooth="yes"/>
+      <point x="281" y="217"/>
+      <point x="265" y="201"/>
+      <point x="265" y="182" type="curve" smooth="yes"/>
+      <point x="265" y="163"/>
+      <point x="281" y="147"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

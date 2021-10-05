@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vabove-ar" format="2">
+  <unicode hex="065A"/>
+  <anchor x="127" y="450" name="_top"/>
+  <anchor x="128" y="753" name="top"/>
+  <outline>
+    <contour>
+      <point x="93" y="561" type="curve"/>
+      <point x="165" y="567" type="line"/>
+      <point x="144" y="612" type="line"/>
+      <point x="124" y="650"/>
+      <point x="77" y="737"/>
+      <point x="58" y="764" type="curve"/>
+      <point x="0" y="733" type="line"/>
+      <point x="27" y="691"/>
+      <point x="73" y="601"/>
+    </contour>
+    <contour>
+      <point x="165" y="567" type="line"/>
+      <point x="182" y="609"/>
+      <point x="231" y="716"/>
+      <point x="245" y="743" type="curve"/>
+      <point x="187" y="767" type="line"/>
+      <point x="174" y="746"/>
+      <point x="126" y="635"/>
+      <point x="108" y="589" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>253</integer>
+    </dict>
+  </lib>
+</glyph>

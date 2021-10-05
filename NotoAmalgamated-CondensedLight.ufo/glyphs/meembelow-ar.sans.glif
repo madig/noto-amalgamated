@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meembelow-ar.sans" format="2">
+  <unicode hex="06ED"/>
+  <anchor x="100" y="27" name="_bottom"/>
+  <anchor x="97" y="-273" name="bottom"/>
+  <outline>
+    <component base="meemStopabove-ar" yOffset="-865"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>meemStopabove-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=meemStopabove-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=meemStopabove-ar</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>166</integer>
+    </dict>
+  </lib>
+</glyph>

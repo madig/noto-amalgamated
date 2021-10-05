@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j.sc" format="2">
+  <advance width="226"/>
+  <anchor x="-61" y="-176" name="bottom"/>
+  <anchor x="176" y="580" name="top"/>
+  <anchor x="269" y="580" name="topright"/>
+  <outline>
+    <contour>
+      <point x="-58" y="-176" type="curve" smooth="yes"/>
+      <point x="29" y="-176"/>
+      <point x="90" y="-123"/>
+      <point x="120" y="11" type="curve" smooth="yes"/>
+      <point x="243" y="580" type="line"/>
+      <point x="123" y="580" type="line"/>
+      <point x="3" y="29" type="line" smooth="yes"/>
+      <point x="-7" y="-15"/>
+      <point x="-21" y="-73"/>
+      <point x="-63" y="-73" type="curve" smooth="yes"/>
+      <point x="-77" y="-73"/>
+      <point x="-91" y="-69"/>
+      <point x="-106" y="-62" type="curve"/>
+      <point x="-129" y="-166" type="line"/>
+      <point x="-110" y="-172"/>
+      <point x="-89" y="-176"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eltail-cy.serif" format="2">
+  <advance width="745"/>
+  <unicode hex="04C5"/>
+  <anchor x="373" y="0" name="bottom"/>
+  <anchor x="373" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="553" y="-210" type="line"/>
+      <point x="678" y="-210" type="line"/>
+      <point x="739" y="42" type="line"/>
+      <point x="739" y="61" type="line"/>
+      <point x="643" y="61" type="line"/>
+      <point x="648" y="6" type="line"/>
+    </contour>
+    <component base="El-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

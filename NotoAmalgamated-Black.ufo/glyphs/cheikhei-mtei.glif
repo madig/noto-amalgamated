@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheikhei-mtei" format="2">
+  <advance width="535"/>
+  <unicode hex="ABEB"/>
+  <outline>
+    <contour>
+      <point x="110" y="-30" type="line"/>
+      <point x="264" y="-30" type="line"/>
+      <point x="264" y="688" type="line"/>
+      <point x="110" y="688" type="line"/>
+    </contour>
+    <contour>
+      <point x="329" y="-30" type="line"/>
+      <point x="483" y="-30" type="line"/>
+      <point x="483" y="688" type="line"/>
+      <point x="329" y="688" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>mtei</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

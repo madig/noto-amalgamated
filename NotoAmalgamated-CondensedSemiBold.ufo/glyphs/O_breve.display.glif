@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obreve.display" format="2">
+  <advance width="579"/>
+  <unicode hex="014E"/>
+  <anchor x="290" y="0" name="bottom"/>
+  <anchor x="290" y="947" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="brevecomb" xOffset="290" yOffset="178"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

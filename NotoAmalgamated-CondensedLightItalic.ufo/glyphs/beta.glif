@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beta" format="2">
+  <advance width="383"/>
+  <unicode hex="03B2"/>
+  <outline>
+    <contour>
+      <point x="-42" y="-228" type="line"/>
+      <point x="-16" y="-228" type="line"/>
+      <point x="40" y="30" type="line"/>
+      <point x="60" y="11"/>
+      <point x="98" y="-10"/>
+      <point x="143" y="-10" type="curve" smooth="yes"/>
+      <point x="280" y="-10"/>
+      <point x="333" y="136"/>
+      <point x="333" y="251" type="curve" smooth="yes"/>
+      <point x="333" y="331"/>
+      <point x="298" y="387"/>
+      <point x="239" y="400" type="curve"/>
+      <point x="346" y="418"/>
+      <point x="390" y="529"/>
+      <point x="390" y="642" type="curve" smooth="yes"/>
+      <point x="390" y="727"/>
+      <point x="346" y="765"/>
+      <point x="285" y="765" type="curve" smooth="yes"/>
+      <point x="197" y="765"/>
+      <point x="157" y="702"/>
+      <point x="132" y="585" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="143" y="15" type="curve" smooth="yes"/>
+      <point x="104" y="15"/>
+      <point x="68" y="35"/>
+      <point x="47" y="58" type="curve"/>
+      <point x="158" y="583" type="line" smooth="yes"/>
+      <point x="181" y="693"/>
+      <point x="218" y="740"/>
+      <point x="283" y="740" type="curve" smooth="yes"/>
+      <point x="334" y="740"/>
+      <point x="363" y="709"/>
+      <point x="363" y="641" type="curve" smooth="yes"/>
+      <point x="363" y="533"/>
+      <point x="319" y="414"/>
+      <point x="197" y="414" type="curve" smooth="yes"/>
+      <point x="184" y="414" type="line"/>
+      <point x="179" y="389" type="line"/>
+      <point x="191" y="389" type="line" smooth="yes"/>
+      <point x="264" y="389"/>
+      <point x="306" y="341"/>
+      <point x="306" y="248" type="curve" smooth="yes"/>
+      <point x="306" y="144"/>
+      <point x="259" y="15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=p</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=p</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tretroflexhook.display" format="2">
+  <advance width="581"/>
+  <unicode hex="01AE"/>
+  <anchor x="290" y="-267" name="bottom"/>
+  <anchor x="290" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="391" y="-267" type="curve"/>
+      <point x="428" y="-267"/>
+      <point x="472" y="-257"/>
+      <point x="489" y="-250" type="curve"/>
+      <point x="489" y="-105" type="line"/>
+      <point x="481" y="-108"/>
+      <point x="460" y="-115"/>
+      <point x="437" y="-115" type="curve"/>
+      <point x="415" y="-115"/>
+      <point x="394" y="-100"/>
+      <point x="394" y="-61" type="curve"/>
+      <point x="394" y="552" type="line"/>
+      <point x="552" y="552" type="line"/>
+      <point x="552" y="714" type="line"/>
+      <point x="29" y="714" type="line"/>
+      <point x="29" y="552" type="line"/>
+      <point x="186" y="552" type="line"/>
+      <point x="186" y="-64" type="line"/>
+      <point x="186" y="-210"/>
+      <point x="262" y="-267"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen_khah-ar.fina.sans" format="2">
+  <advance width="1562"/>
+  <unicode hex="FD27"/>
+  <anchor x="602" y="0" name="caret_1"/>
+  <outline>
+    <component base="sheen-ar.medi" xOffset="612"/>
+    <component base="khah-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>sheen-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>khah-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

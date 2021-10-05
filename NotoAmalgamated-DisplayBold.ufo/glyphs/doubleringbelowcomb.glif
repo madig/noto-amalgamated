@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleringbelowcomb" format="2">
+  <unicode hex="035A"/>
+  <anchor x="0" y="21" name="_bottom"/>
+  <anchor x="2" y="-240" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-78" y="-29" type="curve"/>
+      <point x="-139" y="-29"/>
+      <point x="-180" y="-68"/>
+      <point x="-180" y="-134" type="curve"/>
+      <point x="-180" y="-201"/>
+      <point x="-139" y="-240"/>
+      <point x="-78" y="-240" type="curve"/>
+      <point x="-44" y="-240"/>
+      <point x="-16" y="-226"/>
+      <point x="0" y="-200" type="curve"/>
+      <point x="16" y="-226"/>
+      <point x="44" y="-240"/>
+      <point x="78" y="-240" type="curve"/>
+      <point x="139" y="-240"/>
+      <point x="180" y="-201"/>
+      <point x="180" y="-134" type="curve"/>
+      <point x="180" y="-68"/>
+      <point x="139" y="-29"/>
+      <point x="78" y="-29" type="curve"/>
+      <point x="43" y="-29"/>
+      <point x="16" y="-43"/>
+      <point x="0" y="-68" type="curve"/>
+      <point x="-15" y="-43"/>
+      <point x="-43" y="-29"/>
+    </contour>
+    <contour>
+      <point x="25" y="-134" type="curve"/>
+      <point x="25" y="-99"/>
+      <point x="47" y="-78"/>
+      <point x="78" y="-78" type="curve"/>
+      <point x="108" y="-78"/>
+      <point x="130" y="-99"/>
+      <point x="130" y="-134" type="curve"/>
+      <point x="130" y="-169"/>
+      <point x="111" y="-190"/>
+      <point x="78" y="-190" type="curve"/>
+      <point x="47" y="-190"/>
+      <point x="25" y="-169"/>
+    </contour>
+    <contour>
+      <point x="-25" y="-134" type="curve"/>
+      <point x="-25" y="-169"/>
+      <point x="-47" y="-190"/>
+      <point x="-78" y="-190" type="curve"/>
+      <point x="-111" y="-190"/>
+      <point x="-130" y="-169"/>
+      <point x="-130" y="-134" type="curve"/>
+      <point x="-130" y="-99"/>
+      <point x="-108" y="-78"/>
+      <point x="-78" y="-78" type="curve"/>
+      <point x="-47" y="-78"/>
+      <point x="-25" y="-99"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

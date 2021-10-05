@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aaorya" format="2">
+  <advance width="950"/>
+  <unicode hex="0B06"/>
+  <anchor x="656" y="0" name="b.tasubscriptorya"/>
+  <anchor x="893" y="0" name="b.uvowelsignorya"/>
+  <outline>
+    <component base="aorya"/>
+    <component base="aavowelsignorya" xOffset="712"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aorya</string>
+    </dict>
+  </lib>
+</glyph>

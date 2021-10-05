@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilioxia_firsttonechinese.serif" format="2">
+  <advance width="500"/>
+  <anchor x="314" y="536" name="_top"/>
+  <anchor x="359" y="874" name="top"/>
+  <outline>
+    <contour>
+      <point x="216" y="730" type="curve"/>
+      <point x="213" y="697" type="line"/>
+      <point x="312" y="705"/>
+      <point x="359" y="749"/>
+      <point x="359" y="814" type="curve" smooth="yes"/>
+      <point x="359" y="855"/>
+      <point x="330" y="874"/>
+      <point x="296" y="874" type="curve" smooth="yes"/>
+      <point x="269" y="874"/>
+      <point x="246" y="860"/>
+      <point x="246" y="833" type="curve" smooth="yes"/>
+      <point x="246" y="790"/>
+      <point x="298" y="791"/>
+      <point x="298" y="776" type="curve" smooth="yes"/>
+      <point x="298" y="751"/>
+      <point x="270" y="737"/>
+    </contour>
+    <contour>
+      <point x="178" y="606" type="line"/>
+      <point x="468" y="606" type="line"/>
+      <point x="481" y="665" type="line"/>
+      <point x="191" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="725" type="curve"/>
+      <point x="378" y="710" type="line"/>
+      <point x="411" y="710" type="line"/>
+      <point x="464" y="758"/>
+      <point x="518" y="819"/>
+      <point x="534" y="852" type="curve"/>
+      <point x="536" y="864" type="line"/>
+      <point x="446" y="864" type="line"/>
+      <point x="433" y="828"/>
+      <point x="405" y="768"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

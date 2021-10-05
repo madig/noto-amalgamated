@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ubar.display" format="2">
+  <advance width="628"/>
+  <unicode hex="0244"/>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="396" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="41" y="376" type="line"/>
+      <point x="638" y="376" type="line"/>
+      <point x="640" y="386" type="line"/>
+      <point x="44" y="386" type="line"/>
+    </contour>
+    <component base="U" xOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

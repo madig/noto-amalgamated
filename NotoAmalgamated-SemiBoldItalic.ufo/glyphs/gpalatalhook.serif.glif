@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gpalatalhook.serif" format="2">
+  <advance width="769"/>
+  <unicode hex="1D83"/>
+  <outline>
+    <contour>
+      <point x="568" y="-197" type="curve" smooth="yes"/>
+      <point x="642" y="-197"/>
+      <point x="687" y="-158"/>
+      <point x="708" y="-45" type="curve"/>
+      <point x="743" y="134" type="line"/>
+      <point x="495" y="134" type="line"/>
+      <point x="483" y="76" type="line"/>
+      <point x="667" y="76" type="line"/>
+      <point x="642" y="-39" type="line" smooth="yes"/>
+      <point x="631" y="-91"/>
+      <point x="609" y="-113"/>
+      <point x="570" y="-113" type="curve" smooth="yes"/>
+      <point x="548" y="-113"/>
+      <point x="533" y="-105"/>
+      <point x="519" y="-93" type="curve"/>
+      <point x="502" y="-103"/>
+      <point x="491" y="-121"/>
+      <point x="491" y="-142" type="curve" smooth="yes"/>
+      <point x="491" y="-179"/>
+      <point x="524" y="-197"/>
+    </contour>
+    <component base="gsingle"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>gsingle</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

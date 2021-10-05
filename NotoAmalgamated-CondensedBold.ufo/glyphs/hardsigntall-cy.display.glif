@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsigntall-cy.display" format="2">
+  <advance width="491"/>
+  <unicode hex="1C86"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="91" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="235" y="760" type="line"/>
+      <point x="-39" y="760" type="line"/>
+      <point x="-39" y="618" type="line"/>
+      <point x="73" y="618" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="272" y="0" type="line" smooth="yes"/>
+      <point x="397" y="0"/>
+      <point x="470" y="56"/>
+      <point x="470" y="183" type="curve" smooth="yes"/>
+      <point x="470" y="304"/>
+      <point x="398" y="354"/>
+      <point x="253" y="354" type="curve" smooth="yes"/>
+      <point x="235" y="354" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="234" type="line"/>
+      <point x="294" y="234"/>
+      <point x="307" y="213"/>
+      <point x="307" y="175" type="curve" smooth="yes"/>
+      <point x="307" y="140"/>
+      <point x="289" y="120"/>
+      <point x="260" y="120" type="curve" smooth="yes"/>
+      <point x="235" y="120" type="line"/>
+      <point x="235" y="234" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

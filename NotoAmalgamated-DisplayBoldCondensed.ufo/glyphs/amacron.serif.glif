@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="amacron.serif" format="2">
+  <advance width="523"/>
+  <unicode hex="0101"/>
+  <anchor x="262" y="0" name="bottom"/>
+  <anchor x="262" y="687" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="macronmod" xOffset="101"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

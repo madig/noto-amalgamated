@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehTwodotshorizontalaboveTahabove-ar" format="2">
+  <advance width="438"/>
+  <unicode hex="0771"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="tahabove-ar" xOffset="268" yOffset="150"/>
+    <component base="twodots.small.above" xOffset="274" yOffset="-31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tahabove-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>twodots.small.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

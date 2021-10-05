@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rreversedsmall" format="2">
+  <advance width="272"/>
+  <unicode hex="1D19"/>
+  <anchor x="80" y="0" name="bottom"/>
+  <anchor x="192" y="526" name="top"/>
+  <outline>
+    <contour>
+      <point x="122" y="239" type="curve"/>
+      <point x="-36" y="0" type="line"/>
+      <point x="-4" y="0" type="line"/>
+      <point x="148" y="234" type="line"/>
+      <point x="196" y="234" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="283" y="525" type="line"/>
+      <point x="212" y="525" type="line" smooth="yes"/>
+      <point x="97" y="525"/>
+      <point x="56" y="431"/>
+      <point x="56" y="350" type="curve" smooth="yes"/>
+      <point x="56" y="289"/>
+      <point x="82" y="252"/>
+    </contour>
+    <contour>
+      <point x="163" y="259" type="line"/>
+      <point x="112" y="259"/>
+      <point x="83" y="289"/>
+      <point x="83" y="350" type="curve" smooth="yes"/>
+      <point x="83" y="420"/>
+      <point x="114" y="500"/>
+      <point x="209" y="500" type="curve" smooth="yes"/>
+      <point x="252" y="500" type="line"/>
+      <point x="201" y="259" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

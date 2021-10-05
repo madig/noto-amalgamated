@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sa-oriya" format="2">
+  <advance width="615"/>
+  <unicode hex="0B38"/>
+  <note>
+saorya
+</note>
+  <anchor x="434" y="0" name="bottom"/>
+  <anchor x="581" y="0" name="bottom_ra"/>
+  <anchor x="273" y="658" name="top"/>
+  <anchor x="508" y="658" name="topright"/>
+  <outline>
+    <contour>
+      <point x="135" y="205" type="curve"/>
+      <point x="135" y="205" type="line"/>
+      <point x="204" y="295" type="line"/>
+      <point x="176" y="320"/>
+      <point x="163" y="353"/>
+      <point x="163" y="394" type="curve"/>
+      <point x="163" y="477"/>
+      <point x="230" y="520"/>
+      <point x="298" y="520" type="curve"/>
+      <point x="371" y="520"/>
+      <point x="446" y="471"/>
+      <point x="446" y="372" type="curve"/>
+      <point x="559" y="371" type="line"/>
+      <point x="559" y="570"/>
+      <point x="414" y="666"/>
+      <point x="273" y="666" type="curve"/>
+      <point x="142" y="666"/>
+      <point x="16" y="582"/>
+      <point x="16" y="421" type="curve"/>
+      <point x="16" y="341"/>
+      <point x="55" y="250"/>
+    </contour>
+    <contour>
+      <point x="434" y="499" type="line"/>
+      <point x="434" y="30" type="line"/>
+      <point x="546" y="112" type="line"/>
+      <point x="157" y="202" type="line"/>
+      <point x="170" y="114" type="line"/>
+      <point x="345.551" y="324.482" type="line"/>
+      <point x="250.164" y="405.561" type="line"/>
+      <point x="51" y="166" type="line"/>
+      <point x="78" y="73" type="line"/>
+      <point x="528" y="-25" type="line"/>
+      <point x="581" y="-25" type="line"/>
+      <point x="581" y="658" type="line"/>
+      <point x="434" y="658" type="line"/>
+      <point x="442" y="576" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>pa-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaMatra-oriya</string>
+    </dict>
+  </lib>
+</glyph>

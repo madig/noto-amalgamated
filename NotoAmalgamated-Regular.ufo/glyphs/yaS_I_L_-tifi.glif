@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yaSIL-tifi" format="2">
+  <advance width="362"/>
+  <note>
+uni2D30
+</note>
+  <outline>
+    <contour>
+      <point x="181" y="100" type="curve" smooth="yes"/>
+      <point x="237" y="100"/>
+      <point x="276" y="135"/>
+      <point x="276" y="195" type="curve" smooth="yes"/>
+      <point x="276" y="255"/>
+      <point x="237" y="290"/>
+      <point x="181" y="290" type="curve" smooth="yes"/>
+      <point x="125" y="290"/>
+      <point x="86" y="255"/>
+      <point x="86" y="195" type="curve" smooth="yes"/>
+      <point x="86" y="135"/>
+      <point x="125" y="100"/>
+    </contour>
+    <component base="circumflexcomb" xOffset="374" yOffset="-250"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

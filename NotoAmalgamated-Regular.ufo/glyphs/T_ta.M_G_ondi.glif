@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tta.MGondi" format="2">
+  <advance width="818"/>
+  <unicode hex="11D16"/>
+  <anchor x="317" y="-78" name="bottom1"/>
+  <anchor x="317" y="698" name="top1"/>
+  <outline>
+    <contour>
+      <point x="90" y="226" type="line" smooth="yes"/>
+      <point x="90" y="82"/>
+      <point x="168" y="-5"/>
+      <point x="317" y="-5" type="curve" smooth="yes"/>
+      <point x="463" y="-5"/>
+      <point x="544" y="83"/>
+      <point x="544" y="226" type="curve" smooth="yes"/>
+      <point x="544" y="281" type="line"/>
+      <point x="808" y="281" type="line"/>
+      <point x="808" y="357" type="line"/>
+      <point x="449" y="357" type="line"/>
+      <point x="449" y="227" type="line" smooth="yes"/>
+      <point x="449" y="120"/>
+      <point x="398" y="73"/>
+      <point x="317" y="73" type="curve" smooth="yes"/>
+      <point x="236" y="73"/>
+      <point x="185" y="120"/>
+      <point x="185" y="227" type="curve" smooth="yes"/>
+      <point x="185" y="630" type="line"/>
+      <point x="90" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ka.MGondi</string>
+    </dict>
+  </lib>
+</glyph>

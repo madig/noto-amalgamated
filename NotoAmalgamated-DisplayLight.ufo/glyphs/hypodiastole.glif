@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hypodiastole" format="2">
+  <advance width="290"/>
+  <unicode hex="2E12"/>
+  <outline>
+    <contour>
+      <point x="94" y="-14" type="curve"/>
+      <point x="94" y="-41" type="line"/>
+      <point x="143" y="-41"/>
+      <point x="170" y="-70"/>
+      <point x="170" y="-120" type="curve" smooth="yes"/>
+      <point x="170" y="-170"/>
+      <point x="136" y="-199"/>
+      <point x="94" y="-199" type="curve"/>
+      <point x="94" y="-225" type="line"/>
+      <point x="155" y="-225"/>
+      <point x="196" y="-186"/>
+      <point x="196" y="-120" type="curve" smooth="yes"/>
+      <point x="196" y="-53"/>
+      <point x="155" y="-14"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

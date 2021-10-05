@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraightstroke-cy" format="2">
+  <advance width="333"/>
+  <unicode hex="04B1"/>
+  <anchor x="60" y="-240" name="bottom"/>
+  <anchor x="223" y="529" name="top"/>
+  <outline>
+    <contour>
+      <point x="19" y="-240" type="line"/>
+      <point x="95" y="-240" type="line"/>
+      <point x="132" y="-64" type="line"/>
+      <point x="215" y="-64" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="146" y="0" type="line"/>
+      <point x="387" y="536" type="line"/>
+      <point x="306" y="536" type="line"/>
+      <point x="175" y="225" type="line" smooth="yes"/>
+      <point x="158" y="184"/>
+      <point x="145" y="149"/>
+      <point x="134" y="115" type="curve"/>
+      <point x="131" y="115" type="line"/>
+      <point x="133" y="166"/>
+      <point x="134" y="206"/>
+      <point x="135" y="239" type="curve"/>
+      <point x="135" y="536" type="line"/>
+      <point x="59" y="536" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="-13" y="0" type="line"/>
+      <point x="-26" y="-64" type="line"/>
+      <point x="56" y="-64" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

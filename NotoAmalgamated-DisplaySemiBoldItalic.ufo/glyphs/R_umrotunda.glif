@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rumrotunda" format="2">
+  <advance width="587"/>
+  <unicode hex="A75C"/>
+  <outline>
+    <contour>
+      <point x="-24" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="559" y="127" type="line"/>
+      <point x="197" y="127" type="line"/>
+      <point x="198" y="132" type="line"/>
+      <point x="320" y="238" type="line" smooth="yes"/>
+      <point x="438" y="341"/>
+      <point x="516" y="424"/>
+      <point x="516" y="552" type="curve" smooth="yes"/>
+      <point x="516" y="640"/>
+      <point x="456" y="724"/>
+      <point x="327" y="724" type="curve" smooth="yes"/>
+      <point x="229" y="724"/>
+      <point x="155" y="680"/>
+      <point x="90" y="623" type="curve"/>
+      <point x="160" y="524" type="line"/>
+      <point x="217" y="574"/>
+      <point x="257" y="598"/>
+      <point x="301" y="598" type="curve" smooth="yes"/>
+      <point x="340" y="598"/>
+      <point x="366" y="572"/>
+      <point x="366" y="524" type="curve" smooth="yes"/>
+      <point x="366" y="469"/>
+      <point x="331" y="414"/>
+      <point x="222" y="312" type="curve" smooth="yes"/>
+      <point x="-2" y="104" type="line"/>
+    </contour>
+    <contour>
+      <point x="298" y="-137" type="line"/>
+      <point x="445" y="-137" type="line"/>
+      <point x="531" y="263" type="line"/>
+      <point x="384" y="263" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

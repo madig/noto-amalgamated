@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdieresis.serif" format="2">
+  <advance width="229"/>
+  <unicode hex="1E97"/>
+  <anchor x="113" y="0" name="bottom"/>
+  <anchor x="113" y="857" name="top"/>
+  <outline>
+    <component base="t" xOffset="-2"/>
+    <component base="dieresis" xOffset="-120" yOffset="121"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

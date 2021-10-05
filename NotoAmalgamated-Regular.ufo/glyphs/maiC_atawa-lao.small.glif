@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="maiCatawa-lao.small" format="2">
+  <anchor x="172" y="830" name="_top"/>
+  <anchor x="172" y="1045" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="988" type="line"/>
+      <point x="171" y="991" type="line"/>
+      <point x="294" y="988" type="line"/>
+      <point x="294" y="1051" type="line"/>
+      <point x="171" y="1048" type="line"/>
+      <point x="50" y="1051" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="924" type="line"/>
+      <point x="208" y="924" type="line"/>
+      <point x="205" y="1020" type="line"/>
+      <point x="208" y="1116" type="line"/>
+      <point x="136" y="1116" type="line"/>
+      <point x="138" y="1020" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>344</integer>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>1</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

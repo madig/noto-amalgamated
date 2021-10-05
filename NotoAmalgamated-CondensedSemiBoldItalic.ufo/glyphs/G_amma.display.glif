@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gamma.display" format="2">
+  <advance width="365"/>
+  <unicode hex="0393"/>
+  <anchor x="128" y="0" name="bottom"/>
+  <anchor x="279" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="-2" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="251" y="604" type="line"/>
+      <point x="421" y="604" type="line"/>
+      <point x="444" y="714" type="line"/>
+      <point x="149" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

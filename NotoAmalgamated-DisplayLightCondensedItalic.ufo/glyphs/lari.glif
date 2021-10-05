@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lari" format="2">
+  <advance width="333"/>
+  <unicode hex="20BE"/>
+  <outline>
+    <contour>
+      <point x="173" y="12" type="curve"/>
+      <point x="193" y="25" type="line"/>
+      <point x="112" y="25"/>
+      <point x="60" y="77"/>
+      <point x="60" y="216" type="curve" smooth="yes"/>
+      <point x="60" y="380"/>
+      <point x="140" y="700"/>
+      <point x="319" y="700" type="curve" smooth="yes"/>
+      <point x="356" y="700"/>
+      <point x="385" y="688"/>
+      <point x="403" y="675" type="curve"/>
+      <point x="409" y="701" type="line"/>
+      <point x="392" y="713"/>
+      <point x="363" y="725"/>
+      <point x="322" y="725" type="curve" smooth="yes"/>
+      <point x="117" y="725"/>
+      <point x="33" y="393"/>
+      <point x="33" y="211" type="curve" smooth="yes"/>
+      <point x="33" y="70"/>
+      <point x="79" y="12"/>
+    </contour>
+    <contour>
+      <point x="-26" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="264" y="25" type="line"/>
+      <point x="-21" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="413" type="line"/>
+      <point x="214" y="413" type="line"/>
+      <point x="300" y="815" type="line"/>
+      <point x="275" y="815" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="413" type="line"/>
+      <point x="301" y="413" type="line"/>
+      <point x="387" y="815" type="line"/>
+      <point x="361" y="815" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

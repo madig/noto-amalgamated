@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B1E" format="2">
+  <advance width="1040"/>
+  <unicode hex="1B1E"/>
+  <outline>
+    <contour>
+      <point x="445" y="114" type="curve"/>
+      <point x="450" y="131"/>
+      <point x="470" y="153"/>
+      <point x="499" y="153" type="curve" smooth="yes"/>
+      <point x="516" y="153"/>
+      <point x="524" y="143"/>
+      <point x="524" y="134" type="curve" smooth="yes"/>
+      <point x="524" y="116"/>
+      <point x="493" y="111"/>
+    </contour>
+    <contour>
+      <point x="325" y="32" type="curve"/>
+      <point x="373" y="0" type="line"/>
+      <point x="532" y="0"/>
+      <point x="632" y="42"/>
+      <point x="632" y="138" type="curve" smooth="yes"/>
+      <point x="632" y="200"/>
+      <point x="589" y="241"/>
+      <point x="513" y="241" type="curve" smooth="yes"/>
+      <point x="418" y="241"/>
+      <point x="325" y="175"/>
+    </contour>
+    <component base="uni1B1D.part" xOffset="-26"/>
+    <component base="Nga.01.part" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1B1D.part</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Nga.01.part</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

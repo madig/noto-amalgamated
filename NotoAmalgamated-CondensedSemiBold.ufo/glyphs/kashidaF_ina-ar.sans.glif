@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kashidaFina-ar.sans" format="2">
+  <advance width="224"/>
+  <unicode hex="FE73"/>
+  <anchor x="248" y="-243" name="bottom"/>
+  <anchor x="197" y="467" name="top"/>
+  <outline>
+    <contour>
+      <point x="296" y="-104" type="line"/>
+      <point x="224" y="-104"/>
+      <point x="166" y="-63"/>
+      <point x="166" y="24" type="curve" smooth="yes"/>
+      <point x="166" y="76"/>
+      <point x="175" y="114"/>
+      <point x="204" y="187" type="curve"/>
+      <point x="88" y="232" type="line"/>
+      <point x="38" y="124"/>
+      <point x="32" y="60"/>
+      <point x="32" y="13" type="curve" smooth="yes"/>
+      <point x="32" y="-154"/>
+      <point x="157" y="-232"/>
+      <point x="286" y="-232" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_part.instroke</string>
+    </dict>
+  </lib>
+</glyph>

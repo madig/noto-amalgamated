@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishorttail-cy" format="2">
+  <advance width="748"/>
+  <unicode hex="048A"/>
+  <anchor x="364" y="-188" name="bottom"/>
+  <anchor x="364" y="923" name="top"/>
+  <outline>
+    <contour>
+      <point x="561" y="-188" type="line"/>
+      <point x="663" y="-188" type="line"/>
+      <point x="732" y="79" type="line"/>
+      <point x="635" y="79" type="line"/>
+      <point x="635" y="714" type="line"/>
+      <point x="536" y="714" type="line"/>
+      <point x="171" y="122" type="line"/>
+      <point x="167" y="122" type="line"/>
+      <point x="169" y="164"/>
+      <point x="174" y="254"/>
+      <point x="174" y="321" type="curve" smooth="yes"/>
+      <point x="174" y="714" type="line"/>
+      <point x="91" y="714" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="191" y="0" type="line"/>
+      <point x="558" y="593" type="line"/>
+      <point x="561" y="593" type="line"/>
+      <point x="558" y="542"/>
+      <point x="553" y="446"/>
+      <point x="553" y="388" type="curve" smooth="yes"/>
+      <point x="553" y="0" type="line"/>
+      <point x="635" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="362" y="771" type="curve" smooth="yes"/>
+      <point x="485" y="771"/>
+      <point x="536" y="823"/>
+      <point x="544" y="923" type="curve"/>
+      <point x="462" y="923" type="line"/>
+      <point x="455" y="854"/>
+      <point x="420" y="832"/>
+      <point x="364" y="832" type="curve" smooth="yes"/>
+      <point x="298" y="832"/>
+      <point x="272" y="851"/>
+      <point x="266" y="923" type="curve"/>
+      <point x="186" y="923" type="line"/>
+      <point x="193" y="820"/>
+      <point x="236" y="771"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

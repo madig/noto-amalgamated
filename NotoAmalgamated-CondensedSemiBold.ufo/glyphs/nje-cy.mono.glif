@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nje-cy.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="045A"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="167" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="215" y="0" type="line"/>
+      <point x="348" y="0" type="line" smooth="yes"/>
+      <point x="442" y="0"/>
+      <point x="500" y="57"/>
+      <point x="500" y="171" type="curve" smooth="yes"/>
+      <point x="500" y="284"/>
+      <point x="442" y="335"/>
+      <point x="337" y="335" type="curve" smooth="yes"/>
+      <point x="320" y="335" type="line"/>
+      <point x="320" y="547" type="line"/>
+      <point x="215" y="547" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="0" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="120" y="242" type="line"/>
+      <point x="261" y="242" type="line"/>
+      <point x="261" y="335" type="line"/>
+      <point x="120" y="335" type="line"/>
+      <point x="120" y="546" type="line"/>
+      <point x="15" y="546" type="line"/>
+    </contour>
+    <contour>
+      <point x="339" y="93" type="curve" smooth="yes"/>
+      <point x="320" y="93" type="line"/>
+      <point x="320" y="242" type="line"/>
+      <point x="340" y="242" type="line" smooth="yes"/>
+      <point x="376" y="242"/>
+      <point x="397" y="214"/>
+      <point x="397" y="167" type="curve" smooth="yes"/>
+      <point x="397" y="118"/>
+      <point x="374" y="93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>m</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

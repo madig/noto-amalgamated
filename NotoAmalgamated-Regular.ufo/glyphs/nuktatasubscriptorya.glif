@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nuktatasubscriptorya" format="2">
+  <anchor x="-317" y="-5" name="_b.tasubscriptorya"/>
+  <anchor x="-168" y="-152" name="b.uvowelsignmarkorya"/>
+  <anchor x="-95" y="-54" name="m.rrvocalicvowelsignleftorya"/>
+  <outline>
+    <component base="tasubscriptorya" xOffset="-40" yOffset="-5"/>
+    <component base="nuktaorya" xOffset="-98" yOffset="55"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

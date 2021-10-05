@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghainDotbelow-ar.sans" format="2">
+  <advance width="629"/>
+  <unicode hex="06FC"/>
+  <outline>
+    <component base="ain-ar"/>
+    <component base="dotabove-ar" xOffset="228" yOffset="152"/>
+    <component base="_DotCenter" xOffset="312" yOffset="-329"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotabove-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>_DotCenter</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

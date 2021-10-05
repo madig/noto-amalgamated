@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1880E" format="2">
+  <advance height="976" width="1000"/>
+  <unicode hex="1880E"/>
+  <note>
+u1880E
+</note>
+  <outline>
+    <contour>
+      <point x="678" y="533" type="line"/>
+      <point x="628" y="468" type="line"/>
+      <point x="539" y="468" type="line"/>
+      <point x="539" y="785" type="line"/>
+      <point x="558.52" y="788.65"/>
+      <point x="570.52" y="797.98"/>
+      <point x="575" y="813" type="curve"/>
+      <point x="474" y="824" type="line"/>
+      <point x="474" y="468" type="line"/>
+      <point x="281" y="468" type="line"/>
+      <point x="290" y="438" type="line"/>
+      <point x="474" y="438" type="line"/>
+      <point x="474" y="-74" type="line"/>
+      <point x="484" y="-74" type="line" smooth="yes"/>
+      <point x="489.93" y="-73.88"/>
+      <point x="497.13" y="-72.69"/>
+      <point x="505.61" y="-70.41" type="curve" smooth="yes"/>
+      <point x="526.96" y="-64.26"/>
+      <point x="538.09" y="-58.45"/>
+      <point x="539" y="-53" type="curve"/>
+      <point x="539" y="438" type="line"/>
+      <point x="744" y="438" type="line" smooth="yes"/>
+      <point x="758.17" y="438.38"/>
+      <point x="767.17" y="443.72"/>
+      <point x="771" y="454" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>438</integer>
+            <integer>30</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>533</integer>
+            <integer>-20</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>474</integer>
+            <integer>65</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>836</integer>
+    </dict>
+  </lib>
+</glyph>

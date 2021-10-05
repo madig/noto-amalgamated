@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0AFD_evowelgujr_rephgujr" format="2">
+  <anchor x="1" y="592" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-76" y="780" type="curve" smooth="yes"/>
+      <point x="-106" y="780"/>
+      <point x="-130" y="757"/>
+      <point x="-130" y="725" type="curve" smooth="yes"/>
+      <point x="-130" y="691"/>
+      <point x="-106" y="667"/>
+      <point x="-76" y="667" type="curve" smooth="yes"/>
+      <point x="-46" y="667"/>
+      <point x="-21" y="691"/>
+      <point x="-21" y="725" type="curve" smooth="yes"/>
+      <point x="-21" y="757"/>
+      <point x="-46" y="780"/>
+    </contour>
+    <contour>
+      <point x="4" y="888" type="curve" smooth="yes"/>
+      <point x="-26" y="888"/>
+      <point x="-50" y="862"/>
+      <point x="-50" y="830" type="curve" smooth="yes"/>
+      <point x="-50" y="799"/>
+      <point x="-27" y="775"/>
+      <point x="4" y="775" type="curve" smooth="yes"/>
+      <point x="36" y="775"/>
+      <point x="59" y="799"/>
+      <point x="59" y="830" type="curve" smooth="yes"/>
+      <point x="59" y="862"/>
+      <point x="36" y="888"/>
+    </contour>
+    <contour>
+      <point x="-130" y="898" type="curve" smooth="yes"/>
+      <point x="-161" y="898"/>
+      <point x="-184" y="872"/>
+      <point x="-184" y="840" type="curve" smooth="yes"/>
+      <point x="-184" y="809"/>
+      <point x="-161" y="785"/>
+      <point x="-130" y="785" type="curve" smooth="yes"/>
+      <point x="-99" y="785"/>
+      <point x="-75" y="809"/>
+      <point x="-75" y="840" type="curve" smooth="yes"/>
+      <point x="-75" y="872"/>
+      <point x="-99" y="898"/>
+    </contour>
+    <component base="eMatra-gujarati" xOffset="-144"/>
+    <component base="reph-gujarati" xOffset="180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

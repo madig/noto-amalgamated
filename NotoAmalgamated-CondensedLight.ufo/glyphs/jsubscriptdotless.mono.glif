@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jsubscriptdotless.mono" format="2">
+  <advance width="500"/>
+  <anchor x="255" y="-245" name="bottom"/>
+  <anchor x="319" y="221" name="top"/>
+  <anchor x="403" y="221" name="topright"/>
+  <outline>
+    <contour>
+      <point x="237" y="-245" type="curve" smooth="yes"/>
+      <point x="292" y="-245"/>
+      <point x="329" y="-214"/>
+      <point x="329" y="-149" type="curve" smooth="yes"/>
+      <point x="329" y="221" type="line"/>
+      <point x="202" y="221" type="line"/>
+      <point x="202" y="208" type="line"/>
+      <point x="312" y="206" type="line"/>
+      <point x="312" y="-145" type="line" smooth="yes"/>
+      <point x="312" y="-197"/>
+      <point x="287" y="-229"/>
+      <point x="237" y="-229" type="curve" smooth="yes"/>
+      <point x="212" y="-229"/>
+      <point x="175" y="-222"/>
+      <point x="163" y="-217" type="curve"/>
+      <point x="163" y="-233" type="line"/>
+      <point x="172" y="-236"/>
+      <point x="206" y="-245"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khoRakhang-thai_macronbelowcomb" format="2">
+  <advance width="448"/>
+  <anchor x="227" y="-97" name="bottom"/>
+  <anchor x="378" y="-97" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="378" y="-77" type="line"/>
+      <point x="75" y="-77" type="line"/>
+      <point x="75" y="-97" type="line"/>
+      <point x="378" y="-97" type="line"/>
+    </contour>
+    <component base="khoRakhang-thai"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

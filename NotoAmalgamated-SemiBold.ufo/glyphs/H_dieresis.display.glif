@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hdieresis.display" format="2">
+  <advance width="721"/>
+  <unicode hex="1E26"/>
+  <anchor x="359" y="0" name="bottom"/>
+  <anchor x="361" y="920" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="dieresiscomb" xOffset="361" yOffset="168"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

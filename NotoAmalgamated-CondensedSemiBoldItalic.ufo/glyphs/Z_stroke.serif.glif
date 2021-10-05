@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zstroke.serif" format="2">
+  <advance width="549"/>
+  <unicode hex="01B5"/>
+  <anchor x="218.01" y="0" name="bottom"/>
+  <anchor x="370.01" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="114" y="344" type="line"/>
+      <point x="225" y="344" type="line"/>
+      <point x="364" y="344" type="line"/>
+      <point x="503" y="344" type="line"/>
+      <point x="516" y="401" type="line"/>
+      <point x="410" y="401" type="line"/>
+      <point x="267" y="401" type="line"/>
+      <point x="128" y="401" type="line"/>
+    </contour>
+    <component base="Z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Z</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

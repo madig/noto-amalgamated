@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mturned.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="019C"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="357" name="center"/>
+  <anchor x="300" y="714" name="top"/>
+  <anchor x="20" y="714" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="174" y="-11" type="curve" smooth="yes"/>
+      <point x="241" y="-11"/>
+      <point x="271" y="35"/>
+      <point x="291" y="95" type="curve"/>
+      <point x="294" y="95" type="line"/>
+      <point x="301" y="40"/>
+      <point x="326" y="-11"/>
+      <point x="396" y="-11" type="curve" smooth="yes"/>
+      <point x="473" y="-11"/>
+      <point x="501" y="50"/>
+      <point x="516" y="96" type="curve"/>
+      <point x="518" y="96" type="line"/>
+      <point x="521" y="-1" type="line"/>
+      <point x="540" y="-1" type="line"/>
+      <point x="540" y="714" type="line"/>
+      <point x="514" y="714" type="line"/>
+      <point x="514" y="198" type="line" smooth="yes"/>
+      <point x="514" y="115"/>
+      <point x="481" y="14"/>
+      <point x="397" y="14" type="curve" smooth="yes"/>
+      <point x="343" y="14"/>
+      <point x="311" y="46"/>
+      <point x="311" y="171" type="curve" smooth="yes"/>
+      <point x="311" y="714" type="line"/>
+      <point x="285" y="714" type="line"/>
+      <point x="285" y="185" type="line" smooth="yes"/>
+      <point x="285" y="83"/>
+      <point x="244" y="14"/>
+      <point x="175" y="14" type="curve" smooth="yes"/>
+      <point x="126" y="14"/>
+      <point x="86" y="50"/>
+      <point x="86" y="154" type="curve" smooth="yes"/>
+      <point x="86" y="714" type="line"/>
+      <point x="60" y="714" type="line"/>
+      <point x="60" y="138" type="line" smooth="yes"/>
+      <point x="60" y="40"/>
+      <point x="104" y="-11"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>M</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>M</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

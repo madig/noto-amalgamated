@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Qsmall.serif" format="2">
+  <advance width="522"/>
+  <unicode hex="A7AF"/>
+  <outline>
+    <contour>
+      <point x="398" y="-225" type="curve" smooth="yes"/>
+      <point x="439" y="-225" type="line"/>
+      <point x="439" y="-215" type="line"/>
+      <point x="426" y="-215" type="line" smooth="yes"/>
+      <point x="370" y="-215"/>
+      <point x="311" y="-187"/>
+      <point x="301" y="-1" type="curve"/>
+      <point x="260" y="-1" type="line"/>
+      <point x="217" y="-1" type="line"/>
+      <point x="228" y="-174"/>
+      <point x="311" y="-225"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

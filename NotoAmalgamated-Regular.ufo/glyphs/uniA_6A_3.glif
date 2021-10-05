@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA6A3" format="2">
+  <advance width="656"/>
+  <unicode hex="A6A3"/>
+  <outline>
+    <contour>
+      <point x="510" y="714" type="line"/>
+      <point x="440" y="588" type="line"/>
+      <point x="378" y="665"/>
+      <point x="281" y="725"/>
+      <point x="206" y="725" type="curve" smooth="yes"/>
+      <point x="131" y="725"/>
+      <point x="69" y="681"/>
+      <point x="69" y="587" type="curve" smooth="yes"/>
+      <point x="69" y="464"/>
+      <point x="195" y="352"/>
+      <point x="289" y="314" type="curve"/>
+      <point x="114" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="613" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="587" type="curve" smooth="yes"/>
+      <point x="155" y="618"/>
+      <point x="176" y="639"/>
+      <point x="206" y="639" type="curve" smooth="yes"/>
+      <point x="256" y="639"/>
+      <point x="349" y="561"/>
+      <point x="390" y="497" type="curve"/>
+      <point x="331" y="391" type="line"/>
+      <point x="260" y="414"/>
+      <point x="155" y="528"/>
+    </contour>
+    <component base="_dot" xScale="1.20456" yScale="1.20456" xOffset="160" yOffset="-134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

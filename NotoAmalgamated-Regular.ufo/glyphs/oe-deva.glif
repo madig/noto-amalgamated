@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe-deva" format="2">
+  <advance width="686"/>
+  <unicode hex="0973"/>
+  <anchor x="601" y="0" name="bottom"/>
+  <anchor x="359" y="0" name="bottom_right"/>
+  <anchor x="793" y="654" name="candra"/>
+  <anchor x="242" y="-34" name="nukta"/>
+  <anchor x="722" y="653" name="top"/>
+  <outline>
+    <component base="a-deva"/>
+    <component base="oeMatra-deva" xOffset="685"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>oeMatra-deva</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

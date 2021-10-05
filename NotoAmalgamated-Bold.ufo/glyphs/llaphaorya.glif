@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="llaphaorya" format="2">
+  <advance width="701"/>
+  <anchor x="536" y="-49" name="b.rrvocalicvowelsignleftorya"/>
+  <anchor x="360" y="0" name="b.tasubscriptorya"/>
+  <anchor x="559" y="0" name="b.uvowelsignorya"/>
+  <anchor x="544" y="657" name="t.candrabinduorya"/>
+  <anchor x="360" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="592" y="139" type="curve" smooth="yes"/>
+      <point x="538" y="139"/>
+      <point x="504" y="91"/>
+      <point x="504" y="45" type="curve" smooth="yes"/>
+      <point x="504" y="-6"/>
+      <point x="539" y="-46"/>
+      <point x="587" y="-46" type="curve" smooth="yes"/>
+      <point x="649" y="-46"/>
+      <point x="681" y="6"/>
+      <point x="681" y="49" type="curve" smooth="yes"/>
+      <point x="681" y="97"/>
+      <point x="645" y="139"/>
+    </contour>
+    <contour>
+      <point x="559" y="54" type="curve" smooth="yes"/>
+      <point x="559" y="69"/>
+      <point x="569" y="76"/>
+      <point x="582" y="76" type="curve" smooth="yes"/>
+      <point x="602" y="76"/>
+      <point x="618" y="59"/>
+      <point x="618" y="41" type="curve" smooth="yes"/>
+      <point x="618" y="26"/>
+      <point x="607" y="19"/>
+      <point x="594" y="19" type="curve" smooth="yes"/>
+      <point x="574" y="19"/>
+      <point x="559" y="36"/>
+    </contour>
+    <component base="llapaorya"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

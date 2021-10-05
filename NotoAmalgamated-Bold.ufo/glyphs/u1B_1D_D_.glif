@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1B1DD" format="2">
+  <advance height="1000" width="850"/>
+  <unicode hex="1B1DD"/>
+  <note>
+u1B1DD
+</note>
+  <outline>
+    <contour>
+      <point x="740" y="466" type="curve"/>
+      <point x="470" y="866" type="line"/>
+      <point x="481.25" y="909.2"/>
+      <point x="487.91" y="951.2"/>
+      <point x="490" y="992" type="curve"/>
+      <point x="370" y="1000" type="line"/>
+      <point x="367.7" y="962.62"/>
+      <point x="361.36" y="924.65"/>
+      <point x="350.96" y="886.1" type="curve" smooth="yes"/>
+      <point x="319.1" y="769.54"/>
+      <point x="238.78" y="631.18"/>
+      <point x="110" y="471" type="curve"/>
+      <point x="356" y="108" type="line"/>
+      <point x="311.14" y="50.97"/>
+      <point x="268.81" y="1.97"/>
+      <point x="229" y="-39" type="curve"/>
+      <point x="311" y="-120" type="line"/>
+      <point x="348.17" y="-80.78"/>
+      <point x="385.83" y="-38.11"/>
+      <point x="424" y="8" type="curve"/>
+      <point x="511" y="-120" type="line"/>
+      <point x="614" y="-46" type="line"/>
+      <point x="507" y="113" type="line"/>
+      <point x="592.85" y="228.22"/>
+      <point x="670.52" y="345.89"/>
+    </contour>
+    <contour>
+      <point x="414" y="716" type="curve"/>
+      <point x="471" y="631" type="line"/>
+      <point x="420.21" y="540.81"/>
+      <point x="368.88" y="461.81"/>
+      <point x="317" y="394" type="curve"/>
+      <point x="264" y="472" type="line"/>
+      <point x="330.15" y="562.77"/>
+      <point x="380.15" y="644.11"/>
+    </contour>
+    <contour>
+      <point x="438" y="215" type="curve"/>
+      <point x="386" y="292" type="line"/>
+      <point x="442.23" y="366.69"/>
+      <point x="494.89" y="443.36"/>
+      <point x="544" y="522" type="curve"/>
+      <point x="594" y="447" type="line"/>
+      <point x="549.09" y="372.92"/>
+      <point x="497.09" y="295.59"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>370</integer>
+            <integer>120</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

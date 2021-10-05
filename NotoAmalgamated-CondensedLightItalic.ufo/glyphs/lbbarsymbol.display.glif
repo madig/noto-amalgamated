@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lbbarsymbol.display" format="2">
+  <advance width="554"/>
+  <unicode hex="2114"/>
+  <outline>
+    <contour>
+      <point x="287" y="-10" type="curve" smooth="yes"/>
+      <point x="438" y="-10"/>
+      <point x="501" y="263"/>
+      <point x="501" y="410" type="curve" smooth="yes"/>
+      <point x="501" y="501"/>
+      <point x="471" y="544"/>
+      <point x="407" y="544" type="curve" smooth="yes"/>
+      <point x="360" y="544"/>
+      <point x="313" y="508"/>
+      <point x="280" y="446" type="curve"/>
+      <point x="278" y="446" type="line"/>
+      <point x="281" y="455"/>
+      <point x="283" y="465"/>
+      <point x="286" y="477" type="curve" smooth="yes"/>
+      <point x="347" y="760" type="line"/>
+      <point x="322" y="760" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="201" y="65" type="line"/>
+      <point x="204" y="65" type="line"/>
+      <point x="210" y="20"/>
+      <point x="243" y="-10"/>
+    </contour>
+    <contour>
+      <point x="295" y="15" type="curve" smooth="yes"/>
+      <point x="246" y="15"/>
+      <point x="222" y="48"/>
+      <point x="222" y="114" type="curve" smooth="yes"/>
+      <point x="222" y="284"/>
+      <point x="294" y="521"/>
+      <point x="412" y="521" type="curve" smooth="yes"/>
+      <point x="460" y="521"/>
+      <point x="476" y="487"/>
+      <point x="476" y="423" type="curve" smooth="yes"/>
+      <point x="476" y="262"/>
+      <point x="410" y="15"/>
+    </contour>
+    <contour>
+      <point x="80" y="633" type="line"/>
+      <point x="426" y="633" type="line"/>
+      <point x="431" y="661" type="line"/>
+      <point x="85" y="661" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

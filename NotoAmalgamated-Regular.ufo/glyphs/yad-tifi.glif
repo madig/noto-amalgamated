@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yad-tifi" format="2">
+  <advance width="689"/>
+  <unicode hex="2D37"/>
+  <note>
+uni2D37
+</note>
+  <anchor x="345" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="125" y="0" type="line"/>
+      <point x="296" y="443" type="line" smooth="yes"/>
+      <point x="314" y="489"/>
+      <point x="331" y="534"/>
+      <point x="342" y="587" type="curve"/>
+      <point x="347" y="587" type="line"/>
+      <point x="355" y="534"/>
+      <point x="371" y="489"/>
+      <point x="388" y="443" type="curve" smooth="yes"/>
+      <point x="554" y="0" type="line"/>
+      <point x="649" y="0" type="line"/>
+      <point x="649" y="8" type="line"/>
+      <point x="387" y="714" type="line"/>
+      <point x="310" y="714" type="line"/>
+      <point x="40" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

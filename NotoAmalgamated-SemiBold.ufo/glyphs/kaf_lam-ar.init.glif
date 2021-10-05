@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf_lam-ar.init" format="2">
+  <advance width="798"/>
+  <unicode hex="FCC7"/>
+  <anchor x="344" y="0" name="caret_1"/>
+  <outline>
+    <component base="kaf-ar.init" xOffset="344"/>
+    <component base="lam-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>kaf-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>lam-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

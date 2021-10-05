@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dalDotbelow-ar" format="2">
+  <advance width="509"/>
+  <unicode hex="068A"/>
+  <note>
+uni068A
+</note>
+  <anchor x="261" y="-236" name="bottom"/>
+  <anchor x="138" y="595" name="top"/>
+  <outline>
+    <component base="dal-ar"/>
+    <component base="onedot.below" xOffset="259"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dal-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

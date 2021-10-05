@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="g_ra_iMatra-khoj" format="2">
+  <advance width="810"/>
+  <anchor x="619" y="11" name="bottom"/>
+  <anchor x="303" y="600" name="nukta"/>
+  <anchor x="1022" y="892" name="top"/>
+  <outline>
+    <component base="gga_iMatra-khoj"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Be-cy.display" format="2">
+  <advance width="593"/>
+  <unicode hex="0411"/>
+  <anchor x="245" y="0" name="bottom"/>
+  <anchor x="397" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="-21" y="0" type="line"/>
+      <point x="273" y="0" type="line" smooth="yes"/>
+      <point x="462" y="0"/>
+      <point x="561" y="82"/>
+      <point x="561" y="228" type="curve" smooth="yes"/>
+      <point x="561" y="312"/>
+      <point x="514" y="395"/>
+      <point x="315" y="395" type="curve" smooth="yes"/>
+      <point x="258" y="395" type="line"/>
+      <point x="325" y="704" type="line"/>
+      <point x="474" y="704" type="line" smooth="yes"/>
+      <point x="540" y="704"/>
+      <point x="562" y="670"/>
+      <point x="562" y="603" type="curve" smooth="yes"/>
+      <point x="562" y="587"/>
+      <point x="557" y="550"/>
+      <point x="556" y="539" type="curve"/>
+      <point x="566" y="539" type="line"/>
+      <point x="598" y="714" type="line"/>
+      <point x="130" y="714" type="line"/>
+      <point x="128" y="704" type="line"/>
+      <point x="141" y="704" type="line" smooth="yes"/>
+      <point x="180" y="704"/>
+      <point x="213" y="699"/>
+      <point x="213" y="664" type="curve" smooth="yes"/>
+      <point x="213" y="658"/>
+      <point x="211" y="644"/>
+      <point x="209" y="636" type="curve" smooth="yes"/>
+      <point x="92" y="82" type="line" smooth="yes"/>
+      <point x="79" y="19"/>
+      <point x="39" y="10"/>
+      <point x="-6" y="10" type="curve" smooth="yes"/>
+      <point x="-19" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="254" y="10" type="curve" smooth="yes"/>
+      <point x="177" y="10" type="line"/>
+      <point x="256" y="385" type="line"/>
+      <point x="320" y="385" type="line" smooth="yes"/>
+      <point x="408" y="385"/>
+      <point x="453" y="337"/>
+      <point x="453" y="220" type="curve" smooth="yes"/>
+      <point x="453" y="90"/>
+      <point x="400" y="10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

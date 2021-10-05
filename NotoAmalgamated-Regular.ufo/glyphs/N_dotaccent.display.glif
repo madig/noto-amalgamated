@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ndotaccent.display" format="2">
+  <advance width="719"/>
+  <unicode hex="1E44"/>
+  <anchor x="359" y="0" name="bottom"/>
+  <anchor x="359" y="915" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="dotaccentcomb" xOffset="359" yOffset="178"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

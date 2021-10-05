@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tsmall" format="2">
+  <advance width="428"/>
+  <unicode hex="1D1B"/>
+  <anchor x="157" y="0" name="bottom"/>
+  <anchor x="271" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="113" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="301" y="464" type="line"/>
+      <point x="453" y="464" type="line"/>
+      <point x="468" y="536" type="line"/>
+      <point x="73" y="536" type="line"/>
+      <point x="58" y="464" type="line"/>
+      <point x="211" y="464" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

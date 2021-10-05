@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shadda_dammatan-ar" format="2">
+  <advance width="348"/>
+  <unicode hex="FC5E"/>
+  <anchor x="221" y="658" name="_top"/>
+  <anchor x="251" y="1234" name="top"/>
+  <outline>
+    <component base="shadda-ar" xOffset="50" yOffset="200"/>
+    <component base="dammatan-ar" xOffset="30" yOffset="410"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=shadda-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=shadda-ar</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

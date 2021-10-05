@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one_tibet" format="2">
+  <advance width="424"/>
+  <unicode hex="0F21"/>
+  <anchor x="200" y="6" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="384" y="678" type="curve"/>
+      <point x="165" y="678" type="line"/>
+      <point x="152" y="572"/>
+      <point x="113" y="480"/>
+      <point x="57" y="415" type="curve"/>
+      <point x="78" y="399" type="line"/>
+      <point x="134" y="461"/>
+      <point x="180" y="574"/>
+      <point x="186" y="659" type="curve"/>
+      <point x="358" y="659" type="line"/>
+      <point x="353" y="364"/>
+      <point x="287" y="211"/>
+      <point x="15" y="76" type="curve"/>
+      <point x="26" y="59" type="line"/>
+      <point x="306" y="197"/>
+      <point x="379" y="351"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_vinvertedbelow-ar" format="2">
+  <advance width="257"/>
+  <anchor x="128" y="0" name="_bottom"/>
+  <anchor x="125" y="-260" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="163" y="-60" type="curve"/>
+      <point x="83" y="-66" type="line"/>
+      <point x="104" y="-105" type="line"/>
+      <point x="126" y="-143"/>
+      <point x="171" y="-233"/>
+      <point x="190" y="-260" type="curve"/>
+      <point x="256" y="-225" type="line"/>
+      <point x="229" y="-183"/>
+      <point x="184" y="-100"/>
+    </contour>
+    <contour>
+      <point x="83" y="-66" type="line"/>
+      <point x="66" y="-108"/>
+      <point x="15" y="-208"/>
+      <point x="0" y="-235" type="curve"/>
+      <point x="66" y="-263" type="line"/>
+      <point x="79" y="-242"/>
+      <point x="124" y="-137"/>
+      <point x="142" y="-91" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=vinvertedabove-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=vinvertedabove-ar</string>
+    </dict>
+  </lib>
+</glyph>

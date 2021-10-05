@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ezhcaron.serif" format="2">
+  <advance width="471"/>
+  <unicode hex="01EE"/>
+  <anchor x="236" y="0" name="bottom"/>
+  <anchor x="236" y="931" name="top"/>
+  <outline>
+    <component base="caron" xOffset="76" yOffset="165"/>
+    <component base="Dzeabkhasian-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

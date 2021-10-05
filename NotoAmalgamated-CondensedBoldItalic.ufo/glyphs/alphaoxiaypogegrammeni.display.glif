@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphaoxiaypogegrammeni.display" format="2">
+  <advance width="581"/>
+  <unicode hex="1FB4"/>
+  <anchor x="184" y="-237" name="bottom"/>
+  <anchor x="406" y="809" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="oxia" xOffset="201"/>
+    <component base="prosgegrammeni" xOffset="100" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>alpha</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

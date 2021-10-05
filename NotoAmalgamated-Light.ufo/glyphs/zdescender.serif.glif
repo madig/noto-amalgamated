@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdescender.serif" format="2">
+  <advance width="469"/>
+  <unicode hex="2C6C"/>
+  <anchor x="235" y="0" name="bottom"/>
+  <anchor x="235" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="385" y="-28" type="curve" smooth="yes"/>
+      <point x="393" y="-210" type="line"/>
+      <point x="413" y="-210" type="line"/>
+      <point x="413" y="25" type="line"/>
+      <point x="103" y="25" type="line"/>
+      <point x="411" y="514" type="line"/>
+      <point x="411" y="536" type="line"/>
+      <point x="78" y="536" type="line"/>
+      <point x="70" y="420" type="line"/>
+      <point x="90" y="420" type="line"/>
+      <point x="93" y="452" type="line" smooth="yes"/>
+      <point x="98" y="504"/>
+      <point x="110" y="511"/>
+      <point x="163" y="511" type="curve" smooth="yes"/>
+      <point x="376" y="511" type="line"/>
+      <point x="69" y="22" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="361" y="0" type="line" smooth="yes"/>
+      <point x="379" y="0"/>
+      <point x="384" y="-3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

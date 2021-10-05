@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t.sc" format="2">
+  <advance width="371"/>
+  <anchor x="123" y="0" name="bottom"/>
+  <anchor x="248" y="295" name="center"/>
+  <anchor x="249" y="589" name="top"/>
+  <anchor x="414" y="589" name="topright"/>
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="306" y="450" type="line"/>
+      <point x="402" y="450" type="line"/>
+      <point x="431" y="589" type="line"/>
+      <point x="80" y="589" type="line"/>
+      <point x="50" y="450" type="line"/>
+      <point x="145" y="450" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

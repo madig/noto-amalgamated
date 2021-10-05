@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bsdusRtags_tibet" format="2">
+  <advance width="387"/>
+  <unicode hex="0F34"/>
+  <outline>
+    <contour>
+      <point x="40" y="449" type="curve"/>
+      <point x="40" y="282" type="line"/>
+      <point x="157" y="274"/>
+      <point x="241" y="235"/>
+      <point x="299" y="161" type="curve"/>
+      <point x="347" y="209" type="line"/>
+      <point x="298" y="346"/>
+      <point x="194" y="431"/>
+    </contour>
+    <contour>
+      <point x="40" y="199" type="curve"/>
+      <point x="40" y="32" type="line"/>
+      <point x="157" y="24"/>
+      <point x="241" y="-15"/>
+      <point x="299" y="-89" type="curve"/>
+      <point x="347" y="-41" type="line"/>
+      <point x="298" y="96"/>
+      <point x="194" y="181"/>
+    </contour>
+    <component base="intersyllabictsheg_tibet" xOffset="49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

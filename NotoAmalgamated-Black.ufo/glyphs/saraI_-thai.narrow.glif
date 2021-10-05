@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="saraI-thai.narrow" format="2">
+  <anchor x="458" y="563" name="_topright"/>
+  <anchor x="458" y="864" name="topright"/>
+  <outline>
+    <contour>
+      <point x="54" y="635" type="line"/>
+      <point x="448" y="635" type="line"/>
+      <point x="458" y="700" type="line"/>
+      <point x="431" y="774"/>
+      <point x="351" y="869"/>
+      <point x="231" y="869" type="curve" smooth="yes"/>
+      <point x="116" y="869"/>
+      <point x="48" y="794"/>
+      <point x="48" y="683" type="curve"/>
+    </contour>
+    <contour>
+      <point x="183" y="711" type="line"/>
+      <point x="183" y="751"/>
+      <point x="203" y="777"/>
+      <point x="237" y="777" type="curve" smooth="yes"/>
+      <point x="276" y="777"/>
+      <point x="306" y="748"/>
+      <point x="321" y="711" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>512</integer>
+    </dict>
+  </lib>
+</glyph>

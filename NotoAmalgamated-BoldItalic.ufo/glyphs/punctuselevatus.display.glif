@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="punctuselevatus.display" format="2">
+  <advance width="496"/>
+  <unicode hex="2E4E"/>
+  <outline>
+    <contour>
+      <point x="499" y="644" type="curve"/>
+      <point x="489" y="641" type="line"/>
+      <point x="472" y="573"/>
+      <point x="437" y="499"/>
+      <point x="389" y="499" type="curve" smooth="yes"/>
+      <point x="328" y="499"/>
+      <point x="334" y="570"/>
+      <point x="251" y="570" type="curve" smooth="yes"/>
+      <point x="205" y="570"/>
+      <point x="173" y="534"/>
+      <point x="173" y="489" type="curve" smooth="yes"/>
+      <point x="173" y="437"/>
+      <point x="208" y="400"/>
+      <point x="270" y="400" type="curve"/>
+      <point x="374" y="400"/>
+      <point x="468" y="482"/>
+    </contour>
+    <contour>
+      <point x="200" y="171" type="curve" smooth="yes"/>
+      <point x="155" y="171"/>
+      <point x="103" y="144"/>
+      <point x="103" y="66" type="curve" smooth="yes"/>
+      <point x="103" y="15"/>
+      <point x="136" y="-9"/>
+      <point x="183" y="-9" type="curve" smooth="yes"/>
+      <point x="241" y="-9"/>
+      <point x="280" y="34"/>
+      <point x="280" y="97" type="curve" smooth="yes"/>
+      <point x="280" y="147"/>
+      <point x="248" y="171"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|semicolon</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|semicolon</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevemacroncomb.serif" format="2">
+  <unicode hex="1DCB"/>
+  <anchor x="-104" y="536" name="_top"/>
+  <anchor x="-104" y="705" name="top"/>
+  <outline>
+    <contour>
+      <point x="-204" y="592" type="curve" smooth="yes"/>
+      <point x="-140" y="592"/>
+      <point x="-113" y="631"/>
+      <point x="-112" y="705" type="curve"/>
+      <point x="-132" y="705" type="line"/>
+      <point x="-141" y="641"/>
+      <point x="-161" y="620"/>
+      <point x="-204" y="620" type="curve" smooth="yes"/>
+      <point x="-245" y="620"/>
+      <point x="-265" y="639"/>
+      <point x="-275" y="705" type="curve"/>
+      <point x="-294" y="705" type="line"/>
+      <point x="-293" y="632"/>
+      <point x="-267" y="592"/>
+    </contour>
+    <contour>
+      <point x="-132" y="680" type="line"/>
+      <point x="87" y="680" type="line"/>
+      <point x="87" y="705" type="line"/>
+      <point x="-132" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

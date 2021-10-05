@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iota" format="2">
+  <advance width="302"/>
+  <unicode hex="03B9"/>
+  <anchor x="143" y="0" name="bottom"/>
+  <anchor x="183" y="545" name="top"/>
+  <outline>
+    <contour>
+      <point x="142" y="-10" type="curve" smooth="yes"/>
+      <point x="166" y="-10"/>
+      <point x="190" y="-7"/>
+      <point x="214" y="1" type="curve"/>
+      <point x="238" y="113" type="line"/>
+      <point x="223" y="107"/>
+      <point x="208" y="104"/>
+      <point x="195" y="104" type="curve" smooth="yes"/>
+      <point x="173" y="104"/>
+      <point x="162" y="117"/>
+      <point x="162" y="143" type="curve" smooth="yes"/>
+      <point x="162" y="153"/>
+      <point x="164" y="164"/>
+      <point x="167" y="178" type="curve" smooth="yes"/>
+      <point x="245" y="545" type="line"/>
+      <point x="115" y="545" type="line"/>
+      <point x="35" y="171" type="line" smooth="yes"/>
+      <point x="30" y="146"/>
+      <point x="27" y="124"/>
+      <point x="27" y="104" type="curve" smooth="yes"/>
+      <point x="27" y="27"/>
+      <point x="69" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

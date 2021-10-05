@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hehVinvertedabove-ar.init" format="2">
+  <advance width="888"/>
+  <note>
+uni06FF.init
+</note>
+  <anchor x="293" y="-78" name="bottom"/>
+  <anchor x="367" y="999" name="top"/>
+  <outline>
+    <component base="heh-ar.init"/>
+    <component base="circumflex.arabic" xOffset="381" yOffset="122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>heh-ar.init</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

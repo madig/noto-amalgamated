@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tama-oriya.sans" format="2">
+  <advance width="534"/>
+  <note>
+tamaorya
+</note>
+  <outline>
+    <component base="taalt-oriya.below" xOffset="344"/>
+    <component base="ma-oriya"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ma-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>taalt-oriya.below</string>
+    </dict>
+  </lib>
+</glyph>

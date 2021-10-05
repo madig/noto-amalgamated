@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iMatra_tibet" format="2">
+  <unicode hex="0F72"/>
+  <anchor x="570" y="678" name="_topright"/>
+  <anchor x="295" y="1026" name="top"/>
+  <anchor x="36" y="1024" name="topleft"/>
+  <anchor x="570" y="906" name="topright"/>
+  <outline>
+    <contour>
+      <point x="540" y="710" type="curve"/>
+      <point x="545" y="733" type="line"/>
+      <point x="351" y="957"/>
+      <point x="269" y="1023"/>
+      <point x="167" y="1023" type="curve" smooth="yes"/>
+      <point x="74" y="1023"/>
+      <point x="44" y="959"/>
+      <point x="44" y="908" type="curve" smooth="yes"/>
+      <point x="44" y="848"/>
+      <point x="80" y="813"/>
+      <point x="137" y="813" type="curve" smooth="yes"/>
+      <point x="170" y="813"/>
+      <point x="200" y="823"/>
+      <point x="219" y="844" type="curve"/>
+      <point x="219" y="866" type="line"/>
+      <point x="200" y="850"/>
+      <point x="173" y="839"/>
+      <point x="141" y="839" type="curve" smooth="yes"/>
+      <point x="95" y="839"/>
+      <point x="65" y="866"/>
+      <point x="65" y="911" type="curve" smooth="yes"/>
+      <point x="65" y="964"/>
+      <point x="100" y="997"/>
+      <point x="163" y="997" type="curve" smooth="yes"/>
+      <point x="257" y="997"/>
+      <point x="332" y="943"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>575</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

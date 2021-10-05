@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meemStopabove-ar" format="2">
+  <unicode hex="06E2"/>
+  <note>
+uni06E2
+</note>
+  <anchor x="0" y="917" name="_top"/>
+  <anchor x="0" y="921" name="_top2"/>
+  <anchor x="2" y="1269" name="top"/>
+  <outline>
+    <contour>
+      <point x="-106" y="1035" type="curve" smooth="yes"/>
+      <point x="-106" y="930" type="line"/>
+      <point x="-73" y="930" type="line"/>
+      <point x="-73" y="1029" type="line" smooth="yes"/>
+      <point x="-73" y="1048"/>
+      <point x="-63" y="1058"/>
+      <point x="-44" y="1058" type="curve" smooth="yes"/>
+      <point x="10" y="1058" type="line" smooth="yes"/>
+      <point x="65" y="1058"/>
+      <point x="101" y="1097"/>
+      <point x="101" y="1160" type="curve" smooth="yes"/>
+      <point x="101" y="1215"/>
+      <point x="67" y="1248"/>
+      <point x="18" y="1248" type="curve" smooth="yes"/>
+      <point x="-10" y="1248"/>
+      <point x="-34" y="1239"/>
+      <point x="-55" y="1222" type="curve"/>
+      <point x="-65" y="1202"/>
+      <point x="-70" y="1181"/>
+      <point x="-70" y="1158" type="curve" smooth="yes"/>
+      <point x="-70" y="1136"/>
+      <point x="-65" y="1113"/>
+      <point x="-54" y="1090" type="curve"/>
+      <point x="-87" y="1090"/>
+      <point x="-106" y="1070"/>
+    </contour>
+    <contour>
+      <point x="-34" y="1165" type="curve" smooth="yes"/>
+      <point x="-34" y="1180"/>
+      <point x="-32" y="1192"/>
+      <point x="-29" y="1201" type="curve"/>
+      <point x="-15" y="1212"/>
+      <point x="1" y="1218"/>
+      <point x="18" y="1218" type="curve" smooth="yes"/>
+      <point x="43" y="1218"/>
+      <point x="65" y="1195"/>
+      <point x="65" y="1160" type="curve" smooth="yes"/>
+      <point x="65" y="1120"/>
+      <point x="50" y="1090"/>
+      <point x="10" y="1090" type="curve" smooth="yes"/>
+      <point x="-19" y="1090" type="line"/>
+      <point x="-29" y="1115"/>
+      <point x="-34" y="1140"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHB[ ]	/* 8 values pushed */
+21 8 25 25 3 31 15 3 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MDRP[11100]	/* MoveDirectRelPt */
+MDRP[01101]	/* MoveDirectRelPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+SHP[1]	/* ShiftPointByLastPoint */
+MDRP[01101]	/* MoveDirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

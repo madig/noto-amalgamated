@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etadasiavaria.display" format="2">
+  <advance width="1222"/>
+  <unicode hex="1F2B"/>
+  <anchor x="765" y="0" name="bottom"/>
+  <anchor x="917" y="714" name="top"/>
+  <outline>
+    <component base="dasiavaria"/>
+    <component base="H" xOffset="384"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alefWavyhamzabelow-ar" format="2">
+  <advance width="237"/>
+  <unicode hex="0673"/>
+  <note>
+uni0673
+</note>
+  <anchor x="123" y="-298" name="bottom"/>
+  <anchor x="130" y="837" name="top"/>
+  <outline>
+    <component base="alef-ar" xOffset="8"/>
+    <component base="wavyhamza_below" xOffset="148" yOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>alef-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>wavyhamza_below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

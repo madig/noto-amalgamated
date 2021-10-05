@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hryvnia.serif" format="2">
+  <advance width="508"/>
+  <unicode hex="20B4"/>
+  <outline>
+    <contour>
+      <point x="19" y="270" type="line"/>
+      <point x="506" y="270" type="line"/>
+      <point x="518" y="327" type="line"/>
+      <point x="31" y="327" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="403" type="line"/>
+      <point x="532" y="403" type="line"/>
+      <point x="544" y="459" type="line"/>
+      <point x="57" y="459" type="line"/>
+    </contour>
+    <component base="Tonetwo" xOffset="16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Tonetwo</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphainverted-latin.serif" format="2">
+  <advance width="675"/>
+  <unicode hex="AB64"/>
+  <anchor x="338" y="-13" name="bottom"/>
+  <anchor x="338" y="546" name="top"/>
+  <anchor x="661" y="546" name="topright"/>
+  <outline>
+    <component base="alpha-latin" yScale="-1" yOffset="536"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aogonek.loclNAV.serif" format="2">
+  <advance width="454"/>
+  <anchor x="227" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="238" y="-232" type="curve" smooth="yes"/>
+      <point x="257" y="-232"/>
+      <point x="283" y="-228"/>
+      <point x="299" y="-219" type="curve"/>
+      <point x="299" y="-173" type="line"/>
+      <point x="280" y="-182"/>
+      <point x="265" y="-185"/>
+      <point x="249" y="-185" type="curve" smooth="yes"/>
+      <point x="217" y="-185"/>
+      <point x="197" y="-166"/>
+      <point x="197" y="-123" type="curve" smooth="yes"/>
+      <point x="197" y="-45"/>
+      <point x="234" y="10"/>
+      <point x="274" y="70" type="curve"/>
+      <point x="259" y="70" type="line"/>
+      <point x="215" y="28"/>
+      <point x="136" y="-48"/>
+      <point x="136" y="-130" type="curve" smooth="yes"/>
+      <point x="136" y="-202"/>
+      <point x="175" y="-232"/>
+    </contour>
+    <component base="a"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

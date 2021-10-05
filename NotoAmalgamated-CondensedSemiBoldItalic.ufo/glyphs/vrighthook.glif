@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vrighthook" format="2">
+  <advance width="402"/>
+  <unicode hex="2C71"/>
+  <anchor x="145" y="0" name="bottom"/>
+  <anchor x="257" y="530" name="top"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="388" y="408" type="line" smooth="yes"/>
+      <point x="405" y="444"/>
+      <point x="415" y="453"/>
+      <point x="431" y="453" type="curve" smooth="yes"/>
+      <point x="441" y="453"/>
+      <point x="450" y="450"/>
+      <point x="458" y="445" type="curve"/>
+      <point x="481" y="544" type="line"/>
+      <point x="468" y="550"/>
+      <point x="446" y="555"/>
+      <point x="421" y="555" type="curve" smooth="yes"/>
+      <point x="361" y="555"/>
+      <point x="320" y="529"/>
+      <point x="290" y="458" type="curve" smooth="yes"/>
+      <point x="204" y="252" type="line" smooth="yes"/>
+      <point x="195" y="228"/>
+      <point x="184" y="202"/>
+      <point x="176" y="176" type="curve"/>
+      <point x="173" y="176" type="line"/>
+      <point x="177" y="208"/>
+      <point x="178" y="256"/>
+      <point x="178" y="289" type="curve"/>
+      <point x="180" y="545" type="line"/>
+      <point x="60" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

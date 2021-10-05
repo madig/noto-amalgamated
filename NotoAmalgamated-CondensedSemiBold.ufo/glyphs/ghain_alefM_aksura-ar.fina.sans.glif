@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghain_alefMaksura-ar.fina.sans" format="2">
+  <advance width="1166"/>
+  <unicode hex="FD15"/>
+  <anchor x="641" y="0" name="caret_1"/>
+  <outline>
+    <component base="ghain-ar.medi" xOffset="673"/>
+    <component base="alefMaksura-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ghain-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

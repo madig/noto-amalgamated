@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonDotbelow-ar" format="2">
+  <advance width="583"/>
+  <unicode hex="06B9"/>
+  <note>
+uni06B9
+</note>
+  <anchor x="280" y="-448" name="bottom"/>
+  <anchor x="287" y="590" name="top"/>
+  <outline>
+    <component base="noonghunna-ar"/>
+    <component base="onedot.above" xOffset="302" yOffset="-105"/>
+    <component base="onedot.below" xOffset="281" yOffset="-240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>noonghunna-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>onedot.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

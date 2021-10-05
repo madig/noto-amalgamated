@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tthaorya" format="2">
+  <advance width="742"/>
+  <unicode hex="0B20"/>
+  <anchor x="371" y="0" name="b.tasubscriptorya"/>
+  <anchor x="503" y="0" name="b.uvowelsignorya"/>
+  <anchor x="534" y="657" name="t.candrabinduorya"/>
+  <anchor x="371" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="36" y="320" type="curve" smooth="yes"/>
+      <point x="36" y="132"/>
+      <point x="177" y="-10"/>
+      <point x="364" y="-10" type="curve" smooth="yes"/>
+      <point x="557" y="-10"/>
+      <point x="706" y="140"/>
+      <point x="706" y="334" type="curve" smooth="yes"/>
+      <point x="706" y="522"/>
+      <point x="565" y="664"/>
+      <point x="378" y="664" type="curve" smooth="yes"/>
+      <point x="185" y="664"/>
+      <point x="36" y="514"/>
+    </contour>
+    <contour>
+      <point x="160" y="351" type="curve" smooth="yes"/>
+      <point x="160" y="477"/>
+      <point x="237" y="562"/>
+      <point x="352" y="562" type="curve" smooth="yes"/>
+      <point x="480" y="562"/>
+      <point x="582" y="447"/>
+      <point x="582" y="304" type="curve" smooth="yes"/>
+      <point x="582" y="178"/>
+      <point x="505" y="93"/>
+      <point x="391" y="93" type="curve" smooth="yes"/>
+      <point x="262" y="93"/>
+      <point x="160" y="206"/>
+    </contour>
+  </outline>
+</glyph>

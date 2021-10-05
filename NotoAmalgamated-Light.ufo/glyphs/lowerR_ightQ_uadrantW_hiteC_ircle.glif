@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowerRightQuadrantWhiteCircle" format="2">
+  <advance width="600"/>
+  <unicode hex="25F6"/>
+  <outline>
+    <contour>
+      <point x="301" y="79" type="curve" smooth="yes"/>
+      <point x="418" y="79"/>
+      <point x="520" y="181"/>
+      <point x="520" y="300" type="curve" smooth="yes"/>
+      <point x="520" y="420"/>
+      <point x="420" y="520"/>
+      <point x="301" y="520" type="curve" smooth="yes"/>
+      <point x="182" y="520"/>
+      <point x="80" y="417"/>
+      <point x="80" y="300" type="curve" smooth="yes"/>
+      <point x="80" y="184"/>
+      <point x="181" y="79"/>
+    </contour>
+    <contour>
+      <point x="286" y="110" type="line"/>
+      <point x="189" y="118"/>
+      <point x="110" y="204"/>
+      <point x="110" y="300" type="curve" smooth="yes"/>
+      <point x="110" y="409"/>
+      <point x="197" y="490"/>
+      <point x="301" y="490" type="curve" smooth="yes"/>
+      <point x="403" y="490"/>
+      <point x="483" y="412"/>
+      <point x="490" y="315" type="curve"/>
+      <point x="286" y="315" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="110" type="curve"/>
+      <point x="316" y="286" type="line"/>
+      <point x="490" y="286" type="line"/>
+      <point x="483" y="194"/>
+      <point x="407" y="117"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+    </dict>
+  </lib>
+</glyph>

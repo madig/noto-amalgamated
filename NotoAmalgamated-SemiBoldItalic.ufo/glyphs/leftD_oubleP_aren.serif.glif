@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftDoubleParen.serif" format="2">
+  <advance width="684"/>
+  <unicode hex="2E28"/>
+  <outline>
+    <contour>
+      <point x="554" y="-139" type="curve"/>
+      <point x="567" y="-75" type="line"/>
+      <point x="502" y="-28"/>
+      <point x="480" y="57"/>
+      <point x="480" y="139" type="curve" smooth="yes"/>
+      <point x="480" y="380"/>
+      <point x="556" y="607"/>
+      <point x="735" y="709" type="curve"/>
+      <point x="745" y="772" type="line"/>
+      <point x="462" y="706"/>
+      <point x="326" y="434"/>
+      <point x="326" y="186" type="curve" smooth="yes"/>
+      <point x="326" y="42"/>
+      <point x="393" y="-83"/>
+    </contour>
+    <contour>
+      <point x="270" y="-139" type="curve"/>
+      <point x="283" y="-75" type="line"/>
+      <point x="218" y="-28"/>
+      <point x="196" y="57"/>
+      <point x="196" y="139" type="curve" smooth="yes"/>
+      <point x="196" y="363"/>
+      <point x="272" y="607"/>
+      <point x="451" y="709" type="curve"/>
+      <point x="461" y="772" type="line"/>
+      <point x="178" y="706"/>
+      <point x="42" y="434"/>
+      <point x="42" y="186" type="curve" smooth="yes"/>
+      <point x="42" y="42"/>
+      <point x="109" y="-83"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>parenleft</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Parenthesis</string>
+    </dict>
+  </lib>
+</glyph>

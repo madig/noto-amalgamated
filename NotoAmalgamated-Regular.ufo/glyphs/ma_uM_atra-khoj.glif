@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ma_uMatra-khoj" format="2">
+  <advance width="828"/>
+  <note>
+MU
+</note>
+  <anchor x="550" y="-89" name="bottom"/>
+  <anchor x="469" y="536" name="nukta"/>
+  <anchor x="742" y="541" name="top"/>
+  <outline>
+    <contour>
+      <point x="421" y="-114" type="curve" smooth="yes"/>
+      <point x="633" y="-114"/>
+      <point x="763" y="72"/>
+      <point x="763" y="301" type="curve" smooth="yes"/>
+      <point x="763" y="461"/>
+      <point x="699" y="551"/>
+      <point x="610" y="551" type="curve" smooth="yes"/>
+      <point x="568" y="551"/>
+      <point x="516" y="531"/>
+      <point x="389" y="450" type="curve" smooth="yes"/>
+      <point x="254" y="364"/>
+      <point x="189" y="308"/>
+      <point x="189" y="234" type="curve" smooth="yes"/>
+      <point x="189" y="154"/>
+      <point x="265" y="71"/>
+      <point x="350" y="71" type="curve" smooth="yes"/>
+      <point x="423" y="71"/>
+      <point x="469" y="132"/>
+      <point x="469" y="200" type="curve" smooth="yes"/>
+      <point x="469" y="250"/>
+      <point x="443" y="297"/>
+      <point x="390" y="384" type="curve"/>
+      <point x="353" y="359" type="line"/>
+      <point x="376" y="322"/>
+      <point x="395" y="292"/>
+      <point x="395" y="248" type="curve" smooth="yes"/>
+      <point x="395" y="188"/>
+      <point x="360" y="137"/>
+      <point x="318" y="137" type="curve" smooth="yes"/>
+      <point x="287" y="137"/>
+      <point x="265" y="164"/>
+      <point x="265" y="195" type="curve" smooth="yes"/>
+      <point x="265" y="243"/>
+      <point x="318" y="288"/>
+      <point x="444" y="368" type="curve" smooth="yes"/>
+      <point x="575" y="451"/>
+      <point x="624" y="469"/>
+      <point x="650" y="469" type="curve" smooth="yes"/>
+      <point x="682" y="469"/>
+      <point x="699" y="443"/>
+      <point x="699" y="361" type="curve" smooth="yes"/>
+      <point x="699" y="145"/>
+      <point x="583" y="-31"/>
+      <point x="384" y="-31" type="curve" smooth="yes"/>
+      <point x="262" y="-31"/>
+      <point x="162" y="35"/>
+      <point x="84" y="130" type="curve"/>
+      <point x="78" y="128" type="line"/>
+      <point x="72" y="73" type="line"/>
+      <point x="148" y="-26"/>
+      <point x="275" y="-114"/>
+    </contour>
+    <contour>
+      <point x="336" y="382" type="curve"/>
+      <point x="371" y="407" type="line"/>
+      <point x="314" y="499"/>
+      <point x="280" y="536"/>
+      <point x="212" y="536" type="curve" smooth="yes"/>
+      <point x="76" y="536" type="line" smooth="yes"/>
+      <point x="68" y="536"/>
+      <point x="62" y="538"/>
+      <point x="58" y="549" type="curve" smooth="yes"/>
+      <point x="50" y="573" type="line"/>
+      <point x="16" y="573" type="line"/>
+      <point x="48" y="466" type="line" smooth="yes"/>
+      <point x="52" y="451"/>
+      <point x="59" y="449"/>
+      <point x="73" y="449" type="curve" smooth="yes"/>
+      <point x="244" y="449" type="line" smooth="yes"/>
+      <point x="291" y="449"/>
+      <point x="304" y="435"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ma-khoj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

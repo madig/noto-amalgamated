@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccedilla.sc.display" format="2">
+  <advance width="485"/>
+  <anchor x="309" y="-240" name="bottom"/>
+  <anchor x="312" y="572" name="top"/>
+  <outline>
+    <component base="c.sc"/>
+    <component base="cedilla" xOffset="198"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

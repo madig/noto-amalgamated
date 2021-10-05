@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotapsilioxia.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="1F3C"/>
+  <anchor x="425" y="0" name="bottom"/>
+  <anchor x="425" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="286" y="0" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="566" y="125" type="line"/>
+      <point x="510" y="141" type="line"/>
+      <point x="510" y="573" type="line"/>
+      <point x="566" y="589" type="line"/>
+      <point x="566" y="714" type="line"/>
+      <point x="286" y="714" type="line"/>
+      <point x="286" y="589" type="line"/>
+      <point x="341" y="573" type="line"/>
+      <point x="341" y="141" type="line"/>
+      <point x="286" y="125" type="line"/>
+    </contour>
+    <component base="psilioxia" xScale="0.866" xOffset="-132" yOffset="-53"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>psilioxia</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

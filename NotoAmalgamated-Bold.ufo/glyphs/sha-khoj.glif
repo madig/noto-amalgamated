@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-khoj" format="2">
+  <advance width="975"/>
+  <anchor x="794" y="20" name="bottom"/>
+  <anchor x="610" y="919" name="nukta"/>
+  <anchor x="1034" y="655" name="top"/>
+  <outline>
+    <component base="sa-khoj"/>
+    <component base="Nukta-khoj" xOffset="613" yOffset="-63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

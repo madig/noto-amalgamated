@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ttaorya" format="2">
+  <advance width="677"/>
+  <unicode hex="0B1F"/>
+  <anchor x="366" y="0" name="b.tasubscriptorya"/>
+  <anchor x="401" y="0" name="b.uvowelsignorya"/>
+  <anchor x="526" y="657" name="t.candrabinduorya"/>
+  <anchor x="346" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="526" y="347" type="line"/>
+      <point x="533" y="340" type="line"/>
+      <point x="646" y="370" type="line"/>
+      <point x="646" y="663" type="line"/>
+      <point x="639" y="670" type="line"/>
+      <point x="526" y="640" type="line"/>
+    </contour>
+    <component base="_part.vo" xOffset="13"/>
+    <component base="_part.g" xOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+    </dict>
+  </lib>
+</glyph>

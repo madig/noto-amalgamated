@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mmiddletilde" format="2">
+  <advance width="661"/>
+  <unicode hex="1D6F"/>
+  <outline>
+    <contour>
+      <point x="588" y="169" type="curve" smooth="yes"/>
+      <point x="699" y="169"/>
+      <point x="774" y="237"/>
+      <point x="787" y="352" type="curve"/>
+      <point x="717" y="352" type="line"/>
+      <point x="711" y="285"/>
+      <point x="672" y="252"/>
+      <point x="602" y="252" type="curve" smooth="yes"/>
+      <point x="439" y="252"/>
+      <point x="332" y="348"/>
+      <point x="148" y="348" type="curve" smooth="yes"/>
+      <point x="39" y="348"/>
+      <point x="-38" y="281"/>
+      <point x="-51" y="165" type="curve"/>
+      <point x="18" y="165" type="line"/>
+      <point x="24" y="233"/>
+      <point x="65" y="266"/>
+      <point x="132" y="266" type="curve" smooth="yes"/>
+      <point x="291" y="266"/>
+      <point x="409" y="169"/>
+    </contour>
+    <component base="m" xOffset="33"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>m</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

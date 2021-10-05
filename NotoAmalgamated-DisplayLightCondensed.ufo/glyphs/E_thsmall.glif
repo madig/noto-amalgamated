@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ethsmall" format="2">
+  <advance width="372"/>
+  <unicode hex="1D06"/>
+  <anchor x="186" y="0" name="bottom"/>
+  <anchor x="186" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="165" y="527" type="curve" smooth="yes"/>
+      <point x="75" y="527" type="line"/>
+      <point x="75" y="293" type="line"/>
+      <point x="15" y="293" type="line"/>
+      <point x="15" y="268" type="line"/>
+      <point x="75" y="268" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="156" y="0" type="line" smooth="yes"/>
+      <point x="270" y="0"/>
+      <point x="327" y="93"/>
+      <point x="327" y="267" type="curve" smooth="yes"/>
+      <point x="327" y="441"/>
+      <point x="266" y="527"/>
+    </contour>
+    <contour>
+      <point x="158" y="502" type="line"/>
+      <point x="251" y="502"/>
+      <point x="299" y="423"/>
+      <point x="299" y="267" type="curve" smooth="yes"/>
+      <point x="299" y="110"/>
+      <point x="250" y="25"/>
+      <point x="154" y="25" type="curve" smooth="yes"/>
+      <point x="101" y="25" type="line"/>
+      <point x="101" y="268" type="line"/>
+      <point x="192" y="268" type="line"/>
+      <point x="192" y="293" type="line"/>
+      <point x="101" y="293" type="line"/>
+      <point x="101" y="502" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

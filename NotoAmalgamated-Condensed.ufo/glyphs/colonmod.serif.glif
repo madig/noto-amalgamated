@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonmod.serif" format="2">
+  <advance width="230"/>
+  <unicode hex="A789"/>
+  <outline>
+    <contour>
+      <point x="115" y="408" type="curve" smooth="yes"/>
+      <point x="144" y="408"/>
+      <point x="169" y="424"/>
+      <point x="169" y="474" type="curve" smooth="yes"/>
+      <point x="169" y="525"/>
+      <point x="144" y="540"/>
+      <point x="115" y="540" type="curve" smooth="yes"/>
+      <point x="85" y="540"/>
+      <point x="61" y="525"/>
+      <point x="61" y="474" type="curve" smooth="yes"/>
+      <point x="61" y="424"/>
+      <point x="85" y="408"/>
+    </contour>
+    <contour>
+      <point x="115" y="93" type="curve" smooth="yes"/>
+      <point x="144" y="93"/>
+      <point x="169" y="110"/>
+      <point x="169" y="160" type="curve" smooth="yes"/>
+      <point x="169" y="210"/>
+      <point x="144" y="226"/>
+      <point x="115" y="226" type="curve" smooth="yes"/>
+      <point x="85" y="226"/>
+      <point x="61" y="210"/>
+      <point x="61" y="160" type="curve" smooth="yes"/>
+      <point x="61" y="110"/>
+      <point x="85" y="93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

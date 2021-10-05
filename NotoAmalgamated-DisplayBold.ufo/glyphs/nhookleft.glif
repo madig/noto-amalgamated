@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nhookleft" format="2">
+  <advance width="662"/>
+  <unicode hex="0272"/>
+  <anchor x="331" y="-240" name="bottom"/>
+  <anchor x="331" y="553" name="top"/>
+  <anchor x="603" y="553" name="topright"/>
+  <outline>
+    <contour>
+      <point x="406" y="563" type="curve"/>
+      <point x="355" y="563"/>
+      <point x="291" y="541"/>
+      <point x="258" y="484" type="curve"/>
+      <point x="248" y="484" type="line"/>
+      <point x="222" y="553" type="line"/>
+      <point x="66" y="553" type="line"/>
+      <point x="66" y="-49" type="line" smooth="yes"/>
+      <point x="66" y="-70"/>
+      <point x="52" y="-87"/>
+      <point x="32" y="-87" type="curve"/>
+      <point x="13" y="-87"/>
+      <point x="3" y="-83"/>
+      <point x="-15" y="-77" type="curve"/>
+      <point x="-15" y="-222" type="line"/>
+      <point x="7" y="-236"/>
+      <point x="47" y="-240"/>
+      <point x="83" y="-240" type="curve"/>
+      <point x="232" y="-240"/>
+      <point x="272" y="-149"/>
+      <point x="272" y="-48" type="curve"/>
+      <point x="272" y="241" type="line" smooth="yes"/>
+      <point x="272" y="347"/>
+      <point x="283" y="410"/>
+      <point x="340" y="410" type="curve"/>
+      <point x="376" y="410"/>
+      <point x="389" y="373"/>
+      <point x="389" y="308" type="curve"/>
+      <point x="389" y="0" type="line"/>
+      <point x="597" y="0" type="line"/>
+      <point x="597" y="360" type="line" smooth="yes"/>
+      <point x="597" y="505"/>
+      <point x="513" y="563"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

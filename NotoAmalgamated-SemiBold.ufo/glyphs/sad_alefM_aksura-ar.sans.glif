@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sad_alefMaksura-ar.sans" format="2">
+  <advance width="1774"/>
+  <unicode hex="FD05"/>
+  <anchor x="800" y="0" name="caret_1"/>
+  <outline>
+    <component base="sad-ar.init" xOffset="800"/>
+    <component base="alefMaksura-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>sad-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

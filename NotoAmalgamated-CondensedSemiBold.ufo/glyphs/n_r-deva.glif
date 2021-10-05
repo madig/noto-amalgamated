@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n_r-deva" format="2">
+  <advance width="264"/>
+  <anchor x="242" y="-78" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="144" y="-34" type="line"/>
+      <point x="306" y="131" type="line"/>
+      <point x="238" y="199" type="line"/>
+      <point x="63" y="33" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="214" type="curve" smooth="yes"/>
+      <point x="171" y="214"/>
+      <point x="184" y="236"/>
+      <point x="184" y="272" type="curve" smooth="yes"/>
+      <point x="184" y="302"/>
+      <point x="180" y="333"/>
+      <point x="176" y="349" type="curve"/>
+      <point x="170" y="325" type="line"/>
+      <point x="180" y="326"/>
+      <point x="186" y="326"/>
+      <point x="196" y="326" type="curve" smooth="yes"/>
+      <point x="242" y="326"/>
+      <point x="282" y="324"/>
+      <point x="319" y="322" type="curve"/>
+      <point x="319" y="396" type="line"/>
+      <point x="273" y="409"/>
+      <point x="179" y="424"/>
+      <point x="116" y="424" type="curve" smooth="yes"/>
+      <point x="56" y="424"/>
+      <point x="23" y="397"/>
+      <point x="23" y="350" type="curve" smooth="yes"/>
+      <point x="23" y="287"/>
+      <point x="86" y="214"/>
+    </contour>
+    <contour>
+      <point x="-12" y="533" type="line"/>
+      <point x="319" y="533" type="line"/>
+      <point x="319" y="545" type="line"/>
+      <point x="276" y="625" type="line"/>
+      <point x="-55" y="625" type="line"/>
+      <point x="-55" y="613" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n_ra-deva</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>n-deva</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

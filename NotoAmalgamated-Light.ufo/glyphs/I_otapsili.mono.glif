@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotapsili.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="1F38"/>
+  <anchor x="336" y="0" name="bottom"/>
+  <anchor x="336" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="196" y="0" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="476" y="20" type="line"/>
+      <point x="349" y="23" type="line"/>
+      <point x="349" y="690" type="line"/>
+      <point x="476" y="694" type="line"/>
+      <point x="476" y="714" type="line"/>
+      <point x="196" y="714" type="line"/>
+      <point x="196" y="694" type="line"/>
+      <point x="323" y="690" type="line"/>
+      <point x="323" y="23" type="line"/>
+      <point x="196" y="20" type="line"/>
+    </contour>
+    <component base="koronis" xOffset="-231" yOffset="-13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>koronis</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

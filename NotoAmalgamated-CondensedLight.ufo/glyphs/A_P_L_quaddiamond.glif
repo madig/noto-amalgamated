@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLquaddiamond" format="2">
+  <advance width="500"/>
+  <unicode hex="233A"/>
+  <outline>
+    <contour>
+      <point x="250" y="180" type="line"/>
+      <point x="427" y="357" type="line"/>
+      <point x="251" y="533" type="line"/>
+      <point x="74" y="356" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="213" type="line"/>
+      <point x="108" y="356" type="line"/>
+      <point x="250" y="499" type="line"/>
+      <point x="393" y="356" type="line"/>
+    </contour>
+    <component base="APLquad"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

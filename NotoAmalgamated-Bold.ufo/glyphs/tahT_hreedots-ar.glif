@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tahThreedots-ar" format="2">
+  <advance width="856"/>
+  <unicode hex="069F"/>
+  <note>
+uni069F
+</note>
+  <anchor x="428" y="-78" name="bottom"/>
+  <anchor x="494" y="890" name="top"/>
+  <outline>
+    <component base="tah-ar"/>
+    <component base="threedots.above" xOffset="500"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>tah-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

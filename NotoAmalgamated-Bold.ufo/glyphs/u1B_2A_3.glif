@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1B2A3" format="2">
+  <advance height="1000" width="850"/>
+  <unicode hex="1B2A3"/>
+  <note>
+u1B2A3
+</note>
+  <outline>
+    <contour>
+      <point x="258" y="484" type="line"/>
+      <point x="357" y="534" type="line"/>
+      <point x="319" y="612" type="line"/>
+      <point x="337.74" y="632.58"/>
+      <point x="357.74" y="656.25"/>
+      <point x="379" y="683" type="curve"/>
+      <point x="404" y="632" type="line"/>
+      <point x="499" y="688" type="line"/>
+      <point x="452" y="785" type="line"/>
+      <point x="490.93" y="846.07"/>
+      <point x="520.6" y="908.4"/>
+      <point x="541" y="972" type="curve"/>
+      <point x="438" y="1000" type="line"/>
+      <point x="426.54" y="965.8"/>
+      <point x="412.2" y="932.8"/>
+      <point x="395" y="901" type="curve"/>
+      <point x="368" y="957" type="line"/>
+      <point x="268" y="909" type="line"/>
+      <point x="326" y="791" type="line"/>
+      <point x="306.73" y="765.36"/>
+      <point x="287.07" y="741.03"/>
+      <point x="267" y="718" type="curve"/>
+      <point x="239" y="774" type="line"/>
+      <point x="139" y="725" type="line"/>
+      <point x="185" y="632" type="line"/>
+      <point x="155.1" y="602.18"/>
+      <point x="117.77" y="568.85"/>
+      <point x="73" y="532" type="curve"/>
+      <point x="138" y="446" type="line"/>
+      <point x="178.37" y="478.08"/>
+      <point x="211.03" y="505.74"/>
+      <point x="236" y="529" type="curve"/>
+    </contour>
+    <contour>
+      <point x="767" y="546" type="curve"/>
+      <point x="681" y="609" type="line"/>
+      <point x="652.98" y="570.8"/>
+      <point x="629.98" y="540.8"/>
+      <point x="612" y="519" type="curve"/>
+      <point x="551" y="664" type="line"/>
+      <point x="478" y="662" type="line"/>
+      <point x="394.27" y="561.88"/>
+      <point x="294.6" y="465.88"/>
+      <point x="179" y="374" type="curve"/>
+      <point x="265" y="169" type="line"/>
+      <point x="243.19" y="151.2"/>
+      <point x="208.85" y="125.53"/>
+      <point x="162" y="92" type="curve"/>
+      <point x="220" y="1" type="line"/>
+      <point x="281.29" y="43.96"/>
+      <point x="338.96" y="88.96"/>
+      <point x="393" y="136" type="curve"/>
+      <point x="380.09" y="79.74"/>
+      <point x="344.76" y="15.41"/>
+      <point x="287" y="-57" type="curve"/>
+      <point x="372" y="-120" type="line"/>
+      <point x="386.94" y="-100.91"/>
+      <point x="400.78" y="-82.03"/>
+      <point x="413.52" y="-63.35" type="curve" smooth="yes"/>
+      <point x="483.85" y="40.35"/>
+      <point x="515.34" y="142.8"/>
+      <point x="508" y="244" type="curve"/>
+      <point x="595.41" y="331.51"/>
+      <point x="681.74" y="432.18"/>
+    </contour>
+    <contour>
+      <point x="490" y="518" type="line"/>
+      <point x="530" y="422" type="line"/>
+      <point x="520.17" y="410.89"/>
+      <point x="504.5" y="393.89"/>
+      <point x="483" y="371" type="curve"/>
+      <point x="476.05" y="396.25"/>
+      <point x="463.72" y="430.25"/>
+      <point x="446" y="473" type="curve"/>
+    </contour>
+    <contour>
+      <point x="355" y="245" type="line"/>
+      <point x="311" y="348" type="line"/>
+      <point x="331.68" y="366.09"/>
+      <point x="347.68" y="380.43"/>
+      <point x="359" y="391" type="curve"/>
+      <point x="375.07" y="349.12"/>
+      <point x="386.4" y="312.45"/>
+      <point x="393" y="281" type="curve"/>
+    </contour>
+    <contour>
+      <point x="596" y="290" type="line"/>
+      <point x="530" y="200" type="line"/>
+      <point x="708" y="59" type="line"/>
+      <point x="777" y="151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>1</integer>
+            <integer>21</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

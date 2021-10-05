@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uVowel-lao" format="2">
+  <unicode hex="0EB8"/>
+  <anchor x="168" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="134" y="-317" type="line"/>
+      <point x="273" y="-317" type="line"/>
+      <point x="273" y="-154" type="line" smooth="yes"/>
+      <point x="273" y="-90"/>
+      <point x="231" y="-55"/>
+      <point x="157" y="-55" type="curve" smooth="yes"/>
+      <point x="91" y="-55"/>
+      <point x="50" y="-88"/>
+      <point x="50" y="-143" type="curve" smooth="yes"/>
+      <point x="50" y="-198"/>
+      <point x="90" y="-232"/>
+      <point x="157" y="-232" type="curve" smooth="yes"/>
+      <point x="224" y="-232"/>
+      <point x="263" y="-201"/>
+      <point x="263" y="-147" type="curve"/>
+      <point x="249" y="-147" type="line"/>
+      <point x="249" y="-181"/>
+      <point x="191" y="-198"/>
+      <point x="134" y="-198" type="curve"/>
+    </contour>
+    <contour>
+      <point x="151" y="-176" type="curve" smooth="yes"/>
+      <point x="129" y="-176"/>
+      <point x="115" y="-163"/>
+      <point x="115" y="-140" type="curve" smooth="yes"/>
+      <point x="115" y="-118"/>
+      <point x="129" y="-104"/>
+      <point x="151" y="-104" type="curve" smooth="yes"/>
+      <point x="174" y="-104"/>
+      <point x="187" y="-118"/>
+      <point x="187" y="-140" type="curve" smooth="yes"/>
+      <point x="187" y="-163"/>
+      <point x="174" y="-176"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>323</integer>
+    </dict>
+  </lib>
+</glyph>

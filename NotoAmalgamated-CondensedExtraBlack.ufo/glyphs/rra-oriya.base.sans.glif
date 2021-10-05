@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rra-oriya.base.sans" format="2">
+  <advance width="635"/>
+  <outline>
+    <component base="dda-oriya.base"/>
+    <component base="nukta-oriya" xOffset="-5" yOffset="79"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dda-oriya.base</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dda-oriya.base</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamzabelow_kasra-ar" format="2">
+  <anchor x="106" y="0" name="_bottom"/>
+  <anchor x="130" y="-416" name="bottom"/>
+  <outline>
+    <component base="hamzabelow-ar"/>
+    <component base="kasra-ar" xOffset="-15" yOffset="-269"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>234</integer>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

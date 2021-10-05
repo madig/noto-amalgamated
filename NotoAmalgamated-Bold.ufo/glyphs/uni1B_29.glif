@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B29" format="2">
+  <advance width="1307"/>
+  <unicode hex="1B29"/>
+  <outline>
+    <contour>
+      <point x="359" y="327" type="curve" smooth="yes"/>
+      <point x="359" y="233"/>
+      <point x="392" y="157"/>
+      <point x="448" y="108" type="curve"/>
+      <point x="470" y="128" type="line"/>
+      <point x="389" y="128" type="line"/>
+      <point x="367" y="67" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="587" y="88" type="line"/>
+      <point x="533" y="148"/>
+      <point x="486" y="227"/>
+      <point x="486" y="316" type="curve" smooth="yes"/>
+      <point x="486" y="379"/>
+      <point x="509" y="418"/>
+      <point x="552" y="418" type="curve" smooth="yes"/>
+      <point x="590" y="418"/>
+      <point x="614" y="387"/>
+      <point x="621" y="311" type="curve"/>
+      <point x="715" y="311" type="line"/>
+      <point x="722" y="389"/>
+      <point x="751" y="418"/>
+      <point x="793" y="418" type="curve" smooth="yes"/>
+      <point x="851" y="418"/>
+      <point x="878" y="365"/>
+      <point x="878" y="210" type="curve"/>
+      <point x="939" y="303" type="line"/>
+      <point x="939" y="468"/>
+      <point x="897" y="546"/>
+      <point x="793" y="546" type="curve" smooth="yes"/>
+      <point x="736" y="546"/>
+      <point x="696" y="521"/>
+      <point x="670" y="478" type="curve"/>
+      <point x="641" y="524"/>
+      <point x="598" y="546"/>
+      <point x="537" y="546" type="curve" smooth="yes"/>
+      <point x="412" y="546"/>
+      <point x="359" y="449"/>
+    </contour>
+    <component base="uni1B15.part" xOffset="124"/>
+    <component base="Nga.01.part" xOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1B15.part</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Nga.01.part</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

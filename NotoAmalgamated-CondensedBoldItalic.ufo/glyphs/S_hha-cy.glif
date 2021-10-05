@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shha-cy" format="2">
+  <advance width="526"/>
+  <unicode hex="04BA"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="358" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="-5" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="230" y="320" type="line"/>
+      <point x="247" y="331"/>
+      <point x="278" y="346"/>
+      <point x="300" y="346" type="curve" smooth="yes"/>
+      <point x="315" y="346"/>
+      <point x="322" y="334"/>
+      <point x="322" y="307" type="curve" smooth="yes"/>
+      <point x="322" y="292"/>
+      <point x="317" y="263"/>
+      <point x="314" y="249" type="curve" smooth="yes"/>
+      <point x="261" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="486" y="274" type="line" smooth="yes"/>
+      <point x="493" y="307"/>
+      <point x="499" y="344"/>
+      <point x="499" y="365" type="curve" smooth="yes"/>
+      <point x="499" y="441"/>
+      <point x="463" y="493"/>
+      <point x="384" y="493" type="curve" smooth="yes"/>
+      <point x="340" y="493"/>
+      <point x="297" y="476"/>
+      <point x="259" y="459" type="curve"/>
+      <point x="313" y="714" type="line"/>
+      <point x="146" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ddaprehalfguru" format="2">
+  <advance width="535"/>
+  <note>
+ddaprehalfguru
+</note>
+  <outline>
+    <component base="ddaguru"/>
+    <component base="halantguru" xOffset="392"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>halantguru</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>ddaguru</string>
+    </dict>
+  </lib>
+</glyph>

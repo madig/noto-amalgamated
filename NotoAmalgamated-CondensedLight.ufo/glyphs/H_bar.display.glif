@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar.display" format="2">
+  <advance width="476"/>
+  <unicode hex="0126"/>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="238" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="102" y="363" type="line"/>
+      <point x="370" y="363" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="397" y="546" type="line"/>
+      <point x="476" y="546" type="line"/>
+      <point x="476" y="571" type="line"/>
+      <point x="397" y="571" type="line"/>
+      <point x="397" y="714" type="line"/>
+      <point x="370" y="714" type="line"/>
+      <point x="370" y="571" type="line"/>
+      <point x="102" y="571" type="line"/>
+      <point x="102" y="714" type="line"/>
+      <point x="76" y="714" type="line"/>
+      <point x="76" y="571" type="line"/>
+      <point x="0" y="571" type="line"/>
+      <point x="0" y="546" type="line"/>
+      <point x="76" y="546" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="388" type="line"/>
+      <point x="102" y="546" type="line"/>
+      <point x="370" y="546" type="line"/>
+      <point x="370" y="388" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

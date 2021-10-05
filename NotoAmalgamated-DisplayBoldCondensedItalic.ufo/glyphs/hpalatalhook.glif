@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hpalatalhook" format="2">
+  <advance width="522"/>
+  <unicode hex="A795"/>
+  <anchor x="141" y="-230" name="bottom"/>
+  <anchor x="351" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="291" y="-230" type="curve" smooth="yes"/>
+      <point x="371" y="-230"/>
+      <point x="408" y="-192"/>
+      <point x="427" y="-102" type="curve" smooth="yes"/>
+      <point x="477" y="138" type="line"/>
+      <point x="415" y="138" type="line"/>
+      <point x="298" y="39" type="line"/>
+      <point x="281" y="-49" type="line" smooth="yes"/>
+      <point x="275" y="-81"/>
+      <point x="263" y="-90"/>
+      <point x="245" y="-90" type="curve" smooth="yes"/>
+      <point x="233" y="-90"/>
+      <point x="221" y="-85"/>
+      <point x="216" y="-81" type="curve"/>
+      <point x="216" y="-218" type="line"/>
+      <point x="232" y="-224"/>
+      <point x="261" y="-230"/>
+    </contour>
+    <component base="h"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

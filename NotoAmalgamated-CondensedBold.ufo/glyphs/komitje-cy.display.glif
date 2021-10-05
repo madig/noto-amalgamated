@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="komitje-cy.display" format="2">
+  <advance width="607"/>
+  <unicode hex="050F"/>
+  <anchor x="304" y="0" name="bottom"/>
+  <anchor x="304" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="434" y="553" type="line"/>
+      <point x="15" y="553" type="line"/>
+      <point x="15" y="418" type="line"/>
+      <point x="144" y="418" type="line"/>
+      <point x="144" y="215" type="line" smooth="yes"/>
+      <point x="144" y="53"/>
+      <point x="205" y="-10"/>
+      <point x="352" y="-10" type="curve" smooth="yes"/>
+      <point x="499" y="-10"/>
+      <point x="561" y="68"/>
+      <point x="561" y="205" type="curve" smooth="yes"/>
+      <point x="561" y="342" type="line"/>
+      <point x="398" y="342" type="line"/>
+      <point x="398" y="209" type="line" smooth="yes"/>
+      <point x="398" y="150"/>
+      <point x="388" y="125"/>
+      <point x="353" y="125" type="curve" smooth="yes"/>
+      <point x="317" y="125"/>
+      <point x="307" y="141"/>
+      <point x="307" y="211" type="curve" smooth="yes"/>
+      <point x="307" y="418" type="line"/>
+      <point x="434" y="418" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=n</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

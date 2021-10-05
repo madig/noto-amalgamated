@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="teh-ar.init" format="2">
+  <advance width="424"/>
+  <note>
+uni062A.init
+</note>
+  <anchor x="219" y="-78" name="bottom"/>
+  <anchor x="234" y="793" name="top"/>
+  <outline>
+    <component base="beh_dotless_alt.init"/>
+    <component base="twodots.above" xOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>beh_dotless_alt.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

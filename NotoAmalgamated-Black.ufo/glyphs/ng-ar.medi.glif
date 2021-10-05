@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ng-ar.medi" format="2">
+  <advance width="683"/>
+  <note>
+uni06AD.medi
+</note>
+  <anchor x="341" y="-78" name="bottom"/>
+  <anchor x="74" y="1121" name="top"/>
+  <outline>
+    <component base="kaf-ar.medi"/>
+    <component base="threedots_alt2.above" xScale="0.98481" xyScale="-0.17365" yxScale="0.17365" yScale="0.98481" xOffset="-134" yOffset="130"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>kaf-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots_alt2.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

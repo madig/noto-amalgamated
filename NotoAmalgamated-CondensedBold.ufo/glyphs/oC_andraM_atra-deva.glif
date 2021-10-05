@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oCandraMatra-deva" format="2">
+  <advance width="227"/>
+  <unicode hex="0949"/>
+  <anchor x="182" y="20" name="bottom"/>
+  <anchor x="-32" y="-9" name="bottom_right"/>
+  <anchor x="183" y="627" name="candra"/>
+  <anchor x="183" y="627" name="top"/>
+  <anchor x="-26" y="814" name="topright"/>
+  <outline>
+    <component base="aaMatra-deva"/>
+    <component base="eCandraMatra-deva" xOffset="77"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>eCandraMatra-deva</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+      <key>com.schriftgestaltung.componentsLocked</key>
+      <array>
+        <false/>
+        <true/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

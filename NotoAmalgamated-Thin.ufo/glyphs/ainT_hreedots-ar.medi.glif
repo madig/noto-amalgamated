@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ainThreedots-ar.medi" format="2">
+  <advance width="584"/>
+  <note>
+uni06A0.medi
+</note>
+  <anchor x="292" y="-78" name="bottom"/>
+  <anchor x="296" y="782" name="top"/>
+  <outline>
+    <component base="ain-ar.medi"/>
+    <component base="threedots.above" xOffset="299" yOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ain-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

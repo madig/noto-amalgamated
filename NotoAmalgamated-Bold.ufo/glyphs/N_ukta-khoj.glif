@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nukta-khoj" format="2">
+  <unicode hex="11236"/>
+  <note>
+u11236
+</note>
+  <anchor x="0" y="622" name="_nukta"/>
+  <outline>
+    <contour>
+      <point x="-1" y="889" type="curve" smooth="yes"/>
+      <point x="42" y="889"/>
+      <point x="78" y="923"/>
+      <point x="78" y="967" type="curve" smooth="yes"/>
+      <point x="78" y="1011"/>
+      <point x="42" y="1045"/>
+      <point x="-1" y="1045" type="curve" smooth="yes"/>
+      <point x="-44" y="1045"/>
+      <point x="-78" y="1011"/>
+      <point x="-78" y="967" type="curve" smooth="yes"/>
+      <point x="-78" y="923"/>
+      <point x="-44" y="889"/>
+    </contour>
+    <contour>
+      <point x="-99" y="723" type="curve" smooth="yes"/>
+      <point x="-56" y="723"/>
+      <point x="-23" y="757"/>
+      <point x="-23" y="801" type="curve" smooth="yes"/>
+      <point x="-23" y="845"/>
+      <point x="-56" y="879"/>
+      <point x="-99" y="879" type="curve" smooth="yes"/>
+      <point x="-142" y="879"/>
+      <point x="-175" y="845"/>
+      <point x="-175" y="801" type="curve" smooth="yes"/>
+      <point x="-175" y="757"/>
+      <point x="-142" y="723"/>
+    </contour>
+    <contour>
+      <point x="99" y="723" type="curve" smooth="yes"/>
+      <point x="142" y="723"/>
+      <point x="175" y="757"/>
+      <point x="175" y="801" type="curve" smooth="yes"/>
+      <point x="175" y="845"/>
+      <point x="142" y="879"/>
+      <point x="99" y="879" type="curve" smooth="yes"/>
+      <point x="56" y="879"/>
+      <point x="23" y="845"/>
+      <point x="23" y="801" type="curve" smooth="yes"/>
+      <point x="23" y="757"/>
+      <point x="56" y="723"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

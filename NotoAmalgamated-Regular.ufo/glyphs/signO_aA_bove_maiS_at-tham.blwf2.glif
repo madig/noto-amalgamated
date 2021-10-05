@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="signOaAbove_maiSat-tham.blwf2" format="2">
+  <note>
+uni1A73uni1A62.sub1
+</note>
+  <outline>
+    <contour>
+      <point x="-336" y="836" type="line"/>
+      <point x="-196" y="929" type="line"/>
+      <point x="-224" y="977" type="line"/>
+      <point x="-366" y="885" type="line"/>
+    </contour>
+    <component base="signOaAbove-tham" xOffset="-127" yOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+51 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+23 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+33 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 3 values pushed */
+28 23 51 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

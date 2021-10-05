@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresiscaron" format="2">
+  <advance width="595"/>
+  <unicode hex="01DA"/>
+  <anchor x="200" y="0" name="bottom"/>
+  <anchor x="438" y="934" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresiscaron" xOffset="595"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

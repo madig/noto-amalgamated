@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rakar-deva" format="2">
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="13" y="-160" name="bottom"/>
+  <anchor x="-58" y="-201" name="bottom_right"/>
+  <anchor x="-27" y="-228" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="-169" y="-207" type="line"/>
+      <point x="-3" y="-73" type="line"/>
+      <point x="-54" y="-60" type="line"/>
+      <point x="110" y="-207" type="line"/>
+      <point x="157" y="-157" type="line"/>
+      <point x="-54" y="15" type="line"/>
+      <point x="-260" y="-129" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotavaria.display" format="2">
+  <advance width="378"/>
+  <unicode hex="1F76"/>
+  <anchor x="165" y="0" name="bottom"/>
+  <anchor x="286" y="797" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="varia" xOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

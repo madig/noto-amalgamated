@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="astroke.serif" format="2">
+  <advance width="626"/>
+  <unicode hex="2C65"/>
+  <anchor x="313" y="-180" name="bottom"/>
+  <anchor x="313" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="115" y="-180" type="line"/>
+      <point x="202" y="-180" type="line"/>
+      <point x="460" y="714" type="line"/>
+      <point x="376" y="714" type="line"/>
+    </contour>
+    <component base="a"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

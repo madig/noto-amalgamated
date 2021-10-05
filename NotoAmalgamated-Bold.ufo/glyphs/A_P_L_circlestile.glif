@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLcirclestile" format="2">
+  <advance width="1200"/>
+  <unicode hex="233D"/>
+  <outline>
+    <contour>
+      <point x="547" y="10" type="curve"/>
+      <point x="547" y="-80" type="line"/>
+      <point x="654" y="-80" type="line"/>
+      <point x="654" y="10" type="line"/>
+      <point x="813" y="36"/>
+      <point x="936" y="178"/>
+      <point x="936" y="342" type="curve" smooth="yes"/>
+      <point x="936" y="507"/>
+      <point x="816" y="648"/>
+      <point x="654" y="673" type="curve"/>
+      <point x="654" y="762" type="line"/>
+      <point x="547" y="762" type="line"/>
+      <point x="547" y="673" type="line"/>
+      <point x="387" y="648"/>
+      <point x="264" y="507"/>
+      <point x="264" y="342" type="curve" smooth="yes"/>
+      <point x="264" y="177"/>
+      <point x="386" y="34"/>
+    </contour>
+    <contour>
+      <point x="547" y="564" type="curve"/>
+      <point x="547" y="118" type="line"/>
+      <point x="446" y="141"/>
+      <point x="370" y="234"/>
+      <point x="370" y="342" type="curve" smooth="yes"/>
+      <point x="370" y="449"/>
+      <point x="446" y="541"/>
+    </contour>
+    <contour>
+      <point x="654" y="119" type="curve"/>
+      <point x="654" y="564" type="line"/>
+      <point x="758" y="541"/>
+      <point x="830" y="448"/>
+      <point x="830" y="342" type="curve" smooth="yes"/>
+      <point x="830" y="235"/>
+      <point x="756" y="143"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

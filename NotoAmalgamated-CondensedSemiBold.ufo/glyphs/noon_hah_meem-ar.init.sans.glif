@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noon_hah_meem-ar.init.sans" format="2">
+  <advance width="1355"/>
+  <unicode hex="FD95"/>
+  <anchor x="1096" y="0" name="caret_1"/>
+  <anchor x="564" y="0" name="caret_2"/>
+  <outline>
+    <component base="noon-ar.init" xOffset="1096"/>
+    <component base="hah-ar.medi" xOffset="564"/>
+    <component base="meem-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>noon-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>meem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

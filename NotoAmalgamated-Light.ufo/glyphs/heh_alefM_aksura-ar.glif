@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heh_alefMaksura-ar" format="2">
+  <advance width="1323"/>
+  <unicode hex="FC53"/>
+  <anchor x="756" y="0" name="caret_1"/>
+  <outline>
+    <component base="heh-ar.init" xOffset="756"/>
+    <component base="alefMaksura-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>heh-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

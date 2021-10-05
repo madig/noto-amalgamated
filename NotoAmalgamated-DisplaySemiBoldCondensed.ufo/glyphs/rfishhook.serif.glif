@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rfishhook.serif" format="2">
+  <advance width="436"/>
+  <unicode hex="027E"/>
+  <anchor x="219" y="0" name="bottom"/>
+  <anchor x="219" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="7" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="281" y="10" type="line"/>
+      <point x="256" y="10" type="line" smooth="yes"/>
+      <point x="211" y="10"/>
+      <point x="201" y="24"/>
+      <point x="201" y="81" type="curve" smooth="yes"/>
+      <point x="201" y="419" type="line" smooth="yes"/>
+      <point x="201" y="505"/>
+      <point x="216" y="539"/>
+      <point x="261" y="539" type="curve" smooth="yes"/>
+      <point x="303" y="539"/>
+      <point x="312" y="494"/>
+      <point x="312" y="369" type="curve"/>
+      <point x="373" y="369"/>
+      <point x="414" y="387"/>
+      <point x="414" y="443" type="curve" smooth="yes"/>
+      <point x="414" y="495"/>
+      <point x="378" y="549"/>
+      <point x="265" y="549" type="curve" smooth="yes"/>
+      <point x="139" y="549"/>
+      <point x="71" y="490"/>
+      <point x="71" y="337" type="curve" smooth="yes"/>
+      <point x="71" y="84" type="line" smooth="yes"/>
+      <point x="71" y="25"/>
+      <point x="60" y="10"/>
+      <point x="15" y="10" type="curve" smooth="yes"/>
+      <point x="7" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

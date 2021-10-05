@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="austral.serif" format="2">
+  <advance width="547"/>
+  <unicode hex="20B3"/>
+  <outline>
+    <contour>
+      <point x="10" y="398" type="line"/>
+      <point x="538" y="398" type="line"/>
+      <point x="538" y="408" type="line"/>
+      <point x="10" y="408" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="249" type="line"/>
+      <point x="538" y="249" type="line"/>
+      <point x="538" y="259" type="line"/>
+      <point x="10" y="259" type="line"/>
+    </contour>
+    <component base="Lambda"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

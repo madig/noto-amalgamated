@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLcommabar" format="2">
+  <advance width="500"/>
+  <unicode hex="236A"/>
+  <outline>
+    <contour>
+      <point x="152" y="35" type="curve"/>
+      <point x="241" y="35" type="line"/>
+      <point x="277" y="133"/>
+      <point x="302" y="213"/>
+      <point x="316" y="277" type="curve"/>
+      <point x="302" y="302" type="line"/>
+      <point x="199" y="302" type="line"/>
+      <point x="188" y="215"/>
+      <point x="173" y="126"/>
+    </contour>
+    <contour>
+      <point x="137" y="399" type="line"/>
+      <point x="364" y="399" type="line"/>
+      <point x="364" y="507" type="line"/>
+      <point x="137" y="507" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

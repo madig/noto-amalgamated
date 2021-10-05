@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheenThreedotsbelow-ar.fina" format="2">
+  <advance width="1561"/>
+  <note>
+uni069C.fina
+</note>
+  <anchor x="963" y="-437" name="bottom"/>
+  <anchor x="988" y="902" name="top"/>
+  <outline>
+    <component base="seen-ar.fina"/>
+    <component base="threedots.above" xOffset="965" yOffset="-42"/>
+    <component base="threedots.below" xOffset="966" yOffset="-62"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>seen-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>threedots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pamphyliandigamma" format="2">
+  <advance width="478"/>
+  <unicode hex="0377"/>
+  <outline>
+    <contour>
+      <point x="-21" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="275" y="225" type="line"/>
+      <point x="271" y="210"/>
+      <point x="265" y="185"/>
+      <point x="262" y="170" type="curve"/>
+      <point x="226" y="0" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="498" y="553" type="line"/>
+      <point x="338" y="553" type="line"/>
+      <point x="204" y="341" type="line"/>
+      <point x="208" y="354"/>
+      <point x="215" y="378"/>
+      <point x="218" y="391" type="curve"/>
+      <point x="252" y="553" type="line"/>
+      <point x="97" y="553" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|E</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=E</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

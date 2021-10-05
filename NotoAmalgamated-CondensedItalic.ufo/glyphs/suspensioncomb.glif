@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="suspensioncomb" format="2">
+  <unicode hex="1DC3"/>
+  <anchor x="66" y="529" name="_top"/>
+  <anchor x="103" y="729" name="top"/>
+  <outline>
+    <contour>
+      <point x="27" y="609" type="curve" smooth="yes"/>
+      <point x="81" y="609"/>
+      <point x="140" y="667"/>
+      <point x="212" y="667" type="curve"/>
+      <point x="216" y="667" type="line"/>
+      <point x="229" y="726" type="line"/>
+      <point x="223" y="726" type="line" smooth="yes"/>
+      <point x="136" y="726"/>
+      <point x="82" y="671"/>
+      <point x="42" y="671" type="curve" smooth="yes"/>
+      <point x="25" y="671"/>
+      <point x="16" y="682"/>
+      <point x="16" y="704" type="curve" smooth="yes"/>
+      <point x="16" y="711"/>
+      <point x="17" y="720"/>
+      <point x="18" y="729" type="curve"/>
+      <point x="-33" y="729" type="line"/>
+      <point x="-36" y="710"/>
+      <point x="-38" y="695"/>
+      <point x="-39" y="682" type="curve" smooth="yes"/>
+      <point x="-39" y="634"/>
+      <point x="-10" y="609"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

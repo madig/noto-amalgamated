@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="digamma.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="03DD"/>
+  <anchor x="319" y="-240" name="bottom"/>
+  <anchor x="331" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="77" y="-240" type="line"/>
+      <point x="265" y="-240" type="line"/>
+      <point x="265" y="131" type="line"/>
+      <point x="405" y="131" type="line"/>
+      <point x="405" y="36" type="line"/>
+      <point x="541" y="36" type="line"/>
+      <point x="541" y="269" type="line"/>
+      <point x="265" y="269" type="line"/>
+      <point x="265" y="415" type="line"/>
+      <point x="555" y="415" type="line"/>
+      <point x="555" y="553" type="line"/>
+      <point x="77" y="553" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

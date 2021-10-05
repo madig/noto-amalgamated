@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="02CC"/>
+  <anchor x="250" y="-264" name="_top"/>
+  <anchor x="250" y="60" name="top"/>
+  <outline>
+    <contour>
+      <point x="209" y="-215" type="line"/>
+      <point x="291" y="-215" type="line"/>
+      <point x="291" y="60" type="line"/>
+      <point x="209" y="60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

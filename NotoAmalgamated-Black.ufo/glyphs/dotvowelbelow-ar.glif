@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotvowelbelow-ar" format="2">
+  <unicode hex="065C"/>
+  <note>
+uni065C
+</note>
+  <anchor x="18" y="152" name="_bottom"/>
+  <anchor x="18" y="-61" name="bottom"/>
+  <outline>
+    <component base="onedot.above" yOffset="-620"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

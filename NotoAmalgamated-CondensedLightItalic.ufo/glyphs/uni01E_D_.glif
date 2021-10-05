@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni01ED" format="2">
+  <advance width="353"/>
+  <unicode hex="01ED"/>
+  <anchor x="75" y="-215" name="bottom"/>
+  <anchor x="257" y="637" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="macron" xOffset="27"/>
+    <component base="ogonek" xOffset="76"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

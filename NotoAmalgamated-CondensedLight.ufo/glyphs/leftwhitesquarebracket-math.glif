@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftwhitesquarebracket-math" format="2">
+  <advance width="500"/>
+  <unicode hex="27E6"/>
+  <outline>
+    <contour>
+      <point x="125" y="-158" type="line"/>
+      <point x="376" y="-158" type="line"/>
+      <point x="376" y="-132" type="line"/>
+      <point x="269" y="-132" type="line"/>
+      <point x="269" y="688" type="line"/>
+      <point x="376" y="688" type="line"/>
+      <point x="376" y="714" type="line"/>
+      <point x="125" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="-132" type="line"/>
+      <point x="149" y="688" type="line"/>
+      <point x="245" y="688" type="line"/>
+      <point x="245" y="-132" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>math</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Parenthesis</string>
+    </dict>
+  </lib>
+</glyph>

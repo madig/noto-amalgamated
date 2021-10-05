@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nlongrightleg" format="2">
+  <advance width="521"/>
+  <unicode hex="0220"/>
+  <anchor x="154" y="-240" name="bottom"/>
+  <anchor x="356" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="378" y="479" type="curve" smooth="yes"/>
+      <point x="227" y="-240" type="line"/>
+      <point x="352" y="-240" type="line"/>
+      <point x="503" y="468" type="line" smooth="yes"/>
+      <point x="515" y="523"/>
+      <point x="523" y="570"/>
+      <point x="523" y="605" type="curve" smooth="yes"/>
+      <point x="523" y="680"/>
+      <point x="479" y="724"/>
+      <point x="398" y="724" type="curve" smooth="yes"/>
+      <point x="330" y="724"/>
+      <point x="278" y="692"/>
+      <point x="242" y="637" type="curve"/>
+      <point x="240" y="637" type="line"/>
+      <point x="249" y="714" type="line"/>
+      <point x="148" y="714" type="line"/>
+      <point x="-3" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="218" y="453" type="line" smooth="yes"/>
+      <point x="242" y="566"/>
+      <point x="284" y="611"/>
+      <point x="340" y="611" type="curve" smooth="yes"/>
+      <point x="376" y="611"/>
+      <point x="390" y="592"/>
+      <point x="390" y="560" type="curve" smooth="yes"/>
+      <point x="390" y="539"/>
+      <point x="384" y="510"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

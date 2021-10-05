@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="maiEk-thai" format="2">
+  <unicode hex="0E48"/>
+  <anchor x="137" y="553" name="_topright"/>
+  <anchor x="138" y="822" name="topright"/>
+  <outline>
+    <contour>
+      <point x="55" y="640" type="line"/>
+      <point x="133" y="640" type="line"/>
+      <point x="138" y="746" type="line"/>
+      <point x="138" y="822" type="line"/>
+      <point x="50" y="822" type="line"/>
+      <point x="50" y="746" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>188</integer>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <string>up</string>
+          <key>type</key>
+          <string>BottomGhost</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

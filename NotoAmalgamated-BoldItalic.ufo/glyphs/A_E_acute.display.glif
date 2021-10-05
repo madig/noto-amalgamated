@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AEacute.display" format="2">
+  <advance width="910"/>
+  <unicode hex="01FC"/>
+  <anchor x="399" y="0" name="bottom"/>
+  <anchor x="606" y="927" name="top"/>
+  <outline>
+    <component base="AE"/>
+    <component base="acute" xOffset="361" yOffset="161"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

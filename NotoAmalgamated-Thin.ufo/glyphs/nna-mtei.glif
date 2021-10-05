@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nna-mtei" format="2">
+  <advance width="618"/>
+  <unicode hex="AAE8"/>
+  <anchor x="555" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="bottom_left"/>
+  <anchor x="618" y="0" name="bottom_right"/>
+  <anchor x="473" y="713" name="top"/>
+  <outline>
+    <contour>
+      <point x="138" y="644" type="line"/>
+      <point x="103" y="644" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="463" y="-7" type="line"/>
+      <point x="547" y="312" type="line" smooth="yes"/>
+      <point x="551" y="325"/>
+      <point x="555" y="352"/>
+      <point x="555" y="370" type="curve" smooth="yes"/>
+      <point x="555" y="444"/>
+      <point x="495" y="468"/>
+      <point x="433" y="468" type="curve" smooth="yes"/>
+      <point x="243" y="468" type="line"/>
+      <point x="243" y="436" type="line"/>
+      <point x="428" y="436" type="line" smooth="yes"/>
+      <point x="492" y="436"/>
+      <point x="521" y="417"/>
+      <point x="521" y="367" type="curve" smooth="yes"/>
+      <point x="521" y="356"/>
+      <point x="520" y="344"/>
+      <point x="517" y="330" type="curve" smooth="yes"/>
+      <point x="431" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="55" y="627" type="line"/>
+      <point x="573" y="627" type="line"/>
+      <point x="573" y="659" type="line"/>
+      <point x="55" y="659" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>mtei</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.kahalf" format="2">
+  <advance width="720"/>
+  <outline>
+    <contour>
+      <point x="248" y="82" type="line"/>
+      <point x="261" y="74" type="line"/>
+      <point x="362" y="101" type="line"/>
+      <point x="362" y="294" type="line" smooth="yes"/>
+      <point x="362" y="310"/>
+      <point x="376" y="319"/>
+      <point x="388" y="319" type="curve" smooth="yes"/>
+      <point x="410" y="319"/>
+      <point x="432" y="307"/>
+      <point x="432" y="247" type="curve" smooth="yes"/>
+      <point x="432" y="82" type="line"/>
+      <point x="446" y="74" type="line"/>
+      <point x="543" y="101" type="line"/>
+      <point x="543" y="260" type="line" smooth="yes"/>
+      <point x="543" y="388"/>
+      <point x="483" y="418"/>
+      <point x="426" y="418" type="curve" smooth="yes"/>
+      <point x="359" y="418"/>
+      <point x="281" y="366"/>
+      <point x="281" y="313" type="curve" smooth="yes"/>
+      <point x="281" y="234" type="line"/>
+      <point x="248" y="234" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="284" type="curve" smooth="yes"/>
+      <point x="93" y="202"/>
+      <point x="155" y="154"/>
+      <point x="216" y="154" type="curve" smooth="yes"/>
+      <point x="290" y="154"/>
+      <point x="336" y="216"/>
+      <point x="336" y="301" type="curve"/>
+      <point x="336" y="372"/>
+      <point x="281" y="419"/>
+      <point x="219" y="419" type="curve" smooth="yes"/>
+      <point x="152" y="419"/>
+      <point x="93" y="358"/>
+    </contour>
+    <contour>
+      <point x="184" y="296" type="curve" smooth="yes"/>
+      <point x="184" y="316"/>
+      <point x="195" y="328"/>
+      <point x="215" y="328" type="curve" smooth="yes"/>
+      <point x="243" y="328"/>
+      <point x="266" y="304"/>
+      <point x="266" y="275" type="curve" smooth="yes"/>
+      <point x="266" y="255"/>
+      <point x="255" y="243"/>
+      <point x="236" y="243" type="curve" smooth="yes"/>
+      <point x="207" y="243"/>
+      <point x="184" y="267"/>
+    </contour>
+    <component base="_part.halfswash"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsilioxiaprosgegrammeni.display" format="2">
+  <advance width="1637"/>
+  <unicode hex="1F9C"/>
+  <anchor x="1293" y="0" name="bottom"/>
+  <anchor x="1452" y="536" name="top"/>
+  <outline>
+    <component base="psilioxia"/>
+    <component base="H" xOffset="390"/>
+    <component base="iota" xOffset="1228"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

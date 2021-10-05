@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ngoNgu-thai_macronbelowcomb" format="2">
+  <advance width="487"/>
+  <anchor x="245" y="-215" name="bottom"/>
+  <anchor x="434" y="-215" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="434" y="-76" type="line"/>
+      <point x="55" y="-76" type="line"/>
+      <point x="55" y="-215" type="line"/>
+      <point x="434" y="-215" type="line"/>
+    </contour>
+    <component base="ngoNgu-thai"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

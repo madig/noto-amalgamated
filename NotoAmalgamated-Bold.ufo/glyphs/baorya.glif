@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="baorya" format="2">
+  <advance width="665"/>
+  <unicode hex="0B2C"/>
+  <anchor x="364" y="0" name="b.tasubscriptorya"/>
+  <anchor x="484" y="0" name="b.uvowelsignorya"/>
+  <anchor x="539" y="657" name="t.candrabinduorya"/>
+  <anchor x="350" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="484" y="20" type="line"/>
+      <point x="484" y="114" type="line" smooth="yes"/>
+      <point x="484" y="324"/>
+      <point x="380" y="372"/>
+      <point x="299" y="372" type="curve"/>
+      <point x="397" y="233" type="line"/>
+      <point x="397" y="102" type="line"/>
+      <point x="364" y="102" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="378" y="-9" type="line"/>
+    </contour>
+    <component base="_part.swash5" xOffset="-5"/>
+    <component base="_part.osmall" xOffset="-350" yOffset="-294"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>caorya</string>
+    </dict>
+  </lib>
+</glyph>

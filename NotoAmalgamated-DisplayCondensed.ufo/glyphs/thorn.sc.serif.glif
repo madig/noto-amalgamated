@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn.sc.serif" format="2">
+  <advance width="432"/>
+  <anchor x="216" y="0" name="bottom"/>
+  <anchor x="216" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="29" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="10" type="line"/>
+      <point x="224" y="10" type="line" smooth="yes"/>
+      <point x="190" y="10"/>
+      <point x="179" y="17"/>
+      <point x="179" y="65" type="curve" smooth="yes"/>
+      <point x="179" y="127" type="line"/>
+      <point x="211" y="127" type="line" smooth="yes"/>
+      <point x="351" y="127"/>
+      <point x="408" y="186"/>
+      <point x="408" y="293" type="curve" smooth="yes"/>
+      <point x="408" y="400"/>
+      <point x="351" y="452"/>
+      <point x="225" y="452" type="curve" smooth="yes"/>
+      <point x="179" y="452" type="line"/>
+      <point x="179" y="502" type="line" smooth="yes"/>
+      <point x="179" y="551"/>
+      <point x="191" y="561"/>
+      <point x="223" y="561" type="curve" smooth="yes"/>
+      <point x="245" y="561" type="line"/>
+      <point x="245" y="571" type="line"/>
+      <point x="29" y="571" type="line"/>
+      <point x="29" y="561" type="line"/>
+      <point x="50" y="561" type="line" smooth="yes"/>
+      <point x="81" y="561"/>
+      <point x="92" y="552"/>
+      <point x="92" y="501" type="curve" smooth="yes"/>
+      <point x="92" y="87" type="line" smooth="yes"/>
+      <point x="92" y="18"/>
+      <point x="79" y="10"/>
+      <point x="47" y="10" type="curve" smooth="yes"/>
+      <point x="29" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="137" type="curve" smooth="yes"/>
+      <point x="179" y="137" type="line"/>
+      <point x="179" y="442" type="line"/>
+      <point x="221" y="442" type="line" smooth="yes"/>
+      <point x="291" y="442"/>
+      <point x="317" y="403"/>
+      <point x="317" y="292" type="curve" smooth="yes"/>
+      <point x="317" y="173"/>
+      <point x="285" y="137"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>p.sc</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

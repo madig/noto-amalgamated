@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onarrow-cy.display" format="2">
+  <advance width="510"/>
+  <unicode hex="1C82"/>
+  <anchor x="205" y="0" name="bottom"/>
+  <anchor x="347" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="200" y="-10" type="curve" smooth="yes"/>
+      <point x="384" y="-10"/>
+      <point x="480" y="213"/>
+      <point x="480" y="363" type="curve" smooth="yes"/>
+      <point x="480" y="491"/>
+      <point x="410" y="546"/>
+      <point x="325" y="546" type="curve" smooth="yes"/>
+      <point x="129" y="546"/>
+      <point x="35" y="328"/>
+      <point x="35" y="173" type="curve" smooth="yes"/>
+      <point x="35" y="51"/>
+      <point x="99" y="-10"/>
+    </contour>
+    <contour>
+      <point x="209" y="0" type="curve" smooth="yes"/>
+      <point x="189" y="0"/>
+      <point x="177" y="21"/>
+      <point x="177" y="78" type="curve" smooth="yes"/>
+      <point x="177" y="265"/>
+      <point x="259" y="536"/>
+      <point x="314" y="536" type="curve" smooth="yes"/>
+      <point x="332" y="536"/>
+      <point x="339" y="511"/>
+      <point x="339" y="465" type="curve" smooth="yes"/>
+      <point x="339" y="296"/>
+      <point x="276" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el-cy" format="2">
+  <advance width="669"/>
+  <unicode hex="043B"/>
+  <anchor x="335" y="0" name="bottom"/>
+  <anchor x="335" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="613" y="0" type="line"/>
+      <point x="613" y="553" type="line"/>
+      <point x="133" y="553" type="line"/>
+      <point x="109" y="181"/>
+      <point x="84" y="138"/>
+      <point x="50" y="138" type="curve" smooth="yes"/>
+      <point x="34" y="138"/>
+      <point x="24" y="140"/>
+      <point x="12" y="147" type="curve"/>
+      <point x="12" y="5" type="line"/>
+      <point x="32" y="-4"/>
+      <point x="68" y="-10"/>
+      <point x="93" y="-10" type="curve" smooth="yes"/>
+      <point x="249" y="-10"/>
+      <point x="293" y="104"/>
+      <point x="319" y="411" type="curve"/>
+      <point x="411" y="411" type="line"/>
+      <point x="411" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

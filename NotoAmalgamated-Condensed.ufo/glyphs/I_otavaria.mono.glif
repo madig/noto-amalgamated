@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotavaria.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="1FDA"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="475" y="59" type="line"/>
+      <point x="340" y="69" type="line"/>
+      <point x="340" y="645" type="line"/>
+      <point x="475" y="655" type="line"/>
+      <point x="475" y="714" type="line"/>
+      <point x="125" y="714" type="line"/>
+      <point x="125" y="655" type="line"/>
+      <point x="258" y="645" type="line"/>
+      <point x="258" y="69" type="line"/>
+      <point x="125" y="59" type="line"/>
+    </contour>
+    <component base="varia" xOffset="-169" yOffset="-53"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>varia</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

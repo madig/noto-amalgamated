@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gheupturn-cy.serif" format="2">
+  <advance width="407"/>
+  <unicode hex="0490"/>
+  <anchor x="204" y="0" name="bottom"/>
+  <anchor x="204" y="823" name="top"/>
+  <outline>
+    <contour>
+      <point x="36" y="0" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="230" y="10" type="line"/>
+      <point x="193" y="10" type="line" smooth="yes"/>
+      <point x="143" y="10"/>
+      <point x="137" y="21"/>
+      <point x="137" y="98" type="curve" smooth="yes"/>
+      <point x="137" y="699" type="line"/>
+      <point x="378" y="699" type="line"/>
+      <point x="382" y="823" type="line"/>
+      <point x="372" y="823" type="line"/>
+      <point x="370" y="783" type="line" smooth="yes"/>
+      <point x="367" y="728"/>
+      <point x="362" y="714"/>
+      <point x="310" y="714" type="curve" smooth="yes"/>
+      <point x="36" y="714" type="line"/>
+      <point x="36" y="704" type="line"/>
+      <point x="53" y="704" type="line" smooth="yes"/>
+      <point x="103" y="704"/>
+      <point x="109" y="693"/>
+      <point x="109" y="616" type="curve" smooth="yes"/>
+      <point x="109" y="98" type="line" smooth="yes"/>
+      <point x="109" y="21"/>
+      <point x="103" y="10"/>
+      <point x="53" y="10" type="curve" smooth="yes"/>
+      <point x="36" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

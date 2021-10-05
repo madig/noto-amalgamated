@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotaperispomeni.serif" format="2">
+  <advance width="363"/>
+  <unicode hex="1FD6"/>
+  <anchor x="182" y="0" name="bottom"/>
+  <anchor x="182" y="772" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="tilde" xOffset="-50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

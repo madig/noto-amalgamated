@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oeMatra-deva" format="2">
+  <unicode hex="093A"/>
+  <anchor x="-72" y="626" name="_top"/>
+  <anchor x="156" y="639" name="candra"/>
+  <anchor x="60" y="672" name="top"/>
+  <outline>
+    <contour>
+      <point x="-182" y="814" type="line"/>
+      <point x="-195" y="814" type="line"/>
+      <point x="-195" y="612" type="line"/>
+      <point x="-72" y="612" type="line"/>
+      <point x="-72" y="745" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

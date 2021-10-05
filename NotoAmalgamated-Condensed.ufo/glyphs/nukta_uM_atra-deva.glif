@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nukta_uMatra-deva" format="2">
+  <anchor x="86" y="0" name="_bottom"/>
+  <anchor x="11" y="-286" name="bottom"/>
+  <anchor x="-216" y="-303" name="nukta"/>
+  <outline>
+    <component base="uMatra-deva" xOffset="162"/>
+    <component base="nukta-deva" xOffset="38" yOffset="-59"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

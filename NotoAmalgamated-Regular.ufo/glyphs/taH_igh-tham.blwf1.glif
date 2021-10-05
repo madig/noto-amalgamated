@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="taHigh-tham.blwf1" format="2">
+  <note>
+uni1A32.sub1
+</note>
+  <outline>
+    <contour>
+      <point x="-459" y="-452" type="curve" smooth="yes"/>
+      <point x="-357" y="-452"/>
+      <point x="-301" y="-373"/>
+      <point x="-301" y="-263" type="curve" smooth="yes"/>
+      <point x="-301" y="-248"/>
+      <point x="-302" y="-232"/>
+      <point x="-305" y="-219" type="curve"/>
+      <point x="-298" y="-170"/>
+      <point x="-269" y="-138"/>
+      <point x="-230" y="-138" type="curve" smooth="yes"/>
+      <point x="-178" y="-138"/>
+      <point x="-140" y="-183"/>
+      <point x="-140" y="-259" type="curve" smooth="yes"/>
+      <point x="-140" y="-332"/>
+      <point x="-177" y="-389"/>
+      <point x="-231" y="-389" type="curve" smooth="yes"/>
+      <point x="-243" y="-389"/>
+      <point x="-254" y="-386"/>
+      <point x="-269" y="-378" type="curve"/>
+      <point x="-300" y="-433" type="line"/>
+      <point x="-275" y="-445"/>
+      <point x="-252" y="-452"/>
+      <point x="-229" y="-452" type="curve" smooth="yes"/>
+      <point x="-127" y="-452"/>
+      <point x="-73" y="-366"/>
+      <point x="-73" y="-255" type="curve" smooth="yes"/>
+      <point x="-73" y="-151"/>
+      <point x="-133" y="-76"/>
+      <point x="-229" y="-76" type="curve" smooth="yes"/>
+      <point x="-274" y="-76"/>
+      <point x="-315" y="-95"/>
+      <point x="-340" y="-129" type="curve"/>
+      <point x="-368" y="-92"/>
+      <point x="-406" y="-76"/>
+      <point x="-455" y="-76" type="curve" smooth="yes"/>
+      <point x="-550" y="-76"/>
+      <point x="-608" y="-157"/>
+      <point x="-608" y="-260" type="curve" smooth="yes"/>
+      <point x="-608" y="-363"/>
+      <point x="-551" y="-452"/>
+    </contour>
+    <contour>
+      <point x="-455" y="-389" type="curve" smooth="yes"/>
+      <point x="-506" y="-389"/>
+      <point x="-542" y="-340"/>
+      <point x="-542" y="-263" type="curve" smooth="yes"/>
+      <point x="-542" y="-184"/>
+      <point x="-506" y="-138"/>
+      <point x="-456" y="-138" type="curve" smooth="yes"/>
+      <point x="-403" y="-138"/>
+      <point x="-368" y="-183"/>
+      <point x="-368" y="-263" type="curve" smooth="yes"/>
+      <point x="-368" y="-342"/>
+      <point x="-403" y="-389"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHW[ ]	/* 4 values pushed */
+63 5 0 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+53 5 73 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 3 values pushed */
+18 31 3 
+CALL[ ]	/* CallFunction */
+NPUSHW[ ]	/* 33 values pushed */
+6 53 22 53 38 53 54 53 70 53 86 53 102 53 118 53 134 53 150 53 166 53 182 53 198 53 214 53 230 53 246 53 16 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 17 values pushed */
+6 53 22 53 38 53 54 53 70 53 86 53 102 53 118 53 8 
+DELTAP2[ ]	/* DeltaExceptionP2 */
+NPUSHW[ ]	/* 5 values pushed */
+133 53 149 53 2 
+DELTAP2[ ]	/* DeltaExceptionP2 */
+PUSHW[ ]	/* 3 values pushed */
+8 73 53 
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+NPUSHW[ ]	/* 5 values pushed */
+218 31 234 31 2 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 27 values pushed */
+9 31 25 31 41 31 57 31 73 31 89 31 105 31 121 31 137 31 153 31 169 31 185 31 201 31 13 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+PUSHW[ ]	/* 1 value pushed */
+18 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 2 values pushed */
+43 5 
+MIRP[10100]	/* MoveIndirectRelPt */
+NPUSHW[ ]	/* 33 values pushed */
+6 63 22 63 38 63 54 63 70 63 86 63 102 63 118 63 134 63 150 63 166 63 182 63 198 63 214 63 230 63 246 63 16 
+DELTAP1[ ]	/* DeltaExceptionP1 */
+NPUSHW[ ]	/* 17 values pushed */
+6 63 22 63 38 63 54 63 70 63 86 63 102 63 118 63 8 
+DELTAP2[ ]	/* DeltaExceptionP2 */
+NPUSHW[ ]	/* 5 values pushed */
+133 63 149 63 2 
+DELTAP2[ ]	/* DeltaExceptionP2 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+38 4 23 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 4 values pushed */
+13 4 48 4 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 1 value pushed */
+13 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+5 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+38 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+34 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+34 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+23 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+58 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+38 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+68 
+MDRP[10000]	/* MoveDirectRelPt */
+PUSHW[ ]	/* 1 value pushed */
+48 
+SRP0[ ]	/* SetRefPoint0 */
+PUSHW[ ]	/* 1 value pushed */
+78 
+MDRP[10000]	/* MoveDirectRelPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

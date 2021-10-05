@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eshcurl.display" format="2">
+  <advance width="249"/>
+  <unicode hex="0286"/>
+  <anchor x="20" y="-240" name="bottom"/>
+  <anchor x="234" y="765" name="top"/>
+  <outline>
+    <contour>
+      <point x="-64" y="-240" type="curve" smooth="yes"/>
+      <point x="14" y="-240"/>
+      <point x="70" y="-203"/>
+      <point x="100" y="-72" type="curve"/>
+      <point x="171" y="-72" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="237" y="578" type="line" smooth="yes"/>
+      <point x="253" y="653"/>
+      <point x="278" y="692"/>
+      <point x="320" y="692" type="curve" smooth="yes"/>
+      <point x="340" y="692"/>
+      <point x="356" y="687"/>
+      <point x="372" y="681" type="curve"/>
+      <point x="372" y="754" type="line"/>
+      <point x="358" y="760"/>
+      <point x="335" y="765"/>
+      <point x="310" y="765" type="curve" smooth="yes"/>
+      <point x="214" y="765"/>
+      <point x="173" y="695"/>
+      <point x="150" y="588" type="curve" smooth="yes"/>
+      <point x="25" y="0" type="line"/>
+      <point x="-19" y="0" type="line" smooth="yes"/>
+      <point x="-124" y="0"/>
+      <point x="-185" y="-46"/>
+      <point x="-185" y="-132" type="curve" smooth="yes"/>
+      <point x="-185" y="-197"/>
+      <point x="-141" y="-240"/>
+    </contour>
+    <contour>
+      <point x="-63" y="-168" type="curve" smooth="yes"/>
+      <point x="-92" y="-168"/>
+      <point x="-105" y="-153"/>
+      <point x="-105" y="-129" type="curve" smooth="yes"/>
+      <point x="-105" y="-83"/>
+      <point x="-69" y="-72"/>
+      <point x="-30" y="-72" type="curve" smooth="yes"/>
+      <point x="9" y="-72" type="line"/>
+      <point x="-6" y="-143"/>
+      <point x="-25" y="-168"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

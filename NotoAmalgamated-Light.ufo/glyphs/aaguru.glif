@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aaguru" format="2">
+  <advance width="943"/>
+  <unicode hex="0A06"/>
+  <anchor x="828" y="622" name="top"/>
+  <outline>
+    <component base="aguru"/>
+    <component base="aamatraguru" xOffset="727"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aamatraguru</string>
+    </dict>
+  </lib>
+</glyph>

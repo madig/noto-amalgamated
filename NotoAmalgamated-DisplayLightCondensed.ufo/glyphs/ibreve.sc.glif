@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve.sc" format="2">
+  <advance width="152"/>
+  <anchor x="78" y="0" name="bottom"/>
+  <anchor x="78" y="748" name="top"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="brevecomb" xOffset="76" yOffset="32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

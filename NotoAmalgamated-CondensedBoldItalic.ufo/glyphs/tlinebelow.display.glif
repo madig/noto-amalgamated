@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tlinebelow.display" format="2">
+  <advance width="380"/>
+  <unicode hex="1E6F"/>
+  <anchor x="141" y="-118" name="bottom"/>
+  <anchor x="271" y="659" name="top"/>
+  <outline>
+    <component base="t"/>
+    <component base="macronmod" xOffset="-98" yOffset="-744"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

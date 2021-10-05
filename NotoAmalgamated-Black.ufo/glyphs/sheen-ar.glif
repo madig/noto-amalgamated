@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheen-ar" format="2">
+  <advance width="1524"/>
+  <unicode hex="0634"/>
+  <note>
+uni0634
+</note>
+  <anchor x="974" y="-78" name="bottom"/>
+  <anchor x="988" y="937" name="top"/>
+  <outline>
+    <component base="seen-ar"/>
+    <component base="threedots.above" xOffset="973"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>seen-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

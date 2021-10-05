@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="0071"/>
+  <anchor x="230" y="-240" name="bottom"/>
+  <anchor x="230" y="546" name="top"/>
+  <anchor x="480" y="546" name="topright"/>
+  <outline>
+    <contour>
+      <point x="327" y="-9" type="curve" smooth="yes"/>
+      <point x="327" y="-240" type="line"/>
+      <point x="455" y="-240" type="line"/>
+      <point x="455" y="546" type="line"/>
+      <point x="348" y="546" type="line"/>
+      <point x="337" y="475" type="line"/>
+      <point x="334" y="475" type="line"/>
+      <point x="300" y="528"/>
+      <point x="249" y="556"/>
+      <point x="192" y="556" type="curve" smooth="yes"/>
+      <point x="74" y="556"/>
+      <point x="30" y="435"/>
+      <point x="30" y="272" type="curve" smooth="yes"/>
+      <point x="30" y="110"/>
+      <point x="74" y="-10"/>
+      <point x="189" y="-10" type="curve" smooth="yes"/>
+      <point x="246" y="-10"/>
+      <point x="300" y="20"/>
+      <point x="327" y="70" type="curve"/>
+      <point x="332" y="70" type="line"/>
+      <point x="328" y="44"/>
+      <point x="327" y="10"/>
+    </contour>
+    <contour>
+      <point x="255" y="107" type="curve" smooth="yes"/>
+      <point x="191" y="107"/>
+      <point x="166" y="160"/>
+      <point x="166" y="266" type="curve" smooth="yes"/>
+      <point x="166" y="383"/>
+      <point x="197" y="440"/>
+      <point x="255" y="440" type="curve" smooth="yes"/>
+      <point x="310" y="440"/>
+      <point x="338" y="388"/>
+      <point x="338" y="278" type="curve" smooth="yes"/>
+      <point x="338" y="255" type="line" smooth="yes"/>
+      <point x="338" y="165"/>
+      <point x="321" y="107"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

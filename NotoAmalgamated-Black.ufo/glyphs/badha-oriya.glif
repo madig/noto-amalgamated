@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="badha-oriya" format="2">
+  <advance width="754"/>
+  <note>
+badhaorya
+</note>
+  <outline>
+    <component base="ba-oriya.base"/>
+    <component base="dha-oriya.below" xOffset="280"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ba-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ba-oriya</string>
+    </dict>
+  </lib>
+</glyph>

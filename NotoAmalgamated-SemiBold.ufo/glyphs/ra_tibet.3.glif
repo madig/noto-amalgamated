@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra_tibet.3" format="2">
+  <advance width="633"/>
+  <anchor x="567.333" y="491.333" name="bottomright"/>
+  <anchor x="547.333" y="678" name="flag"/>
+  <anchor x="330.667" y="678" name="top"/>
+  <anchor x="114" y="678" name="topleft"/>
+  <anchor x="567.333" y="678" name="topright"/>
+  <outline>
+    <contour>
+      <point x="359" y="612" type="curve"/>
+      <point x="240" y="587" type="line"/>
+      <point x="283" y="557"/>
+      <point x="300" y="516"/>
+      <point x="300" y="478" type="curve" smooth="yes"/>
+      <point x="300" y="460"/>
+      <point x="297" y="443"/>
+      <point x="292" y="428" type="curve"/>
+      <point x="360" y="430" type="line"/>
+      <point x="370" y="456"/>
+      <point x="376" y="486"/>
+      <point x="376" y="515" type="curve" smooth="yes"/>
+      <point x="376" y="548"/>
+      <point x="370" y="586"/>
+    </contour>
+    <contour>
+      <point x="547" y="678" type="line"/>
+      <point x="145" y="678" type="line"/>
+      <point x="114" y="545" type="line"/>
+      <point x="516" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

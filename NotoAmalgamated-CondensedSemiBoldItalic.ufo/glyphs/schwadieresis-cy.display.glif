@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwadieresis-cy.display" format="2">
+  <advance width="438"/>
+  <unicode hex="04DB"/>
+  <anchor x="163" y="0" name="bottom"/>
+  <anchor x="267" y="739" name="top"/>
+  <outline>
+    <component base="schwa"/>
+    <component base="dieresis" xOffset="-60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

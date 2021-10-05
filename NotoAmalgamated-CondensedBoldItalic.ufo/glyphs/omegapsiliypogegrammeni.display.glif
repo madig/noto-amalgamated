@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegapsiliypogegrammeni.display" format="2">
+  <advance width="707"/>
+  <unicode hex="1FA0"/>
+  <anchor x="239" y="-227" name="bottom"/>
+  <anchor x="431" y="786" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="koronis" xOffset="255"/>
+    <component base="prosgegrammeni" xOffset="153" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>omega</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

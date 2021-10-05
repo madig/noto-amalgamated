@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yuslittleiotified-cy.serif" format="2">
+  <advance width="870"/>
+  <unicode hex="0469"/>
+  <anchor x="449" y="0" name="bottom"/>
+  <anchor x="449" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="12" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="227" y="270" type="line"/>
+      <point x="420" y="270" type="line"/>
+      <point x="420" y="280" type="line"/>
+      <point x="227" y="280" type="line"/>
+      <point x="227" y="453" type="line" smooth="yes"/>
+      <point x="227" y="510"/>
+      <point x="244" y="526"/>
+      <point x="273" y="526" type="curve" smooth="yes"/>
+      <point x="281" y="526" type="line"/>
+      <point x="281" y="536" type="line"/>
+      <point x="12" y="536" type="line"/>
+      <point x="12" y="526" type="line"/>
+      <point x="21" y="526" type="line" smooth="yes"/>
+      <point x="53" y="526"/>
+      <point x="73" y="511"/>
+      <point x="73" y="454" type="curve" smooth="yes"/>
+      <point x="73" y="83" type="line" smooth="yes"/>
+      <point x="73" y="26"/>
+      <point x="53" y="10"/>
+      <point x="21" y="10" type="curve" smooth="yes"/>
+      <point x="12" y="10" type="line"/>
+    </contour>
+    <component base="yuslittle-cy" xOffset="266"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yuslittle-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

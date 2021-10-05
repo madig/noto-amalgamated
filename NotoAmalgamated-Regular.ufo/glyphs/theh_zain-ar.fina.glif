@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theh_zain-ar.fina" format="2">
+  <advance width="769"/>
+  <unicode hex="FC77"/>
+  <anchor x="396" y="0" name="caret_1"/>
+  <outline>
+    <component base="theh-ar.medi" xOffset="396"/>
+    <component base="zain-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>theh-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>zain-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

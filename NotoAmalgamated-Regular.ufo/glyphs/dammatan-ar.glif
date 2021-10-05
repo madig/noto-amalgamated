@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dammatan-ar" format="2">
+  <unicode hex="064C"/>
+  <note>
+uni064C
+</note>
+  <anchor x="0" y="757" name="_top"/>
+  <anchor x="0" y="759" name="_top2"/>
+  <anchor x="-4" y="1005" name="top"/>
+  <outline>
+    <contour>
+      <point x="5" y="780" type="curve" smooth="yes"/>
+      <point x="64" y="780"/>
+      <point x="117" y="807"/>
+      <point x="149" y="852" type="curve" smooth="yes"/>
+      <point x="165" y="874"/>
+      <point x="172" y="899"/>
+      <point x="172" y="926" type="curve" smooth="yes"/>
+      <point x="172" y="973"/>
+      <point x="138" y="1005"/>
+      <point x="86" y="1005" type="curve" smooth="yes"/>
+      <point x="33" y="1005"/>
+      <point x="-4" y="973"/>
+      <point x="-4" y="922" type="curve" smooth="yes"/>
+      <point x="-4" y="893"/>
+      <point x="10" y="859"/>
+      <point x="29" y="835" type="curve"/>
+      <point x="24" y="832"/>
+      <point x="14" y="830"/>
+      <point x="1" y="830" type="curve" smooth="yes"/>
+      <point x="-28" y="830"/>
+      <point x="-66" y="856"/>
+      <point x="-101" y="903" type="curve"/>
+      <point x="-179" y="832" type="line"/>
+      <point x="-147" y="794" type="line"/>
+      <point x="-106" y="827" type="line"/>
+      <point x="-67" y="794"/>
+      <point x="-43" y="780"/>
+    </contour>
+    <contour>
+      <point x="75" y="851" type="curve"/>
+      <point x="56" y="876"/>
+      <point x="47" y="898"/>
+      <point x="47" y="917" type="curve" smooth="yes"/>
+      <point x="47" y="944"/>
+      <point x="64" y="957"/>
+      <point x="84" y="957" type="curve" smooth="yes"/>
+      <point x="105" y="957"/>
+      <point x="120" y="942"/>
+      <point x="120" y="922" type="curve" smooth="yes"/>
+      <point x="120" y="891"/>
+      <point x="105" y="868"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 21 values pushed */
+3 24 6 6 0 29 112 17 1 47 17 1 17 9 63 0 1 32 0 1 0 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MDRP[01101]	/* MoveDirectRelPt */
+MDRP[11100]	/* MoveDirectRelPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+MDRP[01101]	/* MoveDirectRelPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+IP[ ]	/* InterpolatePts */
+SHP[1]	/* ShiftPointByLastPoint */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

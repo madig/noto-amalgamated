@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cacute.serif" format="2">
+  <advance width="461"/>
+  <unicode hex="0107"/>
+  <anchor x="231" y="0" name="bottom"/>
+  <anchor x="231" y="766" name="top"/>
+  <outline>
+    <component base="c"/>
+    <component base="acute" xOffset="166"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

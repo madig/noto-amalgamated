@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n-deva" format="2">
+  <advance width="264"/>
+  <anchor x="119" y="49" name="nukta"/>
+  <outline>
+    <contour>
+      <point x="141" y="173" type="curve" smooth="yes"/>
+      <point x="171" y="173"/>
+      <point x="184" y="195"/>
+      <point x="184" y="231" type="curve" smooth="yes"/>
+      <point x="184" y="261"/>
+      <point x="180" y="292"/>
+      <point x="176" y="308" type="curve"/>
+      <point x="170" y="284" type="line"/>
+      <point x="180" y="285"/>
+      <point x="186" y="285"/>
+      <point x="196" y="285" type="curve" smooth="yes"/>
+      <point x="242" y="285"/>
+      <point x="282" y="283"/>
+      <point x="319" y="281" type="curve"/>
+      <point x="319" y="355" type="line"/>
+      <point x="273" y="368"/>
+      <point x="179" y="383"/>
+      <point x="116" y="383" type="curve" smooth="yes"/>
+      <point x="56" y="383"/>
+      <point x="23" y="356"/>
+      <point x="23" y="309" type="curve" smooth="yes"/>
+      <point x="23" y="246"/>
+      <point x="86" y="173"/>
+    </contour>
+    <contour>
+      <point x="-12" y="533" type="line"/>
+      <point x="319" y="533" type="line"/>
+      <point x="319" y="545" type="line"/>
+      <point x="276" y="625" type="line"/>
+      <point x="-55" y="625" type="line"/>
+      <point x="-55" y="613" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>na-deva</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Halfform</string>
+    </dict>
+  </lib>
+</glyph>

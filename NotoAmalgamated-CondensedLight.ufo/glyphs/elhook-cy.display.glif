@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="elhook-cy.display" format="2">
+  <advance width="332"/>
+  <unicode hex="0513"/>
+  <anchor x="166" y="-160" name="bottom"/>
+  <anchor x="166" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="236" y="-160" type="curve" smooth="yes"/>
+      <point x="282" y="-160"/>
+      <point x="305" y="-132"/>
+      <point x="305" y="-79" type="curve" smooth="yes"/>
+      <point x="305" y="25" type="line"/>
+      <point x="271" y="25" type="line"/>
+      <point x="271" y="527" type="line"/>
+      <point x="103" y="527" type="line"/>
+      <point x="97" y="200"/>
+      <point x="86" y="20"/>
+      <point x="11" y="20" type="curve" smooth="yes"/>
+      <point x="5" y="20"/>
+      <point x="1" y="20"/>
+      <point x="-5" y="22" type="curve"/>
+      <point x="-5" y="-2" type="line"/>
+      <point x="1" y="-4"/>
+      <point x="5" y="-4"/>
+      <point x="12" y="-4" type="curve" smooth="yes"/>
+      <point x="116" y="-4"/>
+      <point x="117" y="178"/>
+      <point x="127" y="502" type="curve"/>
+      <point x="245" y="502" type="line"/>
+      <point x="245" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="281" y="-75" type="line" smooth="yes"/>
+      <point x="281" y="-119"/>
+      <point x="265" y="-138"/>
+      <point x="236" y="-138" type="curve" smooth="yes"/>
+      <point x="223" y="-138"/>
+      <point x="211" y="-135"/>
+      <point x="197" y="-129" type="curve"/>
+      <point x="197" y="-152" type="line"/>
+      <point x="209" y="-157"/>
+      <point x="221" y="-160"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

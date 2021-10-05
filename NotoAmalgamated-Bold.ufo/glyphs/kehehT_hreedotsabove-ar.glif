@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kehehThreedotsabove-ar" format="2">
+  <advance width="887"/>
+  <unicode hex="0763"/>
+  <note>
+uni0763
+</note>
+  <anchor x="391" y="-78" name="bottom"/>
+  <anchor x="342" y="951" name="top"/>
+  <outline>
+    <component base="keheh-ar"/>
+    <component base="threedots_alt1.above" xOffset="233" yOffset="-123"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>keheh-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots_alt1.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

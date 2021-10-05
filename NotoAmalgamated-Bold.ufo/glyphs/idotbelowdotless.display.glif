@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotbelowdotless.display" format="2">
+  <advance width="316"/>
+  <anchor x="162" y="-234" name="bottom"/>
+  <anchor x="163" y="553" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dotbelowcomb" xOffset="523"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=idotless</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

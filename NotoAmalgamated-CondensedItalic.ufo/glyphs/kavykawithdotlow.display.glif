@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kavykawithdotlow.display" format="2">
+  <advance width="590"/>
+  <unicode hex="2E48"/>
+  <outline>
+    <contour>
+      <point x="300" y="435" type="curve" smooth="yes"/>
+      <point x="271" y="435"/>
+      <point x="246" y="409"/>
+      <point x="246" y="364" type="curve" smooth="yes"/>
+      <point x="246" y="335"/>
+      <point x="263" y="317"/>
+      <point x="291" y="317" type="curve" smooth="yes"/>
+      <point x="325" y="317"/>
+      <point x="345" y="349"/>
+      <point x="345" y="388" type="curve" smooth="yes"/>
+      <point x="345" y="420"/>
+      <point x="327" y="435"/>
+    </contour>
+    <component base="kavykainvertedlow" xScale="-1" yScale="-1" xOffset="590" yOffset="659"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

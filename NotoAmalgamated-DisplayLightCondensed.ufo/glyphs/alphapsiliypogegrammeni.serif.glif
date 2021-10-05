@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphapsiliypogegrammeni.serif" format="2">
+  <advance width="434"/>
+  <unicode hex="1F80"/>
+  <anchor x="217" y="-221" name="bottom"/>
+  <anchor x="217" y="758" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="koronis" xOffset="196" yOffset="40"/>
+    <component base="prosgegrammeni" xOffset="104"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

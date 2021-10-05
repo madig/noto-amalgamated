@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dje-cy" format="2">
+  <advance width="489"/>
+  <unicode hex="0452"/>
+  <anchor x="245" y="-240" name="bottom"/>
+  <anchor x="245" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="293" y="-240" type="curve" smooth="yes"/>
+      <point x="386" y="-240"/>
+      <point x="437" y="-174"/>
+      <point x="437" y="-59" type="curve" smooth="yes"/>
+      <point x="437" y="345" type="line" smooth="yes"/>
+      <point x="437" y="470"/>
+      <point x="388" y="540"/>
+      <point x="296" y="540" type="curve" smooth="yes"/>
+      <point x="242" y="540"/>
+      <point x="202" y="513"/>
+      <point x="181" y="461" type="curve"/>
+      <point x="174" y="461" type="line"/>
+      <point x="181" y="497"/>
+      <point x="184" y="528"/>
+      <point x="184" y="552" type="curve" smooth="yes"/>
+      <point x="184" y="587" type="line"/>
+      <point x="278" y="587" type="line"/>
+      <point x="278" y="680" type="line"/>
+      <point x="184" y="680" type="line"/>
+      <point x="184" y="760" type="line"/>
+      <point x="52" y="760" type="line"/>
+      <point x="52" y="680" type="line"/>
+      <point x="-3" y="680" type="line"/>
+      <point x="-3" y="587" type="line"/>
+      <point x="52" y="587" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="184" y="246" type="line" smooth="yes"/>
+      <point x="184" y="378"/>
+      <point x="205" y="424"/>
+      <point x="256" y="424" type="curve" smooth="yes"/>
+      <point x="290" y="424"/>
+      <point x="306" y="387"/>
+      <point x="306" y="307" type="curve" smooth="yes"/>
+      <point x="306" y="-52" type="line"/>
+      <point x="306" y="-102"/>
+      <point x="292" y="-126"/>
+      <point x="264" y="-126" type="curve" smooth="yes"/>
+      <point x="251" y="-126"/>
+      <point x="237" y="-123"/>
+      <point x="223" y="-117" type="curve"/>
+      <point x="223" y="-229" type="line"/>
+      <point x="238" y="-235"/>
+      <point x="274" y="-240"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

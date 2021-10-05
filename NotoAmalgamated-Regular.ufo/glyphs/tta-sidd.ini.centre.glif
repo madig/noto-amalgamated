@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tta-sidd.ini.centre" format="2">
+  <advance width="725"/>
+  <anchor x="405" y="645" name="_bottom"/>
+  <anchor x="405" y="122" name="bottom"/>
+  <anchor x="395" y="680" name="top"/>
+  <anchor x="219" y="680" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="378" y="122" type="curve" smooth="yes"/>
+      <point x="460" y="122"/>
+      <point x="545" y="139"/>
+      <point x="608" y="167" type="curve"/>
+      <point x="540" y="253" type="line"/>
+      <point x="469" y="213"/>
+      <point x="373" y="187"/>
+      <point x="301" y="187" type="curve" smooth="yes"/>
+      <point x="201" y="187"/>
+      <point x="144" y="228"/>
+      <point x="144" y="289" type="curve" smooth="yes"/>
+      <point x="144" y="367"/>
+      <point x="192" y="408"/>
+      <point x="317" y="459" type="curve" smooth="yes"/>
+      <point x="419" y="500"/>
+      <point x="522" y="561"/>
+      <point x="583" y="620" type="curve"/>
+      <point x="493" y="683" type="line"/>
+      <point x="465" y="665"/>
+      <point x="427" y="655"/>
+      <point x="390" y="655" type="curve" smooth="yes"/>
+      <point x="342" y="655"/>
+      <point x="312" y="676"/>
+      <point x="272" y="676" type="curve" smooth="yes"/>
+      <point x="248" y="676"/>
+      <point x="230" y="665"/>
+      <point x="219" y="647" type="curve"/>
+      <point x="203" y="653"/>
+      <point x="187" y="661"/>
+      <point x="174" y="669" type="curve"/>
+      <point x="167" y="665"/>
+      <point x="162" y="658"/>
+      <point x="162" y="648" type="curve" smooth="yes"/>
+      <point x="162" y="623"/>
+      <point x="187" y="592"/>
+      <point x="319" y="505" type="curve"/>
+      <point x="298" y="554" type="line"/>
+      <point x="168" y="495"/>
+      <point x="50" y="441"/>
+      <point x="50" y="329" type="curve" smooth="yes"/>
+      <point x="50" y="228"/>
+      <point x="190" y="122"/>
+    </contour>
+    <contour>
+      <point x="682" y="299" type="curve"/>
+      <point x="705" y="325" type="line"/>
+      <point x="605" y="401"/>
+      <point x="570" y="448"/>
+      <point x="570" y="500" type="curve" smooth="yes"/>
+      <point x="570" y="548"/>
+      <point x="600" y="582"/>
+      <point x="652" y="616" type="curve"/>
+      <point x="561" y="680" type="line"/>
+      <point x="505" y="641"/>
+      <point x="479" y="606"/>
+      <point x="479" y="551" type="curve" smooth="yes"/>
+      <point x="479" y="461"/>
+      <point x="548" y="395"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>siddham</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

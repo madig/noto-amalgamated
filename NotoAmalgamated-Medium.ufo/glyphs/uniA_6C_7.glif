@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA6C7" format="2">
+  <advance width="627.4918"/>
+  <unicode hex="A6C7"/>
+  <outline>
+    <contour>
+      <point x="586" y="76" type="line"/>
+      <point x="586" y="194" type="line"/>
+      <point x="141" y="425" type="line"/>
+      <point x="141" y="429" type="line"/>
+      <point x="521" y="607" type="line"/>
+      <point x="521" y="720" type="line"/>
+      <point x="36" y="482" type="line"/>
+      <point x="36" y="369" type="line"/>
+    </contour>
+    <component base="_dot" xOffset="226" yOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_dot</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

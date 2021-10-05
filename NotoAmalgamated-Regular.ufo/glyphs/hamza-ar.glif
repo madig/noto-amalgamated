@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hamza-ar" format="2">
+  <advance width="490"/>
+  <unicode hex="0621"/>
+  <note>
+uni0621
+</note>
+  <anchor x="254" y="-78" name="bottom"/>
+  <anchor x="249" y="488" name="top"/>
+  <outline>
+    <contour>
+      <point x="65" y="64" type="curve"/>
+      <point x="65" y="-9" type="line"/>
+      <point x="130" y="6"/>
+      <point x="385" y="39"/>
+      <point x="450" y="39" type="curve"/>
+      <point x="450" y="120" type="line"/>
+      <point x="428" y="120"/>
+      <point x="366" y="114"/>
+      <point x="265" y="101" type="curve" smooth="yes"/>
+      <point x="243" y="98" type="line"/>
+      <point x="206" y="117"/>
+      <point x="180" y="160"/>
+      <point x="180" y="211" type="curve" smooth="yes"/>
+      <point x="180" y="290"/>
+      <point x="222" y="331"/>
+      <point x="299" y="331" type="curve" smooth="yes"/>
+      <point x="331" y="331"/>
+      <point x="363" y="322"/>
+      <point x="396" y="305" type="curve"/>
+      <point x="418" y="380" type="line"/>
+      <point x="385" y="399"/>
+      <point x="345" y="409"/>
+      <point x="297" y="409" type="curve" smooth="yes"/>
+      <point x="214" y="409"/>
+      <point x="150" y="377"/>
+      <point x="116" y="320" type="curve" smooth="yes"/>
+      <point x="99" y="291"/>
+      <point x="90" y="257"/>
+      <point x="90" y="217" type="curve" smooth="yes"/>
+      <point x="90" y="158"/>
+      <point x="117" y="105"/>
+      <point x="154" y="80" type="curve"/>
+      <point x="126" y="76"/>
+      <point x="94" y="70"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 34 values pushed */
+18 6 6 12 24 3 30 29 3 21 0 24 24 25 70 89 24 24 10 28 28 0 70 89 28 19 10 15 70 89 31 10 1 10 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+RTG[ ]	/* RoundToGrid */
+MIAP[1]	/* MoveIndirectAbsPt */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+IP[ ]	/* InterpolatePts */
+RTG[ ]	/* RoundToGrid */
+MDAP[1]	/* MoveDirectAbsPt */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+IP[ ]	/* InterpolatePts */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzzhe-cy" format="2">
+  <advance width="769"/>
+  <unicode hex="052A"/>
+  <anchor x="293" y="-172" name="bottom"/>
+  <anchor x="482" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="321" y="354" type="line"/>
+      <point x="533" y="354" type="line"/>
+      <point x="539" y="379" type="line"/>
+      <point x="327" y="379" type="line"/>
+    </contour>
+    <component base="De-cy"/>
+    <component base="Ka-cy" xOffset="444"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>De-cy</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>Ka-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

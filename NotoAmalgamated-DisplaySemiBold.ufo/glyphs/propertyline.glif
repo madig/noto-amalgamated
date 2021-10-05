@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="propertyline" format="2">
+  <advance width="666"/>
+  <unicode hex="214A"/>
+  <outline>
+    <contour>
+      <point x="255" y="0" type="line"/>
+      <point x="626" y="0" type="line"/>
+      <point x="626" y="80" type="line"/>
+      <point x="363" y="80" type="line"/>
+      <point x="363" y="278" type="line"/>
+      <point x="555" y="281"/>
+      <point x="625" y="387"/>
+      <point x="625" y="498" type="curve" smooth="yes"/>
+      <point x="624" y="638"/>
+      <point x="540" y="699"/>
+      <point x="363" y="699" type="curve"/>
+      <point x="363" y="784" type="line"/>
+      <point x="255" y="784" type="line"/>
+      <point x="255" y="699" type="line"/>
+      <point x="72" y="699" type="line"/>
+      <point x="72" y="160" type="line"/>
+      <point x="175" y="160" type="line"/>
+      <point x="175" y="622" type="line"/>
+      <point x="255" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="363" y="355" type="curve"/>
+      <point x="363" y="622" type="line"/>
+      <point x="476" y="622"/>
+      <point x="516" y="579"/>
+      <point x="516" y="492" type="curve" smooth="yes"/>
+      <point x="516" y="398"/>
+      <point x="469" y="360"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

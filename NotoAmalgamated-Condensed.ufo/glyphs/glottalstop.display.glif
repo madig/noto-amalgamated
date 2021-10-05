@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalstop.display" format="2">
+  <advance width="332"/>
+  <unicode hex="0294"/>
+  <anchor x="137" y="0" name="bottom"/>
+  <anchor x="137" y="765" name="top"/>
+  <anchor x="318" y="765" name="topright"/>
+  <outline>
+    <contour>
+      <point x="136" y="765" type="curve" smooth="yes"/>
+      <point x="90" y="765"/>
+      <point x="42" y="754"/>
+      <point x="1" y="722" type="curve"/>
+      <point x="32" y="658" type="line"/>
+      <point x="63" y="681"/>
+      <point x="94" y="691"/>
+      <point x="128" y="691" type="curve" smooth="yes"/>
+      <point x="175" y="691"/>
+      <point x="216" y="653"/>
+      <point x="216" y="580" type="curve" smooth="yes"/>
+      <point x="216" y="494"/>
+      <point x="188" y="420"/>
+      <point x="91" y="334" type="curve"/>
+      <point x="91" y="0" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="173" y="305" type="line"/>
+      <point x="259" y="384"/>
+      <point x="298" y="467"/>
+      <point x="298" y="586" type="curve" smooth="yes"/>
+      <point x="298" y="701"/>
+      <point x="235" y="765"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

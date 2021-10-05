@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B16.td" format="2">
+  <advance width="2014"/>
+  <outline>
+    <contour>
+      <point x="368" y="252" type="curve" smooth="yes"/>
+      <point x="368" y="170"/>
+      <point x="388" y="90"/>
+      <point x="412" y="0" type="curve"/>
+      <point x="531" y="56" type="line"/>
+      <point x="512" y="119"/>
+      <point x="497" y="181"/>
+      <point x="497" y="242" type="curve" smooth="yes"/>
+      <point x="497" y="354"/>
+      <point x="548" y="418"/>
+      <point x="605" y="418" type="curve" smooth="yes"/>
+      <point x="638" y="418"/>
+      <point x="652" y="394"/>
+      <point x="652" y="332" type="curve" smooth="yes"/>
+      <point x="652" y="226" type="line" smooth="yes"/>
+      <point x="652" y="69"/>
+      <point x="722" y="-10"/>
+      <point x="836" y="-10" type="curve" smooth="yes"/>
+      <point x="907" y="-10"/>
+      <point x="951" y="21"/>
+      <point x="973" y="73" type="curve"/>
+      <point x="996" y="19"/>
+      <point x="1050" y="-10"/>
+      <point x="1127" y="-10" type="curve" smooth="yes"/>
+      <point x="1249" y="-10"/>
+      <point x="1331" y="62"/>
+      <point x="1331" y="177" type="curve" smooth="yes"/>
+      <point x="1331" y="274"/>
+      <point x="1273" y="370"/>
+      <point x="1203" y="431" type="curve"/>
+      <point x="1201" y="398" type="line"/>
+      <point x="1214" y="407"/>
+      <point x="1235" y="418"/>
+      <point x="1267" y="418" type="curve" smooth="yes"/>
+      <point x="1334" y="418"/>
+      <point x="1380" y="368"/>
+      <point x="1387" y="261" type="curve"/>
+      <point x="1499" y="217" type="line"/>
+      <point x="1489" y="394" type="line"/>
+      <point x="1444" y="504"/>
+      <point x="1365" y="546"/>
+      <point x="1260" y="546" type="curve" smooth="yes"/>
+      <point x="1184" y="546"/>
+      <point x="1115" y="524"/>
+      <point x="1060" y="487" type="curve"/>
+      <point x="1060" y="415" type="line"/>
+      <point x="1148" y="327"/>
+      <point x="1192" y="261"/>
+      <point x="1192" y="196" type="curve" smooth="yes"/>
+      <point x="1192" y="140"/>
+      <point x="1161" y="118"/>
+      <point x="1120" y="118" type="curve" smooth="yes"/>
+      <point x="1072" y="118"/>
+      <point x="1046" y="148"/>
+      <point x="1046" y="223" type="curve" smooth="yes"/>
+      <point x="1046" y="260" type="line"/>
+      <point x="909" y="260" type="line"/>
+      <point x="909" y="208" type="line" smooth="yes"/>
+      <point x="909" y="147"/>
+      <point x="889" y="118"/>
+      <point x="850" y="118" type="curve" smooth="yes"/>
+      <point x="809" y="118"/>
+      <point x="789" y="149"/>
+      <point x="789" y="214" type="curve" smooth="yes"/>
+      <point x="789" y="368" type="line" smooth="yes"/>
+      <point x="789" y="492"/>
+      <point x="731" y="546"/>
+      <point x="622" y="546" type="curve" smooth="yes"/>
+      <point x="470" y="546"/>
+      <point x="368" y="438"/>
+    </contour>
+    <component base="Nga.01.part" xOffset="42"/>
+    <component base="uni1B35.part" xOffset="483"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Nga.01.part</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1B35.part</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

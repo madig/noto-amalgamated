@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jaorya" format="2">
+  <advance width="637"/>
+  <unicode hex="0B1C"/>
+  <anchor x="329" y="0" name="b.tasubscriptorya"/>
+  <anchor x="508" y="0" name="b.uvowelsignorya"/>
+  <anchor x="502" y="657" name="t.candrabinduorya"/>
+  <anchor x="329" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="84" y="136" type="curve" smooth="yes"/>
+      <point x="84" y="42"/>
+      <point x="148" y="-10"/>
+      <point x="230" y="-10" type="curve" smooth="yes"/>
+      <point x="287" y="-10"/>
+      <point x="335" y="15"/>
+      <point x="366" y="45" type="curve"/>
+      <point x="395" y="110" type="line"/>
+      <point x="374" y="115" type="line"/>
+      <point x="345" y="88"/>
+      <point x="295" y="52"/>
+      <point x="243" y="52" type="curve" smooth="yes"/>
+      <point x="192" y="52"/>
+      <point x="147" y="86"/>
+      <point x="147" y="149" type="curve" smooth="yes"/>
+      <point x="147" y="201"/>
+      <point x="177" y="266"/>
+      <point x="256" y="339" type="curve"/>
+      <point x="222" y="376" type="line"/>
+      <point x="135" y="302"/>
+      <point x="84" y="219"/>
+    </contour>
+    <contour>
+      <point x="250" y="225" type="curve" smooth="yes"/>
+      <point x="250" y="172"/>
+      <point x="296" y="116"/>
+      <point x="340" y="79" type="curve"/>
+      <point x="395" y="110" type="line"/>
+      <point x="395" y="119" type="line"/>
+      <point x="351" y="166"/>
+      <point x="317" y="210"/>
+      <point x="317" y="236" type="curve" smooth="yes"/>
+      <point x="317" y="243"/>
+      <point x="319" y="246"/>
+      <point x="325" y="246" type="curve" smooth="yes"/>
+      <point x="490" y="246" type="line"/>
+      <point x="441" y="291" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="448" y="-7" type="line"/>
+      <point x="508" y="7" type="line"/>
+      <point x="508" y="303" type="line"/>
+      <point x="501" y="310" type="line"/>
+      <point x="344" y="310" type="line" smooth="yes"/>
+      <point x="311" y="310"/>
+      <point x="296" y="298"/>
+      <point x="276" y="276" type="curve" smooth="yes"/>
+      <point x="252" y="247"/>
+      <point x="250" y="236"/>
+    </contour>
+    <component base="_part.swash3" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>kaorya</string>
+    </dict>
+  </lib>
+</glyph>

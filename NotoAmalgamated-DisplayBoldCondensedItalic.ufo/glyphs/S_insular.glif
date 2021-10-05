@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sinsular" format="2">
+  <advance width="380"/>
+  <unicode hex="A784"/>
+  <outline>
+    <contour>
+      <point x="-48" y="-207" type="line"/>
+      <point x="118" y="-207" type="line"/>
+      <point x="247" y="404" type="line" smooth="yes"/>
+      <point x="273" y="527"/>
+      <point x="319" y="552"/>
+      <point x="373" y="552" type="curve" smooth="yes"/>
+      <point x="392" y="552"/>
+      <point x="404" y="546"/>
+      <point x="414" y="541" type="curve"/>
+      <point x="468" y="721" type="line"/>
+      <point x="457" y="723"/>
+      <point x="445" y="724"/>
+      <point x="433" y="724" type="curve" smooth="yes"/>
+      <point x="390" y="724"/>
+      <point x="337" y="705"/>
+      <point x="293" y="625" type="curve"/>
+      <point x="290" y="625" type="line"/>
+      <point x="293" y="714" type="line"/>
+      <point x="146" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

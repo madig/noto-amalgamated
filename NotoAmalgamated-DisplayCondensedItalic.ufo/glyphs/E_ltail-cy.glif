@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eltail-cy" format="2">
+  <advance width="464"/>
+  <unicode hex="04C5"/>
+  <anchor x="137" y="-191" name="bottom"/>
+  <anchor x="329" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="213" y="-191" type="line"/>
+      <point x="298" y="-191" type="line"/>
+      <point x="413" y="76" type="line"/>
+      <point x="347" y="76" type="line"/>
+      <point x="482" y="714" type="line"/>
+      <point x="226" y="714" type="line"/>
+      <point x="145" y="435"/>
+      <point x="94" y="263"/>
+      <point x="59" y="161" type="curve" smooth="yes"/>
+      <point x="33" y="86"/>
+      <point x="11" y="65"/>
+      <point x="-20" y="65" type="curve" smooth="yes"/>
+      <point x="-31" y="65"/>
+      <point x="-44" y="68"/>
+      <point x="-56" y="73" type="curve"/>
+      <point x="-56" y="1" type="line"/>
+      <point x="-42" y="-4"/>
+      <point x="-25" y="-6"/>
+      <point x="-10" y="-6" type="curve" smooth="yes"/>
+      <point x="50" y="-6"/>
+      <point x="91" y="32"/>
+      <point x="127" y="134" type="curve" smooth="yes"/>
+      <point x="163" y="235"/>
+      <point x="217" y="417"/>
+      <point x="280" y="638" type="curve"/>
+      <point x="386" y="638" type="line"/>
+      <point x="250" y="0" type="line"/>
+      <point x="308" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

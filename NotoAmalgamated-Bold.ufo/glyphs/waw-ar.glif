@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="waw-ar" format="2">
+  <advance width="627"/>
+  <unicode hex="0648"/>
+  <note>
+uni0648
+</note>
+  <anchor x="244" y="-293" name="bottom"/>
+  <anchor x="314" y="445" name="center"/>
+  <anchor x="322" y="586" name="top"/>
+  <outline>
+    <contour>
+      <point x="278" y="-240" type="curve" smooth="yes"/>
+      <point x="446" y="-240"/>
+      <point x="542" y="-155"/>
+      <point x="542" y="-3" type="curve" smooth="yes"/>
+      <point x="542" y="495" type="line"/>
+      <point x="390" y="495" type="line" smooth="yes"/>
+      <point x="208" y="495"/>
+      <point x="72" y="403"/>
+      <point x="72" y="233" type="curve" smooth="yes"/>
+      <point x="72" y="84"/>
+      <point x="151" y="0"/>
+      <point x="294" y="0" type="curve" smooth="yes"/>
+      <point x="393" y="0" type="line"/>
+      <point x="393" y="-5" type="line" smooth="yes"/>
+      <point x="393" y="-77"/>
+      <point x="351" y="-121"/>
+      <point x="275" y="-121" type="curve" smooth="yes"/>
+      <point x="223" y="-121"/>
+      <point x="178" y="-111"/>
+      <point x="123" y="-83" type="curve"/>
+      <point x="65" y="-192" type="line"/>
+      <point x="126" y="-228"/>
+      <point x="187" y="-240"/>
+    </contour>
+    <contour>
+      <point x="393" y="120" type="line"/>
+      <point x="324" y="120" type="line" smooth="yes"/>
+      <point x="257" y="120"/>
+      <point x="225" y="157"/>
+      <point x="225" y="237" type="curve" smooth="yes"/>
+      <point x="225" y="325"/>
+      <point x="276" y="375"/>
+      <point x="361" y="375" type="curve" smooth="yes"/>
+      <point x="393" y="375" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 30 values pushed */
+29 15 24 10 10 21 21 15 3 3 33 34 19 26 70 89 19 15 12 32 70 89 12 18 0 7 70 89 0 27 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+RTG[ ]	/* RoundToGrid */
+MIAP[1]	/* MoveIndirectAbsPt */
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+RTG[ ]	/* RoundToGrid */
+MIAP[1]	/* MoveIndirectAbsPt */
+CALL[ ]	/* CallFunction */
+SRP1[ ]	/* SetRefPoint1 */
+SRP2[ ]	/* SetRefPoint2 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

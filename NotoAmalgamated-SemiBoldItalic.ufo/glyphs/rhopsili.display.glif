@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhopsili.display" format="2">
+  <advance width="626"/>
+  <unicode hex="1FE4"/>
+  <anchor x="201" y="-240" name="bottom"/>
+  <anchor x="421" y="774" name="top"/>
+  <outline>
+    <component base="rho"/>
+    <component base="koronis" xOffset="171"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

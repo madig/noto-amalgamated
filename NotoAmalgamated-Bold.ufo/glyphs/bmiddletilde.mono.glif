@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bmiddletilde.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="1D6C"/>
+  <outline>
+    <contour>
+      <point x="-102" y="580" type="curve"/>
+      <point x="-10" y="580" type="line"/>
+      <point x="-5" y="620"/>
+      <point x="5" y="628"/>
+      <point x="37" y="628" type="curve" smooth="yes"/>
+      <point x="101" y="628"/>
+      <point x="164" y="581"/>
+      <point x="242" y="581" type="curve" smooth="yes"/>
+      <point x="313" y="581"/>
+      <point x="359" y="634"/>
+      <point x="363" y="748" type="curve"/>
+      <point x="271" y="748" type="line"/>
+      <point x="266" y="718"/>
+      <point x="261" y="700"/>
+      <point x="222" y="700" type="curve" smooth="yes"/>
+      <point x="156" y="700"/>
+      <point x="103" y="747"/>
+      <point x="22" y="747" type="curve" smooth="yes"/>
+      <point x="-66" y="747"/>
+      <point x="-98" y="677"/>
+    </contour>
+    <component base="b"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>b</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

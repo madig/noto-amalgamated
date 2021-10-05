@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clickalveolar.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="01C2"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="84" y="418" type="line"/>
+      <point x="516" y="418" type="line"/>
+      <point x="516" y="544" type="line"/>
+      <point x="84" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="197" type="line"/>
+      <point x="516" y="197" type="line"/>
+      <point x="516" y="323" type="line"/>
+      <point x="84" y="323" type="line"/>
+    </contour>
+    <component base="clickdental" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>clickdental</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

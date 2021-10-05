@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsa-cy" format="2">
+  <advance width="431"/>
+  <unicode hex="0474"/>
+  <anchor x="160" y="0" name="bottom"/>
+  <anchor x="311" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="182" y="0" type="line"/>
+      <point x="411" y="548" type="line" smooth="yes"/>
+      <point x="434" y="604"/>
+      <point x="455" y="649"/>
+      <point x="490" y="649" type="curve" smooth="yes"/>
+      <point x="499" y="649"/>
+      <point x="511" y="647"/>
+      <point x="519" y="642" type="curve"/>
+      <point x="519" y="711" type="line"/>
+      <point x="508" y="718"/>
+      <point x="495" y="721"/>
+      <point x="479" y="721" type="curve" smooth="yes"/>
+      <point x="404" y="721"/>
+      <point x="375" y="657"/>
+      <point x="338" y="565" type="curve" smooth="yes"/>
+      <point x="207" y="245" type="line" smooth="yes"/>
+      <point x="190" y="204"/>
+      <point x="172" y="151"/>
+      <point x="159" y="110" type="curve"/>
+      <point x="157" y="110" type="line"/>
+      <point x="161" y="171"/>
+      <point x="163" y="220"/>
+      <point x="163" y="265" type="curve" smooth="yes"/>
+      <point x="168" y="714" type="line"/>
+      <point x="86" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

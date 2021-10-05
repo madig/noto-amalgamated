@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblsectionmark" format="2">
+  <advance width="1005"/>
+  <unicode hex="1123C"/>
+  <note>
+u1123C
+</note>
+  <outline>
+    <component base="sectionmark" yOffset="65"/>
+    <component base="sectionmark" yOffset="-146"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>sectionmark</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>sectionmark</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

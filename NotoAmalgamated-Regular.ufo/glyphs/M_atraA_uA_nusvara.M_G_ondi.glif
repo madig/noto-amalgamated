@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MatraAuAnusvara.MGondi" format="2">
+  <advance width="213"/>
+  <outline>
+    <contour>
+      <point x="140" y="614" type="curve" smooth="yes"/>
+      <point x="140" y="568"/>
+      <point x="165" y="550"/>
+      <point x="198" y="550" type="curve" smooth="yes"/>
+      <point x="230" y="550"/>
+      <point x="257" y="568"/>
+      <point x="257" y="614" type="curve" smooth="yes"/>
+      <point x="257" y="661"/>
+      <point x="230" y="679"/>
+      <point x="198" y="679" type="curve" smooth="yes"/>
+      <point x="165" y="679"/>
+      <point x="140" y="661"/>
+    </contour>
+    <component base="MatraAu.MGondi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>MatraOAnusvara.MGondi</string>
+    </dict>
+  </lib>
+</glyph>

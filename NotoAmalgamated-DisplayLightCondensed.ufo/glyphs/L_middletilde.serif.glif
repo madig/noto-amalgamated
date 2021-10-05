@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lmiddletilde.serif" format="2">
+  <advance width="448"/>
+  <unicode hex="2C62"/>
+  <anchor x="224" y="0" name="bottom"/>
+  <anchor x="224" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="6" y="320" type="curve"/>
+      <point x="16" y="320" type="line"/>
+      <point x="17" y="347"/>
+      <point x="27" y="379"/>
+      <point x="61" y="379" type="curve" smooth="yes"/>
+      <point x="111" y="379"/>
+      <point x="127" y="310"/>
+      <point x="186" y="310" type="curve" smooth="yes"/>
+      <point x="233" y="310"/>
+      <point x="243" y="355"/>
+      <point x="247" y="394" type="curve"/>
+      <point x="237" y="394" type="line"/>
+      <point x="235" y="370"/>
+      <point x="227" y="335"/>
+      <point x="189" y="335" type="curve" smooth="yes"/>
+      <point x="135" y="335"/>
+      <point x="120" y="404"/>
+      <point x="64" y="404" type="curve" smooth="yes"/>
+      <point x="18" y="404"/>
+      <point x="10" y="357"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

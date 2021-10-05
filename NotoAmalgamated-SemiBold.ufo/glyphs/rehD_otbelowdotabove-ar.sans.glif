@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehDotbelowdotabove-ar.sans" format="2">
+  <advance width="409"/>
+  <unicode hex="0696"/>
+  <anchor x="234" y="392" name="top"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="dotabove-ar" xOffset="-16" yOffset="-542"/>
+    <component base="dotbelow-ar.restricted" xOffset="197" yOffset="-37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotabove-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotbelow-ar.restricted</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

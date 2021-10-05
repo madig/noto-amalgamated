@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="harVocalic-oriya" format="2">
+  <advance width="621"/>
+  <note>
+hrvocalicorya
+</note>
+  <outline>
+    <component base="ha-oriya.base"/>
+    <component base="rVocalicMatra-oriya" xOffset="-27" yOffset="110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>ha-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ha-oriya</string>
+    </dict>
+  </lib>
+</glyph>

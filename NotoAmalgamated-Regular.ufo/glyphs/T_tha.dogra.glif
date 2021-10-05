@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ttha.dogra" format="2">
+  <advance height="1494" width="560"/>
+  <unicode hex="11815"/>
+  <anchor x="292" y="-40" name="bottom1"/>
+  <anchor x="289" y="-30" name="bottom2"/>
+  <anchor x="264" y="67" name="bottom3"/>
+  <anchor x="283" y="660" name="top"/>
+  <anchor x="282" y="660" name="top2"/>
+  <outline>
+    <contour>
+      <point x="301" y="37" type="curve" smooth="yes"/>
+      <point x="426" y="37"/>
+      <point x="507" y="119"/>
+      <point x="507" y="247" type="curve" smooth="yes"/>
+      <point x="507" y="355"/>
+      <point x="402" y="468"/>
+      <point x="266" y="468" type="curve" smooth="yes"/>
+      <point x="134" y="468"/>
+      <point x="57" y="382"/>
+      <point x="57" y="268" type="curve" smooth="yes"/>
+      <point x="57" y="133"/>
+      <point x="177" y="37"/>
+    </contour>
+    <contour>
+      <point x="274" y="95" type="curve" smooth="yes"/>
+      <point x="196" y="95"/>
+      <point x="137" y="141"/>
+      <point x="137" y="246" type="curve" smooth="yes"/>
+      <point x="137" y="339"/>
+      <point x="195" y="410"/>
+      <point x="294" y="410" type="curve" smooth="yes"/>
+      <point x="373" y="410"/>
+      <point x="427" y="358"/>
+      <point x="427" y="270" type="curve" smooth="yes"/>
+      <point x="427" y="164"/>
+      <point x="361" y="95"/>
+    </contour>
+    <contour>
+      <point x="56" y="558" type="line"/>
+      <point x="535" y="558" type="line"/>
+      <point x="535" y="567" type="line"/>
+      <point x="504" y="625" type="line"/>
+      <point x="25" y="625" type="line"/>
+      <point x="25" y="616" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>public.verticalOrigin</key>
+      <integer>1130</integer>
+    </dict>
+  </lib>
+</glyph>

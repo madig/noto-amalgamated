@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn.sc.display" format="2">
+  <advance width="547"/>
+  <anchor x="214" y="0" name="bottom"/>
+  <anchor x="341" y="591" name="top"/>
+  <outline>
+    <contour>
+      <point x="6" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="213" y="86" type="line"/>
+      <point x="249" y="86" type="line" smooth="yes"/>
+      <point x="394" y="86"/>
+      <point x="514" y="164"/>
+      <point x="514" y="320" type="curve" smooth="yes"/>
+      <point x="514" y="422"/>
+      <point x="444" y="494"/>
+      <point x="313" y="494" type="curve" smooth="yes"/>
+      <point x="304" y="494" type="line"/>
+      <point x="325" y="591" type="line"/>
+      <point x="131" y="591" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="221" type="curve" smooth="yes"/>
+      <point x="244" y="221" type="line"/>
+      <point x="273" y="356" type="line"/>
+      <point x="293" y="356" type="line" smooth="yes"/>
+      <point x="329" y="356"/>
+      <point x="341" y="331"/>
+      <point x="341" y="306" type="curve" smooth="yes"/>
+      <point x="341" y="258"/>
+      <point x="319" y="221"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

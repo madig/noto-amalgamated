@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="visarga_svarita" format="2">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="205" y="362" type="curve" smooth="yes"/>
+      <point x="248" y="362"/>
+      <point x="285" y="381"/>
+      <point x="285" y="439" type="curve" smooth="yes"/>
+      <point x="285" y="499"/>
+      <point x="248" y="517"/>
+      <point x="205" y="517" type="curve" smooth="yes"/>
+      <point x="161" y="517"/>
+      <point x="126" y="499"/>
+      <point x="126" y="439" type="curve" smooth="yes"/>
+      <point x="126" y="381"/>
+      <point x="161" y="362"/>
+    </contour>
+    <contour>
+      <point x="205" y="43" type="curve" smooth="yes"/>
+      <point x="248" y="43"/>
+      <point x="285" y="62"/>
+      <point x="285" y="120" type="curve" smooth="yes"/>
+      <point x="285" y="180"/>
+      <point x="248" y="198"/>
+      <point x="205" y="198" type="curve" smooth="yes"/>
+      <point x="161" y="198"/>
+      <point x="125" y="180"/>
+      <point x="125" y="120" type="curve" smooth="yes"/>
+      <point x="125" y="62"/>
+      <point x="161" y="43"/>
+    </contour>
+    <component base="visargaSvarita-vedic" xOffset="346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

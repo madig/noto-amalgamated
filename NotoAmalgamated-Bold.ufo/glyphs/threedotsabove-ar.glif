@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsabove-ar" format="2">
+  <unicode hex="06DB"/>
+  <note>
+uni06DB
+</note>
+  <anchor x="0" y="993" name="_top"/>
+  <anchor x="0" y="990" name="_top2"/>
+  <anchor x="2" y="1269" name="top"/>
+  <outline>
+    <component base="threedots.small.above" xOffset="-9" yOffset="433"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>threedots.small.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

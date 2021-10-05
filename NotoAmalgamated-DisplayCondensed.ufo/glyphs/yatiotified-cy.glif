@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yatiotified-cy" format="2">
+  <advance width="615"/>
+  <unicode hex="A653"/>
+  <outline>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="144" y="473" type="line"/>
+      <point x="276" y="473" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="414" y="0" type="line" smooth="yes"/>
+      <point x="521" y="0"/>
+      <point x="583" y="55"/>
+      <point x="583" y="159" type="curve" smooth="yes"/>
+      <point x="583" y="262"/>
+      <point x="523" y="315"/>
+      <point x="410" y="315" type="curve" smooth="yes"/>
+      <point x="357" y="315" type="line"/>
+      <point x="357" y="473" type="line"/>
+      <point x="496" y="473" type="line"/>
+      <point x="496" y="537" type="line"/>
+      <point x="357" y="537" type="line"/>
+      <point x="357" y="643" type="line"/>
+      <point x="276" y="643" type="line"/>
+      <point x="276" y="537" type="line"/>
+      <point x="144" y="537" type="line"/>
+      <point x="144" y="643" type="line"/>
+      <point x="63" y="643" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="65" type="curve" smooth="yes"/>
+      <point x="357" y="65" type="line"/>
+      <point x="357" y="250" type="line"/>
+      <point x="411" y="250" type="line" smooth="yes"/>
+      <point x="472" y="250"/>
+      <point x="500" y="218"/>
+      <point x="500" y="156" type="curve" smooth="yes"/>
+      <point x="500" y="96"/>
+      <point x="470" y="65"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

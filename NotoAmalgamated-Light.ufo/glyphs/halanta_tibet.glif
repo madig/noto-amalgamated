@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="halanta_tibet" format="2">
+  <unicode hex="0F84"/>
+  <anchor x="289" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="369" y="-222" type="line"/>
+      <point x="222" y="-53"/>
+      <point x="154" y="-20"/>
+      <point x="77" y="-20" type="curve" smooth="yes"/>
+      <point x="62" y="-20"/>
+      <point x="45" y="-22"/>
+      <point x="32" y="-26" type="curve"/>
+      <point x="30" y="-50" type="line"/>
+      <point x="45" y="-47"/>
+      <point x="60" y="-46"/>
+      <point x="76" y="-46" type="curve" smooth="yes"/>
+      <point x="148" y="-46"/>
+      <point x="225" y="-87"/>
+      <point x="352" y="-232" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>399</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zlinebelow.display" format="2">
+  <advance width="591"/>
+  <unicode hex="1E94"/>
+  <anchor x="302" y="-199" name="bottom"/>
+  <anchor x="306" y="714" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="macronbelowcomb" xOffset="302"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

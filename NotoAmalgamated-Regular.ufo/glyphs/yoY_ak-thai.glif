@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yoYak-thai" format="2">
+  <advance width="601"/>
+  <unicode hex="0E22"/>
+  <note>
+uni0E22
+</note>
+  <anchor x="311" y="0" name="bottom"/>
+  <anchor x="510" y="0" name="bottomright"/>
+  <anchor x="296" y="553" name="top"/>
+  <anchor x="515" y="553" name="topright"/>
+  <outline>
+    <contour>
+      <point x="86" y="0" type="line"/>
+      <point x="347" y="0" type="line" smooth="yes"/>
+      <point x="467" y="0"/>
+      <point x="515" y="44"/>
+      <point x="515" y="154" type="curve" smooth="yes"/>
+      <point x="515" y="553" type="line"/>
+      <point x="430" y="553" type="line"/>
+      <point x="430" y="159" type="line" smooth="yes"/>
+      <point x="430" y="99"/>
+      <point x="414" y="72"/>
+      <point x="347" y="72" type="curve" smooth="yes"/>
+      <point x="132" y="72" type="line"/>
+      <point x="171" y="33" type="line"/>
+      <point x="171" y="148" type="line" smooth="yes"/>
+      <point x="171" y="200"/>
+      <point x="194" y="239"/>
+      <point x="259" y="239" type="curve" smooth="yes"/>
+      <point x="308" y="239" type="line"/>
+      <point x="308" y="306" type="line"/>
+      <point x="253" y="306" type="line" smooth="yes"/>
+      <point x="192" y="306"/>
+      <point x="158" y="335"/>
+      <point x="158" y="374" type="curve" smooth="yes"/>
+      <point x="158" y="378"/>
+      <point x="158" y="381"/>
+      <point x="159" y="384" type="curve"/>
+      <point x="132" y="384"/>
+      <point x="115" y="421"/>
+      <point x="115" y="461" type="curve"/>
+      <point x="105" y="461" type="line"/>
+      <point x="105" y="399"/>
+      <point x="136" y="362"/>
+      <point x="189" y="362" type="curve" smooth="yes"/>
+      <point x="251" y="362"/>
+      <point x="292" y="399"/>
+      <point x="292" y="460" type="curve" smooth="yes"/>
+      <point x="292" y="522"/>
+      <point x="253" y="560"/>
+      <point x="190" y="560" type="curve" smooth="yes"/>
+      <point x="115" y="560"/>
+      <point x="76" y="511"/>
+      <point x="76" y="423" type="curve" smooth="yes"/>
+      <point x="76" y="337"/>
+      <point x="131" y="264"/>
+      <point x="196" y="264" type="curve"/>
+      <point x="196" y="269" type="line"/>
+      <point x="121" y="269"/>
+      <point x="86" y="223"/>
+      <point x="86" y="141" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="189" y="410" type="curve" smooth="yes"/>
+      <point x="157" y="410"/>
+      <point x="140" y="431"/>
+      <point x="140" y="461" type="curve" smooth="yes"/>
+      <point x="140" y="490"/>
+      <point x="157" y="512"/>
+      <point x="189" y="512" type="curve" smooth="yes"/>
+      <point x="221" y="512"/>
+      <point x="238" y="490"/>
+      <point x="238" y="461" type="curve" smooth="yes"/>
+      <point x="238" y="432"/>
+      <point x="221" y="410"/>
+    </contour>
+    <contour>
+      <point x="169" y="273" type="line"/>
+      <point x="169" y="254" type="line"/>
+      <point x="181" y="254" type="line"/>
+      <point x="181" y="273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>boBaimai-thai</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>48</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>10</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>5</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <string>down</string>
+          <key>type</key>
+          <string>TopGhost</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>48</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>11</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>6</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>3</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>37</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>1</integer>
+            <integer>5</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

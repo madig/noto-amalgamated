@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghemiddlehook-cy.display" format="2">
+  <advance width="453"/>
+  <unicode hex="0495"/>
+  <anchor x="226" y="-241" name="bottom"/>
+  <anchor x="226" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="343" y="547" type="line"/>
+      <point x="53" y="547" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="184" y="190" type="line"/>
+      <point x="193" y="194"/>
+      <point x="202" y="196"/>
+      <point x="212" y="196" type="curve" smooth="yes"/>
+      <point x="268" y="196"/>
+      <point x="294" y="140"/>
+      <point x="294" y="35" type="curve" smooth="yes"/>
+      <point x="294" y="-79"/>
+      <point x="270" y="-131"/>
+      <point x="217" y="-131" type="curve" smooth="yes"/>
+      <point x="193" y="-131"/>
+      <point x="170" y="-123"/>
+      <point x="151" y="-107" type="curve"/>
+      <point x="151" y="-217" type="line"/>
+      <point x="179" y="-233"/>
+      <point x="209" y="-241"/>
+      <point x="244" y="-241" type="curve" smooth="yes"/>
+      <point x="364" y="-241"/>
+      <point x="426" y="-138"/>
+      <point x="426" y="42" type="curve" smooth="yes"/>
+      <point x="426" y="204"/>
+      <point x="351" y="306"/>
+      <point x="230" y="306" type="curve" smooth="yes"/>
+      <point x="216" y="306"/>
+      <point x="201" y="303"/>
+      <point x="184" y="299" type="curve"/>
+      <point x="184" y="437" type="line"/>
+      <point x="343" y="437" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

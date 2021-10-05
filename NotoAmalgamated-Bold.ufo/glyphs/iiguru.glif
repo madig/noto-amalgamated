@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iiguru" format="2">
+  <advance width="990"/>
+  <unicode hex="0A08"/>
+  <anchor x="1000" y="622" name="top"/>
+  <outline>
+    <component base="iriguru"/>
+    <component base="iimatraguru" xOffset="671"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iimatraguru</string>
+    </dict>
+  </lib>
+</glyph>

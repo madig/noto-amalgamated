@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehThreedotsupbelow-ar" format="2">
+  <advance width="689"/>
+  <unicode hex="0753"/>
+  <note>
+uni0753
+</note>
+  <anchor x="367" y="-264" name="bottom"/>
+  <anchor x="344" y="595" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="threedots.rev.below" xOffset="365"/>
+    <component base="twodots.above" xOffset="346" yOffset="-105"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>behDotless-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.rev.below</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>twodots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

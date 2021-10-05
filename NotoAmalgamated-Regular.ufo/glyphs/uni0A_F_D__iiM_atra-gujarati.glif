@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0AFD_iiMatra-gujarati" format="2">
+  <advance width="252"/>
+  <anchor x="160" y="592" name="top"/>
+  <anchor x="209" y="642" name="topright"/>
+  <outline>
+    <component base="uni0AFD" xOffset="-330"/>
+    <component base="iiMatra-gujarati"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>iiMatra-gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tah_meem_meem-ar.init" format="2">
+  <advance width="1547"/>
+  <unicode hex="FD73"/>
+  <anchor x="980" y="0" name="caret_1"/>
+  <anchor x="490" y="0" name="caret_2"/>
+  <outline>
+    <component base="tah-ar.init" xOffset="980"/>
+    <component base="meem-ar.medi" xOffset="490"/>
+    <component base="meem-ar.medi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>tah-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>meem-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

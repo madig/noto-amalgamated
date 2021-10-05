@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LturnedSansSerif.serif" format="2">
+  <advance width="506"/>
+  <unicode hex="2142"/>
+  <anchor x="390" y="0" name="bottom"/>
+  <anchor x="60" y="0" name="bottomleft"/>
+  <anchor x="253" y="357" name="center"/>
+  <anchor x="223" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="403" y="714" type="line"/>
+      <point x="20" y="714" type="line"/>
+      <point x="20" y="689" type="line"/>
+      <point x="377" y="689" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

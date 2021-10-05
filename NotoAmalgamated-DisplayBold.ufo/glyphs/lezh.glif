@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lezh" format="2">
+  <advance width="808"/>
+  <unicode hex="026E"/>
+  <anchor x="404" y="-240" name="bottom"/>
+  <anchor x="404" y="760" name="top"/>
+  <outline>
+    <contour>
+      <point x="449" y="-240" type="curve" smooth="yes"/>
+      <point x="679" y="-240"/>
+      <point x="773" y="-127"/>
+      <point x="773" y="35" type="curve" smooth="yes"/>
+      <point x="773" y="155"/>
+      <point x="693" y="243"/>
+      <point x="569" y="256" type="curve"/>
+      <point x="757" y="435" type="line"/>
+      <point x="757" y="553" type="line"/>
+      <point x="272" y="553" type="line"/>
+      <point x="272" y="760" type="line"/>
+      <point x="66" y="760" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="272" y="407" type="line"/>
+      <point x="493" y="407" type="line"/>
+      <point x="338" y="252" type="line"/>
+      <point x="338" y="130" type="line"/>
+      <point x="404" y="130" type="line" smooth="yes"/>
+      <point x="553" y="130"/>
+      <point x="568" y="79"/>
+      <point x="568" y="20" type="curve" smooth="yes"/>
+      <point x="568" y="-40"/>
+      <point x="532" y="-88"/>
+      <point x="443" y="-88" type="curve" smooth="yes"/>
+      <point x="359" y="-88"/>
+      <point x="284" y="-67"/>
+      <point x="224" y="-38" type="curve"/>
+      <point x="224" y="-202" type="line"/>
+      <point x="287" y="-226"/>
+      <point x="341" y="-240"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dzeabkhasian-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

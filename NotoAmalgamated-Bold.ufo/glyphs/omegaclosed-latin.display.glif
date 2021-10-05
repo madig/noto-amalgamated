@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegaclosed-latin.display" format="2">
+  <advance width="812"/>
+  <unicode hex="0277"/>
+  <anchor x="406" y="0" name="bottom"/>
+  <anchor x="406" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="408" y="560" type="curve"/>
+      <point x="176" y="560"/>
+      <point x="31" y="429"/>
+      <point x="31" y="238" type="curve"/>
+      <point x="31" y="84"/>
+      <point x="112" y="-10"/>
+      <point x="239" y="-10" type="curve"/>
+      <point x="341" y="-10"/>
+      <point x="382" y="38"/>
+      <point x="401" y="93" type="curve"/>
+      <point x="408" y="93" type="line"/>
+      <point x="422" y="42"/>
+      <point x="463" y="-10"/>
+      <point x="566" y="-10" type="curve"/>
+      <point x="703" y="-10"/>
+      <point x="778" y="84"/>
+      <point x="778" y="238" type="curve"/>
+      <point x="778" y="426"/>
+      <point x="656" y="560"/>
+    </contour>
+    <contour>
+      <point x="403" y="404" type="curve"/>
+      <point x="543" y="404"/>
+      <point x="586" y="323"/>
+      <point x="586" y="235" type="curve"/>
+      <point x="586" y="177"/>
+      <point x="569" y="140"/>
+      <point x="539" y="140" type="curve"/>
+      <point x="495" y="140"/>
+      <point x="495" y="176"/>
+      <point x="495" y="223" type="curve"/>
+      <point x="495" y="323" type="line"/>
+      <point x="314" y="323" type="line"/>
+      <point x="314" y="227" type="line" smooth="yes"/>
+      <point x="314" y="176"/>
+      <point x="311" y="140"/>
+      <point x="266" y="140" type="curve"/>
+      <point x="239" y="140"/>
+      <point x="223" y="177"/>
+      <point x="223" y="238" type="curve"/>
+      <point x="223" y="324"/>
+      <point x="261" y="404"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

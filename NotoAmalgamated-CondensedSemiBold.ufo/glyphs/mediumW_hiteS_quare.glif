@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mediumWhiteSquare" format="2">
+  <advance width="500"/>
+  <unicode hex="25FB"/>
+  <outline>
+    <contour>
+      <point x="47" y="60" type="line"/>
+      <point x="453" y="60" type="line"/>
+      <point x="453" y="466" type="line"/>
+      <point x="47" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="116" type="line"/>
+      <point x="103" y="410" type="line"/>
+      <point x="397" y="410" type="line"/>
+      <point x="397" y="116" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+    </dict>
+  </lib>
+</glyph>

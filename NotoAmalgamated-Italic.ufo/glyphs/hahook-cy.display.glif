@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahook-cy.display" format="2">
+  <advance width="546"/>
+  <unicode hex="04FD"/>
+  <anchor x="216" y="0" name="bottom"/>
+  <anchor x="330" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="339" y="-197" type="curve" smooth="yes"/>
+      <point x="414" y="-197"/>
+      <point x="446" y="-149"/>
+      <point x="465" y="-55" type="curve" smooth="yes"/>
+      <point x="478" y="10" type="line"/>
+      <point x="465" y="10" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="455" y="-49" type="line" smooth="yes"/>
+      <point x="442" y="-109"/>
+      <point x="400" y="-124"/>
+      <point x="361" y="-124" type="curve" smooth="yes"/>
+      <point x="319" y="-124"/>
+      <point x="304" y="-116"/>
+      <point x="290" y="-103" type="curve"/>
+      <point x="275" y="-115"/>
+      <point x="268" y="-130"/>
+      <point x="268" y="-149" type="curve" smooth="yes"/>
+      <point x="268" y="-178"/>
+      <point x="295" y="-197"/>
+    </contour>
+    <component base="x"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

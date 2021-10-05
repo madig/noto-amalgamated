@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="feh-ar.fina" format="2">
+  <advance width="1032"/>
+  <note>
+uni0641.fina
+</note>
+  <anchor x="733" y="-78" name="bottom"/>
+  <anchor x="735" y="754" name="top"/>
+  <outline>
+    <component base="fehDotless-ar.fina"/>
+    <component base="onedot.above" xOffset="738"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fehDotless-ar.fina</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

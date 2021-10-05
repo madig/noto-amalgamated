@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thornstroke.serif" format="2">
+  <advance width="524"/>
+  <unicode hex="A764"/>
+  <outline>
+    <contour>
+      <point x="22" y="0" type="line"/>
+      <point x="313" y="0" type="line"/>
+      <point x="313" y="49" type="line"/>
+      <point x="283" y="49" type="line" smooth="yes"/>
+      <point x="253" y="49"/>
+      <point x="233" y="65"/>
+      <point x="233" y="114" type="curve" smooth="yes"/>
+      <point x="233" y="141" type="line"/>
+      <point x="257" y="141" type="line" smooth="yes"/>
+      <point x="447" y="141"/>
+      <point x="500" y="224"/>
+      <point x="500" y="332" type="curve" smooth="yes"/>
+      <point x="500" y="451"/>
+      <point x="440" y="507"/>
+      <point x="274" y="507" type="curve" smooth="yes"/>
+      <point x="233" y="507" type="line"/>
+      <point x="233" y="610" type="line" smooth="yes"/>
+      <point x="233" y="649"/>
+      <point x="246" y="665"/>
+      <point x="283" y="665" type="curve" smooth="yes"/>
+      <point x="313" y="665" type="line"/>
+      <point x="313" y="714" type="line"/>
+      <point x="22" y="714" type="line"/>
+      <point x="22" y="665" type="line"/>
+      <point x="49" y="665" type="line" smooth="yes"/>
+      <point x="80" y="665"/>
+      <point x="98" y="651"/>
+      <point x="98" y="610" type="curve" smooth="yes"/>
+      <point x="98" y="110" type="line" smooth="yes"/>
+      <point x="98" y="63"/>
+      <point x="77" y="49"/>
+      <point x="49" y="49" type="curve" smooth="yes"/>
+      <point x="22" y="49" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="195" type="curve" smooth="yes"/>
+      <point x="233" y="195" type="line"/>
+      <point x="233" y="450" type="line"/>
+      <point x="261" y="450" type="line" smooth="yes"/>
+      <point x="331" y="450"/>
+      <point x="357" y="414"/>
+      <point x="357" y="328" type="curve" smooth="yes"/>
+      <point x="357" y="228"/>
+      <point x="327" y="195"/>
+    </contour>
+    <contour>
+      <point x="22" y="410" type="line"/>
+      <point x="424" y="634" type="line"/>
+      <point x="424" y="694" type="line"/>
+      <point x="22" y="470" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Thorn</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>Thorn</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

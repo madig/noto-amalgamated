@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravedottedcomb.display" format="2">
+  <unicode hex="1DC0"/>
+  <anchor x="57" y="536" name="_top"/>
+  <anchor x="98" y="819" name="top"/>
+  <outline>
+    <contour>
+      <point x="116" y="622" type="curve"/>
+      <point x="130" y="622" type="line"/>
+      <point x="132" y="637" type="line"/>
+      <point x="123" y="678"/>
+      <point x="120" y="757"/>
+      <point x="120" y="806" type="curve"/>
+      <point x="28" y="806" type="line"/>
+      <point x="28" y="795" type="line"/>
+      <point x="41" y="758"/>
+      <point x="87" y="666"/>
+    </contour>
+    <contour>
+      <point x="-41" y="614" type="curve" smooth="yes"/>
+      <point x="-15" y="614"/>
+      <point x="15" y="634"/>
+      <point x="15" y="690" type="curve" smooth="yes"/>
+      <point x="15" y="726"/>
+      <point x="-4" y="743"/>
+      <point x="-32" y="743" type="curve" smooth="yes"/>
+      <point x="-67" y="743"/>
+      <point x="-88" y="712"/>
+      <point x="-88" y="667" type="curve" smooth="yes"/>
+      <point x="-88" y="631"/>
+      <point x="-70" y="614"/>
+    </contour>
+    <contour>
+      <point x="223" y="690" type="curve" smooth="yes"/>
+      <point x="250" y="690"/>
+      <point x="279" y="710"/>
+      <point x="279" y="766" type="curve" smooth="yes"/>
+      <point x="279" y="802"/>
+      <point x="260" y="819"/>
+      <point x="232" y="819" type="curve" smooth="yes"/>
+      <point x="198" y="819"/>
+      <point x="176" y="788"/>
+      <point x="176" y="743" type="curve" smooth="yes"/>
+      <point x="176" y="707"/>
+      <point x="194" y="690"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

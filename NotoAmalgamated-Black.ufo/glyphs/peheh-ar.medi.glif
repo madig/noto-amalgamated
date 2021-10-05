@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peheh-ar.medi" format="2">
+  <advance width="733"/>
+  <note>
+uni06A6.medi
+</note>
+  <anchor x="366" y="-78" name="bottom"/>
+  <anchor x="369" y="933" name="top"/>
+  <outline>
+    <component base="qafDotless-ar.medi"/>
+    <component base="fourdots.above" xOffset="361"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>qafDotless-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fourdots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

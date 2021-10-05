@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ha_rrVocalicMatra_nukta-deva" format="2">
+  <advance width="363"/>
+  <anchor x="211" y="-189" name="bottom_right"/>
+  <anchor x="298" y="623" name="candra"/>
+  <anchor x="122" y="-262" name="nukta"/>
+  <anchor x="298" y="623" name="top"/>
+  <outline>
+    <component base="ha_rrVocalicMatra-deva"/>
+    <component base="nukta-deva" xOffset="376" yOffset="-18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

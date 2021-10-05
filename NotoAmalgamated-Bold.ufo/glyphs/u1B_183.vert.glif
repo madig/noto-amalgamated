@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1B183.vert" format="2">
+  <advance height="1200" width="1000"/>
+  <note>
+u1B183.vert
+</note>
+  <outline>
+    <contour>
+      <point x="805" y="131" type="curve"/>
+      <point x="710" y="206" type="line"/>
+      <point x="665.95" y="151.82"/>
+      <point x="623.95" y="103.82"/>
+      <point x="584" y="62" type="curve"/>
+      <point x="501" y="228" type="line"/>
+      <point x="630.52" y="389.03"/>
+      <point x="704.52" y="585.03"/>
+      <point x="723" y="816" type="curve"/>
+      <point x="601" y="824" type="line"/>
+      <point x="593.2" y="732.18"/>
+      <point x="576.19" y="647.35"/>
+      <point x="549.99" y="569.52" type="curve" smooth="yes"/>
+      <point x="489.55" y="391.27"/>
+      <point x="371.22" y="236.77"/>
+      <point x="195" y="106" type="curve"/>
+      <point x="264" y="9" type="line"/>
+      <point x="315.05" y="45"/>
+      <point x="363.71" y="85"/>
+      <point x="410" y="129" type="curve"/>
+      <point x="491" y="-34" type="line"/>
+      <point x="430.24" y="-93.72"/>
+      <point x="367.58" y="-149.05"/>
+      <point x="303" y="-200" type="curve"/>
+      <point x="373" y="-296" type="line"/>
+      <point x="385.71" y="-286.03"/>
+      <point x="398.8" y="-275.55"/>
+      <point x="412.29" y="-264.55" type="curve" smooth="yes"/>
+      <point x="564.28" y="-140.28"/>
+      <point x="695.18" y="-8.43"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>601</integer>
+            <integer>122</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

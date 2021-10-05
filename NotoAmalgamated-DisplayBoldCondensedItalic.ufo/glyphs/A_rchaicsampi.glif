@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Archaicsampi" format="2">
+  <advance width="697"/>
+  <unicode hex="0372"/>
+  <outline>
+    <contour>
+      <point x="207" y="0" type="line"/>
+      <point x="374" y="0" type="line"/>
+      <point x="494" y="567" type="line"/>
+      <point x="610" y="567" type="line"/>
+      <point x="641" y="714" type="line"/>
+      <point x="243" y="714" type="line"/>
+      <point x="212" y="567" type="line"/>
+      <point x="327" y="567" type="line"/>
+    </contour>
+    <contour>
+      <point x="53" y="346" type="line"/>
+      <point x="215" y="346" type="line"/>
+      <point x="294" y="714" type="line"/>
+      <point x="131" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="346" type="line"/>
+      <point x="673" y="346" type="line"/>
+      <point x="752" y="714" type="line"/>
+      <point x="589" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|E</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=E</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

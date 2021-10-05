@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotatonos.serif" format="2">
+  <advance width="325"/>
+  <unicode hex="03AF"/>
+  <anchor x="163" y="0" name="bottom"/>
+  <anchor x="163" y="796" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="tonos" xOffset="-66"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

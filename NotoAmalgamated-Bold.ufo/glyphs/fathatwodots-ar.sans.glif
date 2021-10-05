@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fathatwodots-ar.sans" format="2">
+  <unicode hex="065E"/>
+  <anchor x="161" y="458" name="_top"/>
+  <anchor x="159" y="906" name="top"/>
+  <outline>
+    <contour>
+      <point x="40" y="615" type="line"/>
+      <point x="286" y="799" type="line"/>
+      <point x="286" y="885" type="line"/>
+      <point x="40" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="580" type="curve" smooth="yes"/>
+      <point x="264" y="580"/>
+      <point x="290" y="607"/>
+      <point x="290" y="639" type="curve" smooth="yes"/>
+      <point x="290" y="672"/>
+      <point x="264" y="701"/>
+      <point x="231" y="701" type="curve" smooth="yes"/>
+      <point x="198" y="701"/>
+      <point x="171" y="672"/>
+      <point x="171" y="639" type="curve" smooth="yes"/>
+      <point x="171" y="607"/>
+      <point x="198" y="580"/>
+    </contour>
+    <contour>
+      <point x="106" y="801" type="curve" smooth="yes"/>
+      <point x="138" y="801"/>
+      <point x="165" y="829"/>
+      <point x="165" y="861" type="curve" smooth="yes"/>
+      <point x="165" y="894"/>
+      <point x="138" y="922"/>
+      <point x="106" y="922" type="curve" smooth="yes"/>
+      <point x="72" y="922"/>
+      <point x="46" y="894"/>
+      <point x="46" y="861" type="curve" smooth="yes"/>
+      <point x="46" y="829"/>
+      <point x="72" y="801"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>330</integer>
+    </dict>
+  </lib>
+</glyph>

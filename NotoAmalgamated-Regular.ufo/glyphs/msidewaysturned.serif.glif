@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="msidewaysturned.serif" format="2">
+  <advance width="719"/>
+  <unicode hex="1D1F"/>
+  <anchor x="360" y="-168" name="bottom"/>
+  <anchor x="360" y="721" name="top"/>
+  <anchor x="629" y="721" name="topright"/>
+  <outline>
+    <component base="mturned" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="619" yOffset="-196"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

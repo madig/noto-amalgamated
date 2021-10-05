@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rehStroke-ar.fina" format="2">
+  <advance width="478"/>
+  <note>
+uni075B.fina
+</note>
+  <anchor x="127" y="-391" name="bottom"/>
+  <anchor x="265" y="566" name="top"/>
+  <outline>
+    <contour>
+      <point x="353" y="120" type="line"/>
+      <point x="353" y="495" type="line"/>
+      <point x="204" y="495" type="line"/>
+      <point x="204" y="-18" type="line" smooth="yes"/>
+      <point x="204" y="-29"/>
+      <point x="203" y="-50"/>
+      <point x="201" y="-61" type="curve"/>
+      <point x="62" y="-61" type="line"/>
+      <point x="62" y="-148" type="line"/>
+      <point x="167" y="-148" type="line"/>
+      <point x="146" y="-185"/>
+      <point x="114" y="-221"/>
+      <point x="71" y="-257" type="curve"/>
+      <point x="161" y="-360" type="line"/>
+      <point x="246" y="-287"/>
+      <point x="298" y="-220"/>
+      <point x="327" y="-148" type="curve"/>
+      <point x="414" y="-148" type="line"/>
+      <point x="414" y="-61" type="line"/>
+      <point x="351" y="-61" type="line"/>
+      <point x="352" y="-49"/>
+      <point x="353" y="-28"/>
+      <point x="353" y="-16" type="curve" smooth="yes"/>
+      <point x="353" y="0" type="line"/>
+      <point x="483" y="0" type="line" smooth="yes"/>
+      <point x="486" y="0"/>
+      <point x="488" y="2"/>
+      <point x="488" y="5" type="curve" smooth="yes"/>
+      <point x="488" y="116" type="line" smooth="yes"/>
+      <point x="488" y="119"/>
+      <point x="486" y="120"/>
+      <point x="483" y="120" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 36 values pushed */
+12 0 7 7 18 23 11 23 16 20 4 26 3 27 25 15 12 9 9 18 64 0 21 1 9 3 21 21 7 15 7 0 70 89 7 18 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MIAP[1]	/* MoveIndirectAbsPt */
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+RTG[ ]	/* RoundToGrid */
+MDAP[1]	/* MoveDirectAbsPt */
+SRP2[ ]	/* SetRefPoint2 */
+IP[ ]	/* InterpolatePts */
+MDAP[1]	/* MoveDirectAbsPt */
+SDS[ ]	/* SetDeltaShiftInGState */
+SDB[ ]	/* SetDeltaBaseInGState */
+DELTAP1[ ]	/* DeltaExceptionP1 */
+SMD[ ]	/* SetMinimumDistance */
+MDRP[01101]	/* MoveDirectRelPt */
+SHP[1]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+MDRP[01101]	/* MoveDirectRelPt */
+MIAP[1]	/* MoveIndirectAbsPt */
+SRP1[ ]	/* SetRefPoint1 */
+SVTCA[1]	/* SetFreedomAndProjectionVectorToAxis */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP2[ ]	/* SetRefPoint2 */
+SLOOP[ ]	/* SetLoopVariable */
+IP[ ]	/* InterpolatePts */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+SHP[1]	/* ShiftPointByLastPoint */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+SHP[1]	/* ShiftPointByLastPoint */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

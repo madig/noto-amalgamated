@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessbeh-ar.init.short" format="2">
+  <advance width="229"/>
+  <anchor x="101" y="-5" name="bottom"/>
+  <anchor x="85" y="383" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="-5" type="line"/>
+      <point x="100" y="-5"/>
+      <point x="142" y="31"/>
+      <point x="142" y="119" type="curve" smooth="yes"/>
+      <point x="142" y="164"/>
+      <point x="132" y="216"/>
+      <point x="116" y="277" type="curve"/>
+      <point x="91" y="271" type="line"/>
+      <point x="111" y="201"/>
+      <point x="118" y="157"/>
+      <point x="118" y="111" type="curve" smooth="yes"/>
+      <point x="118" y="46"/>
+      <point x="87" y="19"/>
+      <point x="4" y="19" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>seen-ar</string>
+    </dict>
+  </lib>
+</glyph>

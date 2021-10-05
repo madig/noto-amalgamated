@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iota_dieresiscomb_macroncomb_gravecomb.display" format="2">
+  <advance width="259"/>
+  <anchor x="96" y="0" name="bottom"/>
+  <anchor x="260" y="932" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="gravecomb_macroncomb_dieresiscomb" xOffset="-89"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

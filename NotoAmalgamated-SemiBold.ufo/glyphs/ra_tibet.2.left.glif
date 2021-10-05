@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ra_tibet.2.left" format="2">
+  <advance width="650"/>
+  <anchor x="466" y="478" name="bottomright"/>
+  <anchor x="446" y="678" name="flag"/>
+  <anchor x="254" y="678" name="top"/>
+  <anchor x="62" y="678" name="topleft"/>
+  <anchor x="466" y="678" name="topright"/>
+  <outline>
+    <contour>
+      <point x="282" y="610" type="curve"/>
+      <point x="161" y="584" type="line"/>
+      <point x="206" y="552"/>
+      <point x="223" y="508"/>
+      <point x="223" y="468" type="curve" smooth="yes"/>
+      <point x="223" y="449"/>
+      <point x="221" y="431"/>
+      <point x="215" y="415" type="curve"/>
+      <point x="283" y="417" type="line"/>
+      <point x="293" y="445"/>
+      <point x="299" y="476"/>
+      <point x="299" y="507" type="curve" smooth="yes"/>
+      <point x="299" y="542"/>
+      <point x="293" y="583"/>
+    </contour>
+    <contour>
+      <point x="446" y="678" type="line"/>
+      <point x="94" y="678" type="line"/>
+      <point x="62" y="542" type="line"/>
+      <point x="414" y="542" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>ra_tibet.2</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zswashtail" format="2">
+  <advance width="224"/>
+  <unicode hex="0240"/>
+  <anchor x="112" y="-232" name="bottom"/>
+  <anchor x="112" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="210" y="-232" type="curve" smooth="yes"/>
+      <point x="232" y="-232"/>
+      <point x="246" y="-227"/>
+      <point x="252" y="-224" type="curve"/>
+      <point x="252" y="-198" type="line"/>
+      <point x="243" y="-204"/>
+      <point x="229" y="-207"/>
+      <point x="213" y="-207" type="curve" smooth="yes"/>
+      <point x="158" y="-207"/>
+      <point x="154" y="-154"/>
+      <point x="150" y="-98" type="curve" smooth="yes"/>
+      <point x="143" y="-6"/>
+      <point x="113" y="18"/>
+      <point x="51" y="25" type="curve"/>
+      <point x="221" y="504" type="line"/>
+      <point x="221" y="527" type="line"/>
+      <point x="37" y="527" type="line"/>
+      <point x="37" y="502" type="line"/>
+      <point x="193" y="502" type="line"/>
+      <point x="23" y="24" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="32" y="0" type="line" smooth="yes"/>
+      <point x="89" y="0"/>
+      <point x="118" y="-16"/>
+      <point x="124" y="-97" type="curve" smooth="yes"/>
+      <point x="129" y="-168"/>
+      <point x="135" y="-232"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

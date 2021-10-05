@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lamVabove_alef-ar.isol" format="2">
+  <advance width="674"/>
+  <note>
+uni06B50627.isol
+</note>
+  <anchor x="569" y="-71" name="bottom_1"/>
+  <anchor x="224" y="-78" name="bottom_2"/>
+  <anchor x="337" y="0" name="caret_1"/>
+  <anchor x="509" y="1064" name="top"/>
+  <anchor x="522" y="1070" name="top_1"/>
+  <anchor x="144" y="713" name="top_2"/>
+  <outline>
+    <component base="lam_alef-ar.isol"/>
+    <component base="smallv.arabic" xOffset="536" yOffset="207"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>lam_alef-ar.isol</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>smallv.arabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

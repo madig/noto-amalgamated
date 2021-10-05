@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic.display" format="2">
+  <advance width="466"/>
+  <unicode hex="0138"/>
+  <anchor x="233" y="0" name="bottom"/>
+  <anchor x="233" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="461" y="547" type="line"/>
+      <point x="321" y="547" type="line"/>
+      <point x="218" y="365" type="line" smooth="yes"/>
+      <point x="207" y="347"/>
+      <point x="193" y="322"/>
+      <point x="182" y="296" type="curve"/>
+      <point x="178" y="296" type="line"/>
+      <point x="183" y="338"/>
+      <point x="184" y="382"/>
+      <point x="184" y="429" type="curve" smooth="yes"/>
+      <point x="184" y="547" type="line"/>
+      <point x="53" y="547" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="184" y="176" type="line"/>
+      <point x="233" y="226" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="468" y="0" type="line"/>
+      <point x="322" y="323" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

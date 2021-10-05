@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1B19B.vert" format="2">
+  <advance height="1200" width="1000"/>
+  <note>
+u1B19B.vert
+</note>
+  <outline>
+    <contour>
+      <point x="689" y="815" type="curve"/>
+      <point x="604" y="824" type="line"/>
+      <point x="580.55" y="634.06"/>
+      <point x="537.22" y="465.39"/>
+      <point x="474" y="318" type="curve"/>
+      <point x="425.19" y="432.79"/>
+      <point x="372.86" y="538.79"/>
+      <point x="317" y="636" type="curve"/>
+      <point x="243" y="592" type="line"/>
+      <point x="310.66" y="470.93"/>
+      <point x="370.99" y="344.27"/>
+      <point x="424" y="212" type="curve"/>
+      <point x="359.05" y="90.34"/>
+      <point x="276.72" y="-21.99"/>
+      <point x="177" y="-125" type="curve"/>
+      <point x="236" y="-187" type="line"/>
+      <point x="326.72" y="-96.14"/>
+      <point x="403.05" y="1.19"/>
+      <point x="465" y="105" type="curve"/>
+      <point x="512.68" y="-27.78"/>
+      <point x="553.01" y="-161.45"/>
+      <point x="586" y="-296" type="curve"/>
+      <point x="669" y="-272" type="line"/>
+      <point x="626.32" y="-104.4"/>
+      <point x="576.32" y="54.93"/>
+      <point x="519" y="206" type="curve"/>
+      <point x="604.03" y="379.28"/>
+      <point x="660.7" y="582.28"/>
+    </contour>
+    <contour>
+      <point x="187" y="262" type="curve" smooth="yes"/>
+      <point x="195.34" y="262.14"/>
+      <point x="203.48" y="263.88"/>
+      <point x="211.44" y="267.21" type="curve" smooth="yes"/>
+      <point x="233.82" y="277.51"/>
+      <point x="245" y="296.1"/>
+      <point x="245" y="323" type="curve" smooth="yes"/>
+      <point x="244.88" y="331.64"/>
+      <point x="243.41" y="340.1"/>
+      <point x="240.58" y="348.39" type="curve" smooth="yes"/>
+      <point x="231.23" y="373.46"/>
+      <point x="213.37" y="386"/>
+      <point x="187" y="386" type="curve" smooth="yes"/>
+      <point x="178.61" y="385.85"/>
+      <point x="170.34" y="384"/>
+      <point x="162.19" y="380.46" type="curve" smooth="yes"/>
+      <point x="139.4" y="369.6"/>
+      <point x="128" y="350.45"/>
+      <point x="128" y="323" type="curve" smooth="yes"/>
+      <point x="128.14" y="314.07"/>
+      <point x="130.03" y="305.28"/>
+      <point x="133.65" y="296.64" type="curve" smooth="yes"/>
+      <point x="144.18" y="273.55"/>
+      <point x="161.96" y="262"/>
+    </contour>
+    <contour>
+      <point x="245" y="124" type="curve" smooth="yes"/>
+      <point x="244.87" y="133.18"/>
+      <point x="243.16" y="142.12"/>
+      <point x="239.85" y="150.82" type="curve" smooth="yes"/>
+      <point x="229.88" y="174.94"/>
+      <point x="211.93" y="187"/>
+      <point x="186" y="187" type="curve" smooth="yes"/>
+      <point x="177.66" y="186.84"/>
+      <point x="169.44" y="184.94"/>
+      <point x="161.37" y="181.3" type="curve" smooth="yes"/>
+      <point x="139.13" y="170.29"/>
+      <point x="128" y="151.19"/>
+      <point x="128" y="124" type="curve" smooth="yes"/>
+      <point x="128.14" y="115.29"/>
+      <point x="129.96" y="106.65"/>
+      <point x="133.46" y="98.07" type="curve" smooth="yes"/>
+      <point x="143.84" y="74.69"/>
+      <point x="161.35" y="63"/>
+      <point x="186" y="63" type="curve" smooth="yes"/>
+      <point x="194.86" y="63.16"/>
+      <point x="203.52" y="65.17"/>
+      <point x="211.98" y="69.03" type="curve" smooth="yes"/>
+      <point x="233.99" y="80"/>
+      <point x="245" y="98.32"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>63</integer>
+            <integer>124</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>262</integer>
+            <integer>124</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>128</integer>
+            <integer>117</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>604</integer>
+            <integer>85</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+        <dict>
+          <key>horizontal</key>
+          <false/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>586</integer>
+            <integer>83</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

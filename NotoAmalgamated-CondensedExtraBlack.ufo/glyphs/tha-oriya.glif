@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tha-oriya" format="2">
+  <advance width="614"/>
+  <unicode hex="0B25"/>
+  <note>
+thaorya
+</note>
+  <anchor x="433" y="0" name="bottom"/>
+  <anchor x="580" y="0" name="bottom_ra"/>
+  <anchor x="226" y="658" name="top"/>
+  <anchor x="507" y="658" name="topright"/>
+  <outline>
+    <contour>
+      <point x="253" y="484" type="curve"/>
+      <point x="253" y="484" type="line"/>
+      <point x="253" y="434"/>
+      <point x="211" y="410"/>
+      <point x="176" y="390" type="curve"/>
+      <point x="137" y="368" type="line" smooth="yes"/>
+      <point x="76" y="333"/>
+      <point x="14" y="289"/>
+      <point x="14" y="184" type="curve"/>
+      <point x="14" y="57"/>
+      <point x="108" y="-8"/>
+      <point x="221" y="-8" type="curve"/>
+      <point x="333" y="-8"/>
+      <point x="412" y="25"/>
+      <point x="488" y="94" type="curve"/>
+      <point x="458" y="283" type="line"/>
+      <point x="431" y="199"/>
+      <point x="306" y="139"/>
+      <point x="228" y="139" type="curve"/>
+      <point x="192" y="139"/>
+      <point x="166" y="154"/>
+      <point x="166" y="186" type="curve"/>
+      <point x="166" y="226"/>
+      <point x="205" y="247"/>
+      <point x="248" y="271" type="curve"/>
+      <point x="266" y="281" type="line" smooth="yes"/>
+      <point x="328" y="315"/>
+      <point x="399" y="364"/>
+      <point x="399" y="485" type="curve"/>
+      <point x="399" y="601"/>
+      <point x="333" y="666"/>
+      <point x="226" y="666" type="curve"/>
+      <point x="116" y="666"/>
+      <point x="42" y="597"/>
+      <point x="42" y="490" type="curve"/>
+      <point x="42" y="459"/>
+      <point x="48" y="428"/>
+      <point x="59" y="394" type="curve"/>
+      <point x="195.325" y="435.842" type="line"/>
+      <point x="190.07" y="453.183"/>
+      <point x="187" y="470.208"/>
+      <point x="187" y="485" type="curve"/>
+      <point x="187" y="514"/>
+      <point x="199" y="530"/>
+      <point x="220" y="530" type="curve"/>
+      <point x="241" y="530"/>
+      <point x="253" y="515"/>
+    </contour>
+    <contour>
+      <point x="458" y="149" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="580" y="0" type="line"/>
+      <point x="580" y="658" type="line"/>
+      <point x="433" y="658" type="line"/>
+      <point x="433" y="209" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaMatra-oriya</string>
+    </dict>
+  </lib>
+</glyph>

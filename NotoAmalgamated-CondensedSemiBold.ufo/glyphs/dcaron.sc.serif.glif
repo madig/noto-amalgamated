@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron.sc.serif" format="2">
+  <advance width="564"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="282" y="814" name="top"/>
+  <outline>
+    <component base="d.sc"/>
+    <component base="caroncomb.sc" xOffset="46" yOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

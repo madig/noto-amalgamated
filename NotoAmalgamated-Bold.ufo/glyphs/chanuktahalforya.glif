@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chanuktahalforya" format="2">
+  <advance width="679"/>
+  <anchor x="339" y="0" name="b.tasubscriptorya"/>
+  <anchor x="516" y="0" name="b.uvowelsignorya"/>
+  <anchor x="339" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <component base="chaorya"/>
+    <component base="nuktaorya" xOffset="602"/>
+    <component base="viramaorya" xOffset="617"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

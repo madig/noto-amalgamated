@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="004E"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="305" y="714" name="top"/>
+  <anchor x="600" y="714" name="topright"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="356" type="line" smooth="yes"/>
+      <point x="174" y="396"/>
+      <point x="170" y="485"/>
+      <point x="164" y="580" type="curve"/>
+      <point x="168" y="580" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="555" y="0" type="line"/>
+      <point x="555" y="714" type="line"/>
+      <point x="426" y="714" type="line"/>
+      <point x="426" y="356" type="line" smooth="yes"/>
+      <point x="426" y="317"/>
+      <point x="428" y="232"/>
+      <point x="433" y="139" type="curve"/>
+      <point x="430" y="139" type="line"/>
+      <point x="242" y="714" type="line"/>
+      <point x="45" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

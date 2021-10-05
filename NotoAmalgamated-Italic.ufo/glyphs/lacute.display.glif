@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute.display" format="2">
+  <advance width="248"/>
+  <unicode hex="013A"/>
+  <anchor x="67" y="0" name="bottom"/>
+  <anchor x="278" y="990" name="top"/>
+  <outline>
+    <component base="l"/>
+    <component base="acute" xOffset="76" yOffset="224"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

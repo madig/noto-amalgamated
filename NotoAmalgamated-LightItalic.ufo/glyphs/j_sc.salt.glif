@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j_sc.salt" format="2">
+  <advance width="292"/>
+  <anchor x="58" y="0" name="bottom"/>
+  <anchor x="260" y="559" name="top"/>
+  <anchor x="331" y="559" name="topright"/>
+  <outline>
+    <contour>
+      <point x="45" y="-10" type="curve" smooth="yes"/>
+      <point x="117" y="-10"/>
+      <point x="161" y="30"/>
+      <point x="177" y="109" type="curve" smooth="yes"/>
+      <point x="271" y="560" type="line"/>
+      <point x="245" y="560" type="line"/>
+      <point x="151" y="110" type="line" smooth="yes"/>
+      <point x="139" y="54"/>
+      <point x="109" y="15"/>
+      <point x="48" y="15" type="curve" smooth="yes"/>
+      <point x="15" y="15"/>
+      <point x="-19" y="24"/>
+      <point x="-39" y="32" type="curve"/>
+      <point x="-39" y="6" type="line"/>
+      <point x="-21" y="-2"/>
+      <point x="9" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

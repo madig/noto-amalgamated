@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iiMatra-oriya.sans" format="2">
+  <advance width="193"/>
+  <unicode hex="0B40"/>
+  <note>
+iivowelsignorya
+</note>
+  <anchor x="130" y="751" name="topright"/>
+  <outline>
+    <contour>
+      <point x="141" y="93" type="line"/>
+      <point x="141" y="751" type="line"/>
+      <point x="119" y="751" type="line"/>
+      <point x="-10" y="638" type="line"/>
+      <point x="7" y="619" type="line"/>
+      <point x="130" y="728" type="line"/>
+      <point x="115" y="731" type="line"/>
+      <point x="115" y="93" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aaMatra-oriya</string>
+    </dict>
+  </lib>
+</glyph>

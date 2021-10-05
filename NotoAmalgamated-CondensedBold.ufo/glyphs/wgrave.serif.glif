@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wgrave.serif" format="2">
+  <advance width="710"/>
+  <unicode hex="1E81"/>
+  <anchor x="355" y="0" name="bottom"/>
+  <anchor x="355" y="766" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="grave" xOffset="179"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

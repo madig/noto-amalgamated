@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaf-ar.fina.sans" format="2">
+  <advance width="864"/>
+  <unicode hex="FEDA"/>
+  <anchor x="435" y="-21" name="bottom"/>
+  <anchor x="447" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="410" y="-21" type="line"/>
+      <point x="592" y="-21"/>
+      <point x="735" y="2"/>
+      <point x="759" y="111" type="curve"/>
+      <point x="748" y="111" type="line"/>
+      <point x="748" y="10"/>
+      <point x="801" y="-5"/>
+      <point x="864" y="-5" type="curve" smooth="yes"/>
+      <point x="872" y="-5"/>
+      <point x="878" y="2"/>
+      <point x="878" y="8" type="curve" smooth="yes"/>
+      <point x="878" y="14"/>
+      <point x="875" y="19"/>
+      <point x="867" y="19" type="curve" smooth="yes"/>
+      <point x="769" y="19"/>
+      <point x="767" y="68"/>
+      <point x="763" y="172" type="curve" smooth="yes"/>
+      <point x="743" y="714" type="line"/>
+      <point x="720" y="714" type="line"/>
+      <point x="739" y="166" type="line" smooth="yes"/>
+      <point x="743" y="45"/>
+      <point x="645" y="3"/>
+      <point x="436" y="3" type="curve"/>
+    </contour>
+    <contour>
+      <point x="364" y="204" type="line"/>
+      <point x="482" y="235"/>
+      <point x="521" y="267"/>
+      <point x="521" y="300" type="curve" smooth="yes"/>
+      <point x="521" y="359"/>
+      <point x="409" y="376"/>
+      <point x="409" y="421" type="curve" smooth="yes"/>
+      <point x="409" y="452"/>
+      <point x="461" y="494"/>
+      <point x="521" y="521" type="curve"/>
+      <point x="511" y="540" type="line"/>
+      <point x="409" y="491"/>
+      <point x="387" y="447"/>
+      <point x="387" y="421" type="curve" smooth="yes"/>
+      <point x="387" y="361"/>
+      <point x="499" y="342"/>
+      <point x="499" y="300" type="curve" smooth="yes"/>
+      <point x="499" y="283"/>
+      <point x="475" y="255"/>
+      <point x="358" y="225" type="curve"/>
+    </contour>
+    <component base="_part.beh.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_part.instroke</string>
+    </dict>
+  </lib>
+</glyph>

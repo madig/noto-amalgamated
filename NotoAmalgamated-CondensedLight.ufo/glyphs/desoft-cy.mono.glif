@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="desoft-cy.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="A663"/>
+  <outline>
+    <contour>
+      <point x="0" y="-175" type="line"/>
+      <point x="26" y="-175" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="348" y="-175" type="line"/>
+      <point x="374" y="-175" type="line"/>
+      <point x="374" y="25" type="line"/>
+      <point x="320" y="25" type="line"/>
+      <point x="320" y="528" type="line"/>
+      <point x="146" y="528" type="line"/>
+      <point x="144" y="340"/>
+      <point x="109" y="165"/>
+      <point x="37" y="25" type="curve"/>
+      <point x="0" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="25" type="line"/>
+      <point x="133" y="158"/>
+      <point x="166" y="323"/>
+      <point x="171" y="503" type="curve"/>
+      <point x="294" y="503" type="line"/>
+      <point x="294" y="25" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="503" type="line"/>
+      <point x="500" y="503" type="line"/>
+      <point x="500" y="528" type="line"/>
+      <point x="310" y="528" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

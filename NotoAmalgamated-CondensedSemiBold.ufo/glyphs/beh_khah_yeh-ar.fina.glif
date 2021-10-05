@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beh_khah_yeh-ar.fina" format="2">
+  <advance width="1504"/>
+  <unicode hex="FD9E"/>
+  <anchor x="1205" y="0" name="caret_1"/>
+  <anchor x="673" y="0" name="caret_2"/>
+  <outline>
+    <component base="beh-ar.medi" xOffset="1205"/>
+    <component base="khah-ar.medi" xOffset="673"/>
+    <component base="yeh-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>beh-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yeh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

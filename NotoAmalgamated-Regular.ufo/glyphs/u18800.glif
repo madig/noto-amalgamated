@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u18800" format="2">
+  <advance height="976" width="1000"/>
+  <unicode hex="18800"/>
+  <note>
+u18800
+</note>
+  <outline>
+    <contour>
+      <point x="847" y="813" type="line"/>
+      <point x="797" y="748" type="line"/>
+      <point x="62" y="748" type="line"/>
+      <point x="71" y="718" type="line"/>
+      <point x="913" y="718" type="line" smooth="yes"/>
+      <point x="927.17" y="718.38"/>
+      <point x="936.17" y="723.72"/>
+      <point x="940" y="734" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <integer>718</integer>
+            <integer>30</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>836</integer>
+    </dict>
+  </lib>
+</glyph>

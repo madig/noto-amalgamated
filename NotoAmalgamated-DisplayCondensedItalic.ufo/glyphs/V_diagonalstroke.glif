@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Vdiagonalstroke" format="2">
+  <advance width="397"/>
+  <unicode hex="A75E"/>
+  <outline>
+    <contour>
+      <point x="-21" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="326" y="714" type="line"/>
+      <point x="276" y="714" type="line"/>
+    </contour>
+    <component base="V"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

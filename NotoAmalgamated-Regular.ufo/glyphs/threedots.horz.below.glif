@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedots.horz.below" format="2">
+  <note>
+threedots.horz.below
+</note>
+  <outline>
+    <contour>
+      <point x="-178" y="-200" type="curve" smooth="yes"/>
+      <point x="-142" y="-200"/>
+      <point x="-122" y="-176"/>
+      <point x="-122" y="-140" type="curve" smooth="yes"/>
+      <point x="-122" y="-104"/>
+      <point x="-142" y="-80"/>
+      <point x="-178" y="-80" type="curve" smooth="yes"/>
+      <point x="-214" y="-80"/>
+      <point x="-234" y="-103"/>
+      <point x="-234" y="-140" type="curve" smooth="yes"/>
+      <point x="-234" y="-179"/>
+      <point x="-213" y="-200"/>
+    </contour>
+    <contour>
+      <point x="0" y="-200" type="curve" smooth="yes"/>
+      <point x="36" y="-200"/>
+      <point x="56" y="-176"/>
+      <point x="56" y="-140" type="curve" smooth="yes"/>
+      <point x="56" y="-104"/>
+      <point x="36" y="-80"/>
+      <point x="0" y="-80" type="curve" smooth="yes"/>
+      <point x="-35" y="-80"/>
+      <point x="-56" y="-101"/>
+      <point x="-56" y="-140" type="curve" smooth="yes"/>
+      <point x="-56" y="-179"/>
+      <point x="-35" y="-200"/>
+    </contour>
+    <contour>
+      <point x="173" y="-200" type="curve" smooth="yes"/>
+      <point x="209" y="-200"/>
+      <point x="229" y="-176"/>
+      <point x="229" y="-140" type="curve" smooth="yes"/>
+      <point x="229" y="-104"/>
+      <point x="209" y="-80"/>
+      <point x="173" y="-80" type="curve" smooth="yes"/>
+      <point x="137" y="-80"/>
+      <point x="117" y="-103"/>
+      <point x="117" y="-140" type="curve" smooth="yes"/>
+      <point x="117" y="-179"/>
+      <point x="138" y="-200"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>NPUSHB[ ]	/* 9 values pushed */
+12 18 18 30 0 6 6 24 30 
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+MDAP[1]	/* MoveDirectAbsPt */
+MDRP[01101]	/* MoveDirectRelPt */
+SHP[1]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+MDRP[01101]	/* MoveDirectRelPt */
+SRP1[ ]	/* SetRefPoint1 */
+SHP[1]	/* ShiftPointByLastPoint */
+MDAP[1]	/* MoveDirectAbsPt */
+MDRP[01101]	/* MoveDirectRelPt */
+IUP[1]	/* InterpolateUntPts */
+IUP[0]	/* InterpolateUntPts */</string>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

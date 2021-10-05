@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tpalatalhookmod" format="2">
+  <advance width="220"/>
+  <unicode hex="1DB5"/>
+  <anchor x="82" y="143" name="bottom"/>
+  <anchor x="197" y="685" name="top"/>
+  <outline>
+    <component base="tpalatalhook" xScale="0.65" yScale="0.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+    </dict>
+  </lib>
+</glyph>

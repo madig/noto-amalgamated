@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aaMatra-khoj" format="2">
+  <advance width="295"/>
+  <unicode hex="1122C"/>
+  <note>
+kj_vs_AA
+</note>
+  <anchor x="94" y="356" name="_right"/>
+  <anchor x="96" y="613" name="nukta"/>
+  <anchor x="190" y="613" name="top"/>
+  <outline>
+    <contour>
+      <point x="151" y="-22" type="curve"/>
+      <point x="189" y="-13" type="line"/>
+      <point x="210" y="83"/>
+      <point x="220" y="195"/>
+      <point x="220" y="293" type="curve" smooth="yes"/>
+      <point x="220" y="396"/>
+      <point x="208" y="501"/>
+      <point x="182" y="613" type="curve"/>
+      <point x="68" y="613" type="line"/>
+      <point x="87" y="525"/>
+      <point x="95" y="437"/>
+      <point x="95" y="363" type="curve" smooth="yes"/>
+      <point x="95" y="268"/>
+      <point x="84" y="176"/>
+      <point x="60" y="85" type="curve"/>
+      <point x="78" y="54"/>
+      <point x="134" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

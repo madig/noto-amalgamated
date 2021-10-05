@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kadescender-cy" format="2">
+  <advance width="307"/>
+  <unicode hex="049B"/>
+  <anchor x="154" y="-175" name="bottom"/>
+  <anchor x="154" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="274" y="-175" type="line"/>
+      <point x="300" y="-175" type="line"/>
+      <point x="300" y="25" type="line"/>
+      <point x="271" y="25" type="line"/>
+      <point x="123" y="285" type="line"/>
+      <point x="274" y="527" type="line"/>
+      <point x="244" y="527" type="line"/>
+      <point x="95" y="286" type="line"/>
+      <point x="95" y="527" type="line"/>
+      <point x="69" y="527" type="line"/>
+      <point x="69" y="0" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="95" y="282" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="274" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

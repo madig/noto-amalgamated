@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="maiTho-thai.narrow" format="2">
+  <anchor x="375" y="553" name="_topright"/>
+  <anchor x="395" y="884" name="topright"/>
+  <outline>
+    <contour>
+      <point x="185" y="635" type="curve" smooth="yes"/>
+      <point x="324" y="635"/>
+      <point x="377" y="735"/>
+      <point x="395" y="867" type="curve"/>
+      <point x="319" y="879" type="line"/>
+      <point x="309" y="760"/>
+      <point x="269" y="696"/>
+      <point x="175" y="696" type="curve" smooth="yes"/>
+      <point x="164" y="696"/>
+      <point x="152" y="697"/>
+      <point x="140" y="699" type="curve"/>
+      <point x="165" y="678" type="line"/>
+      <point x="202" y="705"/>
+      <point x="231" y="748"/>
+      <point x="231" y="794" type="curve" smooth="yes"/>
+      <point x="231" y="847"/>
+      <point x="195" y="884"/>
+      <point x="137" y="884" type="curve" smooth="yes"/>
+      <point x="86" y="884"/>
+      <point x="50" y="854"/>
+      <point x="50" y="804" type="curve" smooth="yes"/>
+      <point x="50" y="754"/>
+      <point x="84" y="725"/>
+      <point x="134" y="725" type="curve" smooth="yes"/>
+      <point x="186" y="725"/>
+      <point x="217" y="758"/>
+      <point x="217" y="804" type="curve"/>
+      <point x="197" y="804" type="line"/>
+      <point x="197" y="774"/>
+      <point x="175" y="747"/>
+      <point x="143" y="747" type="curve"/>
+      <point x="143" y="742" type="line" smooth="yes"/>
+      <point x="143" y="712"/>
+      <point x="110" y="690"/>
+      <point x="63" y="683" type="curve"/>
+      <point x="63" y="640" type="line"/>
+      <point x="109" y="636"/>
+      <point x="137" y="635"/>
+    </contour>
+    <contour>
+      <point x="137" y="766" type="curve" smooth="yes"/>
+      <point x="112" y="766"/>
+      <point x="96" y="780"/>
+      <point x="96" y="804" type="curve" smooth="yes"/>
+      <point x="96" y="828"/>
+      <point x="112" y="843"/>
+      <point x="137" y="843" type="curve" smooth="yes"/>
+      <point x="163" y="843"/>
+      <point x="179" y="828"/>
+      <point x="179" y="804" type="curve" smooth="yes"/>
+      <point x="179" y="780"/>
+      <point x="163" y="766"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>472</integer>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>37</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>6</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

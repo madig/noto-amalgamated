@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="495"/>
+  <unicode hex="0141"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="133" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="471" y="80" type="line"/>
+      <point x="179" y="80" type="line"/>
+      <point x="179" y="300" type="line"/>
+      <point x="339" y="400" type="line"/>
+      <point x="303" y="463" type="line"/>
+      <point x="179" y="382" type="line"/>
+      <point x="179" y="714" type="line"/>
+      <point x="90" y="714" type="line"/>
+      <point x="90" y="329" type="line"/>
+      <point x="11" y="279" type="line"/>
+      <point x="45" y="219" type="line"/>
+      <point x="90" y="247" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

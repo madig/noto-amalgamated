@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="akbar-ar.sans" format="2">
+  <advance width="1311"/>
+  <unicode hex="FDF3"/>
+  <outline>
+    <component base="alef-ar" xOffset="1035"/>
+    <component base="kaf-ar.init" xOffset="647"/>
+    <component base="beh-ar.medi" xOffset="348"/>
+    <component base="reh-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>alef-ar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>reh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

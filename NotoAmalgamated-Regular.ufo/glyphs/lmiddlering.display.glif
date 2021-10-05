@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmiddlering.display" format="2">
+  <advance width="383"/>
+  <unicode hex="AB39"/>
+  <outline>
+    <contour>
+      <point x="191" y="217" type="curve"/>
+      <point x="284" y="217"/>
+      <point x="357" y="285"/>
+      <point x="357" y="381" type="curve"/>
+      <point x="357" y="474"/>
+      <point x="286" y="544"/>
+      <point x="191" y="544" type="curve"/>
+      <point x="100" y="544"/>
+      <point x="26" y="476"/>
+      <point x="26" y="381" type="curve"/>
+      <point x="26" y="285"/>
+      <point x="97" y="217"/>
+    </contour>
+    <contour>
+      <point x="191" y="269" type="curve"/>
+      <point x="130" y="269"/>
+      <point x="82" y="319"/>
+      <point x="82" y="381" type="curve"/>
+      <point x="82" y="443"/>
+      <point x="129" y="492"/>
+      <point x="191" y="492" type="curve"/>
+      <point x="252" y="492"/>
+      <point x="301" y="444"/>
+      <point x="301" y="381" type="curve"/>
+      <point x="301" y="318"/>
+      <point x="252" y="269"/>
+    </contour>
+    <component base="l" xOffset="68"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+      <key>com.schriftgestaltung.componentsLocked</key>
+      <array>
+        <true/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

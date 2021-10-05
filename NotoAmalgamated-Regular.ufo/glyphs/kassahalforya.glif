@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kassahalforya" format="2">
+  <advance width="695"/>
+  <anchor x="628" y="0" name="b.uvowelsignorya"/>
+  <anchor x="365" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <component base="kassaorya"/>
+    <component base="viramaorya" xOffset="693" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>yaorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

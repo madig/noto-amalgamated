@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beh-ar" format="2">
+  <advance width="689"/>
+  <unicode hex="0628"/>
+  <note>
+uni0628
+</note>
+  <anchor x="367" y="-213" name="bottom"/>
+  <anchor x="344" y="462" name="top"/>
+  <outline>
+    <component base="behDotless-ar"/>
+    <component base="onedot.below" xOffset="370"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>behDotless-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

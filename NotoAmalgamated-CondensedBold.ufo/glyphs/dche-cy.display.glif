@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dche-cy.display" format="2">
+  <advance width="586"/>
+  <unicode hex="052D"/>
+  <anchor x="292" y="-200" name="bottom"/>
+  <anchor x="292" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="9" y="-200" type="line"/>
+      <point x="152" y="-200" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="432" y="-200" type="line"/>
+      <point x="575" y="-200" type="line"/>
+      <point x="575" y="129" type="line"/>
+      <point x="510" y="129" type="line"/>
+      <point x="510" y="550" type="line"/>
+      <point x="182" y="550" type="line"/>
+      <point x="176" y="466"/>
+      <point x="165" y="383"/>
+      <point x="151" y="309" type="curve"/>
+      <point x="132" y="325"/>
+      <point x="131" y="353"/>
+      <point x="131" y="393" type="curve" smooth="yes"/>
+      <point x="131" y="550" type="line"/>
+      <point x="2" y="550" type="line"/>
+      <point x="2" y="383" type="line" smooth="yes"/>
+      <point x="2" y="271"/>
+      <point x="34" y="211"/>
+      <point x="111" y="189" type="curve"/>
+      <point x="106" y="167"/>
+      <point x="102" y="147"/>
+      <point x="98" y="129" type="curve"/>
+      <point x="9" y="129" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="129" type="line"/>
+      <point x="244" y="147"/>
+      <point x="248" y="167"/>
+      <point x="249" y="185" type="curve"/>
+      <point x="287" y="192"/>
+      <point x="326" y="206"/>
+      <point x="345" y="225" type="curve"/>
+      <point x="345" y="129" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="300" type="curve"/>
+      <point x="284" y="339"/>
+      <point x="286" y="378"/>
+      <point x="290" y="421" type="curve"/>
+      <point x="345" y="421" type="line"/>
+      <point x="345" y="331" type="line"/>
+      <point x="326" y="316"/>
+      <point x="306" y="305"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>de-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

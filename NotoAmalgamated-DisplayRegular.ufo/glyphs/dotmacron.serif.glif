@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotmacron.serif" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="106" y="796" type="line"/>
+      <point x="395" y="796" type="line"/>
+      <point x="395" y="816" type="line"/>
+      <point x="106" y="816" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="612" type="curve" smooth="yes"/>
+      <point x="274" y="612"/>
+      <point x="294" y="627"/>
+      <point x="294" y="668" type="curve" smooth="yes"/>
+      <point x="294" y="710"/>
+      <point x="274" y="724"/>
+      <point x="250" y="724" type="curve" smooth="yes"/>
+      <point x="225" y="724"/>
+      <point x="206" y="710"/>
+      <point x="206" y="668" type="curve" smooth="yes"/>
+      <point x="206" y="627"/>
+      <point x="225" y="612"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

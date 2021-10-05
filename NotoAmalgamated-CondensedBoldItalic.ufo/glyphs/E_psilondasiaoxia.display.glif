@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilondasiaoxia.display" format="2">
+  <advance width="876"/>
+  <unicode hex="1F1D"/>
+  <anchor x="642" y="0" name="bottom"/>
+  <anchor x="794" y="714" name="top"/>
+  <outline>
+    <component base="dasiaoxia"/>
+    <component base="E" xOffset="357"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

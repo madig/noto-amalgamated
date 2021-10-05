@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringequalto" format="2">
+  <advance width="500"/>
+  <unicode hex="2257"/>
+  <outline>
+    <contour>
+      <point x="251" y="414" type="curve" smooth="yes"/>
+      <point x="319" y="414"/>
+      <point x="374" y="468"/>
+      <point x="374" y="535" type="curve" smooth="yes"/>
+      <point x="374" y="602"/>
+      <point x="319" y="657"/>
+      <point x="251" y="657" type="curve" smooth="yes"/>
+      <point x="183" y="657"/>
+      <point x="128" y="602"/>
+      <point x="128" y="535" type="curve" smooth="yes"/>
+      <point x="128" y="468"/>
+      <point x="183" y="414"/>
+    </contour>
+    <contour>
+      <point x="56" y="51" type="line"/>
+      <point x="445" y="51" type="line"/>
+      <point x="445" y="120" type="line"/>
+      <point x="56" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="250" type="line"/>
+      <point x="445" y="250" type="line"/>
+      <point x="445" y="319" type="line"/>
+      <point x="56" y="319" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="470" type="curve" smooth="yes"/>
+      <point x="216" y="470"/>
+      <point x="186" y="500"/>
+      <point x="186" y="535" type="curve" smooth="yes"/>
+      <point x="186" y="570"/>
+      <point x="216" y="600"/>
+      <point x="251" y="600" type="curve" smooth="yes"/>
+      <point x="286" y="600"/>
+      <point x="316" y="570"/>
+      <point x="316" y="535" type="curve" smooth="yes"/>
+      <point x="316" y="500"/>
+      <point x="286" y="470"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

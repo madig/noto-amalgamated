@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yuslittleiotified-cy.serif" format="2">
+  <advance width="1169"/>
+  <unicode hex="0468"/>
+  <anchor x="585" y="0" name="bottom"/>
+  <anchor x="585" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="28" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="362" y="10" type="line"/>
+      <point x="320" y="10" type="line" smooth="yes"/>
+      <point x="291" y="10"/>
+      <point x="269" y="18"/>
+      <point x="269" y="75" type="curve" smooth="yes"/>
+      <point x="269" y="367" type="line"/>
+      <point x="609" y="367" type="line"/>
+      <point x="609" y="377" type="line"/>
+      <point x="269" y="377" type="line"/>
+      <point x="269" y="639" type="line" smooth="yes"/>
+      <point x="269" y="696"/>
+      <point x="291" y="704"/>
+      <point x="320" y="704" type="curve" smooth="yes"/>
+      <point x="362" y="704" type="line"/>
+      <point x="362" y="714" type="line"/>
+      <point x="28" y="714" type="line"/>
+      <point x="28" y="704" type="line"/>
+      <point x="70" y="704" type="line" smooth="yes"/>
+      <point x="99" y="704"/>
+      <point x="121" y="696"/>
+      <point x="121" y="639" type="curve" smooth="yes"/>
+      <point x="121" y="75" type="line" smooth="yes"/>
+      <point x="121" y="18"/>
+      <point x="99" y="10"/>
+      <point x="70" y="10" type="curve" smooth="yes"/>
+      <point x="28" y="10" type="line"/>
+    </contour>
+    <component base="Yuslittle-cy" xOffset="376"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

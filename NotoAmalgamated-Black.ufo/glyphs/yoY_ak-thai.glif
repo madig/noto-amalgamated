@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yoYak-thai" format="2">
+  <advance width="663"/>
+  <unicode hex="0E22"/>
+  <note>
+uni0E22
+</note>
+  <anchor x="331" y="0" name="bottom"/>
+  <anchor x="590" y="0" name="bottomright"/>
+  <anchor x="326" y="563" name="top"/>
+  <anchor x="595" y="563" name="topright"/>
+  <outline>
+    <contour>
+      <point x="65" y="0" type="line"/>
+      <point x="384" y="0" type="line" smooth="yes"/>
+      <point x="548" y="0"/>
+      <point x="595" y="72"/>
+      <point x="595" y="192" type="curve" smooth="yes"/>
+      <point x="595" y="563" type="line"/>
+      <point x="409" y="563" type="line"/>
+      <point x="409" y="215" type="line" smooth="yes"/>
+      <point x="409" y="160"/>
+      <point x="395" y="138"/>
+      <point x="344" y="138" type="curve" smooth="yes"/>
+      <point x="167" y="138" type="line"/>
+      <point x="251" y="54" type="line"/>
+      <point x="251" y="166" type="line" smooth="yes"/>
+      <point x="251" y="185"/>
+      <point x="266" y="198"/>
+      <point x="290" y="198" type="curve" smooth="yes"/>
+      <point x="346" y="198" type="line"/>
+      <point x="346" y="323" type="line"/>
+      <point x="279" y="323" type="line" smooth="yes"/>
+      <point x="255" y="323"/>
+      <point x="244" y="337"/>
+      <point x="244" y="354" type="curve" smooth="yes"/>
+      <point x="244" y="360"/>
+      <point x="245" y="366"/>
+      <point x="248" y="371" type="curve"/>
+      <point x="181" y="371"/>
+      <point x="134" y="401"/>
+      <point x="134" y="466" type="curve"/>
+      <point x="117" y="466" type="line"/>
+      <point x="117" y="396"/>
+      <point x="166" y="359"/>
+      <point x="232" y="359" type="curve" smooth="yes"/>
+      <point x="298" y="359"/>
+      <point x="331" y="408"/>
+      <point x="331" y="466" type="curve" smooth="yes"/>
+      <point x="331" y="525"/>
+      <point x="285" y="573"/>
+      <point x="205" y="573" type="curve" smooth="yes"/>
+      <point x="121" y="573"/>
+      <point x="56" y="522"/>
+      <point x="56" y="414" type="curve" smooth="yes"/>
+      <point x="56" y="333"/>
+      <point x="112" y="259"/>
+      <point x="185" y="259" type="curve"/>
+      <point x="185" y="267" type="line"/>
+      <point x="104" y="267"/>
+      <point x="65" y="213"/>
+      <point x="65" y="148" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="212" y="421" type="curve" smooth="yes"/>
+      <point x="185" y="421"/>
+      <point x="165" y="436"/>
+      <point x="165" y="466" type="curve" smooth="yes"/>
+      <point x="165" y="495"/>
+      <point x="185" y="511"/>
+      <point x="212" y="511" type="curve" smooth="yes"/>
+      <point x="239" y="511"/>
+      <point x="259" y="495"/>
+      <point x="259" y="466" type="curve" smooth="yes"/>
+      <point x="259" y="437"/>
+      <point x="239" y="421"/>
+    </contour>
+    <contour>
+      <point x="150" y="273" type="line"/>
+      <point x="150" y="254" type="line"/>
+      <point x="162" y="254" type="line"/>
+      <point x="162" y="273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>boBaimai-thai</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

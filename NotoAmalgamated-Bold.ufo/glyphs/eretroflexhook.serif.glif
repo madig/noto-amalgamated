@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eretroflexhook.serif" format="2">
+  <advance width="598"/>
+  <unicode hex="1D92"/>
+  <outline>
+    <contour>
+      <point x="591" y="-207" type="curve" smooth="yes"/>
+      <point x="641" y="-207"/>
+      <point x="671" y="-179"/>
+      <point x="671" y="-136" type="curve" smooth="yes"/>
+      <point x="671" y="-120"/>
+      <point x="666" y="-103"/>
+      <point x="657" y="-94" type="curve"/>
+      <point x="644" y="-103"/>
+      <point x="630" y="-110"/>
+      <point x="608" y="-110" type="curve" smooth="yes"/>
+      <point x="565" y="-110"/>
+      <point x="542" y="-84"/>
+      <point x="542" y="-29" type="curve" smooth="yes"/>
+      <point x="542" y="114" type="line"/>
+      <point x="468" y="71" type="line"/>
+      <point x="468" y="-22" type="line" smooth="yes"/>
+      <point x="468" y="-149"/>
+      <point x="512" y="-207"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

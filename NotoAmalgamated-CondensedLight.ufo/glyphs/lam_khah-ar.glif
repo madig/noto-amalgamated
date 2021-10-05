@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_khah-ar" format="2">
+  <advance width="678"/>
+  <unicode hex="FC41"/>
+  <anchor x="510" y="0" name="caret_1"/>
+  <outline>
+    <component base="lam-ar.init" xOffset="510"/>
+    <component base="khah-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lam-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>khah-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

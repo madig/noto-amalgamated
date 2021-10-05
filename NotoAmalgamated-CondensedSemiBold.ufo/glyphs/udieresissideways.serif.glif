@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresissideways.serif" format="2">
+  <advance width="769"/>
+  <unicode hex="1D1E"/>
+  <anchor x="384" y="34" name="bottom"/>
+  <anchor x="384" y="563" name="top"/>
+  <outline>
+    <component base="u" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="741" yOffset="45"/>
+    <component base="dieresis" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="770" yOffset="75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

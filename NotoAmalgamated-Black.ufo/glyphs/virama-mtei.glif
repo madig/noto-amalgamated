@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="virama-mtei" format="2">
+  <unicode hex="AAF6"/>
+  <anchor x="-498" y="-8" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-554" y="-321" type="line"/>
+      <point x="-437" y="-321" type="line"/>
+      <point x="-437" y="-83" type="line"/>
+      <point x="-554" y="-83" type="line"/>
+    </contour>
+    <contour>
+      <point x="-634" y="-151" type="line"/>
+      <point x="-634" y="-254" type="line"/>
+      <point x="-356" y="-254" type="line"/>
+      <point x="-356" y="-151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>mtei</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisbelow" format="2">
+  <advance width="637"/>
+  <unicode hex="1E73"/>
+  <anchor x="315" y="-208" name="bottom"/>
+  <anchor x="318" y="553" name="top"/>
+  <anchor x="615" y="553" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresisbelowcomb" xOffset="315"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

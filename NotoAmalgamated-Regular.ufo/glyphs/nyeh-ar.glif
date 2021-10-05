@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nyeh-ar" format="2">
+  <advance width="644"/>
+  <unicode hex="0683"/>
+  <note>
+uni0683
+</note>
+  <anchor x="277" y="-360" name="bottom"/>
+  <anchor x="202" y="547" name="top"/>
+  <outline>
+    <component base="twodots.below" xOffset="385" yOffset="34"/>
+    <component base="hah-ar"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>twodots.below</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hah-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="medievalcomma.display" format="2">
+  <advance width="308"/>
+  <unicode hex="2E4C"/>
+  <outline>
+    <contour>
+      <point x="94" y="76" type="curve" smooth="yes"/>
+      <point x="68" y="76"/>
+      <point x="58" y="46"/>
+      <point x="58" y="20" type="curve" smooth="yes"/>
+      <point x="58" y="3"/>
+      <point x="65" y="-4"/>
+      <point x="77" y="-4" type="curve" smooth="yes"/>
+      <point x="104" y="-4"/>
+      <point x="112" y="27"/>
+      <point x="112" y="52" type="curve" smooth="yes"/>
+      <point x="112" y="70"/>
+      <point x="105" y="76"/>
+    </contour>
+    <component base="kavykainvertedlow" xScale="-0.17633" xyScale="-1" yxScale="1" yScale="0" xOffset="-89" yOffset="767"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|semicolon</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|semicolon</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

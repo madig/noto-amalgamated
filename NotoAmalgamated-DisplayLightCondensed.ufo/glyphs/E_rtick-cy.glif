@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ertick-cy" format="2">
+  <advance width="385"/>
+  <unicode hex="048E"/>
+  <anchor x="193" y="0" name="bottom"/>
+  <anchor x="193" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="353" y="519" type="curve" smooth="yes"/>
+      <point x="353" y="663"/>
+      <point x="293" y="714"/>
+      <point x="168" y="714" type="curve" smooth="yes"/>
+      <point x="76" y="714" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="102" y="306" type="line"/>
+      <point x="168" y="306" type="line" smooth="yes"/>
+      <point x="201" y="306"/>
+      <point x="228" y="310"/>
+      <point x="252" y="318" type="curve"/>
+      <point x="303" y="237" type="line"/>
+      <point x="325" y="254" type="line"/>
+      <point x="277" y="330" type="line"/>
+      <point x="329" y="360"/>
+      <point x="353" y="420"/>
+    </contour>
+    <contour>
+      <point x="173" y="331" type="curve" smooth="yes"/>
+      <point x="102" y="331" type="line"/>
+      <point x="102" y="689" type="line"/>
+      <point x="167" y="689" type="line" smooth="yes"/>
+      <point x="274" y="689"/>
+      <point x="326" y="645"/>
+      <point x="326" y="520" type="curve" smooth="yes"/>
+      <point x="326" y="432"/>
+      <point x="305" y="379"/>
+      <point x="262" y="352" type="curve"/>
+      <point x="202" y="448" type="line"/>
+      <point x="180" y="433" type="line"/>
+      <point x="238" y="340" type="line"/>
+      <point x="219" y="334"/>
+      <point x="198" y="331"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

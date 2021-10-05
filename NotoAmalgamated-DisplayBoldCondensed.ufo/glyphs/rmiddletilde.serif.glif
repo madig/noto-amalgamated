@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rmiddletilde.serif" format="2">
+  <advance width="468"/>
+  <unicode hex="1D72"/>
+  <outline>
+    <contour>
+      <point x="-17" y="188" type="curve"/>
+      <point x="-7" y="188" type="line"/>
+      <point x="-3" y="216"/>
+      <point x="9" y="264"/>
+      <point x="62" y="264" type="curve" smooth="yes"/>
+      <point x="133" y="264"/>
+      <point x="200" y="178"/>
+      <point x="276" y="178" type="curve" smooth="yes"/>
+      <point x="344" y="178"/>
+      <point x="384" y="245"/>
+      <point x="388" y="332" type="curve"/>
+      <point x="378" y="332" type="line"/>
+      <point x="374" y="302"/>
+      <point x="360" y="256"/>
+      <point x="309" y="256" type="curve" smooth="yes"/>
+      <point x="242" y="256"/>
+      <point x="171" y="342"/>
+      <point x="94" y="342" type="curve" smooth="yes"/>
+      <point x="26" y="342"/>
+      <point x="-13" y="272"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

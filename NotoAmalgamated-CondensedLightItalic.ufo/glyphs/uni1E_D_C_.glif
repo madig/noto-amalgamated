@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1EDC" format="2">
+  <advance width="436"/>
+  <unicode hex="1EDC"/>
+  <anchor x="163" y="0" name="bottom"/>
+  <anchor x="345" y="951" name="top"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="grave" xOffset="95" yOffset="188"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

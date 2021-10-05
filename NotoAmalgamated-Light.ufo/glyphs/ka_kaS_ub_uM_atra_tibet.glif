@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka_kaSub_uMatra_tibet" format="2">
+  <advance width="684"/>
+  <anchor x="633" y="678" name="_bottomright"/>
+  <anchor x="386" y="-462" name="bottom"/>
+  <anchor x="633" y="-462" name="bottomright"/>
+  <anchor x="640" y="678" name="flag"/>
+  <anchor x="369.803" y="678" name="top"/>
+  <anchor x="85.278" y="678" name="topleft"/>
+  <anchor x="640" y="678" name="topright"/>
+  <outline>
+    <contour>
+      <point x="640" y="678" type="line"/>
+      <point x="84" y="678" type="line"/>
+      <point x="77" y="652" type="line"/>
+      <point x="165" y="652" type="line"/>
+      <point x="165" y="542"/>
+      <point x="128" y="480"/>
+      <point x="39" y="411" type="curve"/>
+      <point x="55" y="389" type="line"/>
+      <point x="152" y="466"/>
+      <point x="187" y="535"/>
+      <point x="187" y="652" type="curve"/>
+      <point x="348" y="652" type="line"/>
+      <point x="359" y="563"/>
+      <point x="366" y="452"/>
+      <point x="368" y="314" type="curve"/>
+      <point x="390" y="302" type="line"/>
+      <point x="390" y="445"/>
+      <point x="384" y="562"/>
+      <point x="374" y="652" type="curve"/>
+      <point x="607" y="652" type="line"/>
+      <point x="612" y="557"/>
+      <point x="614" y="465"/>
+      <point x="614" y="262" type="curve"/>
+      <point x="633" y="243" type="line"/>
+      <point x="633" y="652" type="line"/>
+    </contour>
+    <contour>
+      <point x="640" y="262" type="line"/>
+      <point x="124" y="262" type="line"/>
+      <point x="117" y="236" type="line"/>
+      <point x="198" y="236" type="line"/>
+      <point x="198" y="126"/>
+      <point x="163" y="64"/>
+      <point x="79" y="-5" type="curve"/>
+      <point x="96" y="-27" type="line"/>
+      <point x="187" y="50"/>
+      <point x="220" y="119"/>
+      <point x="220" y="236" type="curve"/>
+      <point x="368" y="236" type="line"/>
+      <point x="379" y="147"/>
+      <point x="386" y="36"/>
+      <point x="388" y="-102" type="curve"/>
+      <point x="410" y="-114" type="line"/>
+      <point x="410" y="29"/>
+      <point x="404" y="146"/>
+      <point x="394" y="236" type="curve"/>
+      <point x="607" y="236" type="line"/>
+      <point x="612" y="122"/>
+      <point x="614" y="10"/>
+      <point x="614" y="-236" type="curve"/>
+      <point x="633" y="-255" type="line"/>
+      <point x="633" y="236" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="-56" type="curve"/>
+      <point x="63" y="-68" type="line"/>
+      <point x="313" y="-298"/>
+      <point x="406" y="-462"/>
+      <point x="568" y="-462" type="curve" smooth="yes"/>
+      <point x="668" y="-462"/>
+      <point x="715" y="-407"/>
+      <point x="715" y="-338" type="curve" smooth="yes"/>
+      <point x="715" y="-273"/>
+      <point x="671" y="-225"/>
+      <point x="601" y="-225" type="curve" smooth="yes"/>
+      <point x="568" y="-225"/>
+      <point x="535" y="-236"/>
+      <point x="513" y="-254" type="curve"/>
+      <point x="519" y="-278" type="line"/>
+      <point x="541" y="-260"/>
+      <point x="570" y="-251"/>
+      <point x="599" y="-251" type="curve" smooth="yes"/>
+      <point x="657" y="-251"/>
+      <point x="693" y="-286"/>
+      <point x="693" y="-340" type="curve" smooth="yes"/>
+      <point x="693" y="-393"/>
+      <point x="654" y="-436"/>
+      <point x="571" y="-436" type="curve" smooth="yes"/>
+      <point x="416" y="-436"/>
+      <point x="330" y="-288"/>
+    </contour>
+    <contour>
+      <point x="614" y="-236" type="line"/>
+      <point x="614" y="-246" type="line"/>
+      <point x="633" y="-246" type="line"/>
+      <point x="633" y="-236" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Composition</string>
+    </dict>
+  </lib>
+</glyph>

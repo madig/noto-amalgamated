@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kturned" format="2">
+  <advance width="484"/>
+  <unicode hex="029E"/>
+  <anchor x="139" y="-207" name="bottom"/>
+  <anchor x="300.772" y="553" name="top"/>
+  <anchor x="499" y="553" name="topright"/>
+  <outline>
+    <contour>
+      <point x="240" y="87" type="curve" smooth="yes"/>
+      <point x="177" y="-207" type="line"/>
+      <point x="337" y="-207" type="line"/>
+      <point x="499" y="553" type="line"/>
+      <point x="338" y="553" type="line"/>
+      <point x="309" y="401" type="line"/>
+      <point x="270" y="368" type="line"/>
+      <point x="227" y="553" type="line"/>
+      <point x="53" y="553" type="line"/>
+      <point x="131" y="239" type="line"/>
+      <point x="-54" y="0" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="268" y="199" type="line"/>
+      <point x="270" y="199" type="line"/>
+      <point x="258" y="160"/>
+      <point x="248" y="124"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

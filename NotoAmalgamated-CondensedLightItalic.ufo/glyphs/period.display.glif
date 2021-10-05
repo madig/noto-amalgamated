@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.display" format="2">
+  <advance width="152"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="34" y="-1" type="curve" smooth="yes"/>
+      <point x="54" y="-1"/>
+      <point x="63" y="26"/>
+      <point x="63" y="43" type="curve" smooth="yes"/>
+      <point x="63" y="60"/>
+      <point x="56" y="68"/>
+      <point x="45" y="68" type="curve" smooth="yes"/>
+      <point x="25" y="68"/>
+      <point x="16" y="42"/>
+      <point x="16" y="23" type="curve" smooth="yes"/>
+      <point x="16" y="8"/>
+      <point x="23" y="-1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

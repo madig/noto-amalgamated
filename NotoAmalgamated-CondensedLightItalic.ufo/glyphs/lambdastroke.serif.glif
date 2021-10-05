@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lambdastroke.serif" format="2">
+  <advance width="385"/>
+  <unicode hex="019B"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="299" y="770" name="top"/>
+  <outline>
+    <contour>
+      <point x="149" y="546" type="line"/>
+      <point x="363" y="678" type="line"/>
+      <point x="367" y="710" type="line"/>
+      <point x="154" y="579" type="line"/>
+    </contour>
+    <component base="lambda"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>lambda</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

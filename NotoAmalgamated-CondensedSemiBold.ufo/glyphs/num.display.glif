@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="num.display" format="2">
+  <advance width="680"/>
+  <unicode hex="A774"/>
+  <outline>
+    <contour>
+      <point x="431" y="0" type="line"/>
+      <point x="674" y="0" type="line"/>
+      <point x="674" y="110" type="line"/>
+      <point x="431" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="558" y="272" type="line"/>
+      <point x="426" y="-157" type="line"/>
+      <point x="518" y="-157" type="line"/>
+      <point x="649" y="272" type="line"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

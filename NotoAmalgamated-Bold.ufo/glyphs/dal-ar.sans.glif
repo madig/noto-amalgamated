@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dal-ar.sans" format="2">
+  <advance width="557"/>
+  <unicode hex="062F"/>
+  <anchor x="270" y="-5" name="bottom"/>
+  <anchor x="236" y="541" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="50" type="line"/>
+      <point x="94" y="10"/>
+      <point x="170" y="-5"/>
+      <point x="246" y="-5" type="curve" smooth="yes"/>
+      <point x="423" y="-5"/>
+      <point x="502" y="79"/>
+      <point x="502" y="208" type="curve" smooth="yes"/>
+      <point x="502" y="288"/>
+      <point x="465" y="396"/>
+      <point x="352" y="564" type="curve"/>
+      <point x="192" y="465" type="line"/>
+      <point x="284" y="327"/>
+      <point x="303" y="272"/>
+      <point x="303" y="234" type="curve" smooth="yes"/>
+      <point x="303" y="192"/>
+      <point x="282" y="177"/>
+      <point x="229" y="177" type="curve" smooth="yes"/>
+      <point x="180" y="177"/>
+      <point x="133" y="192"/>
+      <point x="94" y="211" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>sad-ar</string>
+    </dict>
+  </lib>
+</glyph>

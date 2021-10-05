@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qaf-ar" format="2">
+  <advance width="876"/>
+  <unicode hex="0642"/>
+  <note>
+uni0642
+</note>
+  <anchor x="438" y="-292" name="bottom"/>
+  <anchor x="613" y="735" name="top"/>
+  <outline>
+    <component base="qafDotless-ar"/>
+    <component base="twodots.above" xOffset="625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>qafDotless-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

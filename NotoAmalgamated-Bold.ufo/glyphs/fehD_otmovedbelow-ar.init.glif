@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fehDotmovedbelow-ar.init" format="2">
+  <advance width="645"/>
+  <note>
+uni06A2.init
+</note>
+  <anchor x="330" y="-280" name="bottom"/>
+  <anchor x="294" y="556" name="top"/>
+  <outline>
+    <component base="qafDotless-ar.init"/>
+    <component base="onedot.below" xOffset="321"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>qafDotless-ar.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

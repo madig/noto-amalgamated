@@ -1,0 +1,45 @@
+Test repository to generate an amalgamated UFO version of [Noto](https://github.com/googlefonts/noto-source/), for benchmarking and profiling purposes.
+
+| Name | Glyphs | % of glyphs with lib element |
+| ---- | ------ | ---------------------------- |
+| NotoAmalgamated-SemiLight.ufo | 107 | 13 |
+| NotoAmalgamated-RegularCondensed.ufo | 347 | 84 |
+| NotoAmalgamated-ThinCondensed.ufo | 347 | 84 |
+| NotoAmalgamated-CondensedExtraBlack.ufo | 964 | 76 |
+| NotoAmalgamated-CondensedExtraThin.ufo | 964 | 76 |
+| NotoAmalgamated-BlackCondensed.ufo | 989 | 94 |
+| NotoAmalgamated-Medium.ufo | 1022 | 30 |
+| NotoAmalgamated-Thin.ufo | 2234 | 77 |
+| NotoAmalgamated-Black.ufo | 2876 | 82 |
+| NotoAmalgamated-DisplayBoldCondensedItalic.ufo | 3793 | 100 |
+| NotoAmalgamated-DisplayBoldItalic.ufo | 3793 | 100 |
+| NotoAmalgamated-DisplayCondensedItalic.ufo | 3793 | 100 |
+| NotoAmalgamated-DisplayItalic.ufo | 3793 | 100 |
+| NotoAmalgamated-DisplayLightCondensedItalic.ufo | 3793 | 100 |
+| NotoAmalgamated-DisplayLightItalic.ufo | 3793 | 100 |
+| NotoAmalgamated-DisplaySemiBoldCondensedItalic.ufo | 3793 | 100 |
+| NotoAmalgamated-DisplaySemiBoldItalic.ufo | 3793 | 100 |
+| NotoAmalgamated-DisplayBold.ufo | 7079 | 100 |
+| NotoAmalgamated-DisplayBoldCondensed.ufo | 7079 | 100 |
+| NotoAmalgamated-DisplayCondensed.ufo | 7079 | 100 |
+| NotoAmalgamated-DisplayLight.ufo | 7079 | 100 |
+| NotoAmalgamated-DisplayLightCondensed.ufo | 7079 | 100 |
+| NotoAmalgamated-DisplayRegular.ufo | 7079 | 100 |
+| NotoAmalgamated-DisplaySemiBold.ufo | 7079 | 100 |
+| NotoAmalgamated-DisplaySemiBoldCondensed.ufo | 7079 | 100 |
+| NotoAmalgamated-CondensedBoldItalic.ufo | 12871 | 99 |
+| NotoAmalgamated-CondensedItalic.ufo | 12871 | 99 |
+| NotoAmalgamated-CondensedLightItalic.ufo | 12871 | 99 |
+| NotoAmalgamated-CondensedSemiBoldItalic.ufo | 12871 | 99 |
+| NotoAmalgamated-LightItalic.ufo | 12871 | 99 |
+| NotoAmalgamated-SemiBoldItalic.ufo | 12871 | 99 |
+| NotoAmalgamated-BoldItalic.ufo | 13914 | 99 |
+| NotoAmalgamated-Italic.ufo | 13970 | 99 |
+| NotoAmalgamated-CondensedSemiBold.ufo | 20497 | 92 |
+| NotoAmalgamated-Condensed.ufo | 22158 | 90 |
+| NotoAmalgamated-CondensedBold.ufo | 22297 | 91 |
+| NotoAmalgamated-CondensedLight.ufo | 22297 | 90 |
+| NotoAmalgamated-SemiBold.ufo | 24962 | 90 |
+| NotoAmalgamated-Light.ufo | 28421 | 90 |
+| NotoAmalgamated-Bold.ufo | 35358 | 79 |
+| NotoAmalgamated-Regular.ufo | 60967 | 76 |

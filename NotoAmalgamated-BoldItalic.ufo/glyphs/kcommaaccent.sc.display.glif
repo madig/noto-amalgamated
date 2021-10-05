@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcommaaccent.sc.display" format="2">
+  <advance width="590"/>
+  <anchor x="211" y="-221" name="bottom"/>
+  <anchor x="367" y="591" name="top"/>
+  <outline>
+    <component base="k.sc"/>
+    <component base="commaaccentcomb" xOffset="87"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

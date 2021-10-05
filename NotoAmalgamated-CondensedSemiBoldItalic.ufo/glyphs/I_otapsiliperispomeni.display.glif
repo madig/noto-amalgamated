@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotapsiliperispomeni.display" format="2">
+  <advance width="699"/>
+  <unicode hex="1F3E"/>
+  <anchor x="402" y="0" name="bottom"/>
+  <anchor x="587" y="871" name="top"/>
+  <outline>
+    <component base="psiliperispomeni"/>
+    <component base="I" xOffset="368"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

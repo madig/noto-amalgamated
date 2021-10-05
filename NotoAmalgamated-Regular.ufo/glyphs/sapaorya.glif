@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sapaorya" format="2">
+  <advance width="644"/>
+  <anchor x="583" y="0" name="b.uvowelsignorya"/>
+  <anchor x="322" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="32" y="431" type="curve" smooth="yes"/>
+      <point x="32" y="349"/>
+      <point x="73" y="272"/>
+      <point x="143" y="217" type="curve"/>
+      <point x="184" y="291" type="line"/>
+      <point x="132" y="326"/>
+      <point x="100" y="380"/>
+      <point x="100" y="443" type="curve" smooth="yes"/>
+      <point x="100" y="527"/>
+      <point x="164" y="601"/>
+      <point x="289" y="601" type="curve" smooth="yes"/>
+      <point x="404" y="601"/>
+      <point x="508" y="535"/>
+      <point x="536" y="419" type="curve"/>
+      <point x="571" y="470" type="line"/>
+      <point x="550" y="585"/>
+      <point x="435" y="667"/>
+      <point x="296" y="667" type="curve" smooth="yes"/>
+      <point x="135" y="667"/>
+      <point x="32" y="554"/>
+    </contour>
+    <contour>
+      <point x="81" y="159" type="curve"/>
+      <point x="101" y="128" type="line"/>
+      <point x="169" y="114"/>
+      <point x="236" y="94"/>
+      <point x="301" y="70" type="curve"/>
+      <point x="373" y="121" type="line"/>
+      <point x="289" y="149"/>
+      <point x="206" y="173"/>
+      <point x="123" y="184" type="curve"/>
+      <point x="159" y="166" type="line"/>
+      <point x="192" y="232"/>
+      <point x="244" y="301"/>
+      <point x="299" y="360" type="curve"/>
+      <point x="261" y="401" type="line"/>
+      <point x="193" y="329"/>
+      <point x="141" y="268"/>
+    </contour>
+    <contour>
+      <point x="516" y="26" type="line"/>
+      <point x="571" y="26" type="line"/>
+      <point x="583" y="32" type="line"/>
+      <point x="583" y="657" type="line"/>
+      <point x="576" y="664" type="line"/>
+      <point x="516" y="650" type="line"/>
+    </contour>
+    <component base="pasubscriptloworya" xOffset="560" yOffset="260"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B18" format="2">
+  <advance width="1132"/>
+  <unicode hex="1B18"/>
+  <outline>
+    <contour>
+      <point x="391" y="169" type="line"/>
+      <point x="460" y="84" type="line" smooth="yes"/>
+      <point x="507" y="26"/>
+      <point x="570" y="-10"/>
+      <point x="640" y="-10" type="curve"/>
+      <point x="667" y="63" type="line"/>
+      <point x="635" y="118" type="line"/>
+      <point x="590" y="118"/>
+      <point x="552" y="141"/>
+      <point x="486" y="215" type="curve" smooth="yes"/>
+      <point x="419" y="290" type="line"/>
+    </contour>
+    <component base="uni1B18.part"/>
+    <component base="uni1B25.part" xOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1B18.part</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1B25.part</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

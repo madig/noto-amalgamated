@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lbroken.display" format="2">
+  <advance width="244"/>
+  <unicode hex="A747"/>
+  <outline>
+    <contour>
+      <point x="138" y="-9" type="curve" smooth="yes"/>
+      <point x="168" y="-9"/>
+      <point x="192" y="6"/>
+      <point x="211" y="31" type="curve"/>
+      <point x="204" y="38" type="line"/>
+      <point x="186" y="14"/>
+      <point x="165" y="1"/>
+      <point x="145" y="1" type="curve" smooth="yes"/>
+      <point x="124" y="1"/>
+      <point x="107" y="16"/>
+      <point x="107" y="68" type="curve" smooth="yes"/>
+      <point x="107" y="99"/>
+      <point x="113" y="136"/>
+      <point x="123" y="183" type="curve" smooth="yes"/>
+      <point x="160" y="356" type="line"/>
+      <point x="132" y="352" type="line"/>
+      <point x="219" y="760" type="line"/>
+      <point x="118" y="760" type="line"/>
+      <point x="115" y="750" type="line"/>
+      <point x="135" y="750" type="line" smooth="yes"/>
+      <point x="172" y="750"/>
+      <point x="178" y="742"/>
+      <point x="178" y="720" type="curve" smooth="yes"/>
+      <point x="178" y="707"/>
+      <point x="176" y="689"/>
+      <point x="170" y="662" type="curve" smooth="yes"/>
+      <point x="100" y="336" type="line"/>
+      <point x="128" y="340" type="line"/>
+      <point x="95" y="183" type="line" smooth="yes"/>
+      <point x="85" y="136"/>
+      <point x="79" y="98"/>
+      <point x="79" y="69" type="curve" smooth="yes"/>
+      <point x="79" y="7"/>
+      <point x="107" y="-9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

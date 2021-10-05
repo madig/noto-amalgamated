@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tasaorya" format="2">
+  <advance width="698"/>
+  <anchor x="537" y="15" name="b.uvowelsignorya"/>
+  <anchor x="346" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="293" y="122" type="curve"/>
+      <point x="249" y="156" type="line"/>
+      <point x="189" y="108"/>
+      <point x="144" y="59"/>
+      <point x="98" y="-8" type="curve"/>
+      <point x="116" y="-49" type="line"/>
+      <point x="260" y="-80"/>
+      <point x="402" y="-122"/>
+      <point x="540" y="-173" type="curve"/>
+      <point x="607" y="-53" type="line"/>
+      <point x="467" y="-19"/>
+      <point x="324" y="15"/>
+      <point x="181" y="31" type="curve"/>
+      <point x="182" y="-9" type="line"/>
+      <point x="213" y="39"/>
+      <point x="251" y="82"/>
+    </contour>
+    <component base="_part.tasahalf" xOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>aorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

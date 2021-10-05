@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdescender.display" format="2">
+  <advance width="566"/>
+  <unicode hex="2C6C"/>
+  <anchor x="175" y="-228" name="bottom"/>
+  <anchor x="337" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="284" y="-228" type="curve" smooth="yes"/>
+      <point x="389" y="-228"/>
+      <point x="425" y="-150"/>
+      <point x="458" y="10" type="curve"/>
+      <point x="160" y="10" type="line"/>
+      <point x="531" y="526" type="line"/>
+      <point x="533" y="536" type="line"/>
+      <point x="115" y="536" type="line"/>
+      <point x="71" y="374" type="line"/>
+      <point x="81" y="374" type="line"/>
+      <point x="93" y="405" type="line"/>
+      <point x="123" y="495"/>
+      <point x="165" y="526"/>
+      <point x="256" y="526" type="curve" smooth="yes"/>
+      <point x="374" y="526" type="line"/>
+      <point x="2" y="10" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="380" y="-155"/>
+      <point x="336" y="-212"/>
+      <point x="265" y="-212" type="curve" smooth="yes"/>
+      <point x="226" y="-212"/>
+      <point x="196" y="-200"/>
+      <point x="171" y="-184" type="curve"/>
+      <point x="166" y="-195" type="line"/>
+      <point x="205" y="-216"/>
+      <point x="240" y="-228"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

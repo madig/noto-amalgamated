@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downDoubleArrow" format="2">
+  <advance width="500"/>
+  <unicode hex="21D3"/>
+  <outline>
+    <contour>
+      <point x="238" y="-31" type="curve"/>
+      <point x="263" y="-31" type="line"/>
+      <point x="321" y="41"/>
+      <point x="370" y="98"/>
+      <point x="412" y="139" type="curve"/>
+      <point x="412" y="194" type="line"/>
+      <point x="386" y="182"/>
+      <point x="358" y="161"/>
+      <point x="324" y="134" type="curve"/>
+      <point x="324" y="564" type="line"/>
+      <point x="275" y="564" type="line"/>
+      <point x="275" y="99" type="line"/>
+      <point x="250" y="75" type="line"/>
+      <point x="224" y="99" type="line"/>
+      <point x="224" y="564" type="line"/>
+      <point x="175" y="564" type="line"/>
+      <point x="175" y="133" type="line"/>
+      <point x="142" y="161"/>
+      <point x="113" y="182"/>
+      <point x="89" y="195" type="curve"/>
+      <point x="89" y="139" type="line"/>
+      <point x="131" y="97"/>
+      <point x="180" y="40"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Arrow</string>
+    </dict>
+  </lib>
+</glyph>

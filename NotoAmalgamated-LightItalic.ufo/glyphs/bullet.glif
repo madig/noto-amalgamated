@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="376"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="200" y="299" type="curve" smooth="yes"/>
+      <point x="244" y="299"/>
+      <point x="264" y="349"/>
+      <point x="264" y="384" type="curve" smooth="yes"/>
+      <point x="264" y="411"/>
+      <point x="251" y="431"/>
+      <point x="222" y="431" type="curve" smooth="yes"/>
+      <point x="176" y="431"/>
+      <point x="158" y="380"/>
+      <point x="158" y="344" type="curve" smooth="yes"/>
+      <point x="158" y="317"/>
+      <point x="171" y="299"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

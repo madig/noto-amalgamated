@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beh_hah-ar" format="2">
+  <advance width="887"/>
+  <unicode hex="FC06"/>
+  <anchor x="602" y="0" name="caret_1"/>
+  <outline>
+    <component base="beh-ar.init" xOffset="602"/>
+    <component base="hah-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>beh-ar.init</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hah-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

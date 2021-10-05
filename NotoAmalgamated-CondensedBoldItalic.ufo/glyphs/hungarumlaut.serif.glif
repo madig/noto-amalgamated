@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut.serif" format="2">
+  <advance width="423"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="277" y="619" type="curve"/>
+      <point x="274" y="606" type="line"/>
+      <point x="341" y="606" type="line"/>
+      <point x="386" y="642"/>
+      <point x="460" y="720"/>
+      <point x="486" y="756" type="curve"/>
+      <point x="489" y="766" type="line"/>
+      <point x="370" y="766" type="line"/>
+      <point x="343" y="718"/>
+      <point x="309" y="662"/>
+    </contour>
+    <contour>
+      <point x="115" y="619" type="curve"/>
+      <point x="112" y="606" type="line"/>
+      <point x="179" y="606" type="line"/>
+      <point x="224" y="642"/>
+      <point x="299" y="721"/>
+      <point x="324" y="756" type="curve"/>
+      <point x="327" y="766" type="line"/>
+      <point x="208" y="766" type="line"/>
+      <point x="180" y="718"/>
+      <point x="147" y="662"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

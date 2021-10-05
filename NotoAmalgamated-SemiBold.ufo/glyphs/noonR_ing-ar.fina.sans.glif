@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonRing-ar.fina.sans" format="2">
+  <advance width="805"/>
+  <anchor x="354" y="-223" name="bottom"/>
+  <anchor x="346" y="795" name="top"/>
+  <outline>
+    <component base="noon-ar.fina.restricted"/>
+    <component base="ringArabic" xOffset="234" yOffset="-203"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>noon-ar.fina.restricted</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>ringArabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ttha-oriya" format="2">
+  <advance width="551"/>
+  <unicode hex="0B20"/>
+  <note>
+tthaorya
+</note>
+  <anchor x="276" y="0" name="bottom"/>
+  <anchor x="473" y="0" name="bottom_ra"/>
+  <anchor x="276" y="658" name="top"/>
+  <anchor x="463" y="658" name="topright"/>
+  <outline>
+    <contour>
+      <point x="276" y="-7" type="curve"/>
+      <point x="276" y="-7" type="line"/>
+      <point x="423" y="-7"/>
+      <point x="523" y="130"/>
+      <point x="523" y="330" type="curve"/>
+      <point x="523" y="530"/>
+      <point x="423" y="666"/>
+      <point x="276" y="666" type="curve"/>
+      <point x="129" y="666"/>
+      <point x="28" y="530"/>
+      <point x="28" y="330" type="curve"/>
+      <point x="28" y="130"/>
+      <point x="129" y="-7"/>
+    </contour>
+    <contour>
+      <point x="276" y="18" type="curve"/>
+      <point x="276" y="18" type="line"/>
+      <point x="144" y="18"/>
+      <point x="54" y="145"/>
+      <point x="54" y="331" type="curve"/>
+      <point x="54" y="515"/>
+      <point x="144" y="641"/>
+      <point x="276" y="641" type="curve"/>
+      <point x="407" y="641"/>
+      <point x="497" y="515"/>
+      <point x="497" y="331" type="curve"/>
+      <point x="497" y="145"/>
+      <point x="407" y="18"/>
+    </contour>
+  </outline>
+</glyph>

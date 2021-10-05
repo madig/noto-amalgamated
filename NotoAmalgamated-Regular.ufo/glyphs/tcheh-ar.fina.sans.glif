@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcheh-ar.fina.sans" format="2">
+  <advance width="719"/>
+  <unicode hex="FB7B"/>
+  <anchor x="311" y="416" name="top"/>
+  <outline>
+    <component base="hah-ar.fina.wide"/>
+    <component base="threedotsdownabove-ar.small" xOffset="194" yOffset="-789"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedotsdownabove-ar.small</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

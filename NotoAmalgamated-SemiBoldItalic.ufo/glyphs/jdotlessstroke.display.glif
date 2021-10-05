@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotlessstroke.display" format="2">
+  <advance width="349"/>
+  <unicode hex="025F"/>
+  <anchor x="62" y="-240" name="bottom"/>
+  <anchor x="227" y="536" name="top"/>
+  <anchor x="380" y="536" name="topright"/>
+  <outline>
+    <contour>
+      <point x="-2" y="276" type="line"/>
+      <point x="342" y="276" type="line"/>
+      <point x="344" y="286" type="line"/>
+      <point x="1" y="286" type="line"/>
+    </contour>
+    <component base="jdotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

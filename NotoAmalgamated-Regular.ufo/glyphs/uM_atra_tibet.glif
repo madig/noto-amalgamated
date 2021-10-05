@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uMatra_tibet" format="2">
+  <unicode hex="0F74"/>
+  <anchor x="580" y="85" name="_bottomright"/>
+  <anchor x="324" y="-177" name="bottom"/>
+  <anchor x="624" y="-177" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="13" y="157" type="curve"/>
+      <point x="-20" y="127" type="line"/>
+      <point x="225" y="-50"/>
+      <point x="299" y="-177"/>
+      <point x="488" y="-177" type="curve" smooth="yes"/>
+      <point x="603" y="-177"/>
+      <point x="667" y="-105"/>
+      <point x="667" y="-12" type="curve" smooth="yes"/>
+      <point x="667" y="66"/>
+      <point x="613" y="124"/>
+      <point x="529" y="124" type="curve" smooth="yes"/>
+      <point x="495" y="124"/>
+      <point x="463" y="112"/>
+      <point x="443" y="93" type="curve"/>
+      <point x="457" y="7" type="line"/>
+      <point x="482" y="25"/>
+      <point x="514" y="35"/>
+      <point x="547" y="35" type="curve" smooth="yes"/>
+      <point x="593" y="35"/>
+      <point x="620" y="12"/>
+      <point x="620" y="-22" type="curve" smooth="yes"/>
+      <point x="620" y="-58"/>
+      <point x="585" y="-88"/>
+      <point x="518" y="-88" type="curve" smooth="yes"/>
+      <point x="330" y="-88"/>
+      <point x="262" y="8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>737</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

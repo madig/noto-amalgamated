@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eopenreversedhook.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="025D"/>
+  <anchor x="197" y="0" name="bottom"/>
+  <anchor x="205" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="513" y="310" type="curve" smooth="yes"/>
+      <point x="550" y="310"/>
+      <point x="570" y="328"/>
+      <point x="584" y="345" type="curve"/>
+      <point x="569" y="362" type="line"/>
+      <point x="555" y="347"/>
+      <point x="541" y="335"/>
+      <point x="514" y="335" type="curve" smooth="yes"/>
+      <point x="476" y="335"/>
+      <point x="458" y="360"/>
+      <point x="455" y="444" type="curve" smooth="yes"/>
+      <point x="454" y="472" type="line"/>
+      <point x="381" y="451" type="line"/>
+      <point x="382" y="425" type="line"/>
+      <point x="427" y="438" type="line"/>
+      <point x="430" y="346"/>
+      <point x="456" y="310"/>
+    </contour>
+    <component base="ze-cy" xOffset="-91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ze-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

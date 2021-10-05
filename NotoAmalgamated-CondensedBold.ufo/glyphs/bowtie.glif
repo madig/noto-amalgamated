@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bowtie" format="2">
+  <advance width="500"/>
+  <unicode hex="22C8"/>
+  <outline>
+    <contour>
+      <point x="66" y="33" type="line"/>
+      <point x="250" y="251" type="line"/>
+      <point x="435" y="33" type="line"/>
+      <point x="479" y="51" type="line"/>
+      <point x="479" y="603" type="line"/>
+      <point x="435" y="622" type="line"/>
+      <point x="251" y="406" type="line"/>
+      <point x="66" y="623" type="line"/>
+      <point x="22" y="603" type="line"/>
+      <point x="22" y="51" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="254" type="line"/>
+      <point x="122" y="401" type="line"/>
+      <point x="184" y="326" type="line"/>
+    </contour>
+    <contour>
+      <point x="377" y="258" type="line"/>
+      <point x="317" y="327" type="line"/>
+      <point x="377" y="399" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

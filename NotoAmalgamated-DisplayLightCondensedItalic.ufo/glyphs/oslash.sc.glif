@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash.sc" format="2">
+  <advance width="347"/>
+  <anchor x="111" y="-34" name="bottom"/>
+  <anchor x="242" y="589" name="top"/>
+  <outline>
+    <contour>
+      <point x="2" y="-34" type="line"/>
+      <point x="382" y="576" type="line"/>
+      <point x="361" y="589" type="line"/>
+      <point x="-18" y="-21" type="line"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

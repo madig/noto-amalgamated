@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yar_yatTawellemmet-tifi" format="2">
+  <advance width="779"/>
+  <note>
+uni2D32
+</note>
+  <outline>
+    <contour>
+      <point x="350" y="27" type="line"/>
+      <point x="427" y="27" type="line"/>
+      <point x="427" y="322" type="line"/>
+      <point x="654" y="322" type="line"/>
+      <point x="654" y="393" type="line"/>
+      <point x="427" y="393" type="line"/>
+      <point x="427" y="688" type="line"/>
+      <point x="350" y="688" type="line"/>
+      <point x="350" y="393" type="line"/>
+      <point x="131" y="393" type="line"/>
+      <point x="131" y="322" type="line"/>
+      <point x="350" y="322" type="line"/>
+    </contour>
+    <component base="yar-tifi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lbelt.display" format="2">
+  <advance width="500"/>
+  <unicode hex="A7AD"/>
+  <outline>
+    <contour>
+      <point x="472" y="115" type="line"/>
+      <point x="260" y="115" type="line"/>
+      <point x="260" y="303" type="line"/>
+      <point x="336" y="303" type="line"/>
+      <point x="336" y="376" type="line"/>
+      <point x="260" y="376" type="line"/>
+      <point x="260" y="714" type="line"/>
+      <point x="126" y="714" type="line"/>
+      <point x="126" y="518" type="line"/>
+      <point x="115" y="528"/>
+      <point x="101" y="534"/>
+      <point x="87" y="534" type="curve" smooth="yes"/>
+      <point x="29" y="534"/>
+      <point x="-7" y="491"/>
+      <point x="-7" y="418" type="curve" smooth="yes"/>
+      <point x="-7" y="355"/>
+      <point x="23" y="303"/>
+      <point x="97" y="303" type="curve" smooth="yes"/>
+      <point x="126" y="303" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="472" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="395" type="curve" smooth="yes"/>
+      <point x="126" y="376" type="line"/>
+      <point x="104" y="376" type="line" smooth="yes"/>
+      <point x="85" y="376"/>
+      <point x="71" y="390"/>
+      <point x="71" y="418" type="curve" smooth="yes"/>
+      <point x="71" y="444"/>
+      <point x="81" y="460"/>
+      <point x="98" y="460" type="curve" smooth="yes"/>
+      <point x="113" y="460"/>
+      <point x="126" y="447"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

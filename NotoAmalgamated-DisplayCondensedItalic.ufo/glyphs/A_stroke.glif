@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Astroke" format="2">
+  <advance width="398"/>
+  <unicode hex="023A"/>
+  <anchor x="128" y="-76" name="bottom"/>
+  <anchor x="292" y="761" name="top"/>
+  <outline>
+    <contour>
+      <point x="26" y="-76" type="line"/>
+      <point x="79" y="-76" type="line"/>
+      <point x="416" y="761" type="line"/>
+      <point x="363" y="761" type="line"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

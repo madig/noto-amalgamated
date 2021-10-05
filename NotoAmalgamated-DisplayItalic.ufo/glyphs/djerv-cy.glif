@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="djerv-cy" format="2">
+  <advance width="592"/>
+  <unicode hex="A649"/>
+  <anchor x="240" y="0" name="bottom"/>
+  <anchor x="354" y="536" name="top"/>
+  <outline>
+    <contour>
+      <point x="44" y="104" type="curve" smooth="yes"/>
+      <point x="22" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="131" y="100" type="line" smooth="yes"/>
+      <point x="151" y="196"/>
+      <point x="196" y="239"/>
+      <point x="286" y="239" type="curve" smooth="yes"/>
+      <point x="360" y="239"/>
+      <point x="400" y="209"/>
+      <point x="400" y="143" type="curve" smooth="yes"/>
+      <point x="400" y="130"/>
+      <point x="398" y="116"/>
+      <point x="395" y="100" type="curve" smooth="yes"/>
+      <point x="374" y="0" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="477" y="74" type="line" smooth="yes"/>
+      <point x="483" y="100"/>
+      <point x="486" y="122"/>
+      <point x="486" y="145" type="curve" smooth="yes"/>
+      <point x="486" y="253"/>
+      <point x="421" y="313"/>
+      <point x="300" y="313" type="curve" smooth="yes"/>
+      <point x="158" y="313"/>
+      <point x="74" y="244"/>
+    </contour>
+    <contour>
+      <point x="254" y="271" type="line"/>
+      <point x="342" y="271" type="line"/>
+      <point x="398" y="537" type="line"/>
+      <point x="310" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="389" type="line"/>
+      <point x="498" y="389" type="line"/>
+      <point x="513" y="454" type="line"/>
+      <point x="161" y="454" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

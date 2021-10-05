@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcircumflex.sc.serif" format="2">
+  <advance width="274"/>
+  <anchor x="95" y="-192" name="bottom"/>
+  <anchor x="140" y="806" name="top"/>
+  <outline>
+    <component base="j.sc" xOffset="3"/>
+    <component base="circumflexcomb.sc" xOffset="-89" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>j.sc</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Smallcaps</string>
+    </dict>
+  </lib>
+</glyph>

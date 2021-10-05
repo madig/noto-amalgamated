@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rVocalicMatra-gujarati" format="2">
+  <unicode hex="0AC3"/>
+  <anchor x="0" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="104" y="-340" type="curve" smooth="yes"/>
+      <point x="164" y="-340"/>
+      <point x="206" y="-320"/>
+      <point x="251" y="-288" type="curve"/>
+      <point x="162" y="-183" type="line"/>
+      <point x="119" y="-216"/>
+      <point x="83" y="-234"/>
+      <point x="41" y="-234" type="curve" smooth="yes"/>
+      <point x="13" y="-234"/>
+      <point x="-2" y="-219"/>
+      <point x="-2" y="-199" type="curve" smooth="yes"/>
+      <point x="-2" y="-159"/>
+      <point x="61" y="-138"/>
+      <point x="120" y="-132" type="curve"/>
+      <point x="53" y="-29" type="line"/>
+      <point x="-57" y="-33"/>
+      <point x="-122" y="-83"/>
+      <point x="-122" y="-158" type="curve" smooth="yes"/>
+      <point x="-122" y="-200"/>
+      <point x="-98" y="-241"/>
+      <point x="-62" y="-274" type="curve" smooth="yes"/>
+      <point x="-19" y="-314"/>
+      <point x="44" y="-340"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>gujarati</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

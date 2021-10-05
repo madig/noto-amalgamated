@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA6D4" format="2">
+  <advance width="741.65574"/>
+  <unicode hex="A6D4"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="203" y="162" type="line" smooth="yes"/>
+      <point x="203" y="262"/>
+      <point x="237" y="313"/>
+      <point x="306" y="330" type="curve"/>
+      <point x="306" y="0" type="line"/>
+      <point x="434" y="0" type="line"/>
+      <point x="434" y="331" type="line"/>
+      <point x="497" y="315"/>
+      <point x="538" y="272"/>
+      <point x="538" y="163" type="curve" smooth="yes"/>
+      <point x="538" y="0" type="line"/>
+      <point x="666" y="0" type="line"/>
+      <point x="666" y="167" type="line" smooth="yes"/>
+      <point x="666" y="335"/>
+      <point x="582" y="425"/>
+      <point x="434" y="443" type="curve"/>
+      <point x="434" y="714" type="line"/>
+      <point x="306" y="714" type="line"/>
+      <point x="306" y="442" type="line"/>
+      <point x="152" y="419"/>
+      <point x="76" y="318"/>
+      <point x="76" y="166" type="curve" smooth="yes"/>
+    </contour>
+    <component base="_dot" xOffset="409" yOffset="173"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_dot</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

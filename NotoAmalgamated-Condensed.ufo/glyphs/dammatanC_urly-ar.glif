@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dammatanCurly-ar" format="2">
+  <unicode hex="08E8"/>
+  <anchor x="157" y="458" name="_top"/>
+  <anchor x="140" y="1014" name="top"/>
+  <outline>
+    <component base="dammaCurly-ar" xOffset="-23"/>
+    <component base="dammaCurly-ar" xScale="-1" yScale="-1" xOffset="319" yOffset="1603"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dammaCurly-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dammaCurly-ar</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=dammatan-ar</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>317</integer>
+    </dict>
+  </lib>
+</glyph>

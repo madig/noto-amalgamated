@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA6F2" format="2">
+  <advance width="627.09836"/>
+  <unicode hex="A6F2"/>
+  <outline>
+    <contour>
+      <point x="308" y="-7" type="curve" smooth="yes"/>
+      <point x="454" y="-7"/>
+      <point x="551" y="79"/>
+      <point x="551" y="251" type="curve" smooth="yes"/>
+      <point x="551" y="368"/>
+      <point x="484" y="466"/>
+      <point x="400" y="553" type="curve"/>
+      <point x="259" y="553" type="line"/>
+      <point x="343" y="463"/>
+      <point x="424" y="362"/>
+      <point x="424" y="252" type="curve" smooth="yes"/>
+      <point x="424" y="143"/>
+      <point x="378" y="99"/>
+      <point x="311" y="99" type="curve" smooth="yes"/>
+      <point x="251" y="99"/>
+      <point x="202" y="138"/>
+      <point x="202" y="228" type="curve" smooth="yes"/>
+      <point x="202" y="274"/>
+      <point x="207" y="304"/>
+      <point x="218" y="344" type="curve"/>
+      <point x="94" y="344" type="line"/>
+      <point x="80" y="297"/>
+      <point x="75" y="268"/>
+      <point x="75" y="221" type="curve" smooth="yes"/>
+      <point x="75" y="68"/>
+      <point x="174" y="-7"/>
+    </contour>
+    <component base="_dot" xOffset="141" yOffset="260"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_dot</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

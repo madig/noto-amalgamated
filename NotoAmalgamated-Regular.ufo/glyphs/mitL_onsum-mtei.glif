@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mitLonsum-mtei" format="2">
+  <advance width="630"/>
+  <unicode hex="ABDD"/>
+  <anchor x="590" y="0" name="bottom"/>
+  <anchor x="0" y="0" name="bottom_left"/>
+  <anchor x="630" y="0" name="bottom_right"/>
+  <anchor x="470" y="713" name="top"/>
+  <outline>
+    <contour>
+      <point x="55" y="586" type="line"/>
+      <point x="590" y="586" type="line"/>
+      <point x="590" y="659" type="line"/>
+      <point x="55" y="659" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="601" type="line"/>
+      <point x="105" y="601" type="line"/>
+      <point x="105" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="0" type="line"/>
+      <point x="407" y="601" type="line"/>
+      <point x="326" y="601" type="line"/>
+      <point x="326" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="343" type="line"/>
+      <point x="170" y="272" type="line"/>
+      <point x="342" y="272" type="line"/>
+      <point x="342" y="343" type="line"/>
+    </contour>
+    <contour>
+      <point x="391" y="343" type="line"/>
+      <point x="391" y="272" type="line"/>
+      <point x="558" y="272" type="line"/>
+      <point x="558" y="343" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>mtei</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="halfhturned.mono" format="2">
+  <advance width="500"/>
+  <unicode hex="A7F6"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="229" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="367" y="0" type="line"/>
+      <point x="367" y="547" type="line"/>
+      <point x="237" y="547" type="line"/>
+      <point x="237" y="337" type="line"/>
+      <point x="94" y="337" type="line"/>
+      <point x="94" y="226" type="line"/>
+      <point x="237" y="226" type="line"/>
+      <point x="237" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|uni2C76</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>halfh</string>
+    </dict>
+  </lib>
+</glyph>

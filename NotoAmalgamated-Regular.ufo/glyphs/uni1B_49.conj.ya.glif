@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B49.conj.ya" format="2">
+  <advance width="416"/>
+  <outline>
+    <contour>
+      <point x="235" y="-819" type="line"/>
+      <point x="316" y="-819" type="line"/>
+      <point x="316" y="11" type="line"/>
+      <point x="235" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="-540" type="line"/>
+      <point x="124" y="-540" type="line"/>
+      <point x="124" y="259" type="line"/>
+      <point x="43" y="259" type="line"/>
+    </contour>
+    <component base="uni1B49.conj"/>
+    <component base="uni1B2F.conj.2" xOffset="184"/>
+    <component base="uni1B05.02.part" xOffset="-405"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1B49.conj</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>uni1B2F.conj.2</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>uni1B05.02.part</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

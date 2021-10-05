@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KoppaArchaic" format="2">
+  <advance width="715"/>
+  <unicode hex="03D8"/>
+  <outline>
+    <contour>
+      <point x="290" y="133" type="curve"/>
+      <point x="262" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="377" y="126" type="line"/>
+      <point x="552" y="133"/>
+      <point x="694" y="253"/>
+      <point x="694" y="467" type="curve" smooth="yes"/>
+      <point x="694" y="619"/>
+      <point x="605" y="725"/>
+      <point x="436" y="725" type="curve" smooth="yes"/>
+      <point x="196" y="725"/>
+      <point x="92" y="554"/>
+      <point x="92" y="383" type="curve" smooth="yes"/>
+      <point x="92" y="245"/>
+      <point x="179" y="155"/>
+    </contour>
+    <contour>
+      <point x="367" y="205" type="curve" smooth="yes"/>
+      <point x="255" y="205"/>
+      <point x="187" y="262"/>
+      <point x="187" y="397" type="curve" smooth="yes"/>
+      <point x="187" y="520"/>
+      <point x="255" y="646"/>
+      <point x="423" y="646" type="curve" smooth="yes"/>
+      <point x="532" y="646"/>
+      <point x="599" y="582"/>
+      <point x="599" y="466" type="curve" smooth="yes"/>
+      <point x="599" y="320"/>
+      <point x="531" y="205"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=O</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=O</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

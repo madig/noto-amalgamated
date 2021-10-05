@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tehMarbutagoal-ar" format="2">
+  <advance width="653.66667"/>
+  <unicode hex="06C3"/>
+  <note>
+uni06C3
+</note>
+  <anchor x="327" y="-78" name="bottom"/>
+  <anchor x="301" y="800" name="top"/>
+  <outline>
+    <component base="heh-ar"/>
+    <component base="twodots.above" xOffset="319"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>heh-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>twodots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

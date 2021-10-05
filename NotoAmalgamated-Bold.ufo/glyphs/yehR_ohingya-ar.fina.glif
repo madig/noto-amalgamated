@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehRohingya-ar.fina" format="2">
+  <advance width="707"/>
+  <anchor x="432" y="-282" name="bottom"/>
+  <anchor x="440" y="501" name="top"/>
+  <outline>
+    <component base="yehRohingya-ar.pt.fina"/>
+    <component base="twodotshorizontalbelow-ar" xOffset="236" yOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_part.instroke</string>
+    </dict>
+  </lib>
+</glyph>

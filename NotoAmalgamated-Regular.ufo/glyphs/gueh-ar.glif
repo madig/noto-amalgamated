@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gueh-ar" format="2">
+  <advance width="808"/>
+  <unicode hex="06B3"/>
+  <note>
+uni06B3
+</note>
+  <anchor x="414" y="-410" name="bottom"/>
+  <anchor x="354" y="890" name="top"/>
+  <outline>
+    <component base="keheh-ar"/>
+    <component base="diagonal" xOffset="267"/>
+    <component base="twodots.vert.below" xOffset="419"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>keheh-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>diagonal</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>twodots.vert.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

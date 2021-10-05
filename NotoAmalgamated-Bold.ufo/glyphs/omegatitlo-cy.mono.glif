@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegatitlo-cy.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="047D"/>
+  <outline>
+    <contour>
+      <point x="107" y="819" type="curve" smooth="yes"/>
+      <point x="107" y="789" type="line"/>
+      <point x="214" y="789" type="line"/>
+      <point x="214" y="821"/>
+      <point x="231" y="841"/>
+      <point x="261" y="841" type="curve" smooth="yes"/>
+      <point x="314" y="841"/>
+      <point x="336" y="789"/>
+      <point x="502" y="789" type="curve" smooth="yes"/>
+      <point x="510" y="789" type="line"/>
+      <point x="510" y="907" type="line"/>
+      <point x="503" y="907" type="line" smooth="yes"/>
+      <point x="401" y="907"/>
+      <point x="333" y="967"/>
+      <point x="245" y="967" type="curve" smooth="yes"/>
+      <point x="155" y="967"/>
+      <point x="107" y="924"/>
+    </contour>
+    <contour>
+      <point x="229" y="623" type="curve"/>
+      <point x="229" y="573" type="line"/>
+      <point x="335" y="573"/>
+      <point x="402" y="618"/>
+      <point x="402" y="698" type="curve" smooth="yes"/>
+      <point x="402" y="751"/>
+      <point x="370" y="788"/>
+      <point x="311" y="788" type="curve" smooth="yes"/>
+      <point x="249" y="788"/>
+      <point x="220" y="760"/>
+      <point x="220" y="727" type="curve" smooth="yes"/>
+      <point x="220" y="677"/>
+      <point x="285" y="705"/>
+      <point x="285" y="663" type="curve" smooth="yes"/>
+      <point x="285" y="645"/>
+      <point x="267" y="625"/>
+    </contour>
+    <component base="omegabroad-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>omegabroad-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string></string>
+    </dict>
+  </lib>
+</glyph>

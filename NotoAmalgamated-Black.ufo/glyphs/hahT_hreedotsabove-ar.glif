@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahThreedotsabove-ar" format="2">
+  <advance width="709"/>
+  <unicode hex="0685"/>
+  <note>
+uni0685
+</note>
+  <anchor x="236" y="-438" name="bottom"/>
+  <anchor x="244" y="935" name="top"/>
+  <outline>
+    <component base="hah-ar"/>
+    <component base="threedots.above" xOffset="229"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hah-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

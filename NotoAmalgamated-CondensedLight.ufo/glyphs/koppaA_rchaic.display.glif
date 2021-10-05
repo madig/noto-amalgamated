@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koppaArchaic.display" format="2">
+  <advance width="393"/>
+  <unicode hex="03D9"/>
+  <outline>
+    <contour>
+      <point x="197" y="537" type="curve" smooth="yes"/>
+      <point x="94" y="537"/>
+      <point x="45" y="444"/>
+      <point x="45" y="266" type="curve" smooth="yes"/>
+      <point x="45" y="89"/>
+      <point x="93" y="-1"/>
+      <point x="184" y="-9" type="curve"/>
+      <point x="184" y="-232" type="line"/>
+      <point x="210" y="-232" type="line"/>
+      <point x="210" y="-10" type="line"/>
+      <point x="302" y="-3"/>
+      <point x="348" y="84"/>
+      <point x="348" y="264" type="curve" smooth="yes"/>
+      <point x="348" y="433"/>
+      <point x="306" y="537"/>
+    </contour>
+    <contour>
+      <point x="197" y="512" type="curve" smooth="yes"/>
+      <point x="289" y="512"/>
+      <point x="321" y="418"/>
+      <point x="321" y="265" type="curve" smooth="yes"/>
+      <point x="321" y="94"/>
+      <point x="283" y="15"/>
+      <point x="198" y="15" type="curve" smooth="yes"/>
+      <point x="111" y="15"/>
+      <point x="71" y="102"/>
+      <point x="71" y="266" type="curve" smooth="yes"/>
+      <point x="71" y="424"/>
+      <point x="108" y="512"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

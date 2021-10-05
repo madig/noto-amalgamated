@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="meemDotabove-ar" format="2">
+  <advance width="649"/>
+  <unicode hex="0765"/>
+  <note>
+uni0765
+</note>
+  <anchor x="325" y="-78" name="bottom"/>
+  <anchor x="325" y="730" name="top"/>
+  <outline>
+    <component base="meem-ar"/>
+    <component base="onedot.above" xOffset="346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>meem-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>onedot.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

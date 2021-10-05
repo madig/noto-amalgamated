@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bhanuktaprehalfguru" format="2">
+  <advance width="590"/>
+  <note>
+bhanuktaprehalfguru
+</note>
+  <outline>
+    <component base="bhanuktaguru"/>
+    <component base="halantguru" xOffset="462"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>halantguru</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>bhaguru</string>
+    </dict>
+  </lib>
+</glyph>

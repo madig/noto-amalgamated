@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jeh-ar" format="2">
+  <advance width="325"/>
+  <unicode hex="0698"/>
+  <note>
+uni0698
+</note>
+  <anchor x="98" y="-293" name="bottom"/>
+  <anchor x="183" y="860" name="top"/>
+  <outline>
+    <component base="reh-ar"/>
+    <component base="threedots.above" xOffset="197"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>reh-ar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.above</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

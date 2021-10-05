@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rumsmall" format="2">
+  <advance width="664"/>
+  <unicode hex="A776"/>
+  <outline>
+    <contour>
+      <point x="300" y="-157" type="line"/>
+      <point x="409" y="-157" type="line"/>
+      <point x="631" y="298" type="line"/>
+      <point x="523" y="298" type="line"/>
+    </contour>
+    <contour>
+      <point x="342" y="0" type="line"/>
+      <point x="603" y="0" type="line"/>
+      <point x="631" y="135" type="line"/>
+      <point x="370" y="135" type="line"/>
+    </contour>
+    <component base="Rsmall"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Rsmall</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

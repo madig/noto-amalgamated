@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ysmall.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="028F"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="218" y="0" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="380" y="215" type="line"/>
+      <point x="565" y="553" type="line"/>
+      <point x="390" y="553" type="line"/>
+      <point x="300" y="355" type="line"/>
+      <point x="208" y="553" type="line"/>
+      <point x="34" y="553" type="line"/>
+      <point x="218" y="210" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

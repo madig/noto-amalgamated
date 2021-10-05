@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eMatra_anusvara-khoj.alt" format="2">
+  <note>
+kj_vs_E.ns
+</note>
+  <anchor x="0" y="600" name="_top"/>
+  <outline>
+    <component base="Anusvara-khoj" xOffset="90" yOffset="186"/>
+    <component base="eMatra-khoj.alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

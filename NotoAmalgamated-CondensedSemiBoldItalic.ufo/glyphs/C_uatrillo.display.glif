@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cuatrillo.display" format="2">
+  <advance width="472"/>
+  <unicode hex="A72C"/>
+  <outline>
+    <contour>
+      <point x="160" y="-10" type="curve" smooth="yes"/>
+      <point x="275" y="-10"/>
+      <point x="344" y="70"/>
+      <point x="380" y="243" type="curve" smooth="yes"/>
+      <point x="482" y="714" type="line"/>
+      <point x="362" y="714" type="line"/>
+      <point x="32" y="275" type="line"/>
+      <point x="22" y="235" type="line"/>
+      <point x="253" y="235" type="line"/>
+      <point x="230" y="125" type="line" smooth="yes"/>
+      <point x="210" y="31"/>
+      <point x="202" y="0"/>
+      <point x="165" y="0" type="curve" smooth="yes"/>
+      <point x="146" y="0"/>
+      <point x="139" y="16"/>
+      <point x="139" y="45" type="curve" smooth="yes"/>
+      <point x="139" y="63"/>
+      <point x="146" y="106"/>
+      <point x="152" y="134" type="curve"/>
+      <point x="82" y="134"/>
+      <point x="42" y="110"/>
+      <point x="42" y="64" type="curve" smooth="yes"/>
+      <point x="42" y="21"/>
+      <point x="81" y="-10"/>
+    </contour>
+    <contour>
+      <point x="45" y="276" type="line"/>
+      <point x="273" y="579" type="line" smooth="yes"/>
+      <point x="309" y="628"/>
+      <point x="329" y="654"/>
+      <point x="352" y="688" type="curve"/>
+      <point x="339" y="643"/>
+      <point x="326" y="587"/>
+      <point x="312" y="521" type="curve" smooth="yes"/>
+      <point x="261" y="276" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

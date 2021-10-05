@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tche-cy.display" format="2">
+  <advance width="643"/>
+  <unicode hex="A692"/>
+  <outline>
+    <contour>
+      <point x="14" y="595" type="line"/>
+      <point x="380" y="595" type="line"/>
+      <point x="380" y="714" type="line"/>
+      <point x="14" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="582" y="0" type="line"/>
+      <point x="582" y="714" type="line"/>
+      <point x="446" y="714" type="line"/>
+      <point x="446" y="383" type="line"/>
+      <point x="402" y="361"/>
+      <point x="366" y="351"/>
+      <point x="333" y="351" type="curve" smooth="yes"/>
+      <point x="286" y="351"/>
+      <point x="267" y="382"/>
+      <point x="267" y="457" type="curve" smooth="yes"/>
+      <point x="267" y="684" type="line"/>
+      <point x="129" y="684" type="line"/>
+      <point x="129" y="420" type="line" smooth="yes"/>
+      <point x="129" y="300"/>
+      <point x="185" y="232"/>
+      <point x="283" y="232" type="curve" smooth="yes"/>
+      <point x="332" y="232"/>
+      <point x="385" y="245"/>
+      <point x="446" y="272" type="curve"/>
+      <point x="446" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

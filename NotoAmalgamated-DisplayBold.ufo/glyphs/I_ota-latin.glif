@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iota-latin" format="2">
+  <advance width="436"/>
+  <unicode hex="0196"/>
+  <anchor x="231" y="0" name="bottom"/>
+  <anchor x="188" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="279" y="-10" type="curve"/>
+      <point x="339" y="-10"/>
+      <point x="394" y="3"/>
+      <point x="430" y="20" type="curve"/>
+      <point x="430" y="172" type="line"/>
+      <point x="399" y="160"/>
+      <point x="378" y="153"/>
+      <point x="342" y="153" type="curve"/>
+      <point x="319" y="153"/>
+      <point x="297" y="176"/>
+      <point x="297" y="211" type="curve"/>
+      <point x="297" y="714" type="line"/>
+      <point x="77" y="714" type="line"/>
+      <point x="77" y="196" type="line" smooth="yes"/>
+      <point x="77" y="32"/>
+      <point x="171" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

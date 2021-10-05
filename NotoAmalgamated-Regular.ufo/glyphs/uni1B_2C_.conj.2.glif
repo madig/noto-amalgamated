@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1B2C.conj.2" format="2">
+  <advance width="386"/>
+  <outline>
+    <contour>
+      <point x="48" y="-552" type="line"/>
+      <point x="129" y="-552" type="line"/>
+      <point x="129" y="466" type="line"/>
+      <point x="171" y="466" type="line" smooth="yes"/>
+      <point x="220" y="466"/>
+      <point x="245" y="440"/>
+      <point x="245" y="387" type="curve" smooth="yes"/>
+      <point x="245" y="-819" type="line"/>
+      <point x="326" y="-819" type="line"/>
+      <point x="326" y="383" type="line" smooth="yes"/>
+      <point x="326" y="485"/>
+      <point x="276" y="536"/>
+      <point x="174" y="536" type="curve" smooth="yes"/>
+      <point x="48" y="536" type="line"/>
+    </contour>
+    <component base="uni1B2F.conj.2" xOffset="189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni1B2F.conj.2</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonequals" format="2">
+  <advance width="500"/>
+  <unicode hex="2254"/>
+  <outline>
+    <contour>
+      <point x="172" y="453" type="line"/>
+      <point x="454" y="453" type="line"/>
+      <point x="454" y="479" type="line"/>
+      <point x="172" y="479" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="213" type="curve" smooth="yes"/>
+      <point x="94" y="213"/>
+      <point x="108" y="229"/>
+      <point x="108" y="248" type="curve" smooth="yes"/>
+      <point x="108" y="267"/>
+      <point x="94" y="283"/>
+      <point x="77" y="283" type="curve" smooth="yes"/>
+      <point x="60" y="283"/>
+      <point x="46" y="267"/>
+      <point x="46" y="248" type="curve" smooth="yes"/>
+      <point x="46" y="229"/>
+      <point x="60" y="213"/>
+    </contour>
+    <contour>
+      <point x="77" y="432" type="curve" smooth="yes"/>
+      <point x="94" y="432"/>
+      <point x="108" y="448"/>
+      <point x="108" y="467" type="curve" smooth="yes"/>
+      <point x="108" y="486"/>
+      <point x="94" y="502"/>
+      <point x="77" y="502" type="curve" smooth="yes"/>
+      <point x="60" y="502"/>
+      <point x="46" y="486"/>
+      <point x="46" y="467" type="curve" smooth="yes"/>
+      <point x="46" y="448"/>
+      <point x="60" y="432"/>
+    </contour>
+    <contour>
+      <point x="172" y="233" type="line"/>
+      <point x="454" y="233" type="line"/>
+      <point x="454" y="259" type="line"/>
+      <point x="172" y="259" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

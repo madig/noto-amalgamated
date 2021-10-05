@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etadasiaperispomeni.serif" format="2">
+  <advance width="776"/>
+  <unicode hex="1F2F"/>
+  <anchor x="468" y="0" name="bottom"/>
+  <anchor x="468" y="714" name="top"/>
+  <outline>
+    <component base="dasiaperispomeni" xOffset="-71"/>
+    <component base="H" xOffset="143"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

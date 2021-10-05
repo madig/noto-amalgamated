@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LL-middleWelsh.serif" format="2">
+  <advance width="914"/>
+  <unicode hex="1EFA"/>
+  <anchor x="457" y="0" name="bottom"/>
+  <anchor x="457" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="865" y="0" type="line"/>
+      <point x="872" y="215" type="line"/>
+      <point x="862" y="215" type="line"/>
+      <point x="860" y="182" type="line" smooth="yes"/>
+      <point x="852" y="51"/>
+      <point x="816" y="10"/>
+      <point x="710" y="10" type="curve" smooth="yes"/>
+      <point x="525" y="10" type="line"/>
+      <point x="525" y="632" type="line" smooth="yes"/>
+      <point x="525" y="680"/>
+      <point x="552" y="704"/>
+      <point x="607" y="704" type="curve" smooth="yes"/>
+      <point x="620" y="704" type="line"/>
+      <point x="620" y="714" type="line"/>
+      <point x="38" y="714" type="line"/>
+      <point x="38" y="704" type="line"/>
+      <point x="51" y="704" type="line" smooth="yes"/>
+      <point x="105" y="704"/>
+      <point x="133" y="681"/>
+      <point x="133" y="636" type="curve" smooth="yes"/>
+      <point x="133" y="82" type="line" smooth="yes"/>
+      <point x="133" y="34"/>
+      <point x="105" y="10"/>
+      <point x="51" y="10" type="curve" smooth="yes"/>
+      <point x="38" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="342" y="10" type="curve" smooth="yes"/>
+      <point x="316" y="10" type="line"/>
+      <point x="261" y="10"/>
+      <point x="234" y="34"/>
+      <point x="234" y="82" type="curve" smooth="yes"/>
+      <point x="234" y="632" type="line" smooth="yes"/>
+      <point x="234" y="680"/>
+      <point x="261" y="704"/>
+      <point x="316" y="704" type="curve" smooth="yes"/>
+      <point x="342" y="704" type="line" smooth="yes"/>
+      <point x="396" y="704"/>
+      <point x="424" y="681"/>
+      <point x="424" y="636" type="curve" smooth="yes"/>
+      <point x="424" y="82" type="line" smooth="yes"/>
+      <point x="424" y="34"/>
+      <point x="396" y="10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

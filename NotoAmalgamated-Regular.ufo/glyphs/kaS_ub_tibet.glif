@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaSub_tibet" format="2">
+  <unicode hex="0F90"/>
+  <anchor x="599.324" y="245" name="_bottomright"/>
+  <anchor x="293.99" y="-240.478" name="bottom"/>
+  <anchor x="599.324" y="-450.367" name="bottomright"/>
+  <anchor x="619.324" y="245" name="flag"/>
+  <outline>
+    <contour>
+      <point x="619" y="245" type="line"/>
+      <point x="86" y="245" type="line"/>
+      <point x="66" y="159" type="line"/>
+      <point x="150" y="159" type="line"/>
+      <point x="146" y="82"/>
+      <point x="108" y="37"/>
+      <point x="39" y="-11" type="curve"/>
+      <point x="92" y="-93" type="line"/>
+      <point x="165" y="-23"/>
+      <point x="193" y="48"/>
+      <point x="197" y="159" type="curve"/>
+      <point x="287" y="159" type="line"/>
+      <point x="314" y="74"/>
+      <point x="330" y="-34"/>
+      <point x="336" y="-167" type="curve"/>
+      <point x="383" y="-189" type="line"/>
+      <point x="383" y="-46"/>
+      <point x="380" y="70"/>
+      <point x="373" y="159" type="curve"/>
+      <point x="513" y="159" type="line"/>
+      <point x="537" y="13"/>
+      <point x="548" y="-137"/>
+      <point x="553" y="-450" type="curve"/>
+      <point x="599" y="-472" type="line"/>
+      <point x="599" y="159" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>663</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

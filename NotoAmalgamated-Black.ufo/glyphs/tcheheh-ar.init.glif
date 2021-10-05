@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcheheh-ar.init" format="2">
+  <advance width="635"/>
+  <note>
+uni0687.init
+</note>
+  <anchor x="248" y="-447" name="bottom"/>
+  <anchor x="190" y="579" name="top"/>
+  <outline>
+    <component base="hah-ar.init"/>
+    <component base="fourdots.below" xOffset="238"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>hah-ar.init</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fourdots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

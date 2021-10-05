@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="da_uMatra-khoj" format="2">
+  <advance width="725"/>
+  <note>
+DU
+</note>
+  <anchor x="606" y="-282" name="bottom"/>
+  <anchor x="387" y="600" name="nukta"/>
+  <anchor x="618" y="586" name="top"/>
+  <outline>
+    <contour>
+      <point x="548" y="-294" type="curve" smooth="yes"/>
+      <point x="687" y="-294"/>
+      <point x="765" y="-219"/>
+      <point x="765" y="-133" type="curve" smooth="yes"/>
+      <point x="765" y="-52"/>
+      <point x="695" y="14"/>
+      <point x="613" y="34" type="curve"/>
+      <point x="612" y="-1" type="line"/>
+      <point x="640" y="29"/>
+      <point x="656" y="67"/>
+      <point x="656" y="100" type="curve" smooth="yes"/>
+      <point x="656" y="144"/>
+      <point x="622" y="193"/>
+      <point x="508" y="246" type="curve"/>
+      <point x="531" y="211" type="line"/>
+      <point x="578" y="257"/>
+      <point x="620" y="323"/>
+      <point x="620" y="393" type="curve" smooth="yes"/>
+      <point x="620" y="499"/>
+      <point x="526" y="606"/>
+      <point x="397" y="606" type="curve" smooth="yes"/>
+      <point x="250" y="606"/>
+      <point x="40" y="466"/>
+      <point x="40" y="343" type="curve" smooth="yes"/>
+      <point x="40" y="267"/>
+      <point x="118" y="198"/>
+      <point x="194" y="198" type="curve" smooth="yes"/>
+      <point x="272" y="198"/>
+      <point x="329" y="267"/>
+      <point x="329" y="336" type="curve" smooth="yes"/>
+      <point x="329" y="397"/>
+      <point x="278" y="440"/>
+      <point x="222" y="461" type="curve"/>
+      <point x="187" y="438" type="line"/>
+      <point x="225" y="425"/>
+      <point x="246" y="398"/>
+      <point x="246" y="366" type="curve" smooth="yes"/>
+      <point x="246" y="319"/>
+      <point x="209" y="267"/>
+      <point x="166" y="267" type="curve" smooth="yes"/>
+      <point x="140" y="267"/>
+      <point x="120" y="284"/>
+      <point x="120" y="316" type="curve" smooth="yes"/>
+      <point x="120" y="417"/>
+      <point x="317" y="528"/>
+      <point x="437" y="528" type="curve" smooth="yes"/>
+      <point x="505" y="528"/>
+      <point x="541" y="492"/>
+      <point x="541" y="434" type="curve" smooth="yes"/>
+      <point x="541" y="335"/>
+      <point x="437" y="248"/>
+      <point x="314" y="191" type="curve"/>
+      <point x="326" y="172"/>
+      <point x="360" y="137"/>
+      <point x="388" y="117" type="curve"/>
+      <point x="433" y="146"/>
+      <point x="483" y="178"/>
+      <point x="524" y="178" type="curve" smooth="yes"/>
+      <point x="561" y="178"/>
+      <point x="578" y="157"/>
+      <point x="578" y="126" type="curve" smooth="yes"/>
+      <point x="578" y="79"/>
+      <point x="538" y="45"/>
+      <point x="454" y="-9" type="curve"/>
+      <point x="468" y="-28"/>
+      <point x="498" y="-53"/>
+      <point x="527" y="-70" type="curve"/>
+      <point x="566" y="-48"/>
+      <point x="601" y="-32"/>
+      <point x="632" y="-32" type="curve" smooth="yes"/>
+      <point x="668" y="-32"/>
+      <point x="695" y="-54"/>
+      <point x="695" y="-95" type="curve" smooth="yes"/>
+      <point x="695" y="-161"/>
+      <point x="624" y="-211"/>
+      <point x="515" y="-211" type="curve" smooth="yes"/>
+      <point x="368" y="-211"/>
+      <point x="225" y="-118"/>
+      <point x="102" y="65" type="curve"/>
+      <point x="94" y="64" type="line"/>
+      <point x="81" y="6" type="line"/>
+      <point x="185" y="-166"/>
+      <point x="366" y="-294"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>da-khoj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>da-khoj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

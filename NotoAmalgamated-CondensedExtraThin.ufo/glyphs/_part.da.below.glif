@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.da.below" format="2">
+  <advance width="447"/>
+  <anchor x="147" y="63" name="curve"/>
+  <anchor x="270" y="60" name="vertical"/>
+  <outline>
+    <contour>
+      <point x="200" y="-168" type="curve"/>
+      <point x="200" y="-168" type="line"/>
+      <point x="234" y="-168"/>
+      <point x="264" y="-154"/>
+      <point x="285" y="-128" type="curve"/>
+      <point x="282" y="-98" type="line"/>
+      <point x="264" y="-127"/>
+      <point x="234" y="-144"/>
+      <point x="202" y="-144" type="curve"/>
+      <point x="155" y="-144"/>
+      <point x="130" y="-107"/>
+      <point x="130" y="-59" type="curve"/>
+      <point x="130" y="-26.792"/>
+      <point x="142.563" y="17.978"/>
+      <point x="165.138" y="48.96" type="curve"/>
+      <point x="146.917" y="63.368" type="line"/>
+      <point x="121.991" y="31.05"/>
+      <point x="104" y="-22.13"/>
+      <point x="104" y="-63" type="curve"/>
+      <point x="104" y="-120"/>
+      <point x="137" y="-168"/>
+    </contour>
+    <contour>
+      <point x="270" y="-138" type="line"/>
+      <point x="270" y="-244" type="line"/>
+      <point x="296" y="-244" type="line"/>
+      <point x="296" y="60" type="line"/>
+      <point x="270" y="60" type="line"/>
+      <point x="270" y="-129" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>PartSelection</key>
+      <dict>
+        <key>Curve</key>
+        <integer>1</integer>
+        <key>Height</key>
+        <integer>1</integer>
+        <key>Overlap</key>
+        <integer>2</integer>
+        <key>Width</key>
+        <integer>1</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.smartComponentAxes</key>
+      <array>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Height</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Curve</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Overlap</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+        <dict>
+          <key>bottomName</key>
+          <string>Low</string>
+          <key>bottomValue</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Width</string>
+          <key>topName</key>
+          <string>High</string>
+          <key>topValue</key>
+          <integer>100</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

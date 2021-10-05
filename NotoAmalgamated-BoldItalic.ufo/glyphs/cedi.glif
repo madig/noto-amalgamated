@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance width="585"/>
+  <unicode hex="20B5"/>
+  <outline>
+    <contour>
+      <point x="260" y="13" type="curve"/>
+      <point x="243" y="-67" type="line"/>
+      <point x="340" y="-67" type="line"/>
+      <point x="357" y="12" type="line"/>
+      <point x="415" y="15"/>
+      <point x="453" y="23"/>
+      <point x="495" y="39" type="curve"/>
+      <point x="494" y="195" type="line"/>
+      <point x="456" y="182"/>
+      <point x="418" y="174"/>
+      <point x="391" y="172" type="curve"/>
+      <point x="469" y="542" type="line"/>
+      <point x="498" y="538"/>
+      <point x="525" y="527"/>
+      <point x="559" y="512" type="curve"/>
+      <point x="631" y="661" type="line"/>
+      <point x="592" y="679"/>
+      <point x="551" y="694"/>
+      <point x="503" y="700" type="curve"/>
+      <point x="516" y="760" type="line"/>
+      <point x="419" y="760" type="line"/>
+      <point x="407" y="705" type="line"/>
+      <point x="163" y="697"/>
+      <point x="52" y="458"/>
+      <point x="53" y="271" type="curve" smooth="yes"/>
+      <point x="53" y="131"/>
+      <point x="118" y="40"/>
+    </contour>
+    <contour>
+      <point x="370" y="532" type="curve"/>
+      <point x="296" y="181" type="line"/>
+      <point x="265" y="199"/>
+      <point x="246" y="228"/>
+      <point x="246" y="286" type="curve" smooth="yes"/>
+      <point x="246" y="372"/>
+      <point x="290" y="497"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Currency</string>
+    </dict>
+  </lib>
+</glyph>

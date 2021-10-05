@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lceTsaCanSub_tibet" format="2">
+  <unicode hex="0F8D"/>
+  <anchor x="545" y="245" name="_bottomright"/>
+  <anchor x="522" y="-188" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="70" y="245" type="line"/>
+      <point x="50" y="159" type="line"/>
+      <point x="545" y="159" type="line"/>
+      <point x="565" y="245" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="-62" type="line"/>
+      <point x="30" y="-148" type="line"/>
+      <point x="525" y="-148" type="line"/>
+      <point x="545" y="-62" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="159" type="line"/>
+      <point x="458" y="-62" type="line"/>
+      <point x="545" y="-62" type="line"/>
+      <point x="137" y="159" type="line"/>
+    </contour>
+    <contour>
+      <point x="545" y="159" type="line"/>
+      <point x="458" y="159" type="line"/>
+      <point x="50" y="-62" type="line"/>
+      <point x="137" y="-62" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>595</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

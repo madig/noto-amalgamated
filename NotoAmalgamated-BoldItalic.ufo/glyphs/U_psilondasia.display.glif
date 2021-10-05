@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilondasia.display" format="2">
+  <advance width="972"/>
+  <unicode hex="1F59"/>
+  <anchor x="521" y="0" name="bottom"/>
+  <anchor x="673" y="714" name="top"/>
+  <outline>
+    <component base="dasia"/>
+    <component base="Y" xOffset="229"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

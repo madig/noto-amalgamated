@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tah-ar.sans" format="2">
+  <advance width="644"/>
+  <unicode hex="0637"/>
+  <anchor x="330" y="-13" name="bottom"/>
+  <anchor x="419" y="325" name="top"/>
+  <outline>
+    <contour>
+      <point x="308" y="-13" type="curve" smooth="yes"/>
+      <point x="472" y="-13"/>
+      <point x="599" y="45"/>
+      <point x="599" y="182" type="curve" smooth="yes"/>
+      <point x="599" y="266"/>
+      <point x="548" y="325"/>
+      <point x="459" y="325" type="curve" smooth="yes"/>
+      <point x="336" y="325"/>
+      <point x="211" y="204"/>
+      <point x="136" y="2" type="curve"/>
+      <point x="166" y="13" type="line"/>
+      <point x="219" y="162"/>
+      <point x="339" y="301"/>
+      <point x="459" y="301" type="curve" smooth="yes"/>
+      <point x="534" y="301"/>
+      <point x="575" y="250"/>
+      <point x="575" y="181" type="curve" smooth="yes"/>
+      <point x="575" y="59"/>
+      <point x="450" y="10"/>
+      <point x="312" y="10" type="curve" smooth="yes"/>
+      <point x="251" y="10"/>
+      <point x="104" y="20"/>
+      <point x="43" y="29" type="curve"/>
+      <point x="40" y="6" type="line"/>
+      <point x="93" y="-2"/>
+      <point x="238" y="-13"/>
+    </contour>
+    <contour>
+      <point x="183" y="72" type="line"/>
+      <point x="208" y="109" type="line"/>
+      <point x="187" y="714" type="line"/>
+      <point x="163" y="714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>sad-ar</string>
+    </dict>
+  </lib>
+</glyph>

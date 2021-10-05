@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzzhe-cy" format="2">
+  <advance width="1177"/>
+  <unicode hex="052B"/>
+  <anchor x="508" y="-196" name="bottom"/>
+  <anchor x="666" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="-73" y="-196" type="line"/>
+      <point x="56" y="-196" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="377" y="-196" type="line"/>
+      <point x="506" y="-196" type="line"/>
+      <point x="571" y="110" type="line"/>
+      <point x="500" y="110" type="line"/>
+      <point x="593" y="546" type="line"/>
+      <point x="231" y="546" type="line"/>
+      <point x="181" y="383"/>
+      <point x="116" y="220"/>
+      <point x="34" y="110" type="curve"/>
+      <point x="-8" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="110" type="line"/>
+      <point x="244" y="205"/>
+      <point x="286" y="312"/>
+      <point x="328" y="433" type="curve"/>
+      <point x="424" y="433" type="line"/>
+      <point x="355" y="110" type="line"/>
+    </contour>
+    <contour>
+      <point x="489" y="230" type="line"/>
+      <point x="737" y="230" type="line"/>
+      <point x="759" y="335" type="line"/>
+      <point x="511" y="335" type="line"/>
+    </contour>
+    <component base="ka-cy" xOffset="630"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ka-cy</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ka-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noNu-thai_macronbelowcomb" format="2">
+  <advance width="553"/>
+  <anchor x="291" y="-215" name="bottom"/>
+  <anchor x="522" y="-215" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="522" y="-76" type="line"/>
+      <point x="59" y="-76" type="line"/>
+      <point x="59" y="-215" type="line"/>
+      <point x="522" y="-215" type="line"/>
+    </contour>
+    <component base="noNu-thai"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

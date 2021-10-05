@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="da_tibet.2" format="2">
+  <advance width="664"/>
+  <anchor x="575" y="678" name="_bottomright"/>
+  <anchor x="324" y="143.077" name="bottom"/>
+  <anchor x="573" y="179.588" name="bottomright"/>
+  <anchor x="618" y="678" name="flag"/>
+  <anchor x="345.105" y="678" name="top"/>
+  <anchor x="74" y="678" name="topleft"/>
+  <anchor x="638" y="678" name="topright"/>
+  <outline>
+    <contour>
+      <point x="114" y="637" type="line"/>
+      <point x="86" y="546"/>
+      <point x="59" y="427"/>
+      <point x="38" y="304" type="curve"/>
+      <point x="121" y="209" type="line"/>
+      <point x="179" y="219"/>
+      <point x="236" y="224"/>
+      <point x="322" y="224" type="curve" smooth="yes"/>
+      <point x="489" y="224"/>
+      <point x="526" y="224"/>
+      <point x="549" y="180" type="curve"/>
+      <point x="643" y="142" type="line"/>
+      <point x="643" y="336"/>
+      <point x="550" y="406"/>
+      <point x="323" y="406" type="curve" smooth="yes"/>
+      <point x="251" y="406"/>
+      <point x="171" y="400"/>
+      <point x="100" y="390" type="curve"/>
+      <point x="133" y="334" type="line"/>
+      <point x="166" y="419"/>
+      <point x="219" y="529"/>
+      <point x="293" y="615" type="curve"/>
+    </contour>
+    <contour>
+      <point x="618" y="678" type="line"/>
+      <point x="74" y="678" type="line"/>
+      <point x="32" y="503" type="line"/>
+      <point x="575" y="503" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>tibet</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

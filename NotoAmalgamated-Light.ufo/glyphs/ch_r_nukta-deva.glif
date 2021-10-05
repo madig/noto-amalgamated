@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ch_r_nukta-deva" format="2">
+  <advance width="604"/>
+  <anchor x="433" y="-201" name="bottom"/>
+  <anchor x="362" y="-154" name="bottom_right"/>
+  <anchor x="449" y="622" name="candra"/>
+  <anchor x="310" y="-92" name="nukta"/>
+  <anchor x="449" y="622" name="top"/>
+  <outline>
+    <contour>
+      <point x="619" y="-453" type="curve"/>
+      <point x="636" y="-439" type="line"/>
+      <point x="546" y="-331"/>
+      <point x="498" y="-274"/>
+      <point x="416" y="-274" type="curve" smooth="yes"/>
+      <point x="397" y="-274"/>
+      <point x="378" y="-277"/>
+      <point x="360" y="-284" type="curve"/>
+      <point x="368" y="-311" type="line"/>
+      <point x="387" y="-304"/>
+      <point x="404" y="-300"/>
+      <point x="422" y="-300" type="curve" smooth="yes"/>
+      <point x="491" y="-300"/>
+      <point x="536" y="-354"/>
+    </contour>
+    <component base="ch_ra_nukta-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

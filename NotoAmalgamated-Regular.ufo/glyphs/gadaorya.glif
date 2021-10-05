@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gadaorya" format="2">
+  <advance width="690"/>
+  <anchor x="405" y="0" name="b.tasubscriptorya"/>
+  <anchor x="588" y="0" name="b.uvowelsignorya"/>
+  <anchor x="524" y="657" name="t.candrabinduorya"/>
+  <anchor x="325" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <contour>
+      <point x="523" y="100" type="line"/>
+      <point x="530" y="93" type="line"/>
+      <point x="590" y="107" type="line"/>
+      <point x="590" y="657" type="line"/>
+      <point x="583" y="664" type="line"/>
+      <point x="523" y="650" type="line"/>
+    </contour>
+    <component base="dasubscriptorya" xOffset="635" yOffset="142"/>
+    <component base="_part.vo" xOffset="53"/>
+    <component base="_part.g" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>iorya</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

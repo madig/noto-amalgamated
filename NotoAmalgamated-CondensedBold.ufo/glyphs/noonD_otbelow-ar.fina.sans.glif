@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="noonDotbelow-ar.fina.sans" format="2">
+  <advance width="688"/>
+  <outline>
+    <component base="noon-ar.fina.restricted"/>
+    <component base="dotbelow-ar.restricted" xOffset="209" yOffset="-22"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelow-ar.restricted</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

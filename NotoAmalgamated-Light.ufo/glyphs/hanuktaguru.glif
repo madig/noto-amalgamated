@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hanuktaguru" format="2">
+  <advance width="495"/>
+  <note>
+hanuktaguru
+</note>
+  <anchor x="395" y="0" name="bottom"/>
+  <anchor x="380" y="622" name="top"/>
+  <outline>
+    <component base="haguru"/>
+    <component base="nuktaguru" xOffset="42" yOffset="56"/>
+  </outline>
+</glyph>

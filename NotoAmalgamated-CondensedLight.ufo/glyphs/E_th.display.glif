@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth.display" format="2">
+  <advance width="465"/>
+  <unicode hex="00D0"/>
+  <anchor x="233" y="0" name="bottom"/>
+  <anchor x="233" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="192" y="714" type="curve" smooth="yes"/>
+      <point x="82" y="714" type="line"/>
+      <point x="82" y="388" type="line"/>
+      <point x="29" y="388" type="line"/>
+      <point x="29" y="363" type="line"/>
+      <point x="82" y="363" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="191" y="0" type="line" smooth="yes"/>
+      <point x="346" y="0"/>
+      <point x="413" y="124"/>
+      <point x="413" y="364" type="curve" smooth="yes"/>
+      <point x="413" y="596"/>
+      <point x="346" y="714"/>
+    </contour>
+    <contour>
+      <point x="190" y="689" type="line"/>
+      <point x="335" y="689"/>
+      <point x="386" y="570"/>
+      <point x="386" y="362" type="curve" smooth="yes"/>
+      <point x="386" y="141"/>
+      <point x="328" y="25"/>
+      <point x="189" y="25" type="curve" smooth="yes"/>
+      <point x="109" y="25" type="line"/>
+      <point x="109" y="363" type="line"/>
+      <point x="242" y="363" type="line"/>
+      <point x="242" y="388" type="line"/>
+      <point x="109" y="388" type="line"/>
+      <point x="109" y="689" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="panuktaguru" format="2">
+  <advance width="577"/>
+  <note>
+panuktaguru
+</note>
+  <anchor x="489" y="0" name="bottom"/>
+  <anchor x="441" y="622" name="top"/>
+  <outline>
+    <component base="paguru"/>
+    <component base="nuktaguru" xOffset="154" yOffset="72"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>paguru</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>nuktaguru</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>paguru</string>
+    </dict>
+  </lib>
+</glyph>

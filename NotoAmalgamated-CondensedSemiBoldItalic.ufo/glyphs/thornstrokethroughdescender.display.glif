@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thornstrokethroughdescender.display" format="2">
+  <advance width="520"/>
+  <unicode hex="A767"/>
+  <outline>
+    <contour>
+      <point x="-63" y="-102" type="line"/>
+      <point x="213" y="-102" type="line"/>
+      <point x="215" y="-92" type="line"/>
+      <point x="-61" y="-92" type="line"/>
+    </contour>
+    <component base="thorn" xOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

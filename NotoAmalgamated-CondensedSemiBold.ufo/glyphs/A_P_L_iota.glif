@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLiota" format="2">
+  <advance width="500"/>
+  <unicode hex="2373"/>
+  <outline>
+    <contour>
+      <point x="273" y="-10" type="curve" smooth="yes"/>
+      <point x="313" y="-10"/>
+      <point x="351" y="0"/>
+      <point x="372" y="10" type="curve"/>
+      <point x="372" y="99" type="line"/>
+      <point x="350" y="91"/>
+      <point x="323" y="85"/>
+      <point x="297" y="85" type="curve" smooth="yes"/>
+      <point x="261" y="85"/>
+      <point x="240" y="109"/>
+      <point x="240" y="168" type="curve" smooth="yes"/>
+      <point x="240" y="541" type="line"/>
+      <point x="129" y="541" type="line"/>
+      <point x="129" y="164" type="line" smooth="yes"/>
+      <point x="129" y="40"/>
+      <point x="183" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

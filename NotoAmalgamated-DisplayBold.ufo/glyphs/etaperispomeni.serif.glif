@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etaperispomeni.serif" format="2">
+  <advance width="695"/>
+  <unicode hex="1FC6"/>
+  <anchor x="348" y="-240" name="bottom"/>
+  <anchor x="348" y="786" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="tilde" xOffset="98"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

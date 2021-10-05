@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nye_kannada" format="2">
+  <advance width="1174"/>
+  <anchor x="440" y="-100" name="bottom"/>
+  <anchor x="460" y="547" name="top"/>
+  <outline>
+    <contour>
+      <point x="905" y="460" type="line"/>
+      <point x="937" y="460" type="line"/>
+      <point x="1088" y="460"/>
+      <point x="1150" y="520"/>
+      <point x="1150" y="634" type="curve"/>
+      <point x="1150" y="719"/>
+      <point x="1096" y="803"/>
+      <point x="1003" y="803" type="curve"/>
+      <point x="916" y="803"/>
+      <point x="880" y="743"/>
+      <point x="880" y="692" type="curve"/>
+      <point x="880" y="633"/>
+      <point x="920" y="602"/>
+      <point x="965" y="602" type="curve"/>
+      <point x="999" y="602"/>
+      <point x="1019" y="620"/>
+      <point x="1019" y="648" type="curve"/>
+      <point x="1019" y="670"/>
+      <point x="1005" y="691"/>
+      <point x="977" y="691" type="curve"/>
+      <point x="951" y="691"/>
+      <point x="935" y="672"/>
+      <point x="935" y="650" type="curve"/>
+      <point x="935" y="638" type="line"/>
+      <point x="947" y="638" type="line"/>
+      <point x="931" y="648"/>
+      <point x="925" y="662"/>
+      <point x="925" y="684" type="curve"/>
+      <point x="925" y="721"/>
+      <point x="951" y="748"/>
+      <point x="1001" y="748" type="curve"/>
+      <point x="1069" y="748"/>
+      <point x="1104" y="701"/>
+      <point x="1104" y="648" type="curve"/>
+      <point x="1104" y="616"/>
+      <point x="1096" y="593"/>
+      <point x="1078" y="576" type="curve" smooth="yes"/>
+      <point x="1056" y="556"/>
+      <point x="1022" y="547"/>
+      <point x="941" y="547" type="curve"/>
+      <point x="912" y="547" type="line"/>
+    </contour>
+    <component base="nya_kannada.base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>kannada</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

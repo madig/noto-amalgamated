@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yodyod-hb" format="2">
+  <advance width="440"/>
+  <unicode hex="05F2"/>
+  <note>
+yodyod
+</note>
+  <anchor x="250" y="0" name="caret_1"/>
+  <outline>
+    <component base="yod-hb" xOffset="210"/>
+    <component base="yod-hb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>yod-hb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

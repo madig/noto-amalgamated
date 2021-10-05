@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishort-cy.display" format="2">
+  <advance width="672"/>
+  <unicode hex="0439"/>
+  <anchor x="358" y="0" name="bottom"/>
+  <anchor x="338" y="792" name="top"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="cyrillicbreve" xOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=ii-cy</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

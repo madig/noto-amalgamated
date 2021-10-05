@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraight-cy.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="04AF"/>
+  <anchor x="300" y="-240" name="bottom"/>
+  <anchor x="300" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="225" y="-240" type="line"/>
+      <point x="375" y="-240" type="line"/>
+      <point x="375" y="0" type="line"/>
+      <point x="580" y="546" type="line"/>
+      <point x="427" y="546" type="line"/>
+      <point x="340" y="288" type="line" smooth="yes"/>
+      <point x="325" y="242"/>
+      <point x="308" y="180"/>
+      <point x="301" y="149" type="curve"/>
+      <point x="299" y="149" type="line"/>
+      <point x="292" y="180"/>
+      <point x="276" y="242"/>
+      <point x="261" y="288" type="curve" smooth="yes"/>
+      <point x="177" y="546" type="line"/>
+      <point x="20" y="546" type="line"/>
+      <point x="225" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hah_meem_alefMaksura-ar.fina.sans" format="2">
+  <advance width="1769"/>
+  <unicode hex="FD5B"/>
+  <anchor x="1237" y="0" name="caret_1"/>
+  <anchor x="673" y="0" name="caret_2"/>
+  <outline>
+    <component base="hah-ar.medi" xOffset="1237"/>
+    <component base="meem-ar.medi" xOffset="673"/>
+    <component base="alefMaksura-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hah-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>alefMaksura-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

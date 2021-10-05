@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Entail-cy.serif" format="2">
+  <advance width="793"/>
+  <unicode hex="04C9"/>
+  <anchor x="397" y="0" name="bottom"/>
+  <anchor x="397" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="641" y="-210" type="line"/>
+      <point x="716" y="-210" type="line"/>
+      <point x="755" y="0" type="line"/>
+      <point x="755" y="10" type="line"/>
+      <point x="745" y="10" type="line"/>
+      <point x="745" y="0" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

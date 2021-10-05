@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="maiKonVowel-lao.right" format="2">
+  <anchor x="296" y="608" name="_top"/>
+  <anchor x="248" y="830" name="top"/>
+  <outline>
+    <contour>
+      <point x="247" y="854" type="curve" smooth="yes"/>
+      <point x="128" y="854"/>
+      <point x="50" y="805"/>
+      <point x="50" y="731" type="curve" smooth="yes"/>
+      <point x="50" y="673"/>
+      <point x="89" y="635"/>
+      <point x="150" y="635" type="curve" smooth="yes"/>
+      <point x="212" y="635"/>
+      <point x="250" y="671"/>
+      <point x="250" y="729" type="curve" smooth="yes"/>
+      <point x="250" y="787"/>
+      <point x="205" y="815"/>
+      <point x="156" y="815" type="curve" smooth="yes"/>
+      <point x="131" y="815"/>
+      <point x="102" y="800"/>
+      <point x="102" y="786" type="curve"/>
+      <point x="163" y="784" type="line"/>
+      <point x="178" y="788"/>
+      <point x="200" y="791"/>
+      <point x="247" y="791" type="curve" smooth="yes"/>
+      <point x="340" y="791"/>
+      <point x="394" y="745"/>
+      <point x="419" y="646" type="curve"/>
+      <point x="497" y="666" type="line"/>
+      <point x="470" y="793"/>
+      <point x="389" y="854"/>
+    </contour>
+    <contour>
+      <point x="151" y="779" type="curve" smooth="yes"/>
+      <point x="181" y="779"/>
+      <point x="199" y="760"/>
+      <point x="199" y="729" type="curve" smooth="yes"/>
+      <point x="199" y="698"/>
+      <point x="181" y="679"/>
+      <point x="151" y="679" type="curve" smooth="yes"/>
+      <point x="121" y="679"/>
+      <point x="103" y="698"/>
+      <point x="103" y="729" type="curve" smooth="yes"/>
+      <point x="103" y="760"/>
+      <point x="121" y="779"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>547</integer>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>options</key>
+          <integer>0</integer>
+          <key>origin</key>
+          <array>
+            <integer>0</integer>
+            <integer>25</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>target</key>
+          <array>
+            <integer>0</integer>
+            <integer>18</integer>
+          </array>
+          <key>type</key>
+          <string>Stem</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

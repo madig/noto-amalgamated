@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="spalatalhook.display" format="2">
+  <advance width="445"/>
+  <unicode hex="1D8A"/>
+  <outline>
+    <contour>
+      <point x="220" y="-197" type="curve" smooth="yes"/>
+      <point x="286" y="-197"/>
+      <point x="313" y="-146"/>
+      <point x="330" y="-56" type="curve" smooth="yes"/>
+      <point x="360" y="110" type="line"/>
+      <point x="346" y="93" type="line"/>
+      <point x="325" y="-26" type="line" smooth="yes"/>
+      <point x="311" y="-102"/>
+      <point x="279" y="-125"/>
+      <point x="235" y="-125" type="curve" smooth="yes"/>
+      <point x="204" y="-125"/>
+      <point x="186" y="-115"/>
+      <point x="172" y="-97" type="curve"/>
+      <point x="155" y="-104"/>
+      <point x="144" y="-121"/>
+      <point x="144" y="-142" type="curve" smooth="yes"/>
+      <point x="144" y="-179"/>
+      <point x="178" y="-197"/>
+    </contour>
+    <component base="s" xOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

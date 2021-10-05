@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obarred-cy.serif" format="2">
+  <advance width="530"/>
+  <unicode hex="04E8"/>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="265" y="714" name="top"/>
+  <outline>
+    <contour>
+      <point x="264" y="-10" type="curve" smooth="yes"/>
+      <point x="404" y="-10"/>
+      <point x="485" y="125"/>
+      <point x="485" y="358" type="curve" smooth="yes"/>
+      <point x="485" y="610"/>
+      <point x="414" y="725"/>
+      <point x="265" y="725" type="curve" smooth="yes"/>
+      <point x="118" y="725"/>
+      <point x="44" y="596"/>
+      <point x="44" y="359" type="curve" smooth="yes"/>
+      <point x="44" y="137"/>
+      <point x="116" y="-10"/>
+    </contour>
+    <contour>
+      <point x="264" y="15" type="curve" smooth="yes"/>
+      <point x="142" y="15"/>
+      <point x="72" y="143"/>
+      <point x="72" y="361" type="curve"/>
+      <point x="457" y="361" type="line"/>
+      <point x="457" y="139"/>
+      <point x="389" y="15"/>
+    </contour>
+    <contour>
+      <point x="457" y="386" type="curve"/>
+      <point x="72" y="386" type="line"/>
+      <point x="77" y="585"/>
+      <point x="137" y="700"/>
+      <point x="265" y="700" type="curve" smooth="yes"/>
+      <point x="400" y="700"/>
+      <point x="452" y="585"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

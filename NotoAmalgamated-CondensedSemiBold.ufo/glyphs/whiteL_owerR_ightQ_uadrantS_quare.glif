@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteLowerRightQuadrantSquare" format="2">
+  <advance width="1000"/>
+  <unicode hex="25F2"/>
+  <outline>
+    <contour>
+      <point x="250" y="60" type="line"/>
+      <point x="751" y="60" type="line"/>
+      <point x="751" y="560" type="line"/>
+      <point x="250" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="116" type="line"/>
+      <point x="306" y="505" type="line"/>
+      <point x="694" y="505" type="line"/>
+      <point x="694" y="334" type="line"/>
+      <point x="473" y="334" type="line"/>
+      <point x="473" y="116" type="line"/>
+    </contour>
+    <contour>
+      <point x="528" y="116" type="line"/>
+      <point x="528" y="283" type="line"/>
+      <point x="694" y="283" type="line"/>
+      <point x="694" y="116" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+    </dict>
+  </lib>
+</glyph>

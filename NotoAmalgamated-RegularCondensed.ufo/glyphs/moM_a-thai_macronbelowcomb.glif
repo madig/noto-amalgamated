@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="moMa-thai_macronbelowcomb" format="2">
+  <advance width="481"/>
+  <anchor x="241" y="-148" name="bottom"/>
+  <anchor x="411" y="-148" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="411" y="-77" type="line"/>
+      <point x="70" y="-77" type="line"/>
+      <point x="70" y="-148" type="line"/>
+      <point x="411" y="-148" type="line"/>
+    </contour>
+    <component base="moMa-thai"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

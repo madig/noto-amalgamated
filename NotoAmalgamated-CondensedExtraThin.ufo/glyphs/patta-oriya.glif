@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="patta-oriya" format="2">
+  <advance width="568"/>
+  <outline>
+    <component base="pa-oriya.base"/>
+    <component base="tta-oriya.below" xOffset="273"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>pa-oriya</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>tta-oriya.below</string>
+    </dict>
+  </lib>
+</glyph>

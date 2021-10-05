@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="behVinvertedbelow-ar.medi" format="2">
+  <advance width="479"/>
+  <note>
+uni0755.medi
+</note>
+  <anchor x="225" y="-315" name="bottom"/>
+  <anchor x="235" y="578" name="top"/>
+  <outline>
+    <component base="beh_dotless_alt.medi"/>
+    <component base="circumflex.arabic" xOffset="227" yOffset="-908"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>beh_dotless_alt.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflex.arabic</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

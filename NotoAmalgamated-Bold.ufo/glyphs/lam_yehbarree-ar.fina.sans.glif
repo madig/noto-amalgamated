@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lam_yehbarree-ar.fina.sans" format="2">
+  <advance width="921"/>
+  <anchor x="841" y="0" name="caret_1"/>
+  <outline>
+    <component base="lam-ar.medi" xOffset="569"/>
+    <component base="yehbarree-ar.fina"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>lam-ar.medi</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>yeh-ar.fina</string>
+    </dict>
+  </lib>
+</glyph>

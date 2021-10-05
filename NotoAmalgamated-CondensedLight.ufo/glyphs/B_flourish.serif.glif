@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bflourish.serif" format="2">
+  <advance width="516"/>
+  <unicode hex="A796"/>
+  <outline>
+    <contour>
+      <point x="55" y="226" type="curve" smooth="yes"/>
+      <point x="63" y="226"/>
+      <point x="69" y="228"/>
+      <point x="72" y="232" type="curve"/>
+      <point x="48" y="240"/>
+      <point x="27" y="259"/>
+      <point x="27" y="294" type="curve" smooth="yes"/>
+      <point x="26" y="332"/>
+      <point x="52" y="362"/>
+      <point x="106" y="362" type="curve" smooth="yes"/>
+      <point x="169" y="362" type="line"/>
+      <point x="169" y="387" type="line"/>
+      <point x="106" y="387" type="line" smooth="yes"/>
+      <point x="35" y="387"/>
+      <point x="1" y="346"/>
+      <point x="1" y="293" type="curve" smooth="yes"/>
+      <point x="1" y="249"/>
+      <point x="27" y="226"/>
+    </contour>
+    <component base="B" xOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>B</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

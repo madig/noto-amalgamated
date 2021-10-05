@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questionedequalto" format="2">
+  <advance width="500"/>
+  <unicode hex="225F"/>
+  <outline>
+    <contour>
+      <point x="56" y="51" type="line"/>
+      <point x="445" y="51" type="line"/>
+      <point x="445" y="120" type="line"/>
+      <point x="56" y="120" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="250" type="line"/>
+      <point x="445" y="250" type="line"/>
+      <point x="445" y="319" type="line"/>
+      <point x="56" y="319" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="389" type="curve" smooth="yes"/>
+      <point x="264" y="389"/>
+      <point x="275" y="400"/>
+      <point x="275" y="418" type="curve" smooth="yes"/>
+      <point x="275" y="436"/>
+      <point x="264" y="447"/>
+      <point x="247" y="447" type="curve" smooth="yes"/>
+      <point x="229" y="447"/>
+      <point x="219" y="437"/>
+      <point x="219" y="418" type="curve" smooth="yes"/>
+      <point x="219" y="399"/>
+      <point x="230" y="389"/>
+    </contour>
+    <contour>
+      <point x="225" y="481" type="curve" smooth="yes"/>
+      <point x="225" y="470" type="line"/>
+      <point x="268" y="470" type="line"/>
+      <point x="268" y="478" type="line" smooth="yes"/>
+      <point x="268" y="495"/>
+      <point x="273" y="500"/>
+      <point x="285" y="512" type="curve" smooth="yes"/>
+      <point x="306" y="532"/>
+      <point x="317" y="543"/>
+      <point x="317" y="571" type="curve" smooth="yes"/>
+      <point x="317" y="609"/>
+      <point x="291" y="629"/>
+      <point x="255" y="629" type="curve" smooth="yes"/>
+      <point x="232" y="629"/>
+      <point x="212" y="622"/>
+      <point x="190" y="609" type="curve"/>
+      <point x="207" y="574" type="line"/>
+      <point x="226" y="585"/>
+      <point x="239" y="590"/>
+      <point x="251" y="590" type="curve" smooth="yes"/>
+      <point x="263" y="590"/>
+      <point x="272" y="583"/>
+      <point x="272" y="569" type="curve" smooth="yes"/>
+      <point x="272" y="553"/>
+      <point x="264" y="543"/>
+      <point x="251" y="532" type="curve" smooth="yes"/>
+      <point x="233" y="517"/>
+      <point x="225" y="504"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Math</string>
+    </dict>
+  </lib>
+</glyph>

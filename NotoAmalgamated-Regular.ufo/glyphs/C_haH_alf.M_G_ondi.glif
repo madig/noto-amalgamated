@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ChaHalf.MGondi" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="177" y="281" type="line"/>
+      <point x="498" y="281" type="line"/>
+      <point x="498" y="357" type="line"/>
+      <point x="177" y="357" type="line"/>
+    </contour>
+    <component base="CaHalf.MGondi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Cha.MGondi</string>
+    </dict>
+  </lib>
+</glyph>

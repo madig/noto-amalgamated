@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phaprehalfguru" format="2">
+  <advance width="575"/>
+  <note>
+phaprehalfguru
+</note>
+  <outline>
+    <component base="phaguru"/>
+    <component base="halantguru" xOffset="463"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>halantguru</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>phaguru</string>
+    </dict>
+  </lib>
+</glyph>

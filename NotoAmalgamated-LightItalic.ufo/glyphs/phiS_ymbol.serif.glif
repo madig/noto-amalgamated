@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phiSymbol.serif" format="2">
+  <advance width="593"/>
+  <unicode hex="03D5"/>
+  <anchor x="189" y="-240" name="bottom"/>
+  <anchor x="402" y="760" name="top"/>
+  <anchor x="630" y="536" name="topright"/>
+  <outline>
+    <contour>
+      <point x="223" y="-9" type="curve"/>
+      <point x="174" y="-240" type="line"/>
+      <point x="202" y="-240" type="line"/>
+      <point x="251" y="-10" type="line"/>
+      <point x="463" y="-9"/>
+      <point x="541" y="173"/>
+      <point x="541" y="333" type="curve" smooth="yes"/>
+      <point x="541" y="468"/>
+      <point x="465" y="536"/>
+      <point x="369" y="545" type="curve"/>
+      <point x="415" y="760" type="line"/>
+      <point x="387" y="760" type="line"/>
+      <point x="341" y="546" type="line"/>
+      <point x="136" y="543"/>
+      <point x="55" y="365"/>
+      <point x="55" y="200" type="curve" smooth="yes"/>
+      <point x="55" y="74"/>
+      <point x="127" y="2"/>
+    </contour>
+    <contour>
+      <point x="336" y="521" type="curve"/>
+      <point x="229" y="16" type="line"/>
+      <point x="145" y="26"/>
+      <point x="83" y="86"/>
+      <point x="83" y="200" type="curve" smooth="yes"/>
+      <point x="83" y="364"/>
+      <point x="164" y="516"/>
+    </contour>
+    <contour>
+      <point x="256" y="15" type="curve"/>
+      <point x="364" y="520" type="line"/>
+      <point x="452" y="512"/>
+      <point x="513" y="450"/>
+      <point x="513" y="334" type="curve" smooth="yes"/>
+      <point x="513" y="174"/>
+      <point x="438" y="17"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

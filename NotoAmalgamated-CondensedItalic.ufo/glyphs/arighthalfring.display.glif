@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arighthalfring.display" format="2">
+  <advance width="497"/>
+  <unicode hex="1E9A"/>
+  <anchor x="189" y="0" name="bottom"/>
+  <anchor x="492" y="812" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="ringhalfright" xOffset="350" yOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

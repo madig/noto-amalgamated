@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ca-sidd" format="2">
+  <advance width="636"/>
+  <unicode hex="11593"/>
+  <anchor x="320" y="-50" name="bottom"/>
+  <anchor x="380" y="680" name="top"/>
+  <anchor x="242" y="680" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="526" y="683" type="line"/>
+      <point x="492" y="658"/>
+      <point x="447" y="645"/>
+      <point x="403" y="645" type="curve" smooth="yes"/>
+      <point x="355" y="645"/>
+      <point x="325" y="666"/>
+      <point x="285" y="666" type="curve" smooth="yes"/>
+      <point x="261" y="666"/>
+      <point x="243" y="655"/>
+      <point x="232" y="637" type="curve"/>
+      <point x="216" y="643"/>
+      <point x="200" y="651"/>
+      <point x="187" y="659" type="curve"/>
+      <point x="180" y="655"/>
+      <point x="175" y="648"/>
+      <point x="175" y="638" type="curve" smooth="yes"/>
+      <point x="175" y="610"/>
+      <point x="205" y="575"/>
+      <point x="377" y="467" type="curve"/>
+      <point x="378" y="544" type="line"/>
+      <point x="263" y="452"/>
+      <point x="153" y="385"/>
+      <point x="20" y="320" type="curve"/>
+      <point x="20" y="294" type="line"/>
+      <point x="107" y="253"/>
+      <point x="244" y="154"/>
+      <point x="346" y="56" type="curve"/>
+      <point x="346" y="99" type="line"/>
+      <point x="299" y="161"/>
+      <point x="196" y="254"/>
+      <point x="106" y="319" type="curve"/>
+      <point x="110" y="257" type="line"/>
+      <point x="279" y="331"/>
+      <point x="510" y="500"/>
+      <point x="616" y="620" type="curve"/>
+    </contour>
+    <contour>
+      <point x="464" y="-107" type="curve"/>
+      <point x="487" y="-81" type="line"/>
+      <point x="441" y="-44"/>
+      <point x="425" y="-11"/>
+      <point x="425" y="122" type="curve" smooth="yes"/>
+      <point x="425" y="472" type="line"/>
+      <point x="335" y="472" type="line"/>
+      <point x="335" y="130" type="line" smooth="yes"/>
+      <point x="335" y="4"/>
+      <point x="365" y="-39"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>siddham</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

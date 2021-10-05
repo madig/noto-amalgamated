@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enghe-cy.display" format="2">
+  <advance width="725"/>
+  <unicode hex="04A5"/>
+  <anchor x="312" y="0" name="bottom"/>
+  <anchor x="312" y="546" name="top"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="228" y="0" type="line"/>
+      <point x="228" y="225" type="line"/>
+      <point x="397" y="225" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="556" y="0" type="line"/>
+      <point x="556" y="434" type="line"/>
+      <point x="714" y="434" type="line"/>
+      <point x="714" y="546" type="line"/>
+      <point x="397" y="546" type="line"/>
+      <point x="397" y="336" type="line"/>
+      <point x="228" y="336" type="line"/>
+      <point x="228" y="546" type="line"/>
+      <point x="68" y="546" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsilivariaprosgegrammeni.serif" format="2">
+  <advance width="936"/>
+  <unicode hex="1F8A"/>
+  <anchor x="801" y="0" name="bottom"/>
+  <anchor x="801" y="536" name="top"/>
+  <outline>
+    <component base="iota" xOffset="666"/>
+    <component base="psilivaria" xOffset="-102"/>
+    <component base="A" xOffset="21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>iota</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

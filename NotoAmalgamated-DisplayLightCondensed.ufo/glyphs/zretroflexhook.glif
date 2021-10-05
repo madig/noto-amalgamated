@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zretroflexhook" format="2">
+  <advance width="258"/>
+  <unicode hex="0290"/>
+  <anchor x="129" y="-242" name="bottom"/>
+  <anchor x="129" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="270" y="-242" type="curve" smooth="yes"/>
+      <point x="285" y="-242"/>
+      <point x="295" y="-239"/>
+      <point x="302" y="-236" type="curve"/>
+      <point x="302" y="-210" type="line"/>
+      <point x="292" y="-215"/>
+      <point x="283" y="-217"/>
+      <point x="272" y="-217" type="curve" smooth="yes"/>
+      <point x="242" y="-217"/>
+      <point x="229" y="-193"/>
+      <point x="229" y="-142" type="curve" smooth="yes"/>
+      <point x="229" y="25" type="line"/>
+      <point x="54" y="25" type="line"/>
+      <point x="226" y="504" type="line"/>
+      <point x="226" y="527" type="line"/>
+      <point x="41" y="527" type="line"/>
+      <point x="41" y="502" type="line"/>
+      <point x="200" y="502" type="line"/>
+      <point x="28" y="24" type="line"/>
+      <point x="28" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="203" y="-145" type="line" smooth="yes"/>
+      <point x="203" y="-217"/>
+      <point x="229" y="-242"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yehHamzaabove-ar" format="2">
+  <advance width="839"/>
+  <unicode hex="0626"/>
+  <note>
+uni0626
+</note>
+  <anchor x="384" y="-319" name="bottom"/>
+  <anchor x="215" y="542" name="top"/>
+  <outline>
+    <component base="alefMaksura-ar"/>
+    <component base="hamzaabove-ar" xOffset="249" yOffset="-449"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hamzaabove-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

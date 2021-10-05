@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1F7A" format="2">
+  <advance width="587"/>
+  <unicode hex="1F7A"/>
+  <anchor x="234" y="0" name="bottom"/>
+  <anchor x="389" y="767" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="uni1FEF" xOffset="-17" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>upsilon</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

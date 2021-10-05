@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="loVowel_saraUu-lao" format="2">
+  <anchor x="504" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="118" y="-189" type="curve" smooth="yes"/>
+      <point x="160" y="-189"/>
+      <point x="188" y="-163"/>
+      <point x="188" y="-124" type="curve" smooth="yes"/>
+      <point x="188" y="-88"/>
+      <point x="164" y="-63"/>
+      <point x="131" y="-63" type="curve"/>
+      <point x="131" y="-73" type="line"/>
+      <point x="148" y="-73"/>
+      <point x="155" y="-75"/>
+      <point x="155" y="-80" type="curve"/>
+      <point x="504" y="-80" type="line"/>
+      <point x="504" y="-59" type="line"/>
+      <point x="123" y="-59" type="line" smooth="yes"/>
+      <point x="78" y="-59"/>
+      <point x="50" y="-84"/>
+      <point x="50" y="-124" type="curve" smooth="yes"/>
+      <point x="50" y="-163"/>
+      <point x="77" y="-189"/>
+    </contour>
+    <contour>
+      <point x="119" y="-170" type="curve" smooth="yes"/>
+      <point x="89" y="-170"/>
+      <point x="72" y="-153"/>
+      <point x="72" y="-124" type="curve" smooth="yes"/>
+      <point x="72" y="-95"/>
+      <point x="89" y="-78"/>
+      <point x="119" y="-78" type="curve" smooth="yes"/>
+      <point x="149" y="-78"/>
+      <point x="166" y="-95"/>
+      <point x="166" y="-124" type="curve" smooth="yes"/>
+      <point x="166" y="-153"/>
+      <point x="149" y="-170"/>
+    </contour>
+    <component base="saraUu-lao.ngoNgu" xOffset="237"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=50</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>554</integer>
+    </dict>
+  </lib>
+</glyph>

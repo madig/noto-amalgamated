@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kdotbelow.display" format="2">
+  <advance width="465"/>
+  <unicode hex="1E33"/>
+  <anchor x="170" y="-191" name="bottom"/>
+  <anchor x="345" y="760" name="top"/>
+  <outline>
+    <component base="k"/>
+    <component base="dotaccent" xOffset="-7" yOffset="-839"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

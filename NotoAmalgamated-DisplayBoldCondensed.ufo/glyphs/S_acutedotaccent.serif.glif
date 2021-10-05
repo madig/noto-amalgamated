@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sacutedotaccent.serif" format="2">
+  <advance width="504"/>
+  <unicode hex="1E64"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="252" y="931" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="dotacute" xOffset="64" yOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>S</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Uppercase</string>
+    </dict>
+  </lib>
+</glyph>

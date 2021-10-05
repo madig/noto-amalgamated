@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pha_iMatra-khoj" format="2">
+  <advance width="980"/>
+  <note>
+PHI
+</note>
+  <anchor x="688" y="-141" name="bottom"/>
+  <anchor x="371" y="560" name="nukta"/>
+  <anchor x="585" y="-13" name="rakar"/>
+  <anchor x="1160" y="918" name="top"/>
+  <outline>
+    <contour>
+      <point x="666" y="-160" type="curve" smooth="yes"/>
+      <point x="741" y="-160"/>
+      <point x="799" y="-114"/>
+      <point x="831" y="9" type="curve" smooth="yes"/>
+      <point x="860" y="119"/>
+      <point x="870" y="298"/>
+      <point x="889" y="481" type="curve" smooth="yes"/>
+      <point x="898" y="570"/>
+      <point x="913" y="670"/>
+      <point x="953" y="729" type="curve" smooth="yes"/>
+      <point x="983" y="773"/>
+      <point x="1027" y="799"/>
+      <point x="1086" y="799" type="curve" smooth="yes"/>
+      <point x="1149" y="799"/>
+      <point x="1199" y="766"/>
+      <point x="1247" y="707" type="curve"/>
+      <point x="1260" y="711" type="line"/>
+      <point x="1259" y="803" type="line"/>
+      <point x="1205" y="870"/>
+      <point x="1131" y="917"/>
+      <point x="1040" y="917" type="curve" smooth="yes"/>
+      <point x="963" y="917"/>
+      <point x="901" y="882"/>
+      <point x="859" y="829" type="curve" smooth="yes"/>
+      <point x="810" y="767"/>
+      <point x="789" y="683"/>
+      <point x="775" y="572" type="curve" smooth="yes"/>
+      <point x="756" y="425"/>
+      <point x="744" y="186"/>
+      <point x="712" y="46" type="curve" smooth="yes"/>
+      <point x="691" y="-47"/>
+      <point x="666" y="-90"/>
+      <point x="632" y="-90" type="curve" smooth="yes"/>
+      <point x="620" y="-90"/>
+      <point x="613" y="-83"/>
+      <point x="613" y="-71" type="curve" smooth="yes"/>
+      <point x="613" y="-45"/>
+      <point x="639" y="11"/>
+      <point x="639" y="50" type="curve" smooth="yes"/>
+      <point x="639" y="117"/>
+      <point x="557" y="181"/>
+      <point x="463" y="191" type="curve"/>
+      <point x="456" y="121" type="line"/>
+      <point x="492" y="119"/>
+      <point x="505" y="104"/>
+      <point x="505" y="76" type="curve" smooth="yes"/>
+      <point x="505" y="45"/>
+      <point x="498" y="12"/>
+      <point x="498" y="-22" type="curve" smooth="yes"/>
+      <point x="498" y="-90"/>
+      <point x="576" y="-160"/>
+    </contour>
+    <contour>
+      <point x="276" y="-71" type="curve" smooth="yes"/>
+      <point x="334" y="-71"/>
+      <point x="411" y="3"/>
+      <point x="475" y="134" type="curve" smooth="yes"/>
+      <point x="529" y="244"/>
+      <point x="566" y="372"/>
+      <point x="593" y="494" type="curve"/>
+      <point x="564" y="528"/>
+      <point x="507" y="564"/>
+      <point x="468" y="578" type="curve"/>
+      <point x="450" y="483" type="line" smooth="yes"/>
+      <point x="425" y="352"/>
+      <point x="370" y="311"/>
+      <point x="309" y="311" type="curve" smooth="yes"/>
+      <point x="279" y="311"/>
+      <point x="267" y="327"/>
+      <point x="267" y="352" type="curve" smooth="yes"/>
+      <point x="267" y="381"/>
+      <point x="276" y="432"/>
+      <point x="276" y="461" type="curve" smooth="yes"/>
+      <point x="276" y="546"/>
+      <point x="163" y="622"/>
+      <point x="75" y="622" type="curve" smooth="yes"/>
+      <point x="11" y="622"/>
+      <point x="-25" y="593"/>
+      <point x="-25" y="547" type="curve" smooth="yes"/>
+      <point x="-25" y="514"/>
+      <point x="-5" y="482"/>
+      <point x="40" y="464" type="curve"/>
+      <point x="62" y="501"/>
+      <point x="91" y="532"/>
+      <point x="112" y="532" type="curve" smooth="yes"/>
+      <point x="126" y="532"/>
+      <point x="133" y="519"/>
+      <point x="133" y="493" type="curve" smooth="yes"/>
+      <point x="133" y="465"/>
+      <point x="126" y="415"/>
+      <point x="127" y="390" type="curve" smooth="yes"/>
+      <point x="131" y="299"/>
+      <point x="223" y="231"/>
+      <point x="320" y="231" type="curve" smooth="yes"/>
+      <point x="362" y="231"/>
+      <point x="399" y="239"/>
+      <point x="431" y="256" type="curve"/>
+      <point x="413" y="290" type="line"/>
+      <point x="399" y="238"/>
+      <point x="375" y="191"/>
+      <point x="346" y="144" type="curve"/>
+      <point x="377" y="155" type="line"/>
+      <point x="383" y="192" type="line"/>
+      <point x="277" y="144"/>
+      <point x="179" y="88"/>
+      <point x="179" y="27" type="curve" smooth="yes"/>
+      <point x="179" y="-19"/>
+      <point x="231" y="-71"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>pha-khoj</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>da_iMatra-khoj</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>khoj</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

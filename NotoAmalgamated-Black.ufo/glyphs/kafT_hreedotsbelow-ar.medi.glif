@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kafThreedotsbelow-ar.medi" format="2">
+  <advance width="682.66667"/>
+  <note>
+uni06AE.medi
+</note>
+  <anchor x="242" y="-452" name="bottom"/>
+  <anchor x="406" y="941" name="top"/>
+  <outline>
+    <component base="kaf-ar.medi"/>
+    <component base="threedots.below" xOffset="248" yOffset="-77"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>kaf-ar.medi</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>threedots.below</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

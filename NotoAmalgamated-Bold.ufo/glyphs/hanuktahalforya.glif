@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hanuktahalforya" format="2">
+  <advance width="671"/>
+  <anchor x="335" y="88" name="b.tasubscriptorya"/>
+  <anchor x="468" y="39" name="b.uvowelsignorya"/>
+  <anchor x="335" y="657" name="t.ivowelsignorya"/>
+  <outline>
+    <component base="haorya"/>
+    <component base="nuktaorya" xOffset="587" yOffset="-18"/>
+    <component base="viramaorya" xOffset="601" yOffset="-57"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>oriya</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Spacing</string>
+    </dict>
+  </lib>
+</glyph>

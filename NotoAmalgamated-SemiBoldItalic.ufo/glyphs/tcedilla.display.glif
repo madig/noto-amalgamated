@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcedilla.display" format="2">
+  <advance width="398"/>
+  <unicode hex="0163"/>
+  <anchor x="120" y="-240" name="bottom"/>
+  <anchor x="250" y="662" name="top"/>
+  <outline>
+    <component base="t"/>
+    <component base="cedilla" xOffset="151"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>

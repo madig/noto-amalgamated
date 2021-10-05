@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhotichookmod" format="2">
+  <advance width="242"/>
+  <unicode hex="02DE"/>
+  <outline>
+    <contour>
+      <point x="124" y="167" type="curve" smooth="yes"/>
+      <point x="166" y="167"/>
+      <point x="204" y="182"/>
+      <point x="238" y="205" type="curve"/>
+      <point x="210" y="267" type="line"/>
+      <point x="185" y="253"/>
+      <point x="166" y="244"/>
+      <point x="139" y="244" type="curve" smooth="yes"/>
+      <point x="109" y="244"/>
+      <point x="95" y="266"/>
+      <point x="90" y="322" type="curve" smooth="yes"/>
+      <point x="85" y="382" type="line"/>
+      <point x="-81" y="340" type="line"/>
+      <point x="-77" y="272" type="line"/>
+      <point x="15" y="294" type="line"/>
+      <point x="24" y="201"/>
+      <point x="63" y="167"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string></string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Superscript</string>
+    </dict>
+  </lib>
+</glyph>

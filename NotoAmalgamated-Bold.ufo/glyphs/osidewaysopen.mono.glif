@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="osidewaysopen.mono" format="2">
+  <advance width="600"/>
+  <unicode hex="1D12"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="300" y="553" name="top"/>
+  <outline>
+    <contour>
+      <point x="415" y="104" type="curve"/>
+      <point x="543" y="52" type="line"/>
+      <point x="572" y="112"/>
+      <point x="586" y="180"/>
+      <point x="586" y="247" type="curve" smooth="yes"/>
+      <point x="586" y="438"/>
+      <point x="472" y="522"/>
+      <point x="293" y="522" type="curve" smooth="yes"/>
+      <point x="110" y="522"/>
+      <point x="13" y="434"/>
+      <point x="13" y="255" type="curve" smooth="yes"/>
+      <point x="13" y="192"/>
+      <point x="25" y="130"/>
+      <point x="55" y="73" type="curve"/>
+      <point x="204" y="73" type="line"/>
+      <point x="163" y="131"/>
+      <point x="153" y="190"/>
+      <point x="153" y="229" type="curve" smooth="yes"/>
+      <point x="153" y="300"/>
+      <point x="194" y="352"/>
+      <point x="303" y="352" type="curve" smooth="yes"/>
+      <point x="397" y="352"/>
+      <point x="445" y="312"/>
+      <point x="445" y="234" type="curve" smooth="yes"/>
+      <point x="445" y="199"/>
+      <point x="439" y="165"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Lowercase</string>
+    </dict>
+  </lib>
+</glyph>
