@@ -25,7 +25,10 @@ def insert_glyphs_into_amalgamated_font(
         if glyph.name in target:
             if suffixed_name not in target:
                 # Add glyphs with a suffix just to drive up the glyph count.
-                target.layers.defaultLayer.insertGlyph(glyph, name=suffixed_name)
+                # No copy necessary because the source is dropped anyway.
+                target.layers.defaultLayer.insertGlyph(
+                    glyph, name=suffixed_name, copy=False
+                )
             else:
                 logging.warning(
                     "Glyph %s from %s already in amalgamated font %s",
