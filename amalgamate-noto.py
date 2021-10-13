@@ -85,5 +85,5 @@ for path in sorted(NOTO_SOURES.glob("**/*.ufo")):
     insert_glyphs_into_amalgamated_font(source, target, suffix)
 
 for style, ufo in amalgamated_fonts.items():
-    logging.warning("Saving %s (%s glyphs)", ufo, len(ufo.keys()))
+    logging.warning("Saving %s (%s glyphs)", style, len(ufo.keys()))
     ufo.save(f"NotoAmalgamated-{style.replace(' ', '')}.ufo", overwrite=True)
